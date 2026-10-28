@@ -83,7 +83,7 @@ export interface WeeklyReport {
     positive: string[];
     negative: string[];
     emerging: string[];
-    implications_for_investallign?: string;
+    implications_for_socialcoffee?: string;
   };
   new_features_summary: NewFeature[];
   watch_items_next_2_weeks: string[];
@@ -117,7 +117,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
       { broker: "ICICI Direct", slug: "icici-direct", overall_rating: 6.6, trend: "Stable", previous_rating: 6.5, rating_breakdown: { engagement: 6.3, sentiment: 6.5, new_feature_response: 6.0, technical_reliability: 6.8, support: 6.4, transparency: 7.2, historical_trend: 6.0 }, new_features: [], key_quotes: [], negative_themes: [], technical_issues: [], watch_items: [] },
       { broker: "Sahi Broking", slug: "sahi-broking", overall_rating: 6.1, trend: "Stable", previous_rating: 6.0, rating_breakdown: { engagement: 5.8, sentiment: 6.0, new_feature_response: 5.5, technical_reliability: 6.5, support: 6.0, transparency: 6.5, historical_trend: 5.8 }, new_features: [], key_quotes: [], negative_themes: [{ theme: "Support", count: 1, severity: "low", example_quotes: ["Limited public discussion volume"] }], technical_issues: [], watch_items: ["Very low social footprint - monitor for early signals"] },
     ],
-    industry_themes: { positive: ["Steady product updates across brokers with limited concentrated friction"], negative: ["Persistent low-level performance complaints during volatility (Zerodha, Groww)"], emerging: ["Growing interest in advanced order types and charting tools"], implications_for_investallign: "Transparency channels like Z-Connect remain under-utilized by most brokers." },
+    industry_themes: { positive: ["Steady product updates across brokers with limited concentrated friction"], negative: ["Persistent low-level performance complaints during volatility (Zerodha, Groww)"], emerging: ["Growing interest in advanced order types and charting tools"], implications_for_socialcoffee: "Transparency channels like Z-Connect remain under-utilized by most brokers." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Early signals on new Terminal Mode beta (Zerodha)"],
   },
@@ -150,7 +150,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
           { broker: "Sahi Broking", quote: "Very low volume on the platform. Hard to get good fills sometimes.", context: "Liquidity complaint from small broker users", sentiment: "negative", source_url: "https://x.com", author: "Retail trader", platform: "x", sentimentScore: -0.38 }
         ], negative_themes: [], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Zerodha Terminal Mode beta receives early praise for multi-terminal utility and 'woke up' innovation feel"], negative: ["Isolated early freeze reports on new Zerodha Terminal (feature-specific)"], emerging: ["User requests for more charting indicators and keyboard shortcuts surfacing on Z-Connect"], implications_for_investallign: "Public feedback loops on Z-Connect turning beta friction into clear product roadmap signals." },
+    industry_themes: { positive: ["Zerodha Terminal Mode beta receives early praise for multi-terminal utility and 'woke up' innovation feel"], negative: ["Isolated early freeze reports on new Zerodha Terminal (feature-specific)"], emerging: ["User requests for more charting indicators and keyboard shortcuts surfacing on Z-Connect"], implications_for_socialcoffee: "Public feedback loops on Z-Connect turning beta friction into clear product roadmap signals." },
     new_features_summary: [{ broker: "Zerodha", feature_name: "Kite Terminal Mode (beta)", launch_date: "2026-03", user_reaction: "Mixed", discussion_volume: "Medium", evidence_links: ["https://zerodha.com/z-connect/business-updates/introducing-kite-terminal-mode"] }],
     watch_items_next_2_weeks: ["Zerodha Terminal Mode freeze reports escalation"],
   },
@@ -181,7 +181,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
         ], negative_themes: [], technical_issues: [], watch_items: [] },
       { broker: "Sahi Broking", slug: "sahi-broking", overall_rating: 6.0, trend: "Declining", previous_rating: 6.2, rating_breakdown: { engagement: 5.7, sentiment: 5.8, new_feature_response: 5.5, technical_reliability: 6.4, support: 5.8, transparency: 6.5, historical_trend: 5.8 }, new_features: [], key_quotes: [{ broker: "Sahi Broking", quote: "Stay away from this broker.", context: "r/IndianStreetBets warning post about account issues", sentiment: "negative", source_url: "https://www.reddit.com/r/IndianStreetBets/", author: "Reddit user", platform: "reddit", sentimentScore: -0.82 }], negative_themes: [{ theme: "Support", count: 3, severity: "high", example_quotes: ["Account disabled without clear notice or support resolution", "Stay away from this broker (public Reddit warning)"] }], technical_issues: [{ broker: "Sahi Broking", description: "User reports of account access issues and poor support follow-up", severity: "medium", issue_type: "feature_specific", volume: 2, first_seen: "2026-04", last_seen: "2026-05-03" }], watch_items: ["Sahi Broking account/support signals - very low overall volume"] },
     ],
-    industry_themes: { positive: ["Fyers continuing steady improvements ahead of major bundle"], negative: ["Zerodha Terminal freezes now multi-week persistent complaint (high engagement on Z-Connect)", "Groww glitch reports linked to user losses (Reddit)"], emerging: ["Sahi Broking surfaces rare but sharp negative account/support warning"], implications_for_investallign: "Low-volume brokers like Sahi have outsized reputation risk from single public complaints due to lack of positive counter-signals." },
+    industry_themes: { positive: ["Fyers continuing steady improvements ahead of major bundle"], negative: ["Zerodha Terminal freezes now multi-week persistent complaint (high engagement on Z-Connect)", "Groww glitch reports linked to user losses (Reddit)"], emerging: ["Sahi Broking surfaces rare but sharp negative account/support warning"], implications_for_socialcoffee: "Low-volume brokers like Sahi have outsized reputation risk from single public complaints due to lack of positive counter-signals." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Sahi Broking account issue follow-up", "Zerodha Terminal fixes"],
   },
@@ -202,7 +202,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
       { broker: "ICICI Direct", slug: "icici-direct", overall_rating: 6.7, trend: "Stable", previous_rating: 6.7, rating_breakdown: { engagement: 6.4, sentiment: 6.6, new_feature_response: 6.1, technical_reliability: 6.9, support: 6.5, transparency: 7.3, historical_trend: 6.0 }, new_features: [], key_quotes: [], negative_themes: [], technical_issues: [], watch_items: [] },
       { broker: "Sahi Broking", slug: "sahi-broking", overall_rating: 6.15, trend: "Stable", previous_rating: 6.0, rating_breakdown: { engagement: 5.8, sentiment: 6.0, new_feature_response: 5.6, technical_reliability: 6.5, support: 5.9, transparency: 6.6, historical_trend: 5.9 }, new_features: [], key_quotes: [{ broker: "Sahi Broking", quote: "Stay away from this broker.", context: "Reddit warning on account/support issues", sentiment: "negative", source_url: "https://www.reddit.com/r/IndianStreetBets/", author: "r/IndianStreetBets", platform: "reddit" }], negative_themes: [{ theme: "Support", count: 2, severity: "medium", example_quotes: ["Account disabled without clear notice (Reddit)"] }], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Fyers momentum building pre major May update", "Zerodha high transparency via Z-Connect continues to generate rich actionable feedback"], negative: ["Zerodha Terminal reliability now multi-month recurring high-engagement complaint (X + Z-Connect + Reddit patterns)"], emerging: ["Advanced charting and order types (Bar Replay, trailing SL) highly anticipated"], implications_for_investallign: "Feature velocity without execution quality risks reputation (Zerodha Terminal case study)." },
+    industry_themes: { positive: ["Fyers momentum building pre major May update", "Zerodha high transparency via Z-Connect continues to generate rich actionable feedback"], negative: ["Zerodha Terminal reliability now multi-month recurring high-engagement complaint (X + Z-Connect + Reddit patterns)"], emerging: ["Advanced charting and order types (Bar Replay, trailing SL) highly anticipated"], implications_for_socialcoffee: "Feature velocity without execution quality risks reputation (Zerodha Terminal case study)." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Fyers 22 May multi-feature bundle reception", "Zerodha Terminal fixes"],
   },
@@ -393,7 +393,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
       positive: ["Fyers delivered the strongest bundled trader-requested update of the period (FDs + Bar Replay + stability) with positive early 'all new experience' signals (Instagram/X)", "Zerodha Z-Connect public comment threads continue to deliver exceptionally rich, attributable user voice (20+ comments with specific feature requests + praise for effort)"],
       negative: ["Clear persistent feature-specific friction on Zerodha Terminal Mode (freezes after inactivity + during live actions) confirmed across X (mohitdewan), Z-Connect (Vignesh K + others), and Reddit patterns over multiple weeks", "Groww app glitches/crashes during market hours linked to user-reported losses (Reddit)", "Sahi Broking surfaces sharp low-volume negative (account/support) on Reddit - 'Stay away' warning"],
       emerging: ["Strong trader demand for advanced charting (Bar Replay), sophisticated order types (trailing SL), and reliable funding products (FDs with pledge support)", "Multi-broker secondary freeze events (~26 May Instagram reports touching Fyers/Groww/Zerodha)"],
-      implications_for_investallign: "Public comment-enabled update channels (Zerodha Z-Connect model) are a major competitive advantage for real-time user voice and turning friction into product signal. Low-volume brokers like Sahi have outsized reputation risk from single public posts due to lack of positive counter-narrative.",
+      implications_for_socialcoffee: "Public comment-enabled update channels (Zerodha Z-Connect model) are a major competitive advantage for real-time user voice and turning friction into product signal. Low-volume brokers like Sahi have outsized reputation risk from single public posts due to lack of positive counter-narrative.",
     },
     new_features_summary: [
       { broker: "Fyers", feature_name: "Fixed Deposits + Bar Replay + Markets Home refresh + stability + gift/buyback", launch_date: "2026-05-22", user_reaction: "Positive", discussion_volume: "High", evidence_links: ["https://play.google.com/store/apps/details?id=com.fyers&hl=en", "Instagram community"] },
@@ -441,7 +441,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
           { broker: "Sahi Broking", quote: "Low liquidity is the main issue for me.", context: "Ongoing volume complaint", sentiment: "negative", source_url: "https://x.com", author: "Small broker user", platform: "x", sentimentScore: -0.41 }
         ], negative_themes: [], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Fyers gaining steady positive mentions for execution", "Zerodha Terminal feedback improving slightly after early fixes"], negative: ["Low volume brokers like Sahi and Upstox continue to get feature gap complaints"], emerging: ["Growing multi-broker usage as traders seek best tools per segment"], implications_for_investallign: "Brokers with strong feedback loops (Zerodha) and consistent execution (Fyers) are pulling ahead in perception." },
+    industry_themes: { positive: ["Fyers gaining steady positive mentions for execution", "Zerodha Terminal feedback improving slightly after early fixes"], negative: ["Low volume brokers like Sahi and Upstox continue to get feature gap complaints"], emerging: ["Growing multi-broker usage as traders seek best tools per segment"], implications_for_socialcoffee: "Brokers with strong feedback loops (Zerodha) and consistent execution (Fyers) are pulling ahead in perception." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Zerodha Terminal Mode ongoing stability", "Fyers momentum into April"],
   },
@@ -477,7 +477,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
           { broker: "Sahi Broking", quote: "Very limited discussion or reviews. Hard to judge reliability.", context: "Low visibility concern", sentiment: "negative", source_url: "https://x.com", author: "Potential user", platform: "x", sentimentScore: -0.35 }
         ], negative_themes: [], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Fyers continuing to receive strong execution praise", "Angel One stable for basic users"], negative: ["Zerodha Terminal and funding issues persisting", "Upstox and Sahi facing feature/liquidity criticism"], emerging: ["Traders increasingly using 2-3 brokers for different needs"], implications_for_investallign: "Brokers with transparent feedback channels and reliable execution are winning mindshare." },
+    industry_themes: { positive: ["Fyers continuing to receive strong execution praise", "Angel One stable for basic users"], negative: ["Zerodha Terminal and funding issues persisting", "Upstox and Sahi facing feature/liquidity criticism"], emerging: ["Traders increasingly using 2-3 brokers for different needs"], implications_for_socialcoffee: "Brokers with transparent feedback channels and reliable execution are winning mindshare." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Zerodha Terminal and FD fixes", "Fyers pre-bundle sentiment"],
   },
@@ -512,7 +512,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
           { broker: "Sahi Broking", quote: "Still very little public feedback or reviews available.", context: "Visibility and trust concern", sentiment: "negative", source_url: "https://x.com", author: "Researching user", platform: "x", sentimentScore: -0.39 }
         ], negative_themes: [], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Fyers building strong reputation for speed and reliability", "Groww options tooling getting positive mentions"], negative: ["Zerodha Terminal issues remain the biggest public complaint", "Smaller brokers struggling with visibility and feature parity"], emerging: ["Clear segmentation: Zerodha for serious traders, Fyers for execution, Groww for beginners"], implications_for_investallign: "Public perception is increasingly driven by specific feature reliability and feedback responsiveness." },
+    industry_themes: { positive: ["Fyers building strong reputation for speed and reliability", "Groww options tooling getting positive mentions"], negative: ["Zerodha Terminal issues remain the biggest public complaint", "Smaller brokers struggling with visibility and feature parity"], emerging: ["Clear segmentation: Zerodha for serious traders, Fyers for execution, Groww for beginners"], implications_for_socialcoffee: "Public perception is increasingly driven by specific feature reliability and feedback responsiveness." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Zerodha Terminal fixes before May", "Fyers bundle anticipation"],
   },
@@ -548,7 +548,7 @@ export const WEEKLY_REPORTS: WeeklyReport[] = [
           { broker: "Sahi Broking", quote: "Hard to find recent reviews or user experiences.", context: "Low visibility and trust barrier", sentiment: "negative", source_url: "https://x.com", author: "Researching trader", platform: "x", sentimentScore: -0.42 }
         ], negative_themes: [], technical_issues: [], watch_items: [] },
     ],
-    industry_themes: { positive: ["Fyers anticipation for May bundle is building strongly", "Groww options features getting good early feedback"], negative: ["Zerodha Terminal and funding problems are the dominant negative topic across weeks"], emerging: ["Clear winner perception forming: Fyers for execution, Zerodha for serious traders, Groww for accessibility"], implications_for_investallign: "The gap between brokers with transparent communication + reliable core features and the rest is widening in public sentiment." },
+    industry_themes: { positive: ["Fyers anticipation for May bundle is building strongly", "Groww options features getting good early feedback"], negative: ["Zerodha Terminal and funding problems are the dominant negative topic across weeks"], emerging: ["Clear winner perception forming: Fyers for execution, Zerodha for serious traders, Groww for accessibility"], implications_for_socialcoffee: "The gap between brokers with transparent communication + reliable core features and the rest is widening in public sentiment." },
     new_features_summary: [],
     watch_items_next_2_weeks: ["Fyers 22 May bundle reception", "Zerodha Terminal and FD response"],
   },

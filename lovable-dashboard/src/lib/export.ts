@@ -54,9 +54,9 @@ export function buildMarkdown(report: WeeklyReport): string {
   report.industry_themes.negative.forEach((t) => lines.push(`- ${t}`));
   lines.push(`\n**Emerging**`);
   report.industry_themes.emerging.forEach((t) => lines.push(`- ${t}`));
-  if (report.industry_themes.implications_for_investallign) {
-    lines.push(`\n## Implications for Investallign\n`);
-    lines.push(report.industry_themes.implications_for_investallign);
+  if (report.industry_themes.implications_for_socialcoffee) {
+    lines.push(`\n## Implications for SocialCoffee\n`);
+    lines.push(report.industry_themes.implications_for_socialcoffee);
   }
 
   return lines.join("\n");

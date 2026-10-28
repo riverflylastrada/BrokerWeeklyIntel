@@ -414,7 +414,7 @@
   "methodology": {
     "collection_window": "2026-05-19 to 2026-05-26",
     "tools": "web_search, open_page/browse_page (primary official sources with comments), x_keyword_search, x_semantic_search (limited for window), Instagram/community secondary",
-    "v2.1_enhancements": "Mandatory New Features summary table; 2-4 verbatim quotes per major broker with context/links + Sentiment Volume & Tone; negative_themes categorization (Performance, Reliability, Features/Gaps etc.); technical issues with severity + dominant_type (feature_specific | platform_wide) + Pain Index Trend note; 4-subsection Industry-Wide Themes including explicit Implications for Investallign; richer dashboard JSON",
+    "v2.1_enhancements": "Mandatory New Features summary table; 2-4 verbatim quotes per major broker with context/links + Sentiment Volume & Tone; negative_themes categorization (Performance, Reliability, Features/Gaps etc.); technical issues with severity + dominant_type (feature_specific | platform_wide) + Pain Index Trend note; 4-subsection Industry-Wide Themes including explicit Implications for SocialCoffee; richer dashboard JSON",
     "scoring": "7 parameters with documented weights (Technical 20%, Sentiment/New Feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence-tied. Baseline handling for no prior reports.",
     "limitations": "X volume low for future-dated window; high reliance on excellent primary official sources (Z-Connect comments exceptionally rich for v2.1 quote extraction). No fabricated data.",
     "historical": "Baseline week — no prior reports in archive. Future runs will read saved artifacts for deltas."

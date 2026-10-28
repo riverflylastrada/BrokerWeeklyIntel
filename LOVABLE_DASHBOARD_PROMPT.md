@@ -31,7 +31,7 @@ interface WeeklyReport {
     positive: string[];
     negative: string[];
     emerging: string[];
-    implications_for_investallign?: string;
+    implications_for_socialcoffee?: string;
   };
   
   new_features_summary: NewFeature[];
@@ -157,7 +157,7 @@ Use tabs or clear sectioning with good visual hierarchy.
   One combined radar chart showing top 3-4 brokers side-by-side.
 
 - **Industry Themes Snapshot**
-  Three cards: Positive Themes, Negative Themes, Emerging Topics + "Implications for Investallign"
+  Three cards: Positive Themes, Negative Themes, Emerging Topics + "Implications for SocialCoffee"
 
 ### 2. Per-Broker Detail View
 

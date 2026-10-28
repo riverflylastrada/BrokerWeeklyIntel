@@ -14,7 +14,7 @@ The week of 19–26 May 2026 featured **Fyers** delivering the clearest multi-fe
 
 Groww carried positive momentum from its mid-May options tooling releases (Trailing Stop Loss for Intraday, Advance Payoff, smarter commodity option chains). Overall industry tone remained steady-to-positive on product velocity, with friction concentrated on execution quality of newer features rather than broad platform failures.
 
-This is a **baseline week** (no prior BrokerWeeklyIntel reports in archive). All historical trends start here. This v2.1 report introduces the mandatory consolidated New Features table, per-broker "User Quotes & Sentiment Themes" with 2–4 verbatim quotes + categorized negative themes, explicit feature_specific vs platform_wide glitch typing, "Sentiment Volume & Tone" indicators, and a significantly strengthened Industry-Wide Themes & Strategic Implications section including dedicated "Implications for Investallign".
+This is a **baseline week** (no prior BrokerWeeklyIntel reports in archive). All historical trends start here. This v2.1 report introduces the mandatory consolidated New Features table, per-broker "User Quotes & Sentiment Themes" with 2–4 verbatim quotes + categorized negative themes, explicit feature_specific vs platform_wide glitch typing, "Sentiment Volume & Tone" indicators, and a significantly strengthened Industry-Wide Themes & Strategic Implications section including dedicated "Implications for SocialCoffee".
 
 **Key Highlights This Week**
 - Fyers 22 May multi-feature release stood out for bundling trader-requested capabilities + proactive stability messaging; early signals positive.
@@ -232,18 +232,18 @@ This is a **baseline week** (no prior BrokerWeeklyIntel reports in archive). All
 - Whether other brokers respond with similar bundled feature drops or improve public feedback mechanisms.
 - Recurrence or escalation of multi-broker freeze events (Instagram signal).
 
-**Implications for Investallign**
+**Implications for SocialCoffee**
 - **Product velocity**: Bundle high-value trader tools (charting replay like Bar Replay, advanced order types like trailing SL, funding products) into visible, well-communicated updates with explicit stability/performance notes — Fyers model.
 - **Execution on new products**: For any investment or funding features (FDs, pledges, etc.), prioritize bulletproof payment flows and immediate support for margin/pledge use cases to avoid the specific reliability complaints seen in Zerodha Coin FD comments.
 - **Feedback loops**: Adopt or exceed Zerodha's public comment-enabled update pages (Z-Connect model) for direct, attributable user voice. This turns friction into rapid iteration advantage and demonstrates transparency.
 - **Risk monitoring**: Build client-side resilience and monitoring for multi-broker or systemic freeze events (Instagram 26 May signal). Treat even low-volume platform_wide signals seriously for competitive positioning.
-- **Differentiation**: Quiet weeks for competitors (Angel One, Upstox, ICICI in this snapshot) are opportunities for Investallign to ship and loudly communicate meaningful incremental or bundled improvements that address the exact friction themes observed (performance on new flows, reliability of funding products, advanced tooling).
+- **Differentiation**: Quiet weeks for competitors (Angel One, Upstox, ICICI in this snapshot) are opportunities for SocialCoffee to ship and loudly communicate meaningful incremental or bundled improvements that address the exact friction themes observed (performance on new flows, reliability of funding products, advanced tooling).
 
 ## Methodology, Data Sources & Limitations
 
 - **Collection window**: 2026-05-19 to 2026-05-26 (inclusive).
 - **Tools & methods**: web_search for announcements and reactions; open_page / browse_page on primary official sources (Z-Connect full pages with comments, Play Store references); x_keyword_search and x_semantic_search (sparse results for future-dated window, as expected); Instagram/community and news as secondary. No heavy Apify Reddit scraping in this run.
-- **v2.1 specific enhancements applied**: Mandatory consolidated New Features table; systematic extraction of 2–4 verbatim user quotes per major broker with context + direct links; Sentiment Volume & Tone indicators; negative feedback categorized into Performance / Reliability / Features-Gaps / etc.; technical issues classified by severity + type (feature_specific vs platform_wide) with Pain Index Trend note; full 4-subsection Industry-Wide Themes & Strategic Implications including explicit Implications for Investallign.
+- **v2.1 specific enhancements applied**: Mandatory consolidated New Features table; systematic extraction of 2–4 verbatim user quotes per major broker with context + direct links; Sentiment Volume & Tone indicators; negative feedback categorized into Performance / Reliability / Features-Gaps / etc.; technical issues classified by severity + type (feature_specific vs platform_wide) with Pain Index Trend note; full 4-subsection Industry-Wide Themes & Strategic Implications including explicit Implications for SocialCoffee.
 - **MiroFish-Offline**: Not applied in this run (not requested).
 - **Scoring**: Strictly evidence-based 7-parameter system (weights per skill: Technical Reliability & Bug Handling 20%, Sentiment Balance / New Feature Response / Engagement & Reach / Support 15% each, Historical Trend 10%, Content & Transparency 10%). Final score = weighted average rounded to 1 decimal. All parameter scores tied to concrete links/quotes from this week's sources.
 - **Historical comparison**: Explicit baseline — no prior reports in data/historical/. Future runs will compute deltas.

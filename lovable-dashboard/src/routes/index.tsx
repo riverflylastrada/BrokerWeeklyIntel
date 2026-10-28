@@ -103,14 +103,14 @@ function Overview() {
           <ThemeCard title="Emerging Topics" items={report.industry_themes.emerging} tone="neutral" />
         </div>
 
-        {report.industry_themes.implications_for_investallign && (
+        {report.industry_themes.implications_for_socialcoffee && (
           <Card className="border-primary/30 bg-primary/5">
             <CardHeader>
-              <CardTitle className="text-base">Implications for Investallign</CardTitle>
+              <CardTitle className="text-base">Implications for SocialCoffee</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-sm leading-relaxed">
-                {report.industry_themes.implications_for_investallign}
+                {report.industry_themes.implications_for_socialcoffee}
               </p>
             </CardContent>
           </Card>
