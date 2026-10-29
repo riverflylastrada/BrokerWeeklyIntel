@@ -1,0 +1,986 @@
+{
+ "category": "banks",
+ "week": "2026-W43",
+ "generated_at": "2026-10-26T00:00:00+00:00",
+ "banks": [
+  {
+   "slug": "idfc-first-bank",
+   "name": "IDFC First Bank",
+   "group": "Private sector",
+   "overall": 8.2,
+   "params": {
+    "app_experience": 8.1,
+    "customer_service": 9.2,
+    "complaints_rbi": 8.5,
+    "digital_reliability": 8.9,
+    "fees_transparency": 9.6,
+    "innovation": 6.4,
+    "social_buzz": 6.0
+   },
+   "complaints_source": "Bank disclosure (OBO maintainable, FY25): 10.23 per lakh customers",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 5,
+    "youtube": 0
+   },
+   "avg_stars": 4.63,
+   "top_complaint_themes": [
+    {
+     "theme": "Customer service",
+     "mentions": 1
+    },
+    {
+     "theme": "Fraud / blocked accounts",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "Bharat Connect bill payments in IDFC FIRST app",
+     "url": "https://www.facebook.com/idfcfirstbank/videos/the-ultimate-convenience-is-now-in-your-hands-with-the-idfc-first-mobile-banking/1474229104556529/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "ok",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Good",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "nice",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Bad",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "2 mobile number set wate I do ?",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 1
+  },
+  {
+   "slug": "kotak-bank",
+   "name": "Kotak Mahindra Bank",
+   "group": "Private sector",
+   "overall": 8.1,
+   "params": {
+    "app_experience": 8.2,
+    "customer_service": 9.2,
+    "complaints_rbi": 7.9,
+    "digital_reliability": 8.4,
+    "fees_transparency": 9.1,
+    "innovation": 6.4,
+    "social_buzz": 6.2
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 5,
+    "youtube": 1
+   },
+   "avg_stars": 4.67,
+   "top_complaint_themes": [
+    {
+     "theme": "Customer service",
+     "mentions": 1
+    },
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 1
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 1
+    },
+    {
+     "theme": "Fraud / blocked accounts",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "Migration to new Kotak811 app; old app access stopped 19 Feb 2026",
+     "url": "https://www.facebook.com/Kotak811DigitalBank/posts/kotak811-app-is-open-247-for-your-banking-needs/1127784216435776/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "nich",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Smooth, Simple & Fast",
+     "source": "play_store",
+     "rating": 4,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "very nice",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "good",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "Hey all, I'm 19. I have an SBI Pehli Udaan account (converting it to a regular account soon), but it only came with a RuPay card, which doesn't work on PayPal or most international sites. What I need: Visa card only Zero",
+     "source": "reddit",
+     "rating": null,
+     "url": "https://www.reddit.com/r/personalfinanceindia/comments/1wthpbc/need_a_zerofee_visa_debit_card_that_works_with/",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 2
+  },
+  {
+   "slug": "canara-bank",
+   "name": "Canara Bank",
+   "group": "Public sector",
+   "overall": 7.7,
+   "params": {
+    "app_experience": 6.7,
+    "customer_service": 9.3,
+    "complaints_rbi": 9.6,
+    "digital_reliability": 7.1,
+    "fees_transparency": 9.5,
+    "innovation": 6.2,
+    "social_buzz": 5.7
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "High",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 5,
+    "youtube": 10
+   },
+   "avg_stars": 3.74,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 8
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 2
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 1
+    }
+   ],
+   "news": [],
+   "quotes": [
+    {
+     "text": "very smooth",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "very excellent service by canara bank",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "good 👍",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "I prefer closing the canara bank account instead of buying new phone/ upgraded version. Promoting phone sales.?",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "while updating we need to do the steps again",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 3
+  },
+  {
+   "slug": "axis-bank",
+   "name": "Axis Bank",
+   "group": "Private sector",
+   "overall": 7.4,
+   "params": {
+    "app_experience": 6.2,
+    "customer_service": 8.6,
+    "complaints_rbi": 8.0,
+    "digital_reliability": 7.6,
+    "fees_transparency": 6.6,
+    "innovation": 9.2,
+    "social_buzz": 5.5
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 18,
+    "youtube": 3
+   },
+   "avg_stars": 3.5,
+   "top_complaint_themes": [
+    {
+     "theme": "Charges & fees",
+     "mentions": 8
+    },
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 4
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 3
+    },
+    {
+     "theme": "Fraud / blocked accounts",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "open app: One-View of all bank accounts",
+     "url": "https://www.facebook.com/axisbank/videos/in-the-habit-of-checking-bank-balances-one-app-at-a-timewith-one-view-on-open-ap/1665487385153198/"
+    },
+    {
+     "type": "feature",
+     "title": "open app: Safety Centre toggles for transfers/UPI",
+     "url": "https://www.instagram.com/reel/Dd2zJKHCfMQ/"
+    },
+    {
+     "type": "feature",
+     "title": "My Spends real-time categorisation",
+     "url": "https://www.facebook.com/axisbank/videos/my-spends-on-the-open-app-by-axis-bank-breaks-down-every-spend-by-category-in-re/1071814235620993/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Worst customer service and staff behavior they are not attending customers if we visit branch UTIB0006284,please be careful before opening account there, don't waste your money and time with this bank",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "poor service axis Bank app 5 lakh loan approval but axis Bank app error not responding team orthor bankof india personal loan just 5 minutes 1500000 lakh disbursed my account just 5 minutes rete off interest 11.5",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "ye axis Bank application download nhi ho rahi hai kya kru ji ten months old",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "thank you sir 🙏",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "thoda behtar hai",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    }
+   ],
+   "rank": 4
+  },
+  {
+   "slug": "pnb",
+   "name": "Punjab National Bank",
+   "group": "Public sector",
+   "overall": 7.3,
+   "params": {
+    "app_experience": 5.5,
+    "customer_service": 9.1,
+    "complaints_rbi": 9.6,
+    "digital_reliability": 6.0,
+    "fees_transparency": 9.4,
+    "innovation": 6.4,
+    "social_buzz": 5.8
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "High",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 1,
+    "youtube": 1
+   },
+   "avg_stars": 3.1,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 10
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 2
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "PNB ONE geo-location based transaction control shown at GFF 2026",
+     "url": "https://www.facebook.com/pnbindia/videos/catch-the-highlights-from-another-day-of-insightful-conversations-distinguished-/1412144047536173/"
+    },
+    {
+     "type": "info",
+     "title": "PNB ONE official page",
+     "url": "https://pnb.bank.in/mobile-banking.html"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Absolutely amazing performance.",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Wrost app... doesn't good work.. ye maine 2023 me likha tha ab aur aage continue krunga ekdam ghatiya quality ka app. jitne bhi bad word use ho sakte h sb es bekar app ke liye use kr sakte ho. mai khata hi close krwane j",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "nice app",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "some dogs must be maintaining this app",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 5
+  },
+  {
+   "slug": "yes-bank",
+   "name": "Yes Bank",
+   "group": "Private sector",
+   "overall": 7.0,
+   "params": {
+    "app_experience": 6.4,
+    "customer_service": 9.0,
+    "complaints_rbi": 8.0,
+    "digital_reliability": 6.0,
+    "fees_transparency": 8.9,
+    "innovation": 5.2,
+    "social_buzz": 5.4
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 13,
+    "reddit": 4,
+    "youtube": 2
+   },
+   "avg_stars": 3.6,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 8
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 2
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 2
+    },
+    {
+     "theme": "Fraud / blocked accounts",
+     "mentions": 1
+    }
+   ],
+   "news": [],
+   "quotes": [
+    {
+     "text": "good",
+     "source": "play_store",
+     "rating": 4,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "good 💯",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "ok",
+     "source": "play_store",
+     "rating": 4,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "otp issue",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "nice",
+     "source": "play_store",
+     "rating": 2,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 6
+  },
+  {
+   "slug": "au-bank",
+   "name": "AU Small Finance Bank",
+   "group": "Small finance",
+   "overall": 7.0,
+   "params": {
+    "app_experience": 6.0,
+    "customer_service": 9.0,
+    "complaints_rbi": 8.7,
+    "digital_reliability": 6.3,
+    "fees_transparency": 7.8,
+    "innovation": 6.0,
+    "social_buzz": 4.9
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "High",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 13,
+    "youtube": 1
+   },
+   "avg_stars": 3.39,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 11
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 7
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 3
+    }
+   ],
+   "news": [],
+   "quotes": [
+    {
+     "text": "unable to open the app itself",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "good",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "application not open not working",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "very good application",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    }
+   ],
+   "rank": 7
+  },
+  {
+   "slug": "sbi",
+   "name": "SBI",
+   "group": "Public sector",
+   "overall": 7.0,
+   "params": {
+    "app_experience": 5.8,
+    "customer_service": 8.3,
+    "complaints_rbi": 9.7,
+    "digital_reliability": 5.3,
+    "fees_transparency": 8.2,
+    "innovation": 6.8,
+    "social_buzz": 5.4
+   },
+   "complaints_source": "Bank disclosure (OBO maintainable, FY25): 5.26 per lakh customers",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 23,
+    "youtube": 1
+   },
+   "avg_stars": 3.27,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 8
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 4
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 4
+    }
+   ],
+   "news": [
+    {
+     "type": "outage",
+     "title": "SBI notice: UPI / YONO UPI services intermittently impacted (5 Oct 2026)",
+     "url": "https://www.facebook.com/StateBankOfIndia/posts/due-to-technical-issue-our-upi-yono-upi-services-are-intermittently-impacted-the/1635524801935262/"
+    },
+    {
+     "type": "feature",
+     "title": "YONO update: balance & m-passbook view without full login",
+     "url": "https://www.instagram.com/reel/DdoW9yQJexg/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "bar-bar dekh kyon a raha hai",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "super app",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "very worst banking app...",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "bhot bekr treat krte hai ye log condition nahi samjhte kuch nahi samjhte ye log 😑😤",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 8
+  },
+  {
+   "slug": "icici-bank",
+   "name": "ICICI Bank",
+   "group": "Private sector",
+   "overall": 6.9,
+   "params": {
+    "app_experience": 6.8,
+    "customer_service": 8.0,
+    "complaints_rbi": 8.2,
+    "digital_reliability": 5.0,
+    "fees_transparency": 9.0,
+    "innovation": 6.4,
+    "social_buzz": 5.0
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 0,
+    "youtube": 0
+   },
+   "avg_stars": 3.83,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 5
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 3
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "outage",
+     "title": "Planned iMobile downtime during domain change to icici.bank.in (Economic Times)",
+     "url": "https://m.economictimes.com/wealth/save/icici-bank-changes-website-and-net-banking-domain-addresses-do-you-also-need-to-reset-your-user-id-and-password/articleshow/134335100.cms"
+    },
+    {
+     "type": "feature",
+     "title": "SmartLock card controls",
+     "url": "https://www.facebook.com/icicibank/videos/open-icici-bank-savings-account/1798004158182601/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "ICICI Bank customer services are very good. The app is very bad.",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "very good 👍",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "not opening. always saying try after sometime",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "now app doesn't open nor open statement now",
+     "source": "play_store",
+     "rating": 4,
+     "url": "",
+     "sentiment": "positive"
+    }
+   ],
+   "rank": 9
+  },
+  {
+   "slug": "bank-of-baroda",
+   "name": "Bank of Baroda",
+   "group": "Public sector",
+   "overall": 6.8,
+   "params": {
+    "app_experience": 4.8,
+    "customer_service": 9.2,
+    "complaints_rbi": 9.6,
+    "digital_reliability": 4.6,
+    "fees_transparency": 8.6,
+    "innovation": 7.6,
+    "social_buzz": 4.9
+   },
+   "complaints_source": "Estimated (bank disclosure not found; RBI peer-group rate, dampened)",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 3,
+    "youtube": 4
+   },
+   "avg_stars": 2.63,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 9
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 2
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "bob World 2.0 powered by AI showcased at GFF 2026",
+     "url": "https://www.instagram.com/reel/DdL5sZnAtQU/?hl=en"
+    },
+    {
+     "type": "feature",
+     "title": "New 'bob World New' app on Play Store",
+     "url": "https://play.google.com/store/apps/details?id=com.bankofbaroda.bobworlddmb&hl=en_US"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "very good nice",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "I've checked again and again but the problem is always same from previous 5 days and the problem is \"unable to process and try again\".which is so embarrassing.",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "good",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Not good at all There is no way to contact the bank The bank doesn't pick up the call My money has been deducted",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    }
+   ],
+   "rank": 10
+  },
+  {
+   "slug": "indusind-bank",
+   "name": "IndusInd Bank",
+   "group": "Private sector",
+   "overall": 6.4,
+   "params": {
+    "app_experience": 5.4,
+    "customer_service": 9.2,
+    "complaints_rbi": 7.4,
+    "digital_reliability": 4.4,
+    "fees_transparency": 9.1,
+    "innovation": 5.0,
+    "social_buzz": 5.4
+   },
+   "complaints_source": "Bank disclosure (OBO maintainable, FY25): 15.63 per lakh customers",
+   "confidence": "Medium",
+   "counts": {
+    "play_store": 30,
+    "app_store": 0,
+    "reddit": 3,
+    "youtube": 2
+   },
+   "avg_stars": 3.0,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 9
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 1
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 1
+    },
+    {
+     "theme": "Fraud / blocked accounts",
+     "mentions": 1
+    }
+   ],
+   "news": [
+    {
+     "type": "info",
+     "title": "IndusInd INDIE app listing",
+     "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en_US"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "what an absurd app it is. everytime getting device is rooted.",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "the new version is too bad, I can't open the app, everytime showing caution malware detected too bad what can I do, there no third party apps in my mobile",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "Indie account is very good but app is very slow compared to others bank apps, please fix it.",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "nice",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    }
+   ],
+   "rank": 11
+  },
+  {
+   "slug": "hdfc-bank",
+   "name": "HDFC Bank",
+   "group": "Private sector",
+   "overall": 6.3,
+   "params": {
+    "app_experience": 3.7,
+    "customer_service": 8.8,
+    "complaints_rbi": 7.7,
+    "digital_reliability": 4.3,
+    "fees_transparency": 8.1,
+    "innovation": 7.9,
+    "social_buzz": 6.1
+   },
+   "complaints_source": "Bank disclosure (OBO maintainable, FY24): 15.66 per lakh customers",
+   "confidence": "High",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 21,
+    "youtube": 20
+   },
+   "avg_stars": 2.2,
+   "top_complaint_themes": [
+    {
+     "theme": "App reliability / login / OTP",
+     "mentions": 24
+    },
+    {
+     "theme": "Charges & fees",
+     "mentions": 8
+    },
+    {
+     "theme": "Customer service",
+     "mentions": 5
+    }
+   ],
+   "news": [
+    {
+     "type": "feature",
+     "title": "All-new HDFC Bank App (Play Store listing)",
+     "url": "https://play.google.com/store/apps/details?id=com.hdfcbank.android.now&hl=en_US"
+    },
+    {
+     "type": "feature",
+     "title": "HDFC Bank launches 'Kavach' authentication shield at GFF 2026",
+     "url": "https://www.facebook.com/HDFC.bank/videos/what-if-convenience-and-security-could-go-hand-in-handthats-the-thinking-behind-/1327542530447625/"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "worse hdfc bank app. performance is terrible",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "good",
+     "source": "play_store",
+     "rating": 5,
+     "url": "",
+     "sentiment": "positive"
+    },
+    {
+     "text": "Not Good",
+     "source": "play_store",
+     "rating": 1,
+     "url": "",
+     "sentiment": "negative"
+    },
+    {
+     "text": "ok",
+     "source": "play_store",
+     "rating": 4,
+     "url": "",
+     "sentiment": "positive"
+    }
+   ],
+   "rank": 12
+  }
+ ],
+ "category_mean_stars": 3.46,
+ "backfilled": true,
+ "methodology_note": "Backfilled on 29 Oct 2026 with the live scoring code (banks/score.py) as of this week's end: 30 newest Play Store and App Store reviews per bank within 30 days, dated Reddit/YouTube items where available. Complaints (RBI/bank disclosures) and news-based Innovation/outage inputs are held at current values."
+}
