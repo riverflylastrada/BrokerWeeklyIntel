@@ -1,0 +1,11 @@
+{
+  "actorSpecification": 1,
+  "name": "broker-intel",
+  "title": "Broker Intel (multi-source)",
+  "description": "Collects public broker mentions from Reddit, Google Play, Apple App Store, YouTube comments and LinkedIn public pages for BrokerWeeklyIntel.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "meta": { "generatedBy": "Grok Bot" },
+  "input": "./input_schema.json",
+  "dockerfile": "../Dockerfile"
+}

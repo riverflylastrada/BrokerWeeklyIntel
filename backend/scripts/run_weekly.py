@@ -34,6 +34,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from app.core.config import settings
 from app.data_collection.collector import run_weekly_collection
 from app.data_collection.broker_registry import load_registry
+from app.data_collection.private_actor import run_broker_intel
 
 
 async def main():
@@ -77,6 +78,13 @@ async def main():
             use_firecrawl=use_firecrawl,
             # output_dir can be overridden via env if needed
         )
+
+        # Private multi-source Apify actor (Reddit, Play/App Store, YouTube, LinkedIn)
+        actor_items = run_broker_intel(
+            registry, days_back=int(os.getenv('ACTOR_DAYS_BACK', '28')),
+            out_dir=Path(result.normalized_artifacts_path) if result.normalized_artifacts_path else None,
+        )
+        print(f"broker-intel actor items: {len(actor_items)}")
 
         print("\n✅ Collection completed successfully!")
         print("-" * 50)

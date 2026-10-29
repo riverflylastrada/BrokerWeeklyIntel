@@ -1,0 +1,92 @@
+"""Source fetchers. Each returns a list of normalized dicts:
+source, broker, title, text, url, author, created_utc, score, num_comments, rating, subreddit"""
+import time, re, json
+from datetime import datetime, timezone, timedelta
+import httpx
+
+UA = "BrokerWeeklyIntel/0.1 (public research; contact via GitHub riverflylastrada/BrokerWeeklyIntel)"
+
+def _cutoff(days): return (datetime.now(timezone.utc) - timedelta(days=days)).timestamp()
+
+def reddit(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
+    out, cut = [], _cutoff(days)
+    subs = "+".join(subreddits)
+    for kw in broker.get("keywords") or [broker["name"]]:
+        r = client.get(f"https://www.reddit.com/r/{subs}/search.json",
+                       params={"q": kw, "restrict_sr": 1, "sort": "new", "t": "month", "limit": min(limit, 100)})
+        r.raise_for_status(); time.sleep(sleep)
+        for c in r.json()["data"]["children"]:
+            d = c["data"]
+            if d["created_utc"] < cut: continue
+            item = dict(source="reddit", broker=broker["name"], title=d["title"], text=(d.get("selftext") or "")[:2000],
+                        url="https://www.reddit.com" + d["permalink"], author=d.get("author"), subreddit=d["subreddit"],
+                        created_utc=d["created_utc"], score=d["score"], num_comments=d["num_comments"], comments=[])
+            if top_comments and d["num_comments"]:
+                cr = client.get(f"https://www.reddit.com{d['permalink']}.json", params={"sort": "top", "limit": top_comments})
+                time.sleep(sleep)
+                if cr.status_code == 200:
+                    for cc in cr.json()[1]["data"]["children"][:top_comments]:
+                        if cc["kind"] == "t1":
+                            item["comments"].append(dict(text=cc["data"]["body"][:600], score=cc["data"]["score"],
+                                                         url="https://www.reddit.com" + cc["data"]["permalink"]))
+            out.append(item)
+    seen = set(); return [i for i in out if not (i["url"] in seen or seen.add(i["url"]))][:limit]
+
+def play_store(broker, days, limit):
+    from google_play_scraper import reviews, Sort
+    if not broker.get("play_store_id"): return []
+    rv, _ = reviews(broker["play_store_id"], lang="en", country="in", sort=Sort.NEWEST, count=limit)
+    cut = _cutoff(days); app = broker["play_store_id"]
+    return [dict(source="play_store", broker=broker["name"], title="", text=x["content"][:2000], rating=x["score"],
+                 url=f"https://play.google.com/store/apps/details?id={app}&reviewId={x['reviewId']}",
+                 author=None, created_utc=x["at"].replace(tzinfo=timezone.utc).timestamp(), score=x["thumbsUpCount"], num_comments=0)
+            for x in rv if x["at"].replace(tzinfo=timezone.utc).timestamp() >= cut]
+
+def app_store(client, broker, days, limit):
+    aid = broker.get("app_store_id")
+    if not aid: return []
+    out, cut = [], _cutoff(days)
+    for page in (1, 2):
+        r = client.get(f"https://itunes.apple.com/in/rss/customerreviews/page={page}/id={aid}/sortby=mostrecent/json")
+        if r.status_code != 200: break
+        for e in r.json().get("feed", {}).get("entry", [])[1 if page == 1 else 0:]:
+            if "im:rating" not in e: continue
+            ts = datetime.fromisoformat(e["updated"]["label"]).timestamp()
+            if ts < cut: continue
+            out.append(dict(source="app_store", broker=broker["name"], title=e["title"]["label"], text=e["content"]["label"][:2000],
+                            rating=int(e["im:rating"]["label"]), url=f"https://apps.apple.com/in/app/id{aid}?see-all=reviews",
+                            author=e["author"]["name"]["label"], created_utc=ts, score=0, num_comments=0))
+    return out[:limit]
+
+def youtube(broker, days, limit, videos=3):
+    """Comments on recent videos matching the broker query (no API key; uses public pages)."""
+    from youtube_comment_downloader import YoutubeCommentDownloader, SORT_BY_POPULAR
+    q = broker.get("youtube_query") or f"{broker['name']} app review"
+    html = httpx.get("https://www.youtube.com/results", params={"search_query": q, "sp": "CAI%3D"},
+                     headers={"User-Agent": "Mozilla/5.0"}, timeout=20).text
+    ids = list(dict.fromkeys(re.findall(r'"videoId":"([\w-]{11})"', html)))[:videos]
+    dl, out = YoutubeCommentDownloader(), []
+    per = max(1, limit // max(1, len(ids)))
+    for vid in ids:
+        for i, c in enumerate(dl.get_comments_from_url(f"https://www.youtube.com/watch?v={vid}", sort_by=SORT_BY_POPULAR)):
+            if i >= per: break
+            out.append(dict(source="youtube", broker=broker["name"], title=vid, text=c["text"][:1500],
+                            url=f"https://www.youtube.com/watch?v={vid}&lc={c['cid']}", author=c.get("author"),
+                            created_utc=c.get("time_parsed"), score=int(str(c.get("votes") or 0).replace(",", "") or 0) if str(c.get("votes") or "0").replace(",", "").isdigit() else 0,
+                            num_comments=0))
+    return out
+
+def linkedin(client, broker, limit):
+    """Public company page only (no login). LinkedIn usually serves an auth wall; we report that instead of bypassing it."""
+    slug = broker.get("linkedin_slug")
+    if not slug: return []
+    r = client.get(f"https://www.linkedin.com/company/{slug}/")
+    if r.status_code != 200 or "authwall" in str(r.url) or "Sign in" in r.text[:5000]:
+        return [dict(source="linkedin", broker=broker["name"], title="BLOCKED", text=f"LinkedIn auth wall (HTTP {r.status_code}); public data not available without login",
+                     url=f"https://www.linkedin.com/company/{slug}/", author=None, created_utc=None, score=0, num_comments=0)]
+    posts = re.findall(r'"commentary":\{"text":\{"text":"(.*?)"', r.text)[:limit]
+    if not posts:
+        return [dict(source="linkedin", broker=broker["name"], title="NO_PUBLIC_POSTS", text="Public company page has no posts without login",
+                     url=f"https://www.linkedin.com/company/{slug}/", author=None, created_utc=None, score=0, num_comments=0)]
+    return [dict(source="linkedin", broker=broker["name"], title="", text=p[:1500], url=f"https://www.linkedin.com/company/{slug}/",
+                 author=slug, created_utc=None, score=0, num_comments=0) for p in posts]
