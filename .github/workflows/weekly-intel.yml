@@ -54,6 +54,10 @@ jobs:
           FILES=$(ls data/historical/BrokerWeeklyIntel-20??-W??.json | sort | tail -2)
           SEED_FIRST=1 python brokers/apply_official_complaints.py brokers/official_complaints.json $FILES || echo "official blend skipped"
 
+      - name: Broker market share (NSE active clients via TradingQnA) monthly refresh
+        continue-on-error: true
+        run: python brokers/refresh_market_share.py || echo "market share refresh skipped"
+
       - name: Bank Pulse weekly run (Apify low and slow, writes via ingest function)
         working-directory: banks
         continue-on-error: true
@@ -70,7 +74,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/ data/historical/ banks/last_published.json brokers/official_complaints.json || true
+          git add reports/ data/historical/ banks/last_published.json brokers/official_complaints.json brokers/market_share_history.json brokers/market_share_history.csv || true
           git commit -m "chore: weekly intel report $(date +%Y-W%W)" || echo "No changes to commit"
           git push
 
