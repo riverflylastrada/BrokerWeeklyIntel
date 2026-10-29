@@ -1,0 +1,34 @@
+name: NSE Report 1C (broker active clients) monthly
+
+on:
+  schedule:
+    - cron: '30 4 2,4 * *'   # 10:00 IST on the 2nd and 4th; 4th is a no-op if the month is already in
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Re-fetch even if month exists (1 = yes)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pandas xlrd
+      - name: Fetch previous month's Report 1C
+        env:
+          FORCE: ${{ github.event.inputs.force }}
+        run: python brokers/refresh_market_share.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add brokers/market_share_history.json brokers/market_share_history.csv
+          git diff --cached --quiet && echo "no change" || (git commit -m "NSE Report 1C monthly refresh" && git push)
