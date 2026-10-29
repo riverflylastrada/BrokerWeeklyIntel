@@ -54,6 +54,12 @@ jobs:
           FILES=$(ls data/historical/BrokerWeeklyIntel-20??-W??.json | sort | tail -2)
           SEED_FIRST=1 python brokers/apply_official_complaints.py brokers/official_complaints.json $FILES || echo "official blend skipped"
 
+      - name: Publish broker week to site (ingest -> weekly_reports)
+        env:
+          INGEST_URL: ${{ secrets.INGEST_URL }}
+          INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
+        run: python brokers/ingest_brokers.py
+
       - name: Bank Pulse weekly run (Apify low and slow, writes via ingest function)
         working-directory: banks
         continue-on-error: true
