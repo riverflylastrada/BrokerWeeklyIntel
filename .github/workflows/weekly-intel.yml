@@ -6,6 +6,9 @@ on:
     - cron: '30 3 * * 0'
   workflow_dispatch:   # Manual trigger from GitHub UI for testing
 
+permissions:
+  contents: write
+
 jobs:
   run-weekly-analysis:
     runs-on: ubuntu-latest
@@ -51,7 +54,7 @@ jobs:
           INGEST_URL: ${{ secrets.INGEST_URL }}
           INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
         run: |
-          pip install apify-client
+          pip install 'apify-client>=1.7,<2'
           python run_banks.py
 
       - name: Commit generated reports and snapshots
