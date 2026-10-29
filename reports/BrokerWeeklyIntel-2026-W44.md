@@ -3,7 +3,7 @@
 **Week:** 26 Oct – 1 Nov 2026 (2026-W44, live catch-up run; signals from 1–28 Oct)  
 **Generated:** 2026-10-29  
 **Brokers Analyzed:** Sahi Broking, Fyers, Dhan, Groww, Angel One, Upstox, Kotak Securities, Zerodha, HDFC Sky, 5Paisa, ICICI Direct, Sharekhan  
-**Sources:** Google Play (newest 60 reviews/broker), X (126 posts, 1–28 Oct), Reddit threads (via web search), Firecrawl web search, official broker pages.
+**Sources:** Google Play (newest 60 reviews/broker), X (126 posts, 1–28 Oct), Reddit threads (via web search), App Store reviews, YouTube comments, Firecrawl web search, official broker pages.
 
 ## Executive Summary
 
@@ -34,10 +34,10 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Sahi Broking | 8.3 | 6.15 | Improving |
 | Fyers | 8.1 | 7.15 | Improving |
 | Dhan | 7.5 | — (new) | Stable |
-| Groww | 7.4 | 7.35 | Stable |
-| Angel One | 7.3 | 6.55 | Improving |
 | Upstox | 7.3 | 6.35 | Improving |
-| Kotak Securities | 7.0 | — (new) | Stable |
+| Groww | 7.2 | 7.35 | Stable |
+| Angel One | 7.2 | 6.55 | Improving |
+| Kotak Securities | 6.9 | — (new) | Stable |
 | Zerodha | 6.8 | 7.05 | Stable |
 | HDFC Sky | 6.8 | — (new) | Stable |
 | 5Paisa | 6.7 | — (new) | Stable |
@@ -54,6 +54,11 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "A useful platform for people interested in learning about financial markets"" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN))
 - "@SquareOfnine9 120 pts down showing in SAHI app" — X post, 2026-10-27 ([source](https://x.com/i/status/2115089158322762106))
 - "New agency was issued 😋😋😋😋 Alhamdulillah on Tuesday Oct 27th, 2026 at 03.48 PM  Next-gen IRREVERSIBLE has arrived, yuhuuu in a shape of SAHI APP   So, buat temen-temen yang udah join TIMO CLUB (https://t.co/5BFc5NILqY) b" — X post, 2026-10-27 ([source](https://x.com/i/status/2115021983176151313))
+- "Missing intraday leverage on my favourite stocks: I love trading on Sahi, but some of my favourite stocks have zero intraday leverage on your platform, so I have to switch to another broker. Please add intraday leverage " — App Store review, 1★, 2026-10-17 ([source](https://apps.apple.com/in/app/id6474591146?see-all=reviews))
+- "This Broker App Sets the Bar Too High for Others! 🔥: ⭐⭐⭐⭐⭐
+
+Honestly, one of the best broker apps I’ve used so far. The UI is clean, intuitive, and really easy to navigate. What I appreciate most is that the app doesn’t " — App Store review, 5★, 2026-10-20 ([source](https://apps.apple.com/in/app/id6474591146?see-all=reviews))
+- "30 DAYS TO YUNHI FREE HAI... REFERRAL KE LIYE JHOOT KYUN BOL RAHA??" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=29dV3Vxbocs&lc=UgzlDyO1jDhsaXZs0dF4AaABAg))
 - Theme **Other**: 2 mentions (low)
 - Theme **Reliability**: 1 mentions (medium)
 
@@ -65,9 +70,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 9.8 |
-| Sentiment Balance | 15% | 6.6 |
+| Sentiment Balance | 15% | 6.5 |
 | New Feature Response | 15% | 8.0 |
-| Engagement & Reach | 15% | 7.6 |
+| Engagement & Reach | 15% | 7.8 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 9.3 |
@@ -83,6 +88,12 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "A well-organized layout can make navigating a trading application much easier,," — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN))
 - "@StockyMind I too had losses this week.  So to kill the time, shifting from dhan to fyers.   Creating new account." — X post, 2026-10-01 ([source](https://x.com/i/status/2105549001416405374))
 - "@iSatyamkum @zerodha facing the issue with groww here, will use dhan or fyers nw" — X post, 2026-10-06 ([source](https://x.com/i/status/2107423015256662479))
+- "Forcing mobile data to turn off: While app open mobile data went down frequently tested after closing app and the internet was stable 
+
+
+Please fix asap" — App Store review, 1★, 2026-10-06 ([source](https://apps.apple.com/in/app/id1526652184?see-all=reviews))
+- "Most advance and reliable: Fyers is the only broker in Indian stock market which implement new technology first. It provides best in class technology and reliable charts. If you are an Intraday trader and want to trade d" — App Store review, 5★, 2026-10-24 ([source](https://apps.apple.com/in/app/id1526652184?see-all=reviews))
+- "Fyers backend is so poor..They take brokerage for delivery,still very bad service" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=K9jJyXOkleY&lc=Ugx5H3R2t3MayaYRQLx4AaABAg))
 - Theme **Reliability**: 2 mentions (medium)
 
 #### Technical Issues & Glitches
@@ -93,9 +104,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 9.8 |
-| Sentiment Balance | 15% | 7.2 |
+| Sentiment Balance | 15% | 6.8 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 8.3 |
+| Engagement & Reach | 15% | 8.5 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 7.5 |
 | Historical Trend | 10% | 6.9 |
@@ -112,6 +123,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "The option chain, Trending View charts and Super Orders bring several useful tools together. I can also explore SLBM for eligible long-term holdings." — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN))
 - "@DhanHQ I withdrew money yesterday from my dhan account. As you can see it was a fast withdrawal and it should have been into my bank account by 11 am yesterday itself but I have not received it yet. I m getting money fr" — X post, 2026-10-01 ([source](https://x.com/i/status/2105476397225673094))
 - "Chart glitch is happening with dhan frequently . Candles goes blank . Kindly check and resolve this issue . @DhanCares @DhanHQ @BeingPractical  Other suggestion : make sure when particular watchlist is sorted by price or" — X post, 2026-10-16 ([source](https://x.com/i/status/2110981983509844095))
+- "Unable to sell stocks. Poor customer service: I am unable to sell my stocks, and my profits have now reduced by 15% while the issue remains unresolved. This is extremely frustrating, especially when real money is at stak" — App Store review, 1★, 2026-10-24 ([source](https://apps.apple.com/in/app/id1575318726?see-all=reviews))
+- "Weekly Investing: Weekly SIP schedule choose karne ki flexibility milti hai." — App Store review, 5★, 2026-10-27 ([source](https://apps.apple.com/in/app/id1575318726?see-all=reviews))
+- "Dhan App Link: https://invite.dhan.co/?join=MAN38" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=cQuf16Gc4Po&lc=UgzwWRO0v992FcUD5a54AaABAg))
 - Theme **Other**: 3 mentions (medium)
 - Theme **Reliability**: 13 mentions (low)
 - Theme **Transparency**: 2 mentions (low)
@@ -126,9 +140,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 8.2 |
-| Sentiment Balance | 15% | 5.7 |
+| Sentiment Balance | 15% | 5.0 |
 | New Feature Response | 15% | 7.0 |
-| Engagement & Reach | 15% | 8.5 |
+| Engagement & Reach | 15% | 8.7 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 7.5 |
 | Historical Trend | 10% | 5.0 |
@@ -139,7 +153,52 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - Top negative theme: Other (3 mentions) — watch next week's share
 - User reaction to 'Commodities with single margin wallet [low confidence]'
 
-### Groww — 7.4/10 (Stable)
+### Upstox — 7.3/10 (Improving)
+
+#### User Quotes & Sentiment Themes
+- "Their charges are one of the highest as compared to Grow and Zerodha. When looking at the total charges it really hurts the pocket. Planning to close the account and switch to some other broker." — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- "all pop ups promotions are really very annoying" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- "Plz provide detailed history of📌 sell,bought (buy) share with there sell and buy charges , there is no such section in app where I see my past deduction addition with charges . Every transactions of buy are diminish next" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- "⚠️ Facing issues with @upstox?  Technical glitches, order execution problems, or app downtime can create serious trouble for traders—especially in the fast-moving options market.  @upstox, please look into the issue and " — X post, 2026-10-14 ([source](https://x.com/i/status/2110215789970411673))
+- "Every new Upstox login hurdle shows how a single password glitch can freeze real money—our entire trading life rests on a fragile digital gate. #Fintech" — X post, 2026-10-07 ([source](https://x.com/i/status/2107659698778309109))
+- "@BaluGorade The $1 fractional entry is a real barrier-breaker for first-timers. Worth comparing before anyone commits. Upstox launched its US stock investing with access to over 8,000 stocks and 2,000 ETFs, so Zerodha's " — X post, 2026-10-19 ([source](https://x.com/i/status/2112028485472731250))
+- "Fix the app: Whenever I open a stock from my watchlist and return to the watchlist, the application automatically takes me back to the top of the list instead of keeping me at the same position. I have to scroll down to " — App Store review, 1★, 2026-10-16 ([source](https://apps.apple.com/in/app/id1584953620?see-all=reviews))
+- "Perfect Platform: Most comfortable and user friendly trading/investing app. I have no words to express my gratitude towards Upstox. They are simply the best in what they are doing for their customers. Greatly thankful to" — App Store review, 5★, 2026-10-12 ([source](https://apps.apple.com/in/app/id1584953620?see-all=reviews))
+- "Groww charge 
+for buying 1 stock ₹26
+ for selling 1 stock ₹49
+Total ₹75😢" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=Et00-vv_K_4&lc=UgyUxqJFfAsHD1pz3ZN4AaABAg))
+- Theme **Other**: 9 mentions (high)
+- Theme **Charges**: 5 mentions (medium)
+- Theme **UX**: 3 mentions (medium)
+- Theme **Performance**: 2 mentions (low)
+- Theme **Reliability**: 11 mentions (low)
+- Theme **Support**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [high, platform_wide] Login/auto-logout and order-cancellation glitches; unable to sell on Jio listing (Oct 28) — sources: https://x.com/i/status/2114567598960754978, https://x.com/i/status/2112468391273648453, https://x.com/i/status/2115303230876082256 (seen 2026-10-07 → 2026-10-28)
+- [low, platform_wide] Reliability: 1 of last 60 Play reviews report it — e.g. "one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww." (seen 2026-10-27 → 2026-10-27)
+- [low, feature_specific] Performance: 2 of last 60 Play reviews report it — e.g. "too much lag today" (seen 2026-10-23 → 2026-10-26)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 7.0 |
+| Sentiment Balance | 15% | 4.6 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 9.8 |
+| Support | 15% | 9.3 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 7.0 |
+
+#### Watch Items
+- Login/auto-logout and order-cancellation glitches — check for recurrence
+- Track reliability complaints (1 in last 60 reviews) for a fix
+- Top negative theme: Other (9 mentions) — watch next week's share
+- Rating moved 6.35 → 7.7 vs W21; confirm trend holds
+
+### Groww — 7.2/10 (Stable)
 
 #### User Quotes & Sentiment Themes
 - "Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. From today I see you are enforcing the details submission or app is closing. If I" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN))
@@ -148,6 +207,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "Grow Up..Your app is not working..unable to access account   Groww down issue @_groww" — X post, 2026-10-07 ([source](https://x.com/i/status/2107914300274954612))
 - "@groww_cs looks like Groww App is down and facing issue while trying to login. Please update." — X post, 2026-10-07 ([source](https://x.com/i/status/2107912060487294983))
 - "Hey @Zerodha_Online , any update on when US stock investing will launch on Zerodha?  Your peer Groww has already started rolling out US stock investing. When can we expect the same from Zerodha? Would love to invest in U" — X post, 2026-10-13 ([source](https://x.com/i/status/2110064883413004432))
+- "Changing user interface: Before joining Groww, I tried several trading platforms, but I chose Groww because I genuinely loved its user interface (UI/UX). Unfortunately, the user experience is getting worse with every unn" — App Store review, 2★, 2026-10-21 ([source](https://apps.apple.com/in/app/id1404871703?see-all=reviews))
+- "Good app: Why there is no long and short risk reward option in scalping in iPhone" — App Store review, 5★, 2026-10-27 ([source](https://apps.apple.com/in/app/id1404871703?see-all=reviews))
+- "Groww ka UI interface bahut simple aur clean hai.." — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=ZVseOi2dJbw&lc=UgwNqIthUXMPV2ODAHh4AaABAg))
 - Theme **Support**: 3 mentions (medium)
 - Theme **Reliability**: 11 mentions (low)
 - Theme **Features/Gaps**: 2 mentions (low)
@@ -164,7 +226,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 7.5 |
-| Sentiment Balance | 15% | 6.9 |
+| Sentiment Balance | 15% | 6.0 |
 | New Feature Response | 15% | 6.0 |
 | Engagement & Reach | 15% | 9.8 |
 | Support | 15% | 8.0 |
@@ -177,7 +239,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - Top negative theme: Support (3 mentions) — watch next week's share
 - User reaction to 'US stocks & ETFs investing (select users)'
 
-### Angel One — 7.3/10 (Improving)
+### Angel One — 7.2/10 (Improving)
 
 #### User Quotes & Sentiment Themes
 - "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN))
@@ -185,6 +247,11 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "chart delay sensex , hangings problem found . fastest needed" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN))
 - "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client funding book +41.7% YoY to ₹78.71 bn  🔴 Gross client acquisiti" — X post, 2026-10-06 ([source](https://x.com/i/status/2107296468709302457))
 - "Why the finger print unlock is not being able to enable in angel one app.  Is there any issue with the app or am I the only one facing such issues.  @AngelOne" — X post, 2026-10-05 ([source](https://x.com/i/status/2106978230943305788))
+- "Fraud app: From my organisation mass download done as mandatory and shares not given to anyone as a employee quota and deducted money is more from all employees all fraud" — App Store review, 1★, 2026-10-27 ([source](https://apps.apple.com/in/app/id1060530981?see-all=reviews))
+- "Ipad review: Hi sir/mam please change the app to support even in landscape mode for the ipad each time the screen keep rotating" — App Store review, 5★, 2026-10-24 ([source](https://apps.apple.com/in/app/id1060530981?see-all=reviews))
+- "For stocks : Groww
+For mutual fund : Groww
+😂" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=rBMwZP2XpkA&lc=Ugz8nahWuX9eZmjnj2F4AaABAg))
 - Theme **Other**: 5 mentions (medium)
 - Theme **Support**: 3 mentions (medium)
 - Theme **Performance**: 3 mentions (medium)
@@ -203,7 +270,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 7.7 |
-| Sentiment Balance | 15% | 6.1 |
+| Sentiment Balance | 15% | 5.7 |
 | New Feature Response | 15% | 6.0 |
 | Engagement & Reach | 15% | 9.8 |
 | Support | 15% | 8.0 |
@@ -216,46 +283,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - Top negative theme: Other (5 mentions) — watch next week's share
 - User reaction to 'US stock investing rollout [low confidence]'
 
-### Upstox — 7.3/10 (Improving)
-
-#### User Quotes & Sentiment Themes
-- "Their charges are one of the highest as compared to Grow and Zerodha. When looking at the total charges it really hurts the pocket. Planning to close the account and switch to some other broker." — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
-- "all pop ups promotions are really very annoying" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
-- "Plz provide detailed history of📌 sell,bought (buy) share with there sell and buy charges , there is no such section in app where I see my past deduction addition with charges . Every transactions of buy are diminish next" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
-- "⚠️ Facing issues with @upstox?  Technical glitches, order execution problems, or app downtime can create serious trouble for traders—especially in the fast-moving options market.  @upstox, please look into the issue and " — X post, 2026-10-14 ([source](https://x.com/i/status/2110215789970411673))
-- "Every new Upstox login hurdle shows how a single password glitch can freeze real money—our entire trading life rests on a fragile digital gate. #Fintech" — X post, 2026-10-07 ([source](https://x.com/i/status/2107659698778309109))
-- "@BaluGorade The $1 fractional entry is a real barrier-breaker for first-timers. Worth comparing before anyone commits. Upstox launched its US stock investing with access to over 8,000 stocks and 2,000 ETFs, so Zerodha's " — X post, 2026-10-19 ([source](https://x.com/i/status/2112028485472731250))
-- Theme **Other**: 9 mentions (high)
-- Theme **Charges**: 5 mentions (medium)
-- Theme **UX**: 3 mentions (medium)
-- Theme **Performance**: 2 mentions (low)
-- Theme **Reliability**: 11 mentions (low)
-- Theme **Support**: 1 mentions (low)
-
-#### Technical Issues & Glitches
-- [high, platform_wide] Login/auto-logout and order-cancellation glitches; unable to sell on Jio listing (Oct 28) — sources: https://x.com/i/status/2114567598960754978, https://x.com/i/status/2112468391273648453, https://x.com/i/status/2115303230876082256 (seen 2026-10-07 → 2026-10-28)
-- [low, platform_wide] Reliability: 1 of last 60 Play reviews report it — e.g. "one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww." (seen 2026-10-27 → 2026-10-27)
-- [low, feature_specific] Performance: 2 of last 60 Play reviews report it — e.g. "too much lag today" (seen 2026-10-23 → 2026-10-26)
-
-#### Rating Breakdown
-
-| Parameter | Weight | Score |
-|---|---|---|
-| Technical Reliability & Bug Handling | 20% | 7.0 |
-| Sentiment Balance | 15% | 4.9 |
-| New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 9.8 |
-| Support | 15% | 9.3 |
-| Content & Transparency | 10% | 7.5 |
-| Historical Trend | 10% | 7.0 |
-
-#### Watch Items
-- Login/auto-logout and order-cancellation glitches — check for recurrence
-- Track reliability complaints (1 in last 60 reviews) for a fix
-- Top negative theme: Other (9 mentions) — watch next week's share
-- Rating moved 6.35 → 7.7 vs W21; confirm trend holds
-
-### Kotak Securities — 7.0/10 (Stable)
+### Kotak Securities — 6.9/10 (Stable)
 
 #### User Quotes & Sentiment Themes
 - "Nonsense cheater" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN))
@@ -263,6 +291,8 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "Kotak Neo is a user-friendly stock trading app with a simple interface and useful features for tracking stocks, checking market trends, and managing investments. The app makes buying and selling shares convenient for beg" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN))
 - "@gurjota I switched a while back to Kotak Neo, so this wasn't really an issue for me" — X post, 2026-10-07 ([source](https://x.com/i/status/2107859766093787281))
 - "@Ashish1Nanda I have raised issue with @kotakneo on last Friday for this api / network error, till now I haven't received any information regarding this error from kotak neo, is the kotak neo reliable for api orders? htt" — X post, 2026-10-20 ([source](https://x.com/i/status/2112570848754507893))
+- "Very bad experience: I started trading in commodities and after buying order app suddenly stop and i can’t sell my order and eventually i lost my money after app stated running properly , and second thing is i try to con" — App Store review, 1★, 2026-10-20 ([source](https://apps.apple.com/in/app/id1553056779?see-all=reviews))
+- "Bahut leg hota hai option scalping me kotak neo me." — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=26LqcT0Cj2w&lc=Ugzm7dVzdHi8r0MAevF4AaABAg))
 - Theme **Other**: 4 mentions (medium)
 - Theme **Charges**: 3 mentions (medium)
 - Theme **Reliability**: 7 mentions (medium)
@@ -280,9 +310,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 7.2 |
-| Sentiment Balance | 15% | 5.6 |
+| Sentiment Balance | 15% | 4.9 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 9.2 |
+| Engagement & Reach | 15% | 9.4 |
 | Support | 15% | 8.0 |
 | Content & Transparency | 10% | 7.5 |
 | Historical Trend | 10% | 5.0 |
@@ -302,6 +332,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "@zerodha The gifted securities credited by CDSL have still not appeared in my Kite holdings after 2 days. Your team keeps asking me to wait until EOD, but the issue remains unresolved.  Ticket #442746  Please investigate" — X post, 2026-10-14 ([source](https://x.com/i/status/2110389763547238721))
 - "@zerodha @zerodhamarkets @Nithin0dha - Why did you guys changed BASKET feature.. I have been experiencing so many issue with NEW BASKETs in KITE WEB.. Some order doesnt go through tried to times.. https://t.co/jHD2HhXD1h" — X post, 2026-10-14 ([source](https://x.com/i/status/2110266919215669713))
 - "@BaluGorade The $1 fractional entry is a real barrier-breaker for first-timers. Worth comparing before anyone commits. Upstox launched its US stock investing with access to over 8,000 stocks and 2,000 ETFs, so Zerodha's " — X post, 2026-10-19 ([source](https://x.com/i/status/2112028485472731250))
+- "Trap for small investors — Hidden maintenance fees & penal interest: Terrible experience for retail investors. While competitors offer lifetime zero AMC, Zerodha debits ₹88.50 every quarter under the radar. If your tradi" — App Store review, 1★, 2026-10-08 ([source](https://apps.apple.com/in/app/id1449453802?see-all=reviews))
+- "Excellent: Professional custmer services provided by Zerodha" — App Store review, 5★, 2026-10-23 ([source](https://apps.apple.com/in/app/id1449453802?see-all=reviews))
+- "Online business are booming" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=HSizIZmsJP8&lc=UgzOkjlMVct_7haMn2F4AaABAg))
 - Theme **UX**: 8 mentions (high)
 - Theme **Other**: 6 mentions (high)
 - Theme **Reliability**: 19 mentions (medium)
@@ -319,7 +352,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 5.0 |
-| Sentiment Balance | 15% | 5.0 |
+| Sentiment Balance | 15% | 5.2 |
 | New Feature Response | 15% | 8.0 |
 | Engagement & Reach | 15% | 9.8 |
 | Support | 15% | 8.0 |
@@ -338,6 +371,11 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it continues like this again" — Google Play review, 1★, 2026-10-16 ([source](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN))
 - "SIR, MY FIRST👇 SUGGESTION HAS BEEN Fulfilled..now everything is fine you made it really good... only one problem i have been facing is app is lagging many times. whenever i searched a stock, opening an index chart i find" — Google Play review, 5★, 2026-10-26 ([source](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN))
 - "India fintech Moneyview listed on NSE/BSE on Thu Oct 1 at ₹55 vs a ₹34 issue price (+61.76%), per HDFC Sky.  The IPO raised ₹1,091.68 crore (fresh issue of ₹750 cr + OFS of ₹341.68 cr) and was ~71.4x subscribed overall: " — X post, 2026-10-01 ([source](https://x.com/i/status/2105547468616380775))
+- "Bad Service: In this hdfc app I try to setup sip Autopay but around a 3 week I summited my request and after 4 days automatically my request is vanis out from the app if transaction is not completed that time also they s" — App Store review, 1★, 2026-10-04 ([source](https://apps.apple.com/in/app/id6447300262?see-all=reviews))
+- "Open free demat account and start your trading journey with the link given below :-
+
+✅upstox
+https://upstox.com/open-account/?f=23AV3U" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=6FMM2vrRYyA&lc=UgzdvKJVLoDYkaK_wYF4AaABAg))
 - Theme **Other**: 10 mentions (high)
 - Theme **Reliability**: 4 mentions (medium)
 - Theme **Performance**: 4 mentions (medium)
@@ -355,9 +393,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 6.5 |
-| Sentiment Balance | 15% | 5.5 |
+| Sentiment Balance | 15% | 5.4 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 7.9 |
+| Engagement & Reach | 15% | 8.1 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 5.0 |
@@ -372,6 +410,8 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "5paisa AI is useless, not getting proper output. I am asking about stocks it's giving analysis of index or sector" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
 - "worst app not got reward for refering going to uninstall and shift to growww zero star" — Google Play review, 1★, 2026-10-09 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
 - "for someone who who both trades and invests this demat trading app is a real time saver" — Google Play review, 5★, 2026-10-09 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
+- "Mtf: I used this for mtf , the worst app for mtf they square off stocks whenever they want. They sent a message to add funds , I added it before market time and yet it was pending and they squared off my stocks. They sen" — App Store review, 1★, 2026-10-16 ([source](https://apps.apple.com/in/app/id1156366609?see-all=reviews))
+- "Groww Abhi Tak ka best laga mujhe toh 😅" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=QBUVEKZ4eRE&lc=Ugx2aYmAjJD8yK4LQ3R4AaABAg))
 - Theme **Other**: 11 mentions (high)
 - Theme **Performance**: 5 mentions (medium)
 - Theme **Reliability**: 5 mentions (medium)
@@ -388,9 +428,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 7.0 |
-| Sentiment Balance | 15% | 6.7 |
+| Sentiment Balance | 15% | 6.6 |
 | New Feature Response | 15% | 3.5 |
-| Engagement & Reach | 15% | 9.3 |
+| Engagement & Reach | 15% | 9.5 |
 | Support | 15% | 8.7 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 5.0 |
@@ -408,6 +448,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "great experience...." — Google Play review, 5★, 2026-10-22 ([source](https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN))
 - "In continuation with the issue I faced with ICICI Direct   I was arranged a meeting call with icici employee and I am told that, only I report issue with website and app on Oct 7, that they were not functional for few mi" — X post, 2026-10-24 ([source](https://x.com/i/status/2114028206269616568))
 - "@ICICI_Direct Thanks ICICI Direct team for resolving the issue. The Family Prime Brokerage Plan has since been updated in my account." — X post, 2026-10-28 ([source](https://x.com/i/status/2115367521935376700))
+- "Bad broker: They have the worst MTF facility among all brokers .. they give no warning to add funds.. they just sell your stock without warning and send you a message after 5 minutes.. every other broker gives a heads up" — App Store review, 2★, 2026-10-09 ([source](https://apps.apple.com/in/app/id1642076943?see-all=reviews))
+- "GTT Options: Please provide options to set Target and SL instead of 10% always. This will be really helpful. Also default order setup like 4/5/6 lots instead of every-time showing 1 lot" — App Store review, 5★, 2026-10-26 ([source](https://apps.apple.com/in/app/id1642076943?see-all=reviews))
+- "Stop loss not explained" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=X_4F-2AHTJE&lc=UgxybCy-mBflBFVfjmt4AaABAg))
 - Theme **Other**: 12 mentions (critical)
 - Theme **Reliability**: 8 mentions (high)
 - Theme **UX**: 5 mentions (medium)
@@ -428,7 +471,7 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Technical Reliability & Bug Handling | 20% | 5.5 |
 | Sentiment Balance | 15% | 3.6 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 8.8 |
+| Engagement & Reach | 15% | 9.0 |
 | Support | 15% | 9.3 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 4.4 |
@@ -444,6 +487,10 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 - "Dear sir, What happened to this app since one month.some times it works very smooth and some time it too worst performing and app automatically closed." — Google Play review, 2★, 2026-10-06 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
 - "not able to open the app for days , it just gets closed before opening, pathetic experience. no trader should have this horrible app." — Google Play review, 1★, 2026-10-14 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
 - "In sharekhan mobile application on the chart indicator overlaping are not possible. it is very bed.I think sharekhan solve this problem very fast and improve mobile application. it is very good for retail trader" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
+- "Extremely disappointed: ⭐ 1 Star – Extremely Disappointing and Unacceptable!
+
+I had a portfolio worth ₹1,20,000, and this app has charged approximately ₹90,000 in brokerage. This is absolutely shocking and unacceptable! " — App Store review, 1★, 2026-10-21 ([source](https://apps.apple.com/in/app/id1213285821?see-all=reviews))
+- "Second difference is one has 60K downloads and other one has 5M downloads." — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=WNTsB-L6oYw&lc=UgyLZOshtkuixR3tL9l4AaABAg))
 - Theme **Other**: 20 mentions (critical)
 - Theme **Reliability**: 16 mentions (critical)
 - Theme **Performance**: 5 mentions (medium)
@@ -462,9 +509,9 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 1 |
-| Sentiment Balance | 15% | 1.9 |
+| Sentiment Balance | 15% | 1.8 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 8.2 |
+| Engagement & Reach | 15% | 8.4 |
 | Support | 15% | 8.0 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 5.0 |
@@ -497,5 +544,5 @@ Stability and transparent communication win reviews this period; US-stock access
 ## Methodology, Data Sources & Limitations
 
 - **Scoring:** original 7-parameter weighted system (Technical Reliability 20%; Sentiment, New Feature Response, Engagement, Support 15% each; Historical Trend 10%; Transparency 10%).
-- Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability.
+- Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed). Reddit not collected (403 from runner; needs actor on Apify residential proxy).
 - Limitations: heuristic scoring from samples; items tagged [low confidence] lack exact dates; Reddit coverage partial.
