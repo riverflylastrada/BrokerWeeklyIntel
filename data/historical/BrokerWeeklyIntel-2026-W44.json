@@ -13,9 +13,9 @@
    "previous_rating": 6.15,
    "rating_breakdown": {
     "technical_reliability": 9.8,
-    "sentiment": 6.5,
+    "sentiment": 6.1,
     "new_feature_response": 8.0,
-    "engagement": 7.8,
+    "engagement": 8.1,
     "support": 9.8,
     "transparency": 6.0,
     "historical_trend": 9.3
@@ -104,6 +104,24 @@
      "platform": "youtube",
      "broker": "Sahi Broking",
      "sentimentScore": 0
+    },
+    {
+     "quote": "Govt. wants the retail to save the markets — Got this SEBI message today on WhatsApp. The timing of these campaigns tells you everything. Ever noticed how they start spamming you with “Mutual Funds Sahi Hai” when the markets are at ATH? Have you",
+     "context": "Reddit r/IndianStreetBets, 2026-10-08",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x0k575/govt_wants_the_retail_to_save_the_markets/",
+     "platform": "reddit",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Which are the best indicators? Written by own or using built-ins? — using the sahi trading app rn and with the help of that I built my own custom built RSI indicator that shows us the relative strength index of any stock/index I compared it with the inbuilt RSI indica",
+     "context": "Reddit r/IndianStreetBets, 2026-10-10",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x2ip7d/which_are_the_best_indicators_written_by_own_or/",
+     "platform": "reddit",
+     "broker": "Sahi Broking",
+     "sentimentScore": 0.5
     }
    ],
    "negative_themes": [
@@ -213,15 +231,6 @@
      "platform": "youtube",
      "broker": "Fyers",
      "sentimentScore": 0
-    },
-    {
-     "quote": "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything together in a single workspace. Charts on one pla",
-     "context": "Reddit r/IndianStreetBets, 2026-10-08",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/",
-     "platform": "reddit",
-     "broker": "Fyers",
-     "sentimentScore": -0.5
     }
    ],
    "negative_themes": [
@@ -350,15 +359,6 @@
      "sentimentScore": 0
     },
     {
-     "quote": "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything together in a single workspace. Charts on one pla",
-     "context": "Reddit r/IndianStreetBets, 2026-10-08",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/",
-     "platform": "reddit",
-     "broker": "Dhan",
-     "sentimentScore": -0.5
-    },
-    {
      "quote": "Power of zerodha — Zerodha US stocks investing isn’t even fully live yet, and Dhan has already reduced its brokerage from 0.25% to 0.10%. That’s a 60% cut before Zerodha’s product has even launched. Groww brokerage is a",
      "context": "Reddit r/IndianStreetBets, 2026-10-22",
      "sentiment": "positive",
@@ -436,12 +436,12 @@
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 7.3,
+   "overall_rating": 7.2,
    "trend": "Improving",
    "previous_rating": 6.35,
    "rating_breakdown": {
     "technical_reliability": 7.0,
-    "sentiment": 4.6,
+    "sentiment": 4.2,
     "new_feature_response": 6.0,
     "engagement": 9.8,
     "support": 9.3,
@@ -541,6 +541,24 @@
      "platform": "youtube",
      "broker": "Upstox",
      "sentimentScore": 0
+    },
+    {
+     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
+     "context": "Reddit r/IndianStreetBets, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
+     "platform": "reddit",
+     "broker": "Upstox",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Good step by zerodha — Little late but atleast they realized this.This will also attract newer customer base who are looking to start algo trades.Now this will definately compete with dhan and upstox",
+     "context": "Reddit r/IndianStreetBets, 2026-10-07",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1wzvmz3/good_step_by_zerodha/",
+     "platform": "reddit",
+     "broker": "Upstox",
+     "sentimentScore": 0.5
     }
    ],
    "negative_themes": [
@@ -642,7 +660,7 @@
    "previous_rating": 7.35,
    "rating_breakdown": {
     "technical_reliability": 7.5,
-    "sentiment": 6.0,
+    "sentiment": 5.6,
     "new_feature_response": 6.0,
     "engagement": 9.8,
     "support": 8.0,
@@ -742,6 +760,15 @@
      "platform": "youtube",
      "broker": "Groww",
      "sentimentScore": 0
+    },
+    {
+     "quote": "Power of zerodha — Zerodha US stocks investing isn’t even fully live yet, and Dhan has already reduced its brokerage from 0.25% to 0.10%. That’s a 60% cut before Zerodha’s product has even launched. Groww brokerage is a",
+     "context": "Reddit r/IndianStreetBets, 2026-10-22",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xcv10w/power_of_zerodha/",
+     "platform": "reddit",
+     "broker": "Groww",
+     "sentimentScore": 0.5
     }
    ],
    "negative_themes": [
@@ -925,24 +952,6 @@
      "platform": "youtube",
      "broker": "Angel One",
      "sentimentScore": 0
-    },
-    {
-     "quote": "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything together in a single workspace. Charts on one pla",
-     "context": "Reddit r/IndianStreetBets, 2026-10-08",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/",
-     "platform": "reddit",
-     "broker": "Angel One",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "Mkc kb tk yahi dekhna pdega",
-     "context": "Reddit r/IndianStreetBets, 2026-10-22",
-     "sentiment": "neutral",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xcekyy/mkc_kb_tk_yahi_dekhna_pdega/",
-     "platform": "reddit",
-     "broker": "Angel One",
-     "sentimentScore": 0
     }
    ],
    "negative_themes": [
@@ -1051,9 +1060,9 @@
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.2,
-    "sentiment": 4.9,
+    "sentiment": 4.3,
     "new_feature_response": 6.0,
-    "engagement": 9.4,
+    "engagement": 9.7,
     "support": 8.0,
     "transparency": 7.5,
     "historical_trend": 5.0
@@ -1131,6 +1140,15 @@
      "sentiment": "neutral",
      "source_url": "https://www.youtube.com/watch?v=26LqcT0Cj2w&lc=Ugzm7dVzdHi8r0MAevF4AaABAg",
      "platform": "youtube",
+     "broker": "Kotak Securities",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "Looking for a broker that lets me place a fresh BUY order in stock options on the last day of the monthly expiry, intraday or NRML — i know dhan,zerodha,groww,angel one ,Shoonya,kotak neo does not allow any fresh position on expiry day.",
+     "context": "Reddit r/IndianStockMarket, 2026-10-23",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xdeppv/looking_for_a_broker_that_lets_me_place_a_fresh/",
+     "platform": "reddit",
      "broker": "Kotak Securities",
      "sentimentScore": 0
     }
@@ -1339,24 +1357,6 @@
      "platform": "youtube",
      "broker": "Zerodha",
      "sentimentScore": 0
-    },
-    {
-     "quote": "Holding for 4-5 months and currently down bad. Should I exit or hold? Need advice. — Hey everyone, I’m in a really tough spot and honestly panicking right now. I bought in thinking it would go up by 4-5k, but instead, my portfolio has taken a massive hit and I'm down big time. I was p",
-     "context": "Reddit r/IndianStockMarket, 2026-10-28",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xhvdxn/holding_for_45_months_and_currently_down_bad/",
-     "platform": "reddit",
-     "broker": "Zerodha",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "when everyone wants to go to the moon then start space shuttle service",
-     "context": "Reddit r/IndianStockMarket, 2026-10-29",
-     "sentiment": "neutral",
-     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xi84u7/when_everyone_wants_to_go_to_the_moon_then_start/",
-     "platform": "reddit",
-     "broker": "Zerodha",
-     "sentimentScore": 0
     }
    ],
    "negative_themes": [
@@ -1458,9 +1458,9 @@
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.5,
-    "sentiment": 5.4,
+    "sentiment": 5.0,
     "new_feature_response": 6.0,
-    "engagement": 8.1,
+    "engagement": 8.5,
     "support": 9.8,
     "transparency": 6.0,
     "historical_trend": 5.0
@@ -1529,6 +1529,24 @@
      "sentiment": "neutral",
      "source_url": "https://www.youtube.com/watch?v=6FMM2vrRYyA&lc=UgzdvKJVLoDYkaK_wYF4AaABAg",
      "platform": "youtube",
+     "broker": "HDFC Sky",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
+     "context": "Reddit r/IndianStreetBets, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
+     "platform": "reddit",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Is HDFC Sky's Scalper Mode actually useful during volatile markets. — It is always frustrating while scalping to find how quickly a good entry can disappear while you are still clicking through order windows and confirmations when the market starts moving sharply. I tri",
+     "context": "Reddit r/IndianStreetBets, 2026-10-26",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xfpq7g/is_hdfc_skys_scalper_mode_actually_useful_during/",
+     "platform": "reddit",
      "broker": "HDFC Sky",
      "sentimentScore": 0
     }
@@ -1626,13 +1644,13 @@
   {
    "broker": "5Paisa",
    "slug": "5paisa",
-   "overall_rating": 6.7,
+   "overall_rating": 6.6,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.0,
-    "sentiment": 6.6,
+    "sentiment": 5.6,
     "new_feature_response": 3.5,
-    "engagement": 9.5,
+    "engagement": 9.6,
     "support": 8.7,
     "transparency": 6.0,
     "historical_trend": 5.0
@@ -1695,6 +1713,15 @@
      "platform": "youtube",
      "broker": "5Paisa",
      "sentimentScore": 0
+    },
+    {
+     "quote": "I hope you are not one of the 50k investors of 5Paisa capital — Huge operating deleverage- 2% sequentail revenue de-growth lead to 39% fall in PAT. Daily Average Turnover down 15% QoQ (more than industry avg) Total order down 17% QoQ No questions in conference cal",
+     "context": "Reddit r/IndianStockMarket, 2026-10-20",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavkj1/i_hope_you_are_not_one_of_the_50k_investors_of/",
+     "platform": "reddit",
+     "broker": "5Paisa",
+     "sentimentScore": -0.5
     }
    ],
    "negative_themes": [
@@ -1878,15 +1905,6 @@
      "sentimentScore": 0
     },
     {
-     "quote": "Template: Stop Mutual Funds from backing the Jio IPO — The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable market dominance. We shouldn't let fun",
-     "context": "Reddit r/IndianStreetBets, 2026-10-17",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/",
-     "platform": "reddit",
-     "broker": "ICICI Direct",
-     "sentimentScore": -0.5
-    },
-    {
      "quote": "ICICI direct has 1 second data most likely. I am saving it — If you need it , i will export on weekend once collection completed. I am testing v2 api and will rollback one basic simulation to test multiple options strategy coding and running step by step. if yo",
      "context": "Reddit r/IndianStreetBets, 2026-10-12",
      "sentiment": "neutral",
@@ -1997,13 +2015,13 @@
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 4.9,
+   "overall_rating": 5.0,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 1,
-    "sentiment": 1.8,
+    "sentiment": 1.9,
     "new_feature_response": 6.0,
-    "engagement": 8.4,
+    "engagement": 8.6,
     "support": 8.0,
     "transparency": 6.0,
     "historical_trend": 5.0
@@ -2328,5 +2346,5 @@
   "Groww/Angel One: US-stock rollout reactions",
   "HDFC Sky: chart/crash fix after update"
  ],
- "methodology_note": "Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed).  Reddit: 27 posts (Oct 1-28) from r/IndianStreetBets, r/IndiaInvestments, r/IndianStockMarket collected by the private Apify actor zippy_jogger/broker-intel (JSON API blocked even on residential proxy; public RSS used; Reddit rate-limited the run, so coverage is Zerodha 15, Dhan 5, Angel One 3, Fyers 2, ICICI Direct 2, others 0). Reddit tone blended 15% into Sentiment; volume into Engagement. Play Store reviews re-collected via the actor for 5 brokers matched the earlier sample."
+ "methodology_note": "Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed).  Reddit: 77 posts (Oct 1-28) from r/IndianStreetBets, r/IndiaInvestments, r/IndianStockMarket collected by the private Apify actor zippy_jogger/broker-intel (JSON API blocked even on residential proxy; public RSS used; first pass rate-limited: Zerodha 15, Dhan 5, Angel One 3, Fyers 2, ICICI Direct 2; second low-and-slow pass on 29 Oct (concurrency 1, 8-15s jittered delay, 429 backoff 60/120/300s): Groww 15, Upstox 14, HDFC Sky 7, Sahi 6, Kotak 5, Sharekhan 2, 5Paisa 1 — 77 posts total, all 12 brokers covered). Reddit tone blended 15% into Sentiment; volume into Engagement. Play Store reviews re-collected via the actor for 5 brokers matched the earlier sample. Reddit quotes kept only where the post mentions the broker; Reddit tone is keyword-based (low confidence)."
 }
