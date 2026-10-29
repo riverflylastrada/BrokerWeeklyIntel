@@ -61,9 +61,23 @@
      "sentimentScore": 1.0
     }
    ],
-   "negative_themes": [],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "Sahi is not good for those who want to Trade in Commodity Expiry day, they block the order after 10:00pm due to development Risk Management",
+      "Indicator not showing in Scalper mode"
+     ]
+    }
+   ],
    "technical_issues": [],
-   "watch_items": []
+   "watch_items": [
+    "Top negative theme: Other (2 mentions) — watch next week's share",
+    "User reaction to 'App visual refresh [low confidence]'",
+    "Rating moved 6.15 → 8.7 vs W21; confirm trend holds"
+   ]
   },
   {
    "broker": "Fyers",
@@ -105,7 +119,10 @@
    ],
    "negative_themes": [],
    "technical_issues": [],
-   "watch_items": []
+   "watch_items": [
+    "User reaction to 'API v3 changelog updates [low confidence]'",
+    "Rating moved 7.15 → 8.4 vs W21; confirm trend holds"
+   ]
   },
   {
    "broker": "Groww",
@@ -198,6 +215,14 @@
      "example_quotes": [
       "agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna time nhi hai tumhare "
      ]
+    },
+    {
+     "theme": "Other",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Not Good Work App"
+     ]
     }
    ],
    "technical_issues": [
@@ -220,7 +245,12 @@
      "last_seen": "2026-10-27"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (2 in last 60 reviews) for a fix",
+    "Top negative theme: Support (3 mentions) — watch next week's share",
+    "User reaction to 'US stocks & ETFs investing (select users)'",
+    "Rating moved 7.35 → 8.1 vs W21; confirm trend holds"
+   ]
   },
   {
    "broker": "Angel One",
@@ -279,6 +309,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "brokrage is so high",
+      "IPO kharida to milega hi nhi agar + me jata h to Mil gya to pakka minus me hi jayega Kuch to gadbad h isme Mene kai IPO kharidne k liye dale jo badta h wo nhi m"
+     ]
+    },
     {
      "theme": "Support",
      "count": 3,
@@ -351,7 +390,12 @@
      "last_seen": "2026-10-27"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (1 in last 60 reviews) for a fix",
+    "Top negative theme: Other (5 mentions) — watch next week's share",
+    "User reaction to 'US stock investing rollout [low confidence]'",
+    "Rating moved 6.55 → 7.7 vs W21; confirm trend holds"
+   ]
   },
   {
    "broker": "Dhan",
@@ -410,6 +454,15 @@
    ],
    "negative_themes": [
     {
+     "theme": "Other",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Extremely disappointing MTF experience with Dhan! I had stocks worth ₹28K and around ₹40K in my account, yet my positions were auto-exited, booking a loss of ar",
+      "Worst application. Don't use it. Use grow if you want to keep your money safe."
+     ]
+    },
+    {
      "theme": "Reliability",
      "count": 2,
      "severity": "low",
@@ -447,7 +500,11 @@
      "last_seen": "2026-10-27"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (2 in last 60 reviews) for a fix",
+    "Top negative theme: Other (3 mentions) — watch next week's share",
+    "User reaction to 'Commodities with single margin wallet [low confidence]'"
+   ]
   },
   {
    "broker": "Upstox",
@@ -495,6 +552,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 9,
+     "severity": "high",
+     "example_quotes": [
+      "best app",
+      "kitni baar try Kiya account close nahi ho raha"
+     ]
+    },
     {
      "theme": "Charges",
      "count": 5,
@@ -559,7 +625,11 @@
      "last_seen": "2026-10-26"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (1 in last 60 reviews) for a fix",
+    "Top negative theme: Other (9 mentions) — watch next week's share",
+    "Rating moved 6.35 → 7.7 vs W21; confirm trend holds"
+   ]
   },
   {
    "broker": "Kotak Securities",
@@ -617,6 +687,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "bakwas application hai purana wala hi thik tha",
+      "bohot bohot ghatiya service hain"
+     ]
+    },
     {
      "theme": "Charges",
      "count": 3,
@@ -681,7 +760,11 @@
      "last_seen": "2026-10-27"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (3 in last 60 reviews) for a fix",
+    "Top negative theme: Other (4 mentions) — watch next week's share",
+    "User reaction to 'Rebrand to Kotak Neo [low confidence]'"
+   ]
   },
   {
    "broker": "Zerodha",
@@ -736,6 +819,15 @@
      "example_quotes": [
       "Company Ok, But Your app is old, see Upstox App They Developed every month and All Details User Friendly... Your App Total Waste",
       "Chart not opening too bad"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 6,
+     "severity": "high",
+     "example_quotes": [
+      "the app and kite web is getting more annoying. zerodha is complacent.",
+      "bad experience"
      ]
     },
     {
@@ -795,7 +887,10 @@
      "last_seen": "2026-10-26"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (5 in last 60 reviews) for a fix",
+    "Top negative theme: UX (8 mentions) — watch next week's share"
+   ]
   },
   {
    "broker": "5Paisa",
@@ -854,6 +949,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 11,
+     "severity": "high",
+     "example_quotes": [
+      "Poor",
+      "dekh miya loan deta bolkar mere paas aya . mujhe iske bareme kuch bhi nahi malum. tu meku tere app se hata"
+     ]
+    },
     {
      "theme": "Performance",
      "count": 5,
@@ -918,7 +1022,11 @@
      "last_seen": "2026-10-24"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (5 in last 60 reviews) for a fix",
+    "Top negative theme: Other (11 mentions) — watch next week's share",
+    "User reaction to '5paisa 2.0 app (new app + AI assistant)'"
+   ]
   },
   {
    "broker": "HDFC Sky",
@@ -965,6 +1073,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 10,
+     "severity": "high",
+     "example_quotes": [
+      "bad 👎",
+      "pathetic"
+     ]
+    },
     {
      "theme": "Reliability",
      "count": 4,
@@ -1040,7 +1157,10 @@
      "last_seen": "2026-10-25"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (4 in last 60 reviews) for a fix",
+    "Top negative theme: Other (10 mentions) — watch next week's share"
+   ]
   },
   {
    "broker": "ICICI Direct",
@@ -1099,6 +1219,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 12,
+     "severity": "critical",
+     "example_quotes": [
+      "good",
+      "sometimes it gets frustrated when u can't buy an order when u trade daily or frequently"
+     ]
+    },
     {
      "theme": "Reliability",
      "count": 8,
@@ -1181,7 +1310,11 @@
      "last_seen": "2026-10-27"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (8 in last 60 reviews) for a fix",
+    "Top negative theme: Other (12 mentions) — watch next week's share",
+    "User reaction to 'External Holdings view [low confidence]'"
+   ]
   },
   {
    "broker": "Sharekhan",
@@ -1239,6 +1372,15 @@
     }
    ],
    "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 20,
+     "severity": "critical",
+     "example_quotes": [
+      "now a days there is much time taking App to open, very pathetic App.",
+      "18000 deposit krwaya in Sharekhan appwale office ke logo ne ye log farud h koi bhi isme trade nhi Krna please in logo ne meri id bnavayi fir otm wali trade buy "
+     ]
+    },
     {
      "theme": "Reliability",
      "count": 16,
@@ -1321,7 +1463,11 @@
      "last_seen": "2026-10-15"
     }
    ],
-   "watch_items": []
+   "watch_items": [
+    "Track reliability complaints (16 in last 60 reviews) for a fix",
+    "Top negative theme: Other (20 mentions) — watch next week's share",
+    "User reaction to 'US market exposure, zero platform fees [low confidence]'"
+   ]
   }
  ],
  "industry_themes": {
