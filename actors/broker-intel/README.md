@@ -2,7 +2,7 @@
 
 Multi-source collector for BrokerWeeklyIntel. Input `sources`: `reddit`, `play_store`, `app_store`, `youtube`, `linkedin`.
 
-- **Reddit**: public `search.json` (restrict_sr, sort=new, t=month) across the given subreddits, plus top comments; 2 s delay between requests; residential proxy (IN) when available because Reddit blocks datacenter IPs.
+- **Reddit**: public `search.json`, falling back to public RSS when blocked. Low and slow by default: concurrency 1, randomized 8–15 s delay between requests, backoff 60/120/300 s on HTTP 429, brokers run one after another with a 30 s pause. Residential proxy (IN) when available.
 - **Play Store / App Store**: newest reviews within `daysBack` (google-play-scraper, iTunes customer-reviews RSS).
 - **YouTube**: popular comments on the 3 newest videos matching `youtube_query` (no API key).
 - **LinkedIn**: public company page only, no login. If LinkedIn shows its auth wall, one `BLOCKED` row is output instead of trying to get around it.

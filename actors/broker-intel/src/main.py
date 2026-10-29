@@ -17,8 +17,13 @@ async def main():
                 Actor.log.warning(f"Residential proxy unavailable ({type(e).__name__}); using direct connection")
         web = httpx.Client(headers={"User-Agent": S.UA}, timeout=30, follow_redirects=True, proxy=proxy_url)
         plain = httpx.Client(headers={"User-Agent": S.UA}, timeout=30)
+        S.DELAY = (float(inp.get("minDelaySecs", 8)), float(inp.get("maxDelaySecs", 15)))
+        pause_between = int(inp.get("pauseBetweenBrokersSecs", 30))
         stats = {}
-        for b in inp.get("brokers", []):
+        if inp.get("redditMode") == "rss": stats["_reddit_json_blocked"] = 1
+        import asyncio
+        for n, b in enumerate(inp.get("brokers", [])):
+            if n: await asyncio.sleep(pause_between)  # sequential, one broker at a time
             for src in sorted(srcs):
                 try:
                     if src == "reddit":

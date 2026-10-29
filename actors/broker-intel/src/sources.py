@@ -1,12 +1,27 @@
 """Source fetchers. Each returns a list of normalized dicts:
 source, broker, title, text, url, author, created_utc, score, num_comments, rating, subreddit"""
-import time, re, json
+import time, re, json, random
 from datetime import datetime, timezone, timedelta
 import httpx
 
 UA = "BrokerWeeklyIntel/0.1 (public research; contact via GitHub riverflylastrada/BrokerWeeklyIntel)"
 
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
+DELAY = (8.0, 15.0)          # low and slow: randomized delay between requests
+BACKOFF = (60, 120, 300)     # exponential-ish backoff on HTTP 429
+
+def pause():
+    time.sleep(random.uniform(*DELAY))
+
+def get_polite(client, url, **kw):
+    """Single request with randomized delay and 429 backoff (concurrency 1)."""
+    r = client.get(url, **kw); pause()
+    for wait in BACKOFF:
+        if r.status_code != 429: break
+        time.sleep(wait)
+        r = client.get(url, **kw); pause()
+    return r
 
 def _cutoff(days): return (datetime.now(timezone.utc) - timedelta(days=days)).timestamp()
 
@@ -18,8 +33,7 @@ def reddit(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
         r = None
         for host in ("https://www.reddit.com", "https://old.reddit.com", "https://api.reddit.com"):
             for ua in (UA, BROWSER_UA):
-                r = client.get(f"{host}/r/{subs}/search.json" if "api." not in host else f"{host}/r/{subs}/search", params=params, headers={"User-Agent": ua})
-                time.sleep(sleep)
+                r = get_polite(client, f"{host}/r/{subs}/search.json" if "api." not in host else f"{host}/r/{subs}/search", params=params, headers={"User-Agent": ua})
                 if r.status_code == 200: break
             if r.status_code == 200: break
         r.raise_for_status()
@@ -30,8 +44,7 @@ def reddit(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
                         url="https://www.reddit.com" + d["permalink"], author=d.get("author"), subreddit=d["subreddit"],
                         created_utc=d["created_utc"], score=d["score"], num_comments=d["num_comments"], comments=[])
             if top_comments and d["num_comments"]:
-                cr = client.get(f"https://old.reddit.com{d['permalink']}.json", params={"sort": "top", "limit": top_comments})
-                time.sleep(sleep)
+                cr = get_polite(client, f"https://old.reddit.com{d['permalink']}.json", params={"sort": "top", "limit": top_comments})
                 if cr.status_code == 200:
                     for cc in cr.json()[1]["data"]["children"][:top_comments]:
                         if cc["kind"] == "t1":
@@ -55,7 +68,7 @@ def app_store(client, broker, days, limit):
     if not aid: return []
     out, cut = [], _cutoff(days)
     for page in (1, 2):
-        r = client.get(f"https://itunes.apple.com/in/rss/customerreviews/page={page}/id={aid}/sortby=mostrecent/json")
+        r = get_polite(client, f"https://itunes.apple.com/in/rss/customerreviews/page={page}/id={aid}/sortby=mostrecent/json")
         if r.status_code != 200: break
         for e in r.json().get("feed", {}).get("entry", [])[1 if page == 1 else 0:]:
             if "im:rating" not in e: continue
@@ -88,7 +101,7 @@ def linkedin(client, broker, limit):
     """Public company page only (no login). LinkedIn usually serves an auth wall; we report that instead of bypassing it."""
     slug = broker.get("linkedin_slug")
     if not slug: return []
-    r = client.get(f"https://www.linkedin.com/company/{slug}/")
+    r = get_polite(client, f"https://www.linkedin.com/company/{slug}/")
     if r.status_code != 200 or "authwall" in str(r.url) or "Sign in" in r.text[:5000]:
         return [dict(source="linkedin", broker=broker["name"], title="BLOCKED", text=f"LinkedIn auth wall (HTTP {r.status_code}); public data not available without login",
                      url=f"https://www.linkedin.com/company/{slug}/", author=None, created_utc=None, score=0, num_comments=0)]
@@ -108,14 +121,9 @@ def reddit_rss(client, broker, subreddits, days, limit, top_comments, sleep=2.0)
     out, cut, seen = [], _cutoff(days), set()
     for sub in subreddits:
         for kw in broker.get("keywords") or [broker["name"]]:
-            r = client.get(f"https://www.reddit.com/r/{sub}/search.rss",
+            r = get_polite(client, f"https://www.reddit.com/r/{sub}/search.rss",
                            params={"q": kw, "restrict_sr": 1, "sort": "new", "t": "month", "limit": 25},
                            headers={"User-Agent": BROWSER_UA})
-            time.sleep(sleep)
-            for wait in (10, 30, 60):  # back off on rate limiting
-                if r.status_code != 429: break
-                time.sleep(wait)
-                r = client.get(str(r.request.url), headers={"User-Agent": BROWSER_UA})
             if r.status_code != 200: continue
             for e in ET.fromstring(r.text).findall("a:entry", ns):
                 url = e.find("a:link", ns).attrib["href"]
@@ -128,8 +136,7 @@ def reddit_rss(client, broker, subreddits, days, limit, top_comments, sleep=2.0)
                             author=(e.find("a:author/a:name", ns).text if e.find("a:author/a:name", ns) is not None else None),
                             subreddit=sub, created_utc=ts, score=None, num_comments=None, comments=[])
                 if top_comments:
-                    cr = client.get(url.rstrip("/") + "/.rss", params={"sort": "top", "limit": top_comments + 1}, headers={"User-Agent": BROWSER_UA})
-                    time.sleep(sleep)
+                    cr = get_polite(client, url.rstrip("/") + "/.rss", params={"sort": "top", "limit": top_comments + 1}, headers={"User-Agent": BROWSER_UA})
                     if cr.status_code == 200:
                         for ce in ET.fromstring(cr.text).findall("a:entry", ns)[1:top_comments + 1]:
                             item["comments"].append(dict(text=strip(ce.find("a:content", ns).text)[:600], url=ce.find("a:link", ns).attrib["href"]))

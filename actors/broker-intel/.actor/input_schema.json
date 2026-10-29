@@ -64,7 +64,7 @@
     "topComments": {
       "title": "Top comments per Reddit post",
       "type": "integer",
-      "default": 3,
+      "default": 0,
       "minimum": 0,
       "maximum": 10,
       "description": "Top comments per Reddit post"
@@ -74,6 +74,37 @@
       "type": "boolean",
       "default": true,
       "description": "Use Apify residential proxy (Reddit/LinkedIn)"
+    },
+    "minDelaySecs": {
+      "title": "Min delay (s)",
+      "type": "integer",
+      "default": 8,
+      "minimum": 1,
+      "description": "Minimum randomized delay between requests"
+    },
+    "maxDelaySecs": {
+      "title": "Max delay (s)",
+      "type": "integer",
+      "default": 15,
+      "minimum": 1,
+      "description": "Maximum randomized delay between requests"
+    },
+    "pauseBetweenBrokersSecs": {
+      "title": "Pause between brokers (s)",
+      "type": "integer",
+      "default": 30,
+      "minimum": 0,
+      "description": "Pause between brokers (sequential, concurrency 1)"
+    },
+    "redditMode": {
+      "title": "Reddit mode",
+      "type": "string",
+      "enum": [
+        "auto",
+        "rss"
+      ],
+      "default": "auto",
+      "description": "auto = try JSON then RSS; rss = RSS only"
     }
   },
   "required": [
