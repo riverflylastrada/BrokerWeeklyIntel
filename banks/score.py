@@ -1,6 +1,6 @@
 import json,math,re,sys,datetime as dt,urllib.request,os
 from collections import defaultdict
-items=json.load(open('items.json'))
+items=json.load(open(os.getenv('ITEMS_FILE','items.json')))
 meta=json.load(open('input.json'))['brokers']
 news=json.load(open('news_curated.json'))
 GROUP={"sbi":"PSB","pnb":"PSB","bank-of-baroda":"PSB","canara-bank":"PSB","au-bank":"SFB"}
@@ -27,7 +27,7 @@ def sent(it):
     w=re.findall(r"[a-z']+",(it.get('title','')+' '+it.get('text','')).lower())
     p=sum(x in POS for x in w); n=sum(x in NEG for x in w)
     return 0 if p+n==0 else (p-n)/(p+n)
-now=dt.datetime.now(dt.timezone.utc)
+now=dt.datetime.fromisoformat(os.environ['ASOF']) if os.getenv('ASOF') else dt.datetime.now(dt.timezone.utc)  # ASOF: backfill scoring as of a past week end
 def age_w(it):
     t=it.get('created_utc')
     try:
@@ -86,5 +86,5 @@ for slug,r in raw.items():
 out.sort(key=lambda x:(-x['_raw'],-x['params']['complaints_rbi']))
 for o in out: o.pop('_raw')
 for i,o in enumerate(out,1): o['rank']=i
-json.dump(dict(category="banks",week=dt.date.today().strftime("%G-W%V"),generated_at=now.isoformat(),banks=out,category_mean_stars=round(MU,2)),open('bank_report.json','w'),indent=1,ensure_ascii=False)
+json.dump(dict(category="banks",week=os.getenv("WEEK") or dt.date.today().strftime("%G-W%V"),generated_at=now.isoformat(),banks=out,category_mean_stars=round(MU,2)),open(os.getenv('OUT_FILE','bank_report.json'),'w'),indent=1,ensure_ascii=False)
 for o in out: print(o['rank'],o['name'],o['overall'],o['confidence'],o['counts'],o['params'])
