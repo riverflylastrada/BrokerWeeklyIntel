@@ -1,134 +1,394 @@
-# BrokerWeeklyIntel — 2026-W44 catch-up report
+# BrokerWeeklyIntel — Weekly Competitor Intelligence Report
 
-**Period:** 2026-05-26 to 2026-10-28 (catch-up; review data mainly Sep 25 - Oct 28)  
-**Method:** Google Play newest 60 reviews per broker (free scraper), Firecrawl web search past month (6 results/broker). Reddit blocked from runner; X/YouTube/News skipped.
+**Week:** 26 Oct – 1 Nov 2026 (2026-W44, live catch-up run on 28 Oct)  
+**Generated:** 2026-10-29  
+**Brokers Analyzed:** Sahi Broking, Fyers, Groww, Angel One, Dhan, Upstox, Kotak Securities, Zerodha, 5Paisa, HDFC Sky, ICICI Direct, Sharekhan  
+**Sources:** Google Play (newest 60 reviews per broker, Sep 25–Oct 28), Firecrawl web search (past month, 6 results/broker), official broker pages. Reddit/X not collected this run.
 
-| # | Broker | Rating /10 | Play rating | Recent +/- | Sentiment |
-|---|---|---|---|---|---|
-| 1 | Fyers | 9.9 | 4.6 (78,819) | 59/0 | positive |
-| 2 | Sahi Broking | 9.6 | 4.52 (35,699) | 57/2 | positive |
-| 3 | Groww | 9.0 | 4.79 (2,532,153) | 54/6 | positive |
-| 4 | Dhan | 8.2 | 4.64 (65,677) | 54/6 | positive |
-| 5 | Angel One | 7.9 | 4.4 (1,934,935) | 44/14 | mixed |
-| 6 | Kotak Securities | 7.9 | 4.49 (217,500) | 42/12 | mixed |
-| 7 | 5Paisa | 7.4 | 4.34 (664,418) | 40/19 | mixed |
-| 8 | Upstox | 7.3 | 4.34 (497,969) | 40/18 | mixed |
-| 9 | HDFC Sky | 7.2 | 4.49 (45,330) | 39/21 | mixed |
-| 10 | Zerodha | 7.1 | 4.42 (394,444) | 36/19 | mixed |
-| 11 | ICICI Direct | 6.1 | 4.55 (199,112) | 26/26 | negative |
-| 12 | Sharekhan | 3.5 | 4.1 (128,017) | 10/47 | negative |
+## Executive Summary
 
-## Fyers — 9.9/10
-Strongest recent reviews (avg 4.97/5 on last 60). Activity centred on API v3 docs/changelog; no notable complaints.
+Catch-up run after a gap since W21. App stability dominates the period: Sharekhan's app force-closes on launch (most negative), HDFC Sky has crash/chart bugs, ICICI Direct UI complaints. Newer apps (Sahi, Fyers, Dhan) lead on sentiment. US-stock investing is the feature race (Groww, Angel One). Zerodha introduces an extra 15% exposure margin on MWPL securities from 30 Oct.
 
-Sources:
-- [Create a FYERS API App: Types and Setup](https://fyers.in/api-docs/v3/getting-started/create-an-app/)
-- [Troubleshooting – FYERS API](https://fyers.in/api-docs/v3/getting-started/guides/troubleshooting-guide/)
-- [FYERS API Trading Guides: Orders and Market Data](https://fyers.in/api-docs/v3/getting-started/guides/)
-- [FYERS API Resources: Help and Community](https://fyers.in/api-docs/v3/resources/)
+## New Features Launched This Week (Mandatory Summary Table)
 
-## Sahi Broking — 9.6/10
-Fresh UI refresh and zero-brokerage-for-30-days promo; strong reviews (4.78); minor: commodity expiry order block after 10 PM, scalper-mode indicators.
+| Broker | Feature / Update | Approx. Launch | User Reaction | Key Evidence / Link |
+|---|---|---|---|---|
+| 5Paisa | 5paisa 2.0 app (new app + AI assistant) | 2026-10 (approx.) | Negative | [link](https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US) |
+| Angel One | US stock investing rollout [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.instagram.com/p/DetGBoZiVEo/) |
+| Dhan | Commodities with single margin wallet [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/DhanHQ/videos/trade-commodities-on-dhan-with-a-single-margin-wallet-and-fla) |
+| Fyers | API v3 changelog updates [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://fyers.in/api-docs/v3/changelog/) |
+| Groww | US stocks & ETFs investing (select users) | 2026-10 (approx.) | Mixed | [link](https://groww.in/updates/us-stocks-etfs-on-groww) |
+| ICICI Direct | External Holdings view [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-a) |
+| Kotak Securities | Rebrand to Kotak Neo [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/kotakneo/videos/for-years-weve-been-helping-indians-invest-trade-and-build-) |
+| Sahi Broking | App visual refresh [low confidence] | 2026-10 (approx.) | Positive | [link](https://www.instagram.com/reel/DfCPDVxTtjK/) |
+| Sharekhan | US market exposure, zero platform fees [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/MiraeAssetSharekhan/posts/tech-stocks-us-market-exposure-and-zero-platform-) |
 
-Sources:
-- [SAHI just got a fresh look. Same platform you trade on ...](https://www.instagram.com/reel/DfCPDVxTtjK/)
-- [SAHI : Options & Stock Trading – Apps on ...](https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IE)
-- [Free Demat Account Opening ✅ ₹0 Brokerage for the First 3](https://www.instagram.com/reel/DeeFlyrBP_f/)
-- [Where do I see why my order was rejected?](https://www.sahi.com/faq/trade-api/where-do-i-see-why-my-order-was-rejected)
+*No meaningful launches detected for Zerodha, Upstox or HDFC Sky in the window.*
 
-## Groww — 9.0/10
-Rolled out US stocks & ETFs investing to select users; complaints about USD deposit delays and KYC/demat registration friction.
+## Broker Ratings at a Glance
 
-Sources:
-- [Groww Stocks, Mutual Fund, IPO - Apps on Google Play](https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_US)
-- [Latest News and Updates on Digest at Groww](https://groww.in/digest)
-- [What Happens to Your Shares If Groww or Zerodha Shuts ...](https://www.facebook.com/61589528493240/videos/what-happens-to-your-shares-if-groww-or-zerodha-shuts-down/1101338322808031/)
-- [Now Invest in US Stocks and ETFs Directly on Groww](https://groww.in/updates/us-stocks-etfs-on-groww)
+| Broker | This Week | vs W21 | Trend |
+|---|---|---|---|
+| Sahi Broking | 8.7 | 6.15 | Improving |
+| Fyers | 8.4 | 7.15 | Improving |
+| Groww | 8.1 | 7.35 | Improving |
+| Angel One | 7.7 | 6.55 | Improving |
+| Dhan | 7.7 | — (new) | Stable |
+| Upstox | 7.7 | 6.35 | Improving |
+| Kotak Securities | 7.3 | — (new) | Stable |
+| Zerodha | 6.8 | 7.05 | Stable |
+| 5Paisa | 6.7 | — (new) | Stable |
+| HDFC Sky | 6.7 | — (new) | Stable |
+| ICICI Direct | 6.5 | 6.65 | Stable |
+| Sharekhan | 4.9 | — (new) | Stable |
 
-## Dhan — 8.2/10
-Single-margin-wallet commodity trading push; complaints about MTF auto-exit and technical glitches.
+## Detailed Analysis by Broker
 
-Sources:
-- [Dhan: Stock Market Trading App](https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_US)
-- [3 Dhan App Features Traders Should Not Miss](https://www.youtube.com/watch?v=7XowbdcdaPM)
-- [Dhan: Share Market Trading App - App Store - Apple](https://apps.apple.com/ae/app/dhan-share-market-trading-app/id1575318726)
-- [When does CAS become effective?](https://dhan.co/support/general/market-session-status-and-timing/when-does-cas-become-effective/)
+### Sahi Broking — 8.7/10 (Improving)
 
-## Angel One — 7.9/10
-Started rolling out US stock investing; news coverage of a shrinking active-client base; reviews cite buffering/slowness and request trailing stop-loss.
+#### User Quotes & Sentiment Themes
+- "Sahi is not good for those who want to Trade in Commodity Expiry day, they block the order after 10:00pm due to development Risk Management" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN))
+- "Indicator not showing in Scalper mode" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN))
+- "A useful platform for people interested in learning about financial markets"" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN))
 
-Sources:
-- [Angel One: Stocks, Mutual Fund - Apps on Google Play](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_US)
-- [Open Free Demat Account & Start Online Trading in Share ...](https://www.facebook.com/OfficialAngelOne/videos/start-trading-at-simplified-pricing/1417996073252355/)
-- [Angel One has started rolling out US stock investing on its ...](https://www.instagram.com/p/DetGBoZiVEo/)
-- [Your broker going bust does not take your shares with it. ...](https://www.instagram.com/reel/Deg3RW7MloR/)
+#### Technical Issues & Glitches
+- None reported in sampled reviews.
 
-## Kotak Securities — 7.9/10
-Rebranded app as Kotak Neo; complaints about order placement visibility and delays.
+#### Rating Breakdown
 
-Sources:
-- [Kotak Securities Rebrands to Kotak Neo: New Era of ...](https://www.facebook.com/kotakneo/videos/for-years-weve-been-helping-indians-invest-trade-and-build-wealthtoday-marks-a-d/1348335970500781/)
-- [Kotak Neo: Stock Trading App](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_US)
-- [What's New | SEBI regulatory updates & announcements](https://www.kotakneo.com/whats-new/)
-- [Your broker is more than just an app 📱 Especially on days ...](https://www.instagram.com/reel/DeOZqyVx5UZ/)
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 9.8 |
+| Sentiment Balance | 15% | 9.5 |
+| New Feature Response | 15% | 8.0 |
+| Engagement & Reach | 15% | 7.3 |
+| Support | 15% | 9.8 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 9.2 |
 
-## 5Paisa — 7.4/10
-Launched '5paisa 2.0' app; AI assistant criticised as unhelpful, add-money and button failures.
+### Fyers — 8.4/10 (Improving)
 
-Sources:
-- [5paisa 2.0: F&O, Stocks, IPO - App Store - Apple](https://apps.apple.com/us/app/5paisa-2-0-f-o-stocks-ipo/id6759095123)
-- [5paisa App Guide | Episode 2: Create An MTF Watchlist ...](https://www.instagram.com/reel/Deg-_h1uQSF/)
-- [Stocks to Buy This Week India](https://www.5paisa.com/blog/weekly-stocks-to-buy)
-- [5paisa 2.0: Stocks, IPO, F&O - Apps on Google Play](https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US)
+#### User Quotes & Sentiment Themes
+- "A well-organized layout can make navigating a trading application much easier,," — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN))
 
-## Upstox — 7.3/10
-Announcements on mandatory square-off for electricity futures expiry; reviews flag high charges vs Groww/Zerodha, intrusive promo pop-ups and lag.
+#### Technical Issues & Glitches
+- None reported in sampled reviews.
 
-Sources:
-- [Upstox Trading Support: Making Your Journey Better 9:15 ...](https://www.facebook.com/upstox/videos/we-humans-are-social-thats-just-who-we-are-even-when-we-are-alone-we-talk-to-our/1031405549959158/)
-- [90% of F&O traders loose in market as per SEBI Reports ...](https://www.instagram.com/_c/reel/De8-hCgsNgp/)
-- [SEBI cautions investors against stock tips circulated ...](https://upstox.com/news/business-news/financial-regulations/sebi-cautions-investors-against-stock-tips-circulated-through-whats-app-groups/article-202264/)
-- [😍 Hurry!!!! Open your account with just PAN, Aadhaar, ...](https://www.facebook.com/upstox/videos/open-your-free-demat-now/1635629508221555/)
+#### Rating Breakdown
 
-## HDFC Sky — 7.2/10
-Frequent app crash and chart scroll/zoom bug reports after latest update; no direct-growth MF plans.
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 9.8 |
+| Sentiment Balance | 15% | 9.8 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 7.8 |
+| Support | 15% | 9.8 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 7.1 |
 
-Sources:
-- [HDFC SKY: Demat Stocks IPO MF - Apps on Google Play](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_US)
-- [NSE Trading Halt in 2021: What Went Wrong and Why?](https://hdfcsky.com/sky-learn/market-wtf-by-sky/the-day-nse-trading-stopped-for-four-hours)
-- [Open HDFC SKY FREE Demat Account and enjoy ...](https://www.facebook.com/100089751670710/videos/hdfc-sky-start-investing/1099034156061780/)
-- [HDFC Sky Brokerage Charges: Delivery and Intraday](https://hdfcsky.com/sky-learn/share-trading/all-you-need-to-know-about-equity-brokerage-charges-at-hdfc-sky)
+### Groww — 8.1/10 (Improving)
 
-## Zerodha — 7.1/10
-Kite margin change: extra 15% exposure margin on MWPL securities from Oct 30; users complain about reduced intraday margin, dated app UI and slow F&O activation support.
+#### User Quotes & Sentiment Themes
+- "Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. From today I see you are enforcing the details submission or app is closing. If I" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN))
+- "added USD 216 (21k rupees), 8 days ago and it was never added to my account. Every day they give the same response stating that they are checking with their partner bank, no timelines, no commitment to resolve this." — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN))
+- "nice yes" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN))
+- Theme **Support**: 3 mentions (medium)
+- Theme **Reliability**: 2 mentions (low)
+- Theme **Features/Gaps**: 2 mentions (low)
+- Theme **Performance**: 1 mentions (low)
 
-Sources:
-- [Zerodha Kite - Trade & Invest - App Store](https://apps.apple.com/ca/app/zerodha-kite-trade-invest/id1449453802)
-- [Most of us know Zerodha as the app we open to check ...](https://www.instagram.com/p/DeyxWS7FVUt/)
-- [Additional exposure margin on securities under MWPL](https://zerodha.com/marketintel/bulletin/461816/additional-exposure-margin-on-securities-under-mwpl-10)
-- [Most of us know Zerodha as the app we open to check ...](https://www.facebook.com/Inc42/posts/most-of-us-know-zerodha-as-the-app-we-open-to-check-stocks-track-our-portfolios-/1689378972786218/)
+#### Technical Issues & Glitches
+- [low, platform_wide] Reliability: 2 of last 60 Play reviews report it — e.g. "Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. F" (seen 2026-10-27 → 2026-10-27)
+- [low, feature_specific] Performance: 1 of last 60 Play reviews report it — e.g. "agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna t" (seen 2026-10-27 → 2026-10-27)
 
-## ICICI Direct — 6.1/10
-New External Holdings view feature; recent reviews weak (avg 3.05) citing UI/graphs and delivery-conversion charges.
+#### Rating Breakdown
 
-Sources:
-- [ICICI Direct-Stocks F&O MF IPO - Apps on Google Play](https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_US)
-- [How do I trade on ICICI Direct?](https://www.icicidirect.com/faqs/nri-account/how-do-i-trade-on-icici-direct)
-- [With the new External Holdings feature, you can now view ...](https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-all-your-stock-and-etf-i/1619442680226277/)
-- [ICICI 3 in 1 Account: Manage Banking, Investment and ...](https://www.icicidirect.com/3-in-1-account)
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 9.0 |
+| Sentiment Balance | 15% | 8.8 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 9.8 |
+| Support | 15% | 8.0 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 6.2 |
 
-## Sharekhan — 3.5/10
-Worst recent sentiment (avg 1.77, 47/60 negative): app force-closes on launch for weeks; Mirae Asset branding and US market exposure push.
+### Angel One — 7.7/10 (Improving)
 
-Sources:
-- [Mirae Asset Sharekhan: Stocks - App Store - Apple](https://apps.apple.com/ca/app/mirae-asset-sharekhan-stocks/id1213285821)
-- [Mirae Asset Sharekhan Financial Blog](https://www.sharekhan.com/financial-blog/blogs)
-- [News](https://www.sharekhan.com/news/market/details/sebi-backs-vwap-for-expiry-settlement/78352)
-- [Sharekhan server down today? Live app and site status](https://sitedownstatus.in/status/sharekhan)
+#### User Quotes & Sentiment Themes
+- "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN))
+- "worst app, works slowly for trading" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN))
+- "chart delay sensex , hangings problem found . fastest needed" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN))
+- Theme **Support**: 3 mentions (medium)
+- Theme **Performance**: 3 mentions (medium)
+- Theme **Charges**: 2 mentions (low)
+- Theme **Reliability**: 1 mentions (low)
+- Theme **UX**: 1 mentions (low)
+- Theme **Features/Gaps**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [low, platform_wide] Reliability: 1 of last 60 Play reviews report it — e.g. "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he" (seen 2026-10-27 → 2026-10-27)
+- [medium, feature_specific] Performance: 3 of last 60 Play reviews report it — e.g. "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please" (seen 2026-10-27 → 2026-10-27)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 8.5 |
+| Sentiment Balance | 15% | 7.4 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 9.8 |
+| Support | 15% | 8.0 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 6.9 |
+
+### Dhan — 7.7/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding karne ke Start kro waise hi thoda bahut profit deke lalach dilaya hai uske bad " — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN))
+- "technical glitch in app" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN))
+- "The option chain, Trending View charts and Super Orders bring several useful tools together. I can also explore SLBM for eligible long-term holdings." — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN))
+- Theme **Reliability**: 2 mentions (low)
+- Theme **Transparency**: 2 mentions (low)
+- Theme **Charges**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [low, platform_wide] Reliability: 2 of last 60 Play reviews report it — e.g. "sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding" (seen 2026-10-27 → 2026-10-27)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 9.0 |
+| Sentiment Balance | 15% | 7.8 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 7.7 |
+| Support | 15% | 9.8 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 5.0 |
+
+### Upstox — 7.7/10 (Improving)
+
+#### User Quotes & Sentiment Themes
+- "Their charges are one of the highest as compared to Grow and Zerodha. When looking at the total charges it really hurts the pocket. Planning to close the account and switch to some other broker." — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- "all pop ups promotions are really very annoying" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- "Plz provide detailed history of📌 sell,bought (buy) share with there sell and buy charges , there is no such section in app where I see my past deduction addition with charges . Every transactions of buy are diminish next" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN))
+- Theme **Charges**: 5 mentions (medium)
+- Theme **UX**: 3 mentions (medium)
+- Theme **Performance**: 2 mentions (low)
+- Theme **Reliability**: 1 mentions (low)
+- Theme **Support**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [low, platform_wide] Reliability: 1 of last 60 Play reviews report it — e.g. "one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww." (seen 2026-10-27 → 2026-10-27)
+- [low, feature_specific] Performance: 2 of last 60 Play reviews report it — e.g. "too much lag today" (seen 2026-10-23 → 2026-10-26)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 8.5 |
+| Sentiment Balance | 15% | 6.6 |
+| New Feature Response | 15% | 5.0 |
+| Engagement & Reach | 15% | 9.1 |
+| Support | 15% | 9.3 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 7.2 |
+
+### Kotak Securities — 7.3/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "Nonsense cheater" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN))
+- "very Worst software, I placed the order but on the laptop screen and even on mobile phone I don't seen that order is placed after 2hr I seen my p&l showing 4200, loss at the Time I connected to customer care they told me" — Google Play review, 1★, 2026-10-22 ([source](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN))
+- "Kotak Neo is a user-friendly stock trading app with a simple interface and useful features for tracking stocks, checking market trends, and managing investments. The app makes buying and selling shares convenient for beg" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN))
+- Theme **Charges**: 3 mentions (medium)
+- Theme **Reliability**: 3 mentions (medium)
+- Theme **Support**: 3 mentions (medium)
+- Theme **Performance**: 1 mentions (low)
+- Theme **Transparency**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [medium, platform_wide] Reliability: 3 of last 60 Play reviews report it — e.g. "very Worst software, I placed the order but on the laptop screen and even on mobile phone I don't seen that order is placed after 2hr I seen" (seen 2026-10-22 → 2026-10-27)
+- [low, feature_specific] Performance: 1 of last 60 Play reviews report it — e.g. "one of the worst app i have ised ever... just freez nifty points during important time.. reported many times still not problem solved..." (seen 2026-10-27 → 2026-10-27)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 8.0 |
+| Sentiment Balance | 15% | 7.3 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 8.5 |
+| Support | 15% | 8.0 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 5.0 |
+
+### Zerodha — 6.8/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "Company Ok, But Your app is old, see Upstox App They Developed every month and All Details User Friendly... Your App Total Waste" — Google Play review, 2★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN))
+- "recently zerodha kite reduces margin for intraday for maximum number of stocks. this is unfair and pathetic." — Google Play review, 2★, 2026-10-26 ([source](https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN))
+- "good apps" — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN))
+- Theme **UX**: 8 mentions (high)
+- Theme **Reliability**: 5 mentions (medium)
+- Theme **Performance**: 4 mentions (medium)
+- Theme **Support**: 3 mentions (medium)
+- Theme **Charges**: 3 mentions (medium)
+
+#### Technical Issues & Glitches
+- [medium, platform_wide] Reliability: 5 of last 60 Play reviews report it — e.g. "Chart not opening too bad" (seen 2026-10-25 → 2026-10-27)
+- [medium, feature_specific] Performance: 4 of last 60 Play reviews report it — e.g. "chart not loading..." (seen 2026-10-25 → 2026-10-26)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 6.5 |
+| Sentiment Balance | 15% | 6.4 |
+| New Feature Response | 15% | 5.0 |
+| Engagement & Reach | 15% | 9.0 |
+| Support | 15% | 8.0 |
+| Content & Transparency | 10% | 7.5 |
+| Historical Trend | 10% | 4.5 |
+
+### 5Paisa — 6.7/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "5paisa AI is useless, not getting proper output. I am asking about stocks it's giving analysis of index or sector" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
+- "worst app not got reward for refering going to uninstall and shift to growww zero star" — Google Play review, 1★, 2026-10-09 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
+- "for someone who who both trades and invests this demat trading app is a real time saver" — Google Play review, 5★, 2026-10-09 ([source](https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN))
+- Theme **Performance**: 5 mentions (medium)
+- Theme **Reliability**: 5 mentions (medium)
+- Theme **Support**: 2 mentions (low)
+- Theme **Features/Gaps**: 1 mentions (low)
+- Theme **UX**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [medium, platform_wide] Reliability: 5 of last 60 Play reviews report it — e.g. "worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue" (seen 2026-10-05 → 2026-10-19)
+- [medium, feature_specific] Performance: 5 of last 60 Play reviews report it — e.g. "worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue" (seen 2026-10-05 → 2026-10-24)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 7.0 |
+| Sentiment Balance | 15% | 6.7 |
+| New Feature Response | 15% | 3.5 |
+| Engagement & Reach | 15% | 9.3 |
+| Support | 15% | 8.7 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 5.0 |
+
+### HDFC Sky — 6.7/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime when upto his mood maybe go for other provider it's my sugges" — Google Play review, 1★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN))
+- "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it continues like this again" — Google Play review, 1★, 2026-10-16 ([source](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN))
+- "SIR, MY FIRST👇 SUGGESTION HAS BEEN Fulfilled..now everything is fine you made it really good... only one problem i have been facing is app is lagging many times. whenever i searched a stock, opening an index chart i find" — Google Play review, 5★, 2026-10-26 ([source](https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN))
+- Theme **Reliability**: 4 mentions (medium)
+- Theme **Performance**: 4 mentions (medium)
+- Theme **Charges**: 2 mentions (low)
+- Theme **UX**: 2 mentions (low)
+- Theme **Transparency**: 2 mentions (low)
+- Theme **Features/Gaps**: 2 mentions (low)
+
+#### Technical Issues & Glitches
+- [medium, platform_wide] Reliability: 4 of last 60 Play reviews report it — e.g. "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can " (seen 2026-10-13 → 2026-10-27)
+- [medium, feature_specific] Performance: 4 of last 60 Play reviews report it — e.g. "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguidin" (seen 2026-10-06 → 2026-10-25)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 6.5 |
+| Sentiment Balance | 15% | 6.5 |
+| New Feature Response | 15% | 5.0 |
+| Engagement & Reach | 15% | 7.5 |
+| Support | 15% | 9.8 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 5.0 |
+
+### ICICI Direct — 6.5/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "Hi, Dissatisfied when compared with other apps. 1. unable to see specific day nav from history. 2. ui /graph is not good. 3. App name is: icici direct, and only regular funds offered. 4.xirr/day returns will not show etc" — Google Play review, 2★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN))
+- "धोखेबाज एप्लीकेशन। डिलीवरी में कन्वर्ट करते समय चुपचाप बिना बताए बेहिसाब पैसा हड़प लेता है। इसमें खाता न खोलें। मेरे 8 लाख रुपये बर्बाद कर दिया। Very fraud software!" — Google Play review, 1★, 2026-10-23 ([source](https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN))
+- "great experience...." — Google Play review, 5★, 2026-10-22 ([source](https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN))
+- Theme **Reliability**: 8 mentions (high)
+- Theme **UX**: 5 mentions (medium)
+- Theme **Performance**: 5 mentions (medium)
+- Theme **Features/Gaps**: 3 mentions (medium)
+- Theme **Charges**: 2 mentions (low)
+- Theme **Transparency**: 1 mentions (low)
+- Theme **Support**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [high, platform_wide] Reliability: 8 of last 60 Play reviews report it — e.g. "crashing with black screen not a single star" (seen 2026-10-21 → 2026-10-26)
+- [medium, feature_specific] Performance: 5 of last 60 Play reviews report it — e.g. "User interface very bad, very slow app, net position not clear, p&l keep changing, reports, statement very slow. Totally not meant for who a" (seen 2026-10-21 → 2026-10-27)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 5.5 |
+| Sentiment Balance | 15% | 5.1 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 8.5 |
+| Support | 15% | 9.3 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 4.8 |
+
+### Sharekhan — 4.9/10 (Stable)
+
+#### User Quotes & Sentiment Themes
+- "Dear sir, What happened to this app since one month.some times it works very smooth and some time it too worst performing and app automatically closed." — Google Play review, 2★, 2026-10-06 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
+- "not able to open the app for days , it just gets closed before opening, pathetic experience. no trader should have this horrible app." — Google Play review, 1★, 2026-10-14 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
+- "In sharekhan mobile application on the chart indicator overlaping are not possible. it is very bed.I think sharekhan solve this problem very fast and improve mobile application. it is very good for retail trader" — Google Play review, 5★, 2026-10-24 ([source](https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN))
+- Theme **Reliability**: 16 mentions (critical)
+- Theme **Performance**: 5 mentions (medium)
+- Theme **Charges**: 4 mentions (medium)
+- Theme **Support**: 3 mentions (medium)
+- Theme **UX**: 2 mentions (low)
+- Theme **Transparency**: 1 mentions (low)
+- Theme **Features/Gaps**: 1 mentions (low)
+
+#### Technical Issues & Glitches
+- [critical, platform_wide] Reliability: 16 of last 60 Play reviews report it — e.g. "The app crashes every time I use it" (seen 2026-10-04 → 2026-10-14)
+- [medium, feature_specific] Performance: 5 of last 60 Play reviews report it — e.g. "poor app hang always while opening" (seen 2026-10-05 → 2026-10-15)
+
+#### Rating Breakdown
+
+| Parameter | Weight | Score |
+|---|---|---|
+| Technical Reliability & Bug Handling | 20% | 1 |
+| Sentiment Balance | 15% | 1.9 |
+| New Feature Response | 15% | 6.0 |
+| Engagement & Reach | 15% | 8.2 |
+| Support | 15% | 8.0 |
+| Content & Transparency | 10% | 6.0 |
+| Historical Trend | 10% | 5.0 |
+
+## Industry-Wide Themes & Strategic Implications
+
+**Positive:** Newer apps (Fyers, Sahi, Dhan) lead on review sentiment; US-stock investing rollouts (Groww, Angel One)
+
+**Negative:** App stability: Sharekhan force-closes, HDFC Sky crashes/chart bugs, ICICI UI; Charges and margin changes (Upstox charges, Zerodha MWPL exposure margin from Oct 30)
+
+**Emerging:** AI assistants in broker apps (5paisa 2.0) — poor early reception; SEBI CAS rollout
 
 **Implications for SocialCoffee**
-- App stability is the biggest differentiator this period (Sharekhan, HDFC Sky, ICICI Direct lose on crashes/UI).
-- US-stock investing is the new feature race (Groww, Angel One).
-- Newer apps (Fyers, Sahi, Dhan) win on reviews; incumbents on scale.
 
-*Rating = recent Play Store review average × 2; a simple proxy until the full scoring engine ships.*
+Stability and transparent communication win reviews this period; US-stock access is the feature race; crash-free experience is a clear differentiator versus incumbents.
+
+## Watch Items (Next 2 Weeks)
+
+- Zerodha: impact of additional 15% exposure margin on MWPL securities from Oct 30
+- Sharekhan: whether app launch crash gets fixed
+- Groww/Angel One: US-stock rollout reactions
+- HDFC Sky: chart/crash fix after update
+
+## Methodology, Data Sources & Limitations
+
+- **Scoring:** same 7-parameter weighted system as W21 v2.1 — Technical Reliability 20%, Sentiment / New Feature Response / Engagement / Support 15% each, Historical Trend 10%, Content & Transparency 10%. Final = weighted average, 1 decimal.
+- Parameter inputs this run: share of crash/lag reviews (reliability), review average (sentiment), feature reactions, Play rating volume (engagement), support-complaint share, official announcements (transparency), delta vs W21 (historical; 5.0 for brokers without W21 baseline).
+- **Limitations:** heuristic scoring from review samples (lower confidence than W21 manual analysis); features marked [low confidence] are from social/official posts without exact dates; Reddit blocked, X not collected.
