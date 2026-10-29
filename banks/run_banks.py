@@ -13,6 +13,9 @@ items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
 json.dump(items, open(os.path.join(HERE, "items.json"), "w"))
 subprocess.run(["python", "score.py"], cwd=HERE, check=True)
 rep = json.load(open(os.path.join(HERE, "bank_report.json")))
+# score.py sorts by unrounded overall, tie-break Complaints; keep ranks contiguous and in that order.
+rep["banks"].sort(key=lambda b: b["rank"])
+for i, b in enumerate(rep["banks"], 1): b["rank"] = i
 week = dt.date.today().strftime("%G-W%V"); rep["week"] = week
 req = urllib.request.Request(os.environ["SUPABASE_URL"].rstrip("/") + "/rest/v1/category_reports?on_conflict=category,week",
     data=json.dumps([{"category": "banks", "week": week, "report": rep}]).encode(), method="POST",

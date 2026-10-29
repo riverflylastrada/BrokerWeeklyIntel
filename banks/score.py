@@ -73,17 +73,18 @@ for slug,r in raw.items():
     buzz=round(5+4*shrink(r['soc'],r['n_soc'],0,10)+min(1,math.log10(1+r['n_soc'])/2),1)
     P=dict(app_experience=app,customer_service=svc,complaints_rbi=comp,digital_reliability=rel,fees_transparency=fee,innovation=inn,social_buzz=buzz)
     W=dict(app_experience=.22,customer_service=.15,complaints_rbi=.15,digital_reliability=.18,fees_transparency=.10,innovation=.10,social_buzz=.10)
-    overall=round(sum(P[k]*W[k] for k in P),1)
+    raw_overall=sum(P[k]*W[k] for k in P); overall=round(raw_overall,1)
     conf="High" if r['n']>=60 else "Medium" if r['n']>=25 else "Low"
     rv=sorted([i for i in r['L'] if i.get('text')],key=lambda i:-age_w(i))
     quotes=[dict(text=i['text'][:220],source=i['source'],rating=i.get('rating'),url=i.get('url'),sentiment="positive" if sent(i)>0 else "negative" if sent(i)<0 else "neutral") for i in (rv[:3]+[x for x in rv if sent(x)<0][:2]+[x for x in rv if sent(x)>0][:2])]
     seen=set(); quotes=[q for q in quotes if not (q['text'] in seen or seen.add(q['text']))][:6]
     themes=sorted([(t,r['th'][t][0]) for t in r['th']],key=lambda x:-x[1])
-    out.append(dict(slug=slug,name=r['name'],group={"PSB":"Public sector","PVT":"Private sector","SFB":"Small finance"}[g],overall=overall,params=P,complaints_source=('Bank disclosure (OBO maintainable, %s): %s per lakh customers'%(OBO[slug][2],orate)) if orate else 'Estimated (bank disclosure not found; RBI peer-group rate, dampened)',confidence=conf,
+    out.append(dict(slug=slug,name=r['name'],group={"PSB":"Public sector","PVT":"Private sector","SFB":"Small finance"}[g],overall=overall,_raw=raw_overall,params=P,complaints_source=('Bank disclosure (OBO maintainable, %s): %s per lakh customers'%(OBO[slug][2],orate)) if orate else 'Estimated (bank disclosure not found; RBI peer-group rate, dampened)',confidence=conf,
       counts=r['counts'],avg_stars=round(r['stars'],2) if r['stars'] else None,
       top_complaint_themes=[dict(theme={"service":"Customer service","reliab":"App reliability / login / OTP","fees":"Charges & fees","fraud":"Fraud / blocked accounts"}[t],mentions=c) for t,c in themes if c],
       news=nw.get('items',[]),quotes=quotes))
-out.sort(key=lambda x:-x['overall'])
+out.sort(key=lambda x:(-x['_raw'],-x['params']['complaints_rbi']))
+for o in out: o.pop('_raw')
 for i,o in enumerate(out,1): o['rank']=i
 json.dump(dict(category="banks",week=dt.date.today().strftime("%G-W%V"),generated_at=now.isoformat(),banks=out,category_mean_stars=round(MU,2)),open('bank_report.json','w'),indent=1,ensure_ascii=False)
 for o in out: print(o['rank'],o['name'],o['overall'],o['confidence'],o['counts'],o['params'])
