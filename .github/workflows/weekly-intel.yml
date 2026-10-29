@@ -42,14 +42,14 @@ jobs:
         run: |
           python -m scripts.run_weekly
 
-      - name: Bank Pulse weekly run (Apify low and slow, writes to Supabase)
+      - name: Bank Pulse weekly run (Apify low and slow, writes via ingest function)
         working-directory: banks
         continue-on-error: true
         timeout-minutes: 180
         env:
           APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          INGEST_URL: ${{ secrets.INGEST_URL }}
+          INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
         run: |
           pip install apify-client
           python run_banks.py

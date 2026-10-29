@@ -1,5 +1,5 @@
-"""Weekly Bank Pulse run: Apify private actor (low and slow) -> score.py -> Supabase category_reports.
-Env: APIFY_API_TOKEN, SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY. Never log secrets."""
+"""Weekly Bank Pulse run: Apify private actor (low and slow) -> score.py -> ingest-category-report edge function (upserts category_reports).
+Env: APIFY_API_TOKEN, INGEST_URL, INGEST_TOKEN. Never log secrets."""
 import json, os, subprocess, datetime as dt, urllib.request
 from apify_client import ApifyClient
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -17,9 +17,8 @@ rep = json.load(open(os.path.join(HERE, "bank_report.json")))
 rep["banks"].sort(key=lambda b: b["rank"])
 for i, b in enumerate(rep["banks"], 1): b["rank"] = i
 week = dt.date.today().strftime("%G-W%V"); rep["week"] = week
-req = urllib.request.Request(os.environ["SUPABASE_URL"].rstrip("/") + "/rest/v1/category_reports?on_conflict=category,week",
-    data=json.dumps([{"category": "banks", "week": week, "report": rep}]).encode(), method="POST",
-    headers={"apikey": os.environ["SUPABASE_SERVICE_ROLE_KEY"], "Authorization": "Bearer " + os.environ["SUPABASE_SERVICE_ROLE_KEY"],
-             "Content-Type": "application/json", "Prefer": "resolution=merge-duplicates"})
+req = urllib.request.Request(os.environ["INGEST_URL"],
+    data=json.dumps({"category": "banks", "week": week, "report": rep}).encode(), method="POST",
+    headers={"x-ingest-token": os.environ["INGEST_TOKEN"], "Content-Type": "application/json"})
 urllib.request.urlopen(req, timeout=60)
 print(f"banks {week}: {len(items)} items, {len(rep['banks'])} banks scored")
