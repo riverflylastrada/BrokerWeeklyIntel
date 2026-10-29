@@ -42,6 +42,18 @@ jobs:
         run: |
           python -m scripts.run_weekly
 
+      - name: Bank Pulse weekly run (Apify low and slow, writes to Supabase)
+        working-directory: banks
+        continue-on-error: true
+        timeout-minutes: 180
+        env:
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          pip install apify-client
+          python run_banks.py
+
       - name: Commit generated reports and snapshots
         run: |
           git config user.name "github-actions[bot]"
