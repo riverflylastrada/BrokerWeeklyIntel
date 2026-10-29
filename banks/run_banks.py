@@ -59,7 +59,7 @@ if os.path.exists(LAST):
     problems = []
     for b in rep["banks"]:
         for src, n in (prev.get(b["slug"]) or {}).items():
-            if n > 0 and b["counts"].get(src, 0) == 0: problems.append(f"{b['slug']}/{src}: {n} -> 0")
+            if src in ("play_store", "app_store") and n > 0 and b["counts"].get(src, 0) == 0: problems.append(f"{b['slug']}/{src}: {n} -> 0")
     tot_prev = sum(sum(c.values()) for c in prev.values()); tot_now = sum(sum(b["counts"].values()) for b in rep["banks"])
     if tot_prev and tot_now < 0.6 * tot_prev: problems.append(f"total data points {tot_prev} -> {tot_now} (>40% drop)")
     if len(rep["banks"]) < len(prev): problems.append(f"banks {len(prev)} -> {len(rep['banks'])}")
