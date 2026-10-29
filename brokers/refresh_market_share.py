@@ -23,7 +23,7 @@ def parse(p):
         name=next((x for x in cells if re.search('[A-Za-z]{3}',x) and not x.startswith(':')),None)
         nums=[int(x.replace(',','')) for x in cells if re.fullmatch(r'[\d,]{4,}',x)]
         if name and nums: agg.setdefault(norm(name),(nums[0],name))
-    rows=sorted(agg.items(),key=lambda x:-x[1][0])[:25]
+    rows=sorted(agg.items(),key=lambda x:-x[1][0])
     if len(rows)<10: return None
     return dict(month=month,source_url=f"https://tradingqna.com/t/who-are-the-largest-brokerage-firms-in-india/17308/{p['post_number']}",posted=p['created_at'][:10],brokers=[dict(rank=i+1,broker=b,legal_name=ln,active_clients=v) for i,(b,(v,ln)) in enumerate(rows)])
 data=json.load(open(F));have={m['month'] for m in data['months']}
