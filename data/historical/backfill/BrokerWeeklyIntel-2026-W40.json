@@ -6,20 +6,316 @@
  "overall_sentiment": "mixed",
  "brokers": [
   {
-   "broker": "Dhan",
-   "slug": "dhan",
+   "broker": "Sahi Broking",
+   "slug": "sahi-broking",
+   "overall_rating": 8.5,
+   "trend": "Stable",
+   "previous_rating": 8.4,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.8,
+    "new_feature_response": 8.0,
+    "engagement": 9.4,
+    "support": 9.2,
+    "transparency": 6.0,
+    "historical_trend": 5.2,
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 8.1
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Additionally, extra losses were added to my history for no reason. I feel like my account balance has been scammed. I asked for help in the complaint section but no solution has been provided. They keep saying they are looking into it, but it has been a long time. Please solve this as soon as possible. Do not trust them; they manipulate value",
+     "context": "Google Play review, 1★, 2026-10-03",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Scalping: Built for speed with a clean interface that allows one-tap options scalping and quick !!",
+     "context": "Google Play review, 5★, 2026-10-03",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Charges",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-10-03",
+    "to_date": "2026-10-04"
+   },
+   "official_complaints": {
+    "score": 8.8,
+    "rate_per_lakh": 2.85,
+    "rate_score": 9.7,
+    "resolution_rate": 68.8,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 8.0,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-08",
+     "received": 9,
+     "resolved": 5,
+     "pending_end": 10
+    }
+   },
+   "nse_complaints": {
+    "score": 8.4,
+    "rate_per_lakh": 2.64,
+    "avg_monthly": 6.7,
+    "active_clients": 252951,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      13
+     ],
+     [
+      "I",
+      3
+     ],
+     [
+      "IX",
+      3
+     ]
+    ]
+   },
+   "official_combined_score": 8.6,
+   "regulatory_actions": {
+    "penalty": 0.0,
+    "orders": 0,
+    "penalty_lakh": 0,
+    "orders_per_10_lakh": 0.0,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 10.0,
+    "data_month": "2026-08",
+    "active_clients": 252951,
+    "total_ucc": 357624,
+    "active_ratio_pct": 70.7,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": 744.9,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 1.0,
+    "growth_c": 1.0,
+    "adjustment": 1.3
+   }
+  },
+  {
+   "broker": "Groww",
+   "slug": "groww",
    "overall_rating": 8.4,
    "trend": "Stable",
    "previous_rating": 8.4,
    "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.1,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 9.8,
+    "transparency": 7.3,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "badapp",
+     "context": "Google Play review, 1★, 2026-10-04",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "My loan section is not showing pay in advance and foreclosure option please fix it",
+     "context": "Google Play review, 1★, 2026-10-04",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "thanku",
+     "context": "Google Play review, 5★, 2026-10-04",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "badapp",
+      "Hello Groww Team, I’m disappointed with the delay in receiving my refund of ₹196.74. I checked my Canara Bank account, but the amount has still not been credite"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "My loan section is not showing pay in advance and foreclosure option please fix it"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-10-04",
+    "to_date": "2026-10-04"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-08",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
+   },
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.9,
+    "avg_monthly": 120.0,
+    "active_clients": 13347233,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      182
+     ],
+     [
+      "IX",
+      76
+     ],
+     [
+      "IV",
+      64
+     ]
+    ]
+   },
+   "official_combined_score": 9.9,
+   "regulatory_actions": {
+    "penalty": 0.2,
+    "orders": 14,
+    "penalty_lakh": 5.28,
+    "orders_per_10_lakh": 1.05,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 8.9,
+    "data_month": "2026-08",
+    "active_clients": 13347233,
+    "total_ucc": 44850590,
+    "active_ratio_pct": 29.8,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": 10.6,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 1.0,
+    "growth_c": 0.56,
+    "adjustment": 0.0
+   }
+  },
+  {
+   "broker": "Dhan",
+   "slug": "dhan",
+   "overall_rating": 8.4,
+   "trend": "Stable",
+   "previous_rating": 8.5,
+   "rating_breakdown": {
     "technical_reliability": 9.5,
     "sentiment": 9.5,
     "new_feature_response": 7.0,
-    "engagement": 9.0,
+    "engagement": 9.8,
     "support": 9.4,
-    "transparency": 7.5,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
+    "transparency": 6.9,
+    "historical_trend": 4.9,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 9.0
    },
    "new_features": [],
    "key_quotes": [
@@ -108,213 +404,75 @@
      "resolved": 52,
      "pending_end": 11
     }
-   }
-  },
-  {
-   "broker": "Groww",
-   "slug": "groww",
-   "overall_rating": 8.4,
-   "trend": "Stable",
-   "previous_rating": 8.4,
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.1,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "badapp",
-     "context": "Google Play review, 1★, 2026-10-04",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
-     "platform": "other",
-     "broker": "Groww",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "My loan section is not showing pay in advance and foreclosure option please fix it",
-     "context": "Google Play review, 1★, 2026-10-04",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
-     "platform": "other",
-     "broker": "Groww",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "thanku",
-     "context": "Google Play review, 5★, 2026-10-04",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
-     "platform": "other",
-     "broker": "Groww",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "badapp",
-      "Hello Groww Team, I’m disappointed with the delay in receiving my refund of ₹196.74. I checked my Canara Bank account, but the amount has still not been credite"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "My loan section is not showing pay in advance and foreclosure option please fix it"
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-10-04",
-    "to_date": "2026-10-04"
-   },
-   "official_complaints": {
-    "score": 9.8,
-    "rate_per_lakh": 1.64,
-    "rate_score": 10.0,
-    "resolution_rate": 94.2,
+   "nse_complaints": {
+    "score": 8.9,
+    "rate_per_lakh": 2.14,
+    "avg_monthly": 23.7,
+    "active_clients": 1107277,
     "months_used": [
-     "2026-04",
-     "2026-05",
+     "2026-08",
+     "2026-07",
      "2026-06"
     ],
-    "target_month": "2026-08",
-    "stale": true,
-    "avg_monthly_received": 220.3,
-    "active_clients": 13448194,
-    "latest": {
-     "month": "2026-06",
-     "received": 191,
-     "resolved": 234,
-     "pending_end": 42
-    }
-   }
-  },
-  {
-   "broker": "Sahi Broking",
-   "slug": "sahi-broking",
-   "overall_rating": 8.4,
-   "trend": "Stable",
-   "previous_rating": 8.2,
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.8,
-    "new_feature_response": 8.0,
-    "engagement": 8.1,
-    "support": 9.3,
-    "transparency": 6.0,
-    "historical_trend": 5.3,
-    "support_reviews": 9.8
+    "top_types": [
+     [
+      "V",
+      44
+     ],
+     [
+      "IX",
+      12
+     ],
+     [
+      "IV",
+      10
+     ]
+    ]
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Additionally, extra losses were added to my history for no reason. I feel like my account balance has been scammed. I asked for help in the complaint section but no solution has been provided. They keep saying they are looking into it, but it has been a long time. Please solve this as soon as possible. Do not trust them; they manipulate value",
-     "context": "Google Play review, 1★, 2026-10-03",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
-     "platform": "other",
-     "broker": "Sahi Broking",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Scalping: Built for speed with a clean interface that allows one-tap options scalping and quick !!",
-     "context": "Google Play review, 5★, 2026-10-03",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
-     "platform": "other",
-     "broker": "Sahi Broking",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Charges",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
-     ]
-    },
-    {
-     "theme": "Transparency",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "A scam happened in trading. The Sahi app has scammed me in options trading. I closed my position in profit but Sahi modified it and turned it into a loss. Addit"
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-10-03",
-    "to_date": "2026-10-04"
+   "official_combined_score": 9.0,
+   "regulatory_actions": {
+    "penalty": 0.57,
+    "orders": 9,
+    "penalty_lakh": 2.34,
+    "orders_per_10_lakh": 8.13,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
    },
-   "official_complaints": {
-    "score": 8.8,
-    "rate_per_lakh": 2.85,
-    "rate_score": 9.7,
-    "resolution_rate": 68.8,
-    "months_used": [
-     "2026-06",
-     "2026-07",
-     "2026-08"
-    ],
-    "target_month": "2026-08",
-    "stale": false,
-    "avg_monthly_received": 8.0,
-    "active_clients": 281028,
-    "latest": {
-     "month": "2026-08",
-     "received": 9,
-     "resolved": 5,
-     "pending_end": 10
-    }
+   "ucc_factor": {
+    "score": 10.0,
+    "data_month": "2026-08",
+    "active_clients": 1107277,
+    "total_ucc": 3533560,
+    "active_ratio_pct": 31.3,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": 21.9,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 1.0,
+    "growth_c": 1.0,
+    "adjustment": 0.8
    }
   },
   {
    "broker": "Angel One",
    "slug": "angel-one",
-   "overall_rating": 8.3,
+   "overall_rating": 8.2,
    "trend": "Improving",
    "previous_rating": 7.5,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 8.2,
     "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 6.3,
-    "support_reviews": 9.8
+    "engagement": 9.7,
+    "support": 9.7,
+    "transparency": 5.5,
+    "historical_trend": 6.1,
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -385,23 +543,75 @@
    "official_complaints": {
     "score": null,
     "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 9.6,
+    "rate_per_lakh": 1.38,
+    "avg_monthly": 92.7,
+    "active_clients": 6718755,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      152
+     ],
+     [
+      "IX",
+      55
+     ],
+     [
+      "IV",
+      49
+     ]
+    ]
+   },
+   "official_combined_score": 9.6,
+   "regulatory_actions": {
+    "penalty": 0.47,
+    "orders": 37,
+    "penalty_lakh": 32.41,
+    "orders_per_10_lakh": 5.51,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.67,
+    "data_month": "2026-08",
+    "active_clients": 6718755,
+    "total_ucc": 39655653,
+    "active_ratio_pct": 16.9,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -4.6,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -0.08,
+    "growth_c": -0.05,
+    "adjustment": -0.1
    }
   },
   {
    "broker": "Fyers",
    "slug": "fyers",
-   "overall_rating": 8.3,
+   "overall_rating": 7.9,
    "trend": "Stable",
-   "previous_rating": 8.3,
+   "previous_rating": 8.0,
    "rating_breakdown": {
     "technical_reliability": 9.5,
     "sentiment": 9.7,
     "new_feature_response": 6.0,
-    "engagement": 8.7,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
+    "engagement": 8.6,
+    "support": 8.4,
+    "transparency": 6.5,
+    "historical_trend": 4.9,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -481,23 +691,75 @@
    "official_complaints": {
     "score": null,
     "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 4.07,
+    "avg_monthly": 8.0,
+    "active_clients": 196429,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      15
+     ],
+     [
+      "IX",
+      6
+     ],
+     [
+      "IV",
+      2
+     ]
+    ]
+   },
+   "official_combined_score": 6.9,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 6,
+    "penalty_lakh": 0.77,
+    "orders_per_10_lakh": 30.55,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.56,
+    "data_month": "2026-08",
+    "active_clients": 196429,
+    "total_ucc": 1065788,
+    "active_ratio_pct": 18.4,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -10.0,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 0.08,
+    "growth_c": -0.26,
+    "adjustment": -0.1
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 7.8,
+   "overall_rating": 7.7,
    "trend": "Improving",
-   "previous_rating": 7.2,
+   "previous_rating": 7.0,
    "rating_breakdown": {
     "technical_reliability": 9.0,
     "sentiment": 7.7,
     "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 7.5,
-    "transparency": 7.5,
-    "historical_trend": 6.0,
-    "support_reviews": 8.7
+    "engagement": 9.3,
+    "support": 7.7,
+    "transparency": 6.5,
+    "historical_trend": 6.1,
+    "support_reviews": 8.7,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -631,23 +893,75 @@
      "resolved": 275,
      "pending_end": 27
     }
+   },
+   "nse_complaints": {
+    "score": 7.1,
+    "rate_per_lakh": 3.93,
+    "avg_monthly": 73.3,
+    "active_clients": 1864628,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      124
+     ],
+     [
+      "IX",
+      42
+     ],
+     [
+      "IV",
+      29
+     ]
+    ]
+   },
+   "official_combined_score": 6.75,
+   "regulatory_actions": {
+    "penalty": 0.99,
+    "orders": 46,
+    "penalty_lakh": 42.17,
+    "orders_per_10_lakh": 24.67,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.26,
+    "data_month": "2026-08",
+    "active_clients": 1864628,
+    "total_ucc": 19750654,
+    "active_ratio_pct": 9.4,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": 2.4,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -0.93,
+    "growth_c": 0.24,
+    "adjustment": -0.5
    }
   },
   {
    "broker": "5Paisa",
    "slug": "5paisa",
-   "overall_rating": 7.3,
+   "overall_rating": 7.2,
    "trend": "Stable",
    "previous_rating": 7.4,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 9.0,
     "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 6.2,
-    "transparency": 6.0,
-    "historical_trend": 4.8,
-    "support_reviews": 9.3
+    "engagement": 8.6,
+    "support": 7.6,
+    "transparency": 5.0,
+    "historical_trend": 4.7,
+    "support_reviews": 9.3,
+    "transparency_base": 6.0,
+    "engagement_base": 9.6
    },
    "new_features": [],
    "key_quotes": [
@@ -727,23 +1041,75 @@
      "resolved": 24,
      "pending_end": 5
     }
+   },
+   "nse_complaints": {
+    "score": 8.7,
+    "rate_per_lakh": 2.28,
+    "avg_monthly": 7.3,
+    "active_clients": 321573,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      12
+     ],
+     [
+      "IX",
+      5
+     ],
+     [
+      "IV",
+      3
+     ]
+    ]
+   },
+   "official_combined_score": 5.85,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 21,
+    "penalty_lakh": 5.13,
+    "orders_per_10_lakh": 65.3,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 1.2,
+    "data_month": "2026-08",
+    "active_clients": 321573,
+    "total_ucc": 5179798,
+    "active_ratio_pct": 6.2,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -16.5,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -1.0,
+    "growth_c": -0.52,
+    "adjustment": -1.0
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.3,
+   "overall_rating": 7.2,
    "trend": "Stable",
-   "previous_rating": 7.5,
+   "previous_rating": 7.4,
    "rating_breakdown": {
     "technical_reliability": 8.5,
     "sentiment": 7.2,
     "new_feature_response": 6.0,
-    "engagement": 8.5,
-    "support": 8.4,
-    "transparency": 6.0,
+    "engagement": 8.0,
+    "support": 8.6,
+    "transparency": 5.3,
     "historical_trend": 4.6,
-    "support_reviews": 9.8
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 8.5
    },
    "new_features": [],
    "key_quotes": [
@@ -869,6 +1235,56 @@
      "resolved": 265,
      "pending_end": 48
     }
+   },
+   "nse_complaints": {
+    "score": 8.0,
+    "rate_per_lakh": 3.01,
+    "avg_monthly": 40.7,
+    "active_clients": 1351311,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      64
+     ],
+     [
+      "IX",
+      22
+     ],
+     [
+      "IV",
+      17
+     ]
+    ]
+   },
+   "official_combined_score": 7.45,
+   "regulatory_actions": {
+    "penalty": 0.69,
+    "orders": 16,
+    "penalty_lakh": 17.95,
+    "orders_per_10_lakh": 11.84,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 2.92,
+    "data_month": "2026-08",
+    "active_clients": 1351311,
+    "total_ucc": 10047007,
+    "active_ratio_pct": 13.5,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -12.3,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -0.48,
+    "growth_c": -0.35,
+    "adjustment": -0.5
    }
   },
   {
@@ -881,11 +1297,13 @@
     "technical_reliability": 7.0,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
-    "engagement": 9.2,
-    "support": 8.2,
-    "transparency": 6.0,
+    "engagement": 9.5,
+    "support": 8.4,
+    "transparency": 5.6,
     "historical_trend": 5.2,
-    "support_reviews": 9.8
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 9.2
    },
    "new_features": [],
    "key_quotes": [
@@ -1020,23 +1438,75 @@
      "resolved": 311,
      "pending_end": 31
     }
+   },
+   "nse_complaints": {
+    "score": 7.6,
+    "rate_per_lakh": 3.45,
+    "avg_monthly": 74.3,
+    "active_clients": 2156209,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      126
+     ],
+     [
+      "IX",
+      43
+     ],
+     [
+      "IV",
+      33
+     ]
+    ]
+   },
+   "official_combined_score": 7.05,
+   "regulatory_actions": {
+    "penalty": 0.36,
+    "orders": 7,
+    "penalty_lakh": 1.3,
+    "orders_per_10_lakh": 3.25,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 6.03,
+    "data_month": "2026-08",
+    "active_clients": 2156209,
+    "total_ucc": 12942453,
+    "active_ratio_pct": 16.7,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": 9.7,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -0.12,
+    "growth_c": 0.53,
+    "adjustment": 0.3
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.0,
+   "overall_rating": 6.9,
    "trend": "Improving",
    "previous_rating": 6.6,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 5.5,
     "new_feature_response": 6.0,
-    "engagement": 9.7,
-    "support": 7.8,
-    "transparency": 7.5,
+    "engagement": 9.8,
+    "support": 8.1,
+    "transparency": 6.7,
     "historical_trend": 5.6,
-    "support_reviews": 9.3
+    "support_reviews": 9.3,
+    "transparency_base": 7.5,
+    "engagement_base": 9.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1189,12 +1659,62 @@
      "resolved": 230,
      "pending_end": 32
     }
+   },
+   "nse_complaints": {
+    "score": 7.7,
+    "rate_per_lakh": 3.26,
+    "avg_monthly": 45.3,
+    "active_clients": 1391663,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      72
+     ],
+     [
+      "IV",
+      34
+     ],
+     [
+      "IX",
+      18
+     ]
+    ]
+   },
+   "official_combined_score": 6.95,
+   "regulatory_actions": {
+    "penalty": 0.81,
+    "orders": 23,
+    "penalty_lakh": 56.36,
+    "orders_per_10_lakh": 16.53,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 5.38,
+    "data_month": "2026-08",
+    "active_clients": 1391663,
+    "total_ucc": 7469769,
+    "active_ratio_pct": 18.6,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -2.3,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 0.11,
+    "growth_c": 0.05,
+    "adjustment": 0.1
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 6.3,
+   "overall_rating": 6.2,
    "trend": "Declining",
    "previous_rating": 7.2,
    "rating_breakdown": {
@@ -1203,9 +1723,11 @@
     "new_feature_response": 8.0,
     "engagement": 9.8,
     "support": 9.6,
-    "transparency": 7.5,
-    "historical_trend": 3.4,
-    "support_reviews": 9.3
+    "transparency": 7.0,
+    "historical_trend": 3.3,
+    "support_reviews": 9.3,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -1356,6 +1878,56 @@
      "resolved": 85,
      "pending_end": 29
     }
+   },
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.87,
+    "avg_monthly": 59.3,
+    "active_clients": 6796854,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      97
+     ],
+     [
+      "IX",
+      41
+     ],
+     [
+      "IV",
+      18
+     ]
+    ]
+   },
+   "official_combined_score": 9.9,
+   "regulatory_actions": {
+    "penalty": 0.45,
+    "orders": 35,
+    "penalty_lakh": 258.14,
+    "orders_per_10_lakh": 5.15,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 7.21,
+    "data_month": "2026-08",
+    "active_clients": 6796854,
+    "total_ucc": 18034811,
+    "active_ratio_pct": 37.7,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -6.4,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": 1.0,
+    "growth_c": -0.12,
+    "adjustment": 0.0
    }
   },
   {
@@ -1368,11 +1940,13 @@
     "technical_reliability": 1,
     "sentiment": 1.8,
     "new_feature_response": 6.0,
-    "engagement": 8.6,
-    "support": 7.2,
-    "transparency": 6.0,
-    "historical_trend": 5.1,
-    "support_reviews": 9.8
+    "engagement": 8.2,
+    "support": 7.8,
+    "transparency": 5.0,
+    "historical_trend": 4.9,
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 8.6
    },
    "new_features": [],
    "key_quotes": [
@@ -1514,6 +2088,56 @@
      "resolved": 100,
      "pending_end": 43
     }
+   },
+   "nse_complaints": {
+    "score": 7.1,
+    "rate_per_lakh": 3.85,
+    "avg_monthly": 20.3,
+    "active_clients": 527565,
+    "months_used": [
+     "2026-08",
+     "2026-07",
+     "2026-06"
+    ],
+    "top_types": [
+     [
+      "V",
+      31
+     ],
+     [
+      "IX",
+      12
+     ],
+     [
+      "IV",
+      11
+     ]
+    ]
+   },
+   "official_combined_score": 5.8,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 59,
+    "penalty_lakh": 20.04,
+    "orders_per_10_lakh": 111.83,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.32,
+    "data_month": "2026-08",
+    "active_clients": 527565,
+    "total_ucc": 3700510,
+    "active_ratio_pct": 14.3,
+    "peer_median_ratio_pct": 17.7,
+    "growth_pct": -10.6,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.5,
+    "ratio_c": -0.39,
+    "growth_c": -0.29,
+    "adjustment": -0.4
    }
   }
  ],
@@ -1526,5 +2150,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end. Official complaints = average of the broker-disclosure score and the NSE score (NSE Report 1A complaints per lakh NSE active clients, 3 months ending the week's data month, score 10-1.0x(rate-1)); if only one exists it is used alone. Transparency is reduced by min(1.0, 0.2 x sqrt(NSE penal orders per 10 lakh active clients) over the current and previous financial year) from Report 4A/4B. Engagement includes a UCC client-base adjustment (NSE Report 1C): active-client ratio (active / total UCC) vs the tracked-broker median and 12-month active-client growth (month-on-month x12 if no 12-month history) vs the median; ucc_score = 5 + 2.5 x ratio part + 2.5 x growth part, each part clamped to -1..+1; Engagement changes by 1.3 x (ucc_score - 5) / 5, i.e. at most +/-1.3 (overall at most +/-0.2). Brokers without 1C data are unchanged and flagged."
 }

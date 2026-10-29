@@ -6,84 +6,6 @@
  "overall_sentiment": "mixed",
  "brokers": [
   {
-   "broker": "Fyers",
-   "slug": "fyers",
-   "overall_rating": 8.3,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 9.5,
-    "sentiment": 9.8,
-    "new_feature_response": 6.0,
-    "engagement": 8.7,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
-   },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra",
-     "context": "Google Play review, 1★, 2026-09-05",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
-     "platform": "other",
-     "broker": "Fyers",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "FYERS is a useful app for stocks and options trading. The interface looks clean and easy to understand, and the app provides helpful tools for tracking the market and managing investments. Overall, it seems like a good option for users who want a modern trading platform!",
-     "context": "Google Play review, 5★, 2026-09-05",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
-     "platform": "other",
-     "broker": "Fyers",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Fyers",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-05",
-     "last_seen": "2026-09-05"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-04",
-    "to_date": "2026-09-06"
-   },
-   "official_complaints": {
-    "score": null,
-    "status": "not published"
-   }
-  },
-  {
    "broker": "Groww",
    "slug": "groww",
    "overall_rating": 8.2,
@@ -94,9 +16,11 @@
     "new_feature_response": 6.0,
     "engagement": 9.8,
     "support": 9.6,
-    "transparency": 7.5,
+    "transparency": 7.3,
     "historical_trend": 5.0,
-    "support_reviews": 9.3
+    "support_reviews": 9.3,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -211,118 +135,74 @@
      "resolved": 234,
      "pending_end": 42
     }
-   }
-  },
-  {
-   "broker": "Angel One",
-   "slug": "angel-one",
-   "overall_rating": 8.0,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 9.5,
-    "sentiment": 8.5,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.3,
-    "transparency": 6.0,
-    "historical_trend": 5.0,
-    "support_reviews": 9.3
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "Dear All users, Kindly AVOID using ANGELONE, as they have some foolish person sitting and simply copy pasting old lines everytime. ANGLEONE even after being 25+ yrs old they dont know what is SLBM service? Disgusting, Pathetic...",
-     "context": "Google Play review, 1★, 2026-09-06",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again",
-     "context": "Google Play review, 1★, 2026-09-05",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "👍",
-     "context": "Google Play review, 5★, 2026-09-06",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "worst app, i am trying to open this app but doesn't work 10 go away",
-      "👎🏻"
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.84,
+    "avg_monthly": 110.3,
+    "active_clients": 13123871,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      162
+     ],
+     [
+      "IX",
+      67
+     ],
+     [
+      "IV",
+      63
      ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Angel One",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-05",
-     "last_seen": "2026-09-05"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-05",
-    "to_date": "2026-09-06"
+    ]
    },
-   "official_complaints": {
-    "score": null,
-    "status": "not published"
+   "official_combined_score": 9.9,
+   "regulatory_actions": {
+    "penalty": 0.21,
+    "orders": 14,
+    "penalty_lakh": 5.28,
+    "orders_per_10_lakh": 1.07,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 8.97,
+    "data_month": "2026-07",
+    "active_clients": 13123871,
+    "total_ucc": 44850590,
+    "active_ratio_pct": 29.3,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": 6.3,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 1.0,
+    "growth_c": 0.59,
+    "adjustment": 0.0
    }
   },
   {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 7.9,
+   "overall_rating": 8.1,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 9.0,
     "sentiment": 8.0,
     "new_feature_response": 8.0,
-    "engagement": 8.1,
-    "support": 9.4,
+    "engagement": 9.4,
+    "support": 9.2,
     "transparency": 6.0,
     "historical_trend": 5.0,
-    "support_reviews": 9.3
+    "support_reviews": 9.3,
+    "transparency_base": 6.0,
+    "engagement_base": 8.1
    },
    "new_features": [],
    "key_quotes": [
@@ -446,6 +326,334 @@
      "resolved": 10,
      "pending_end": 6
     }
+   },
+   "nse_complaints": {
+    "score": 8.8,
+    "rate_per_lakh": 2.19,
+    "avg_monthly": 5.0,
+    "active_clients": 228233,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      11
+     ],
+     [
+      "IX",
+      3
+     ],
+     [
+      "IV",
+      1
+     ]
+    ]
+   },
+   "official_combined_score": 9.1,
+   "regulatory_actions": {
+    "penalty": 0.0,
+    "orders": 0,
+    "penalty_lakh": 0,
+    "orders_per_10_lakh": 0.0,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 10.0,
+    "data_month": "2026-07",
+    "active_clients": 228233,
+    "total_ucc": 357624,
+    "active_ratio_pct": 63.8,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": 962.0,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 1.0,
+    "growth_c": 1.0,
+    "adjustment": 1.3
+   }
+  },
+  {
+   "broker": "Fyers",
+   "slug": "fyers",
+   "overall_rating": 8.0,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 9.5,
+    "sentiment": 9.8,
+    "new_feature_response": 6.0,
+    "engagement": 8.7,
+    "support": 8.4,
+    "transparency": 6.5,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 8.7
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra",
+     "context": "Google Play review, 1★, 2026-09-05",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "FYERS is a useful app for stocks and options trading. The interface looks clean and easy to understand, and the app provides helpful tools for tracking the market and managing investments. Overall, it seems like a good option for users who want a modern trading platform!",
+     "context": "Google Play review, 5★, 2026-09-05",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "remove extra thing when opening chart so that full screen only chart showing down side no time go to botton or extra"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Fyers",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-05",
+     "last_seen": "2026-09-05"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-04",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 4.1,
+    "avg_monthly": 8.0,
+    "active_clients": 195119,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "IX",
+      11
+     ],
+     [
+      "V",
+      10
+     ],
+     [
+      "IV",
+      3
+     ]
+    ]
+   },
+   "official_combined_score": 6.9,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 6,
+    "penalty_lakh": 0.77,
+    "orders_per_10_lakh": 30.75,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.84,
+    "data_month": "2026-07",
+    "active_clients": 195119,
+    "total_ucc": 1065788,
+    "active_ratio_pct": 18.3,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -12.2,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 0.09,
+    "growth_c": -0.15,
+    "adjustment": 0.0
+   }
+  },
+  {
+   "broker": "Angel One",
+   "slug": "angel-one",
+   "overall_rating": 8.0,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 9.5,
+    "sentiment": 8.5,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 9.5,
+    "transparency": 5.5,
+    "historical_trend": 5.0,
+    "support_reviews": 9.3,
+    "transparency_base": 6.0,
+    "engagement_base": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "Dear All users, Kindly AVOID using ANGELONE, as they have some foolish person sitting and simply copy pasting old lines everytime. ANGLEONE even after being 25+ yrs old they dont know what is SLBM service? Disgusting, Pathetic...",
+     "context": "Google Play review, 1★, 2026-09-06",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again",
+     "context": "Google Play review, 1★, 2026-09-05",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "👍",
+     "context": "Google Play review, 5★, 2026-09-06",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "worst app, i am trying to open this app but doesn't work 10 go away",
+      "👎🏻"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "very irritating app, it on its own logout and when i tried to login it is showing to do kyc kyc thing again and again"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Angel One",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-05",
+     "last_seen": "2026-09-05"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-05",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 9.7,
+    "rate_per_lakh": 1.34,
+    "avg_monthly": 88.7,
+    "active_clients": 6634119,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      144
+     ],
+     [
+      "IV",
+      52
+     ],
+     [
+      "IX",
+      44
+     ]
+    ]
+   },
+   "official_combined_score": 9.7,
+   "regulatory_actions": {
+    "penalty": 0.47,
+    "orders": 37,
+    "penalty_lakh": 32.41,
+    "orders_per_10_lakh": 5.58,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.84,
+    "data_month": "2026-07",
+    "active_clients": 6634119,
+    "total_ucc": 39655653,
+    "active_ratio_pct": 16.7,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -7.8,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -0.09,
+    "growth_c": 0.02,
+    "adjustment": 0.0
    }
   },
   {
@@ -458,10 +666,12 @@
     "sentiment": 6.9,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.9,
-    "transparency": 7.5,
+    "support": 9.0,
+    "transparency": 7.0,
     "historical_trend": 5.0,
-    "support_reviews": 8.0
+    "support_reviews": 8.0,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -613,205 +823,74 @@
      "resolved": 82,
      "pending_end": 16
     }
-   }
-  },
-  {
-   "broker": "Upstox",
-   "slug": "upstox",
-   "overall_rating": 7.7,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 8.5,
-    "sentiment": 7.5,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 8.1,
-    "transparency": 7.5,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "I am extremely dissatisfied with the way charges have been deducted from my Upstox account. I have noticed charges being applied to my account that were either not clearly communicated to me or appear to be significantly higher than what I expected.",
-     "context": "Google Play review, 1★, 2026-09-05",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ever in industry my first stock app but if you remove AMC let me know",
-     "context": "Google Play review, 1★, 2026-09-06",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good and interesting fact well beautiful song cheppu",
-     "context": "Google Play review, 5★, 2026-09-05",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Charges",
-     "count": 7,
-     "severity": "high",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "old users being charged with app maintenance fees and new users not. why this inequality?"
-     ]
-    },
-    {
-     "theme": "Other",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "sabse Jyada ghatiya app hai",
-      "👍"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "when a limit order is placed for sell,then we wish to exit the market price due to market conditions that cannot possible before cancelling previous limit order"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "previous UI was the best, current one is worst."
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Upstox",
-     "description": "Reliability: 3 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "platform_wide",
-     "volume": 3,
-     "first_seen": "2026-09-04",
-     "last_seen": "2026-09-06"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-04",
-    "to_date": "2026-09-06"
-   },
-   "official_complaints": {
-    "score": 6.4,
-    "rate_per_lakh": 14.45,
-    "rate_score": 5.0,
-    "resolution_rate": 95.8,
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.93,
+    "avg_monthly": 62.7,
+    "active_clients": 6762353,
     "months_used": [
-     "2026-05",
+     "2026-07",
      "2026-06",
-     "2026-07"
+     "2026-05"
     ],
-    "target_month": "2026-07",
-    "stale": false,
-    "avg_monthly_received": 268.0,
-    "active_clients": 1854285,
-    "latest": {
-     "month": "2026-07",
-     "received": 279,
-     "resolved": 293,
-     "pending_end": 37
-    }
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 7.5,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.8,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 6.4,
-    "transparency": 6.0,
-    "historical_trend": 5.0,
-    "support_reviews": 9.8
+    "top_types": [
+     [
+      "V",
+      117
+     ],
+     [
+      "IX",
+      27
+     ],
+     [
+      "IV",
+      18
+     ]
+    ]
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "Good trading app.",
-     "context": "Google Play review, 5★, 2026-09-06",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-06",
-    "to_date": "2026-09-06"
+   "official_combined_score": 9.95,
+   "regulatory_actions": {
+    "penalty": 0.46,
+    "orders": 35,
+    "penalty_lakh": 258.14,
+    "orders_per_10_lakh": 5.18,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
    },
-   "official_complaints": {
-    "score": 3.0,
-    "rate_per_lakh": 45.98,
-    "rate_score": 0.0,
-    "resolution_rate": 99.3,
-    "months_used": [
-     "2026-05",
-     "2026-06",
-     "2026-07"
-    ],
-    "target_month": "2026-07",
-    "stale": false,
-    "avg_monthly_received": 147.7,
-    "active_clients": 321174,
-    "latest": {
-     "month": "2026-07",
-     "received": 25,
-     "resolved": 24,
-     "pending_end": 3
-    }
+   "ucc_factor": {
+    "score": 7.44,
+    "data_month": "2026-07",
+    "active_clients": 6762353,
+    "total_ucc": 18034811,
+    "active_ratio_pct": 37.5,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -9.0,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 1.0,
+    "growth_c": -0.02,
+    "adjustment": 0.0
    }
   },
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 7.4,
+   "overall_rating": 7.5,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 5.9,
     "new_feature_response": 7.0,
-    "engagement": 9.0,
-    "support": 9.3,
-    "transparency": 7.5,
+    "engagement": 9.8,
+    "support": 9.2,
+    "transparency": 6.9,
     "historical_trend": 5.0,
-    "support_reviews": 9.3
+    "support_reviews": 9.3,
+    "transparency_base": 7.5,
+    "engagement_base": 9.0
    },
    "new_features": [],
    "key_quotes": [
@@ -963,6 +1042,343 @@
      "resolved": 64,
      "pending_end": 3
     }
+   },
+   "nse_complaints": {
+    "score": 9.0,
+    "rate_per_lakh": 2.02,
+    "avg_monthly": 22.0,
+    "active_clients": 1087459,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      39
+     ],
+     [
+      "IX",
+      14
+     ],
+     [
+      "IV",
+      10
+     ]
+    ]
+   },
+   "official_combined_score": 9.15,
+   "regulatory_actions": {
+    "penalty": 0.58,
+    "orders": 9,
+    "penalty_lakh": 2.34,
+    "orders_per_10_lakh": 8.28,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 9.93,
+    "data_month": "2026-07",
+    "active_clients": 1087459,
+    "total_ucc": 3533560,
+    "active_ratio_pct": 30.8,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": 15.8,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 1.0,
+    "growth_c": 0.97,
+    "adjustment": 0.8
+   }
+  },
+  {
+   "broker": "Upstox",
+   "slug": "upstox",
+   "overall_rating": 7.4,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 8.5,
+    "sentiment": 7.5,
+    "new_feature_response": 6.0,
+    "engagement": 9.0,
+    "support": 8.1,
+    "transparency": 6.5,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "I am extremely dissatisfied with the way charges have been deducted from my Upstox account. I have noticed charges being applied to my account that were either not clearly communicated to me or appear to be significantly higher than what I expected.",
+     "context": "Google Play review, 1★, 2026-09-05",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ever in industry my first stock app but if you remove AMC let me know",
+     "context": "Google Play review, 1★, 2026-09-06",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good and interesting fact well beautiful song cheppu",
+     "context": "Google Play review, 5★, 2026-09-05",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Charges",
+     "count": 7,
+     "severity": "high",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "old users being charged with app maintenance fees and new users not. why this inequality?"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "sabse Jyada ghatiya app hai",
+      "👍"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "when a limit order is placed for sell,then we wish to exit the market price due to market conditions that cannot possible before cancelling previous limit order"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "previous UI was the best, current one is worst."
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Upstox",
+     "description": "Reliability: 3 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 3,
+     "first_seen": "2026-09-04",
+     "last_seen": "2026-09-06"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-04",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 14.45,
+    "rate_score": 5.0,
+    "resolution_rate": 95.8,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 268.0,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-07",
+     "received": 279,
+     "resolved": 293,
+     "pending_end": 37
+    }
+   },
+   "nse_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 4.62,
+    "avg_monthly": 86.0,
+    "active_clients": 1860879,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      161
+     ],
+     [
+      "IX",
+      43
+     ],
+     [
+      "IV",
+      31
+     ]
+    ]
+   },
+   "official_combined_score": 6.4,
+   "regulatory_actions": {
+    "penalty": 0.99,
+    "orders": 46,
+    "penalty_lakh": 42.17,
+    "orders_per_10_lakh": 24.72,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 1.85,
+    "data_month": "2026-07",
+    "active_clients": 1860879,
+    "total_ucc": 19750654,
+    "active_ratio_pct": 9.4,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -16.8,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -0.92,
+    "growth_c": -0.34,
+    "adjustment": -0.8
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.4,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.8,
+    "new_feature_response": 3.5,
+    "engagement": 8.7,
+    "support": 7.8,
+    "transparency": 5.0,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 9.6
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "Good trading app.",
+     "context": "Google Play review, 5★, 2026-09-06",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-06",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 45.98,
+    "rate_score": 0.0,
+    "resolution_rate": 99.3,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 147.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-07",
+     "received": 25,
+     "resolved": 24,
+     "pending_end": 3
+    }
+   },
+   "nse_complaints": {
+    "score": 8.7,
+    "rate_per_lakh": 2.33,
+    "avg_monthly": 7.3,
+    "active_clients": 315412,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      12
+     ],
+     [
+      "IX",
+      5
+     ],
+     [
+      "IV",
+      5
+     ]
+    ]
+   },
+   "official_combined_score": 5.85,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 21,
+    "penalty_lakh": 5.13,
+    "orders_per_10_lakh": 66.58,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 1.37,
+    "data_month": "2026-07",
+    "active_clients": 315412,
+    "total_ucc": 5179798,
+    "active_ratio_pct": 6.1,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -19.7,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -1.0,
+    "growth_c": -0.45,
+    "adjustment": -0.9
    }
   },
   {
@@ -974,11 +1390,13 @@
     "technical_reliability": 6.5,
     "sentiment": 6.6,
     "new_feature_response": 6.0,
-    "engagement": 9.7,
-    "support": 7.6,
-    "transparency": 7.5,
+    "engagement": 9.8,
+    "support": 8.0,
+    "transparency": 6.7,
     "historical_trend": 5.0,
-    "support_reviews": 9.3
+    "support_reviews": 9.3,
+    "transparency_base": 7.5,
+    "engagement_base": 9.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1129,22 +1547,74 @@
      "resolved": 214,
      "pending_end": 88
     }
+   },
+   "nse_complaints": {
+    "score": 7.6,
+    "rate_per_lakh": 3.45,
+    "avg_monthly": 47.7,
+    "active_clients": 1382223,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      68
+     ],
+     [
+      "IV",
+      37
+     ],
+     [
+      "IX",
+      23
+     ]
+    ]
+   },
+   "official_combined_score": 6.75,
+   "regulatory_actions": {
+    "penalty": 0.82,
+    "orders": 23,
+    "penalty_lakh": 56.36,
+    "orders_per_10_lakh": 16.64,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 5.7,
+    "data_month": "2026-07",
+    "active_clients": 1382223,
+    "total_ucc": 7469769,
+    "active_ratio_pct": 18.5,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -4.3,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": 0.11,
+    "growth_c": 0.17,
+    "adjustment": 0.1
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.0,
+   "overall_rating": 6.9,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.4,
     "sentiment": 6.9,
     "new_feature_response": 6.0,
-    "engagement": 8.5,
+    "engagement": 8.0,
     "support": 8.4,
-    "transparency": 6.0,
+    "transparency": 5.3,
     "historical_trend": 5.0,
-    "support_reviews": 8.6
+    "support_reviews": 8.6,
+    "transparency_base": 6.0,
+    "engagement_base": 8.5
    },
    "new_features": [],
    "key_quotes": [
@@ -1289,22 +1759,74 @@
      "resolved": 101,
      "pending_end": 22
     }
+   },
+   "nse_complaints": {
+    "score": 8.3,
+    "rate_per_lakh": 2.75,
+    "avg_monthly": 36.7,
+    "active_clients": 1335113,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      58
+     ],
+     [
+      "IX",
+      26
+     ],
+     [
+      "IV",
+      13
+     ]
+    ]
+   },
+   "official_combined_score": 8.3,
+   "regulatory_actions": {
+    "penalty": 0.69,
+    "orders": 16,
+    "penalty_lakh": 17.95,
+    "orders_per_10_lakh": 11.98,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.12,
+    "data_month": "2026-07",
+    "active_clients": 1335113,
+    "total_ucc": 10047007,
+    "active_ratio_pct": 13.3,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -15.2,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -0.48,
+    "growth_c": -0.27,
+    "adjustment": -0.5
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.6,
+   "overall_rating": 6.7,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
-    "engagement": 9.2,
-    "support": 7.1,
-    "transparency": 6.0,
+    "engagement": 9.6,
+    "support": 7.4,
+    "transparency": 5.6,
     "historical_trend": 5.0,
-    "support_reviews": 7.3
+    "support_reviews": 7.3,
+    "transparency_base": 6.0,
+    "engagement_base": 9.2
    },
    "new_features": [],
    "key_quotes": [
@@ -1447,6 +1969,56 @@
      "resolved": 281,
      "pending_end": 25
     }
+   },
+   "nse_complaints": {
+    "score": 8.0,
+    "rate_per_lakh": 3.0,
+    "avg_monthly": 64.0,
+    "active_clients": 2132824,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      112
+     ],
+     [
+      "IX",
+      37
+     ],
+     [
+      "IV",
+      33
+     ]
+    ]
+   },
+   "official_combined_score": 7.45,
+   "regulatory_actions": {
+    "penalty": 0.36,
+    "orders": 7,
+    "penalty_lakh": 1.3,
+    "orders_per_10_lakh": 3.28,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 6.43,
+    "data_month": "2026-07",
+    "active_clients": 2132824,
+    "total_ucc": 12942453,
+    "active_ratio_pct": 16.5,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": 8.9,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -0.12,
+    "growth_c": 0.69,
+    "adjustment": 0.4
    }
   },
   {
@@ -1458,11 +2030,13 @@
     "technical_reliability": 1,
     "sentiment": 2.9,
     "new_feature_response": 6.0,
-    "engagement": 8.6,
-    "support": 6.8,
-    "transparency": 6.0,
+    "engagement": 8.2,
+    "support": 7.3,
+    "transparency": 5.0,
     "historical_trend": 5.0,
-    "support_reviews": 8.7
+    "support_reviews": 8.7,
+    "transparency_base": 6.0,
+    "engagement_base": 8.6
    },
    "new_features": [],
    "key_quotes": [
@@ -1615,6 +2189,56 @@
      "resolved": 89,
      "pending_end": 27
     }
+   },
+   "nse_complaints": {
+    "score": 7.0,
+    "rate_per_lakh": 4.01,
+    "avg_monthly": 21.0,
+    "active_clients": 523228,
+    "months_used": [
+     "2026-07",
+     "2026-06",
+     "2026-05"
+    ],
+    "top_types": [
+     [
+      "V",
+      32
+     ],
+     [
+      "IX",
+      11
+     ],
+     [
+      "IV",
+      10
+     ]
+    ]
+   },
+   "official_combined_score": 6.0,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 59,
+    "penalty_lakh": 20.04,
+    "orders_per_10_lakh": 112.76,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.47,
+    "data_month": "2026-07",
+    "active_clients": 523228,
+    "total_ucc": 3700510,
+    "active_ratio_pct": 14.1,
+    "peer_median_ratio_pct": 17.5,
+    "growth_pct": -14.0,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -8.4,
+    "ratio_c": -0.39,
+    "growth_c": -0.22,
+    "adjustment": -0.4
    }
   }
  ],
@@ -1627,5 +2251,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end. Official complaints = average of the broker-disclosure score and the NSE score (NSE Report 1A complaints per lakh NSE active clients, 3 months ending the week's data month, score 10-1.0x(rate-1)); if only one exists it is used alone. Transparency is reduced by min(1.0, 0.2 x sqrt(NSE penal orders per 10 lakh active clients) over the current and previous financial year) from Report 4A/4B. Engagement includes a UCC client-base adjustment (NSE Report 1C): active-client ratio (active / total UCC) vs the tracked-broker median and 12-month active-client growth (month-on-month x12 if no 12-month history) vs the median; ucc_score = 5 + 2.5 x ratio part + 2.5 x growth part, each part clamped to -1..+1; Engagement changes by 1.3 x (ucc_score - 5) / 5, i.e. at most +/-1.3 (overall at most +/-0.2). Brokers without 1C data are unchanged and flagged."
 }

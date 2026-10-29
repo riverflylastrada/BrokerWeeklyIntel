@@ -6,130 +6,22 @@
  "overall_sentiment": "mixed",
  "brokers": [
   {
-   "broker": "Fyers",
-   "slug": "fyers",
-   "overall_rating": 8.4,
-   "trend": "Improving",
-   "previous_rating": 7.9,
-   "rating_breakdown": {
-    "technical_reliability": 9.5,
-    "sentiment": 9.7,
-    "new_feature_response": 6.0,
-    "engagement": 8.7,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.8,
-    "support_reviews": 9.8
-   },
-   "new_features": [
-    {
-     "broker": "Fyers",
-     "feature_name": "API v3 changelog updates [low confidence]",
-     "launch_date": "2026-10 (approx.)",
-     "user_reaction": "Too early to tell",
-     "discussion_volume": "Low",
-     "evidence_links": [
-      "https://fyers.in/api-docs/v3/changelog/"
-     ]
-    }
-   ],
-   "key_quotes": [
-    {
-     "quote": "A well-organized layout can make navigating a trading application much easier,,",
-     "context": "Google Play review, 5★, 2026-10-27",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
-     "platform": "other",
-     "broker": "Fyers",
-     "sentimentScore": 1.0
-    },
-    {
-     "quote": "@StockyMind I too had losses this week.  So to kill the time, shifting from dhan to fyers.   Creating new account.",
-     "context": "X post, 2026-10-01",
-     "sentiment": "negative",
-     "source_url": "https://x.com/i/status/2105549001416405374",
-     "platform": "x",
-     "broker": "Fyers",
-     "sentimentScore": -0.6
-    },
-    {
-     "quote": "@iSatyamkum @zerodha facing the issue with groww here, will use dhan or fyers nw",
-     "context": "X post, 2026-10-06",
-     "sentiment": "negative",
-     "source_url": "https://x.com/i/status/2107423015256662479",
-     "platform": "x",
-     "broker": "Fyers",
-     "sentimentScore": -0.6
-    },
-    {
-     "quote": "Forcing mobile data to turn off: While app open mobile data went down frequently tested after closing app and the internet was stable \n\n\nPlease fix asap",
-     "context": "App Store review, 1★, 2026-10-06",
-     "sentiment": "negative",
-     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
-     "platform": "other",
-     "broker": "Fyers",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Most advance and reliable: Fyers is the only broker in Indian stock market which implement new technology first. It provides best in class technology and reliable charts. If you are an Intraday trader and want to trade directly from charts, fyers is the best platform. It also pro",
-     "context": "App Store review, 5★, 2026-10-24",
-     "sentiment": "positive",
-     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
-     "platform": "other",
-     "broker": "Fyers",
-     "sentimentScore": 1.0
-    },
-    {
-     "quote": "Fyers backend is so poor..They take brokerage for delivery,still very bad service",
-     "context": "YouTube comment on a recent review video (comment date not verified this week)",
-     "sentiment": "neutral",
-     "source_url": "https://www.youtube.com/watch?v=K9jJyXOkleY&lc=Ugx5H3R2t3MayaYRQLx4AaABAg",
-     "platform": "youtube",
-     "broker": "Fyers",
-     "sentimentScore": 0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Reliability",
-     "count": 2,
-     "severity": "medium",
-     "example_quotes": [
-      "@marketcallsHQ Thank you for update sir, previous one tick update lag in the upstox api compare to fyers , I think latest updates will solve the issue...let see"
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [
-    "User reaction to 'API v3 changelog updates [low confidence]'"
-   ],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-10-27",
-    "to_date": "2026-10-28"
-   },
-   "official_complaints": {
-    "score": null,
-    "status": "not published"
-   }
-  },
-  {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 8.1,
+   "overall_rating": 8.3,
    "trend": "Stable",
-   "previous_rating": 8.3,
+   "previous_rating": 8.5,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 8.5,
     "new_feature_response": 8.0,
-    "engagement": 8.1,
-    "support": 9.1,
+    "engagement": 9.4,
+    "support": 9.2,
     "transparency": 6.0,
     "historical_trend": 4.6,
-    "support_reviews": 9.8
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 8.1
    },
    "new_features": [
     {
@@ -286,6 +178,218 @@
      "resolved": 10,
      "pending_end": 16
     }
+   },
+   "nse_complaints": {
+    "score": 8.6,
+    "rate_per_lakh": 2.37,
+    "avg_monthly": 6.7,
+    "active_clients": 281028,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      12
+     ],
+     [
+      "IX",
+      3
+     ],
+     [
+      "I",
+      3
+     ]
+    ]
+   },
+   "official_combined_score": 8.5,
+   "regulatory_actions": {
+    "penalty": 0.0,
+    "orders": 0,
+    "penalty_lakh": 0,
+    "orders_per_10_lakh": 0.0,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 10.0,
+    "data_month": "2026-09",
+    "active_clients": 281028,
+    "total_ucc": 357624,
+    "active_ratio_pct": 78.6,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": 580.7,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 1.0,
+    "growth_c": 1.0,
+    "adjustment": 1.3
+   }
+  },
+  {
+   "broker": "Fyers",
+   "slug": "fyers",
+   "overall_rating": 7.9,
+   "trend": "Improving",
+   "previous_rating": 7.5,
+   "rating_breakdown": {
+    "technical_reliability": 9.5,
+    "sentiment": 9.7,
+    "new_feature_response": 6.0,
+    "engagement": 8.6,
+    "support": 7.8,
+    "transparency": 6.5,
+    "historical_trend": 5.7,
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 8.7
+   },
+   "new_features": [
+    {
+     "broker": "Fyers",
+     "feature_name": "API v3 changelog updates [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://fyers.in/api-docs/v3/changelog/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "A well-organized layout can make navigating a trading application much easier,,",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@StockyMind I too had losses this week.  So to kill the time, shifting from dhan to fyers.   Creating new account.",
+     "context": "X post, 2026-10-01",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2105549001416405374",
+     "platform": "x",
+     "broker": "Fyers",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@iSatyamkum @zerodha facing the issue with groww here, will use dhan or fyers nw",
+     "context": "X post, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107423015256662479",
+     "platform": "x",
+     "broker": "Fyers",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Forcing mobile data to turn off: While app open mobile data went down frequently tested after closing app and the internet was stable \n\n\nPlease fix asap",
+     "context": "App Store review, 1★, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Most advance and reliable: Fyers is the only broker in Indian stock market which implement new technology first. It provides best in class technology and reliable charts. If you are an Intraday trader and want to trade directly from charts, fyers is the best platform. It also pro",
+     "context": "App Store review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Fyers backend is so poor..They take brokerage for delivery,still very bad service",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=K9jJyXOkleY&lc=Ugx5H3R2t3MayaYRQLx4AaABAg",
+     "platform": "youtube",
+     "broker": "Fyers",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Reliability",
+     "count": 2,
+     "severity": "medium",
+     "example_quotes": [
+      "@marketcallsHQ Thank you for update sir, previous one tick update lag in the upstox api compare to fyers , I think latest updates will solve the issue...let see"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [
+    "User reaction to 'API v3 changelog updates [low confidence]'"
+   ],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-10-27",
+    "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 5.8,
+    "rate_per_lakh": 5.24,
+    "avg_monthly": 10.3,
+    "active_clients": 197380,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      20
+     ],
+     [
+      "IV",
+      5
+     ],
+     [
+      "IX",
+      5
+     ]
+    ]
+   },
+   "official_combined_score": 5.8,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 6,
+    "penalty_lakh": 0.77,
+    "orders_per_10_lakh": 30.4,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.7,
+    "data_month": "2026-09",
+    "active_clients": 197380,
+    "total_ucc": 1065788,
+    "active_ratio_pct": 18.5,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -8.1,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 0.08,
+    "growth_c": -0.2,
+    "adjustment": -0.1
    }
   },
   {
@@ -300,9 +404,11 @@
     "new_feature_response": 6.0,
     "engagement": 9.8,
     "support": 9.8,
-    "transparency": 7.5,
+    "transparency": 7.3,
     "historical_trend": 4.2,
-    "support_reviews": 9.8
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [
     {
@@ -516,6 +622,56 @@
      "resolved": 234,
      "pending_end": 42
     }
+   },
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.96,
+    "avg_monthly": 129.0,
+    "active_clients": 13448194,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      182
+     ],
+     [
+      "IX",
+      97
+     ],
+     [
+      "IV",
+      60
+     ]
+    ]
+   },
+   "official_combined_score": 9.9,
+   "regulatory_actions": {
+    "penalty": 0.2,
+    "orders": 14,
+    "penalty_lakh": 5.28,
+    "orders_per_10_lakh": 1.04,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 9.1,
+    "data_month": "2026-09",
+    "active_clients": 13448194,
+    "total_ucc": 44850590,
+    "active_ratio_pct": 30.0,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": 12.9,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 1.0,
+    "growth_c": 0.64,
+    "adjustment": 0.0
    }
   },
   {
@@ -527,11 +683,13 @@
     "technical_reliability": 8.5,
     "sentiment": 8.4,
     "new_feature_response": 7.0,
-    "engagement": 9.0,
+    "engagement": 9.8,
     "support": 8.9,
-    "transparency": 7.5,
-    "historical_trend": 4.3,
-    "support_reviews": 8.7
+    "transparency": 6.9,
+    "historical_trend": 4.4,
+    "support_reviews": 8.7,
+    "transparency_base": 7.5,
+    "engagement_base": 9.0
    },
    "new_features": [
     {
@@ -730,6 +888,56 @@
      "resolved": 40,
      "pending_end": 15
     }
+   },
+   "nse_complaints": {
+    "score": 9.3,
+    "rate_per_lakh": 1.72,
+    "avg_monthly": 19.3,
+    "active_clients": 1120901,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      36
+     ],
+     [
+      "IV",
+      14
+     ],
+     [
+      "IX",
+      4
+     ]
+    ]
+   },
+   "official_combined_score": 9.2,
+   "regulatory_actions": {
+    "penalty": 0.57,
+    "orders": 9,
+    "penalty_lakh": 2.34,
+    "orders_per_10_lakh": 8.03,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 9.28,
+    "data_month": "2026-09",
+    "active_clients": 1120901,
+    "total_ucc": 3533560,
+    "active_ratio_pct": 31.7,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": 14.8,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 1.0,
+    "growth_c": 0.71,
+    "adjustment": 0.8
    }
   },
   {
@@ -741,11 +949,13 @@
     "technical_reliability": 8.5,
     "sentiment": 7.2,
     "new_feature_response": 6.0,
-    "engagement": 9.7,
-    "support": 7.5,
-    "transparency": 7.5,
+    "engagement": 9.8,
+    "support": 7.9,
+    "transparency": 6.7,
     "historical_trend": 5.4,
-    "support_reviews": 8.7
+    "support_reviews": 8.7,
+    "transparency_base": 7.5,
+    "engagement_base": 9.7
    },
    "new_features": [
     {
@@ -951,218 +1161,56 @@
      "resolved": 180,
      "pending_end": 34
     }
-   }
-  },
-  {
-   "broker": "Angel One",
-   "slug": "angel-one",
-   "overall_rating": 7.5,
-   "trend": "Stable",
-   "previous_rating": 7.7,
-   "rating_breakdown": {
-    "technical_reliability": 8.0,
-    "sentiment": 7.1,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.3,
-    "transparency": 6.0,
-    "historical_trend": 4.7,
-    "support_reviews": 9.3
    },
-   "new_features": [
-    {
-     "broker": "Angel One",
-     "feature_name": "US stock investing rollout [low confidence]",
-     "launch_date": "2026-10 (approx.)",
-     "user_reaction": "Too early to tell",
-     "discussion_volume": "Low",
-     "evidence_links": [
-      "https://www.instagram.com/p/DetGBoZiVEo/"
+   "nse_complaints": {
+    "score": 7.9,
+    "rate_per_lakh": 3.09,
+    "avg_monthly": 43.0,
+    "active_clients": 1391840,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      70
+     ],
+     [
+      "IV",
+      35
+     ],
+     [
+      "IX",
+      13
      ]
-    }
-   ],
-   "key_quotes": [
-    {
-     "quote": "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please",
-     "context": "Google Play review, 1★, 2026-10-27",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "worst app, works slowly for trading",
-     "context": "Google Play review, 1★, 2026-10-27",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "chart delay sensex , hangings problem found . fastest needed",
-     "context": "Google Play review, 5★, 2026-10-27",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": 1.0
-    },
-    {
-     "quote": "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client funding book +41.7% YoY to ₹78.71 bn  🔴 Gross client acquisition 0.45 million: down 19.6% MoM and 17.1% YoY  🔴 Total https",
-     "context": "X post, 2026-10-06",
-     "sentiment": "negative",
-     "source_url": "https://x.com/i/status/2107296468709302457",
-     "platform": "x",
-     "broker": "Angel One",
-     "sentimentScore": -0.6
-    },
-    {
-     "quote": "Why the finger print unlock is not being able to enable in angel one app.  Is there any issue with the app or am I the only one facing such issues.  @AngelOne",
-     "context": "X post, 2026-10-05",
-     "sentiment": "negative",
-     "source_url": "https://x.com/i/status/2106978230943305788",
-     "platform": "x",
-     "broker": "Angel One",
-     "sentimentScore": -0.6
-    },
-    {
-     "quote": "Fraud app: From my organisation mass download done as mandatory and shares not given to anyone as a employee quota and deducted money is more from all employees all fraud",
-     "context": "App Store review, 1★, 2026-10-27",
-     "sentiment": "negative",
-     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Ipad review: Hi sir/mam please change the app to support even in landscape mode for the ipad each time the screen keep rotating",
-     "context": "App Store review, 5★, 2026-10-24",
-     "sentiment": "positive",
-     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": 1.0
-    },
-    {
-     "quote": "For stocks : Groww\nFor mutual fund : Groww\n😂",
-     "context": "YouTube comment on a recent review video (comment date not verified this week)",
-     "sentiment": "neutral",
-     "source_url": "https://www.youtube.com/watch?v=rBMwZP2XpkA&lc=Ugz8nahWuX9eZmjnj2F4AaABAg",
-     "platform": "youtube",
-     "broker": "Angel One",
-     "sentimentScore": 0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "brokrage is so high",
-      "IPO kharida to milega hi nhi agar + me jata h to Mil gya to pakka minus me hi jayega Kuch to gadbad h isme Mene kai IPO kharidne k liye dale jo badta h wo nhi m"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "not support in I pad",
-      "i have raised a ticket regarding shift from regular to direct mutual, it's been 1 week but there is no response, i tried calling the coustomer service but still"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
-      "worst app, works slowly for trading"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "Tooo higher brokerage",
-      "too much brokerage"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 3,
-     "severity": "low",
-     "example_quotes": [
-      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
-      "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client fu"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "not a user-friendly app"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Angel One",
-     "description": "Jio IPO listing day: users unable to sell (TPIN prompt); fingerprint unlock failing — sources: https://x.com/i/status/2106978230943305788, https://www.reddit.com/r/IPO_India/comments/1xhcoea/jio_platfrorms_limited_listing_day_megathread/",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 2,
-     "first_seen": "2026-10-05",
-     "last_seen": "2026-10-28"
-    },
-    {
-     "broker": "Angel One",
-     "description": "Reliability: 1 of last 60 Play reviews report it — e.g. \"Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he\"",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-10-27",
-     "last_seen": "2026-10-27"
-    },
-    {
-     "broker": "Angel One",
-     "description": "Performance: 3 of last 60 Play reviews report it — e.g. \"Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please\"",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 3,
-     "first_seen": "2026-10-27",
-     "last_seen": "2026-10-27"
-    }
-   ],
-   "watch_items": [
-    "Jio IPO listing day: users unable to sell (TPIN prompt) — check for recurrence",
-    "Track reliability complaints (1 in last 60 reviews) for a fix",
-    "Top negative theme: Other (5 mentions) — watch next week's share",
-    "User reaction to 'US stock investing rollout [low confidence]'"
-   ],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-10-28",
-    "to_date": "2026-10-28"
+    ]
    },
-   "official_complaints": {
-    "score": null,
-    "status": "not published"
+   "official_combined_score": 7.1,
+   "regulatory_actions": {
+    "penalty": 0.81,
+    "orders": 23,
+    "penalty_lakh": 56.36,
+    "orders_per_10_lakh": 16.52,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 5.43,
+    "data_month": "2026-09",
+    "active_clients": 1391840,
+    "total_ucc": 7469769,
+    "active_ratio_pct": 18.6,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -1.1,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 0.1,
+    "growth_c": 0.08,
+    "adjustment": 0.1
    }
   },
   {
@@ -1176,10 +1224,12 @@
     "sentiment": 6.6,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.8,
-    "transparency": 7.5,
-    "historical_trend": 4.7,
-    "support_reviews": 8.0
+    "support": 8.9,
+    "transparency": 7.0,
+    "historical_trend": 4.6,
+    "support_reviews": 8.0,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [
     {
@@ -1399,6 +1449,320 @@
      "resolved": 120,
      "pending_end": 32
     }
+   },
+   "nse_complaints": {
+    "score": 10.0,
+    "rate_per_lakh": 0.75,
+    "avg_monthly": 50.7,
+    "active_clients": 6791541,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      63
+     ],
+     [
+      "IX",
+      46
+     ],
+     [
+      "IV",
+      27
+     ]
+    ]
+   },
+   "official_combined_score": 9.85,
+   "regulatory_actions": {
+    "penalty": 0.45,
+    "orders": 35,
+    "penalty_lakh": 258.14,
+    "orders_per_10_lakh": 5.15,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 7.39,
+    "data_month": "2026-09",
+    "active_clients": 6791541,
+    "total_ucc": 18034811,
+    "active_ratio_pct": 37.7,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -4.2,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": 1.0,
+    "growth_c": -0.05,
+    "adjustment": 0.0
+   }
+  },
+  {
+   "broker": "Angel One",
+   "slug": "angel-one",
+   "overall_rating": 7.4,
+   "trend": "Stable",
+   "previous_rating": 7.6,
+   "rating_breakdown": {
+    "technical_reliability": 8.0,
+    "sentiment": 7.1,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 9.2,
+    "transparency": 5.5,
+    "historical_trend": 4.7,
+    "support_reviews": 9.3,
+    "transparency_base": 6.0,
+    "engagement_base": 9.8
+   },
+   "new_features": [
+    {
+     "broker": "Angel One",
+     "feature_name": "US stock investing rollout [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.instagram.com/p/DetGBoZiVEo/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "worst app, works slowly for trading",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "chart delay sensex , hangings problem found . fastest needed",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client funding book +41.7% YoY to ₹78.71 bn  🔴 Gross client acquisition 0.45 million: down 19.6% MoM and 17.1% YoY  🔴 Total https",
+     "context": "X post, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107296468709302457",
+     "platform": "x",
+     "broker": "Angel One",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Why the finger print unlock is not being able to enable in angel one app.  Is there any issue with the app or am I the only one facing such issues.  @AngelOne",
+     "context": "X post, 2026-10-05",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2106978230943305788",
+     "platform": "x",
+     "broker": "Angel One",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Fraud app: From my organisation mass download done as mandatory and shares not given to anyone as a employee quota and deducted money is more from all employees all fraud",
+     "context": "App Store review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Ipad review: Hi sir/mam please change the app to support even in landscape mode for the ipad each time the screen keep rotating",
+     "context": "App Store review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "For stocks : Groww\nFor mutual fund : Groww\n😂",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=rBMwZP2XpkA&lc=Ugz8nahWuX9eZmjnj2F4AaABAg",
+     "platform": "youtube",
+     "broker": "Angel One",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "brokrage is so high",
+      "IPO kharida to milega hi nhi agar + me jata h to Mil gya to pakka minus me hi jayega Kuch to gadbad h isme Mene kai IPO kharidne k liye dale jo badta h wo nhi m"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "not support in I pad",
+      "i have raised a ticket regarding shift from regular to direct mutual, it's been 1 week but there is no response, i tried calling the coustomer service but still"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
+      "worst app, works slowly for trading"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "Tooo higher brokerage",
+      "too much brokerage"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 3,
+     "severity": "low",
+     "example_quotes": [
+      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
+      "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client fu"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "not a user-friendly app"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Angel One",
+     "description": "Jio IPO listing day: users unable to sell (TPIN prompt); fingerprint unlock failing — sources: https://x.com/i/status/2106978230943305788, https://www.reddit.com/r/IPO_India/comments/1xhcoea/jio_platfrorms_limited_listing_day_megathread/",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-28"
+    },
+    {
+     "broker": "Angel One",
+     "description": "Reliability: 1 of last 60 Play reviews report it — e.g. \"Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he\"",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Angel One",
+     "description": "Performance: 3 of last 60 Play reviews report it — e.g. \"Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 3,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Jio IPO listing day: users unable to sell (TPIN prompt) — check for recurrence",
+    "Track reliability complaints (1 in last 60 reviews) for a fix",
+    "Top negative theme: Other (5 mentions) — watch next week's share",
+    "User reaction to 'US stock investing rollout [low confidence]'"
+   ],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-10-28",
+    "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   },
+   "nse_complaints": {
+    "score": 9.2,
+    "rate_per_lakh": 1.78,
+    "avg_monthly": 120.3,
+    "active_clients": 6755711,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      219
+     ],
+     [
+      "IV",
+      65
+     ],
+     [
+      "IX",
+      59
+     ]
+    ]
+   },
+   "official_combined_score": 9.2,
+   "regulatory_actions": {
+    "penalty": 0.47,
+    "orders": 37,
+    "penalty_lakh": 32.41,
+    "orders_per_10_lakh": 5.48,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 4.91,
+    "data_month": "2026-09",
+    "active_clients": 6755711,
+    "total_ucc": 39655653,
+    "active_ratio_pct": 17.0,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -1.9,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -0.08,
+    "growth_c": 0.05,
+    "adjustment": 0.0
    }
   },
   {
@@ -1411,11 +1775,13 @@
     "technical_reliability": 6.0,
     "sentiment": 6.1,
     "new_feature_response": 6.0,
-    "engagement": 9.2,
-    "support": 7.8,
-    "transparency": 6.0,
+    "engagement": 9.4,
+    "support": 7.9,
+    "transparency": 5.6,
     "historical_trend": 6.1,
-    "support_reviews": 8.7
+    "support_reviews": 8.7,
+    "transparency_base": 6.0,
+    "engagement_base": 9.2
    },
    "new_features": [
     {
@@ -1636,22 +2002,74 @@
      "resolved": 245,
      "pending_end": 25
     }
+   },
+   "nse_complaints": {
+    "score": 7.5,
+    "rate_per_lakh": 3.5,
+    "avg_monthly": 75.7,
+    "active_clients": 2160619,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      131
+     ],
+     [
+      "IX",
+      41
+     ],
+     [
+      "IV",
+      32
+     ]
+    ]
+   },
+   "official_combined_score": 7.15,
+   "regulatory_actions": {
+    "penalty": 0.36,
+    "orders": 7,
+    "penalty_lakh": 1.3,
+    "orders_per_10_lakh": 3.24,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 5.94,
+    "data_month": "2026-09",
+    "active_clients": 2160619,
+    "total_ucc": 12942453,
+    "active_ratio_pct": 16.7,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": 9.4,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -0.12,
+    "growth_c": 0.5,
+    "adjustment": 0.2
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 6.7,
+   "overall_rating": 6.6,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 6.4,
     "new_feature_response": 6.0,
-    "engagement": 8.5,
-    "support": 8.7,
-    "transparency": 6.0,
-    "historical_trend": 4.9,
-    "support_reviews": 9.8
+    "engagement": 8.0,
+    "support": 8.9,
+    "transparency": 5.3,
+    "historical_trend": 4.8,
+    "support_reviews": 9.8,
+    "transparency_base": 6.0,
+    "engagement_base": 8.5
    },
    "new_features": [
     {
@@ -1828,7 +2246,7 @@
     "Track reliability complaints (4 in last 60 reviews) for a fix",
     "Top negative theme: Other (10 mentions) — watch next week's share"
    ],
-   "previous_rating": 6.8,
+   "previous_rating": 6.7,
    "confidence": "Low",
    "sample": {
     "play_reviews": 60,
@@ -1856,23 +2274,75 @@
      "resolved": 92,
      "pending_end": 14
     }
+   },
+   "nse_complaints": {
+    "score": 8.3,
+    "rate_per_lakh": 2.71,
+    "avg_monthly": 36.7,
+    "active_clients": 1353843,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      59
+     ],
+     [
+      "IX",
+      20
+     ],
+     [
+      "IV",
+      15
+     ]
+    ]
+   },
+   "official_combined_score": 7.9,
+   "regulatory_actions": {
+    "penalty": 0.69,
+    "orders": 16,
+    "penalty_lakh": 17.95,
+    "orders_per_10_lakh": 11.82,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.03,
+    "data_month": "2026-09",
+    "active_clients": 1353843,
+    "total_ucc": 10047007,
+    "active_ratio_pct": 13.5,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -10.7,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -0.48,
+    "growth_c": -0.31,
+    "adjustment": -0.5
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 6.4,
+   "overall_rating": 6.2,
    "trend": "Declining",
-   "previous_rating": 7.6,
+   "previous_rating": 7.4,
    "rating_breakdown": {
     "technical_reliability": 5.0,
     "sentiment": 5.1,
     "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 8.3,
-    "transparency": 7.5,
+    "engagement": 9.1,
+    "support": 8.4,
+    "transparency": 6.5,
     "historical_trend": 3.1,
-    "support_reviews": 9.8
+    "support_reviews": 9.8,
+    "transparency_base": 7.5,
+    "engagement_base": 9.8
    },
    "new_features": [
     {
@@ -2103,6 +2573,56 @@
      "resolved": 149,
      "pending_end": 46
     }
+   },
+   "nse_complaints": {
+    "score": 7.1,
+    "rate_per_lakh": 3.94,
+    "avg_monthly": 73.0,
+    "active_clients": 1854285,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      116
+     ],
+     [
+      "IX",
+      45
+     ],
+     [
+      "IV",
+      33
+     ]
+    ]
+   },
+   "official_combined_score": 6.95,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 46,
+    "penalty_lakh": 42.17,
+    "orders_per_10_lakh": 24.81,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 2.28,
+    "data_month": "2026-09",
+    "active_clients": 1854285,
+    "total_ucc": 19750654,
+    "active_ratio_pct": 9.4,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -6.7,
+    "growth_basis": "MoM x12",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -0.94,
+    "growth_c": -0.15,
+    "adjustment": -0.7
    }
   },
   {
@@ -2114,11 +2634,13 @@
     "technical_reliability": 6.5,
     "sentiment": 6.7,
     "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 5.8,
-    "transparency": 6.0,
-    "historical_trend": 5.1,
-    "support_reviews": 8.7
+    "engagement": 8.7,
+    "support": 7.2,
+    "transparency": 5.0,
+    "historical_trend": 5.0,
+    "support_reviews": 8.7,
+    "transparency_base": 6.0,
+    "engagement_base": 9.6
    },
    "new_features": [
     {
@@ -2296,6 +2818,56 @@
      "resolved": 24,
      "pending_end": 5
     }
+   },
+   "nse_complaints": {
+    "score": 8.6,
+    "rate_per_lakh": 2.39,
+    "avg_monthly": 7.7,
+    "active_clients": 321174,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      12
+     ],
+     [
+      "IX",
+      5
+     ],
+     [
+      "IV",
+      4
+     ]
+    ]
+   },
+   "official_combined_score": 5.8,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 21,
+    "penalty_lakh": 5.13,
+    "orders_per_10_lakh": 65.39,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 1.38,
+    "data_month": "2026-09",
+    "active_clients": 321174,
+    "total_ucc": 5179798,
+    "active_ratio_pct": 6.2,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -14.3,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -1.0,
+    "growth_c": -0.45,
+    "adjustment": -0.9
    }
   },
   {
@@ -2307,11 +2879,13 @@
     "technical_reliability": 1,
     "sentiment": 1.9,
     "new_feature_response": 6.0,
-    "engagement": 8.6,
-    "support": 6.4,
-    "transparency": 6.0,
-    "historical_trend": 5.1,
-    "support_reviews": 8.0
+    "engagement": 8.2,
+    "support": 7.0,
+    "transparency": 5.0,
+    "historical_trend": 4.9,
+    "support_reviews": 8.0,
+    "transparency_base": 6.0,
+    "engagement_base": 8.6
    },
    "new_features": [
     {
@@ -2497,6 +3071,56 @@
      "resolved": 118,
      "pending_end": 30
     }
+   },
+   "nse_complaints": {
+    "score": 7.3,
+    "rate_per_lakh": 3.67,
+    "avg_monthly": 19.3,
+    "active_clients": 527503,
+    "months_used": [
+     "2026-09",
+     "2026-08",
+     "2026-07"
+    ],
+    "top_types": [
+     [
+      "V",
+      34
+     ],
+     [
+      "IV",
+      12
+     ],
+     [
+      "IX",
+      6
+     ]
+    ]
+   },
+   "official_combined_score": 6.05,
+   "regulatory_actions": {
+    "penalty": 1.0,
+    "orders": 59,
+    "penalty_lakh": 20.04,
+    "orders_per_10_lakh": 111.85,
+    "years": [
+     "2025-26",
+     "2026-27"
+    ]
+   },
+   "ucc_factor": {
+    "score": 3.62,
+    "data_month": "2026-09",
+    "active_clients": 527503,
+    "total_ucc": 3700510,
+    "active_ratio_pct": 14.2,
+    "peer_median_ratio_pct": 17.8,
+    "growth_pct": -6.9,
+    "growth_basis": "12m",
+    "peer_median_growth_pct": -3.0,
+    "ratio_c": -0.4,
+    "growth_c": -0.16,
+    "adjustment": -0.4
    }
   }
  ],
@@ -2662,7 +3286,7 @@
   "Groww/Angel One: US-stock rollout reactions",
   "HDFC Sky: chart/crash fix after update"
  ],
- "methodology_note": "Scores use the same 7-parameter method as the backfilled W36-W43 weeks: newest 60 Google Play reviews per broker drive Technical reliability, Sentiment and Support; Engagement, Transparency and New-feature response as of W44; Historical trend vs the previous week. X, Reddit, App Store and news items collected for W44 are shown as evidence (quotes, issues, features) but are not blended into scores, so weeks stay comparable. Re-based on 29 Oct 2026; replaces the May W19-W21 sample reports, which used a different method. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end.",
+ "methodology_note": "Scores use the same 7-parameter method as the backfilled W36-W43 weeks: newest 60 Google Play reviews per broker drive Technical reliability, Sentiment and Support; Engagement, Transparency and New-feature response as of W44; Historical trend vs the previous week. X, Reddit, App Store and news items collected for W44 are shown as evidence (quotes, issues, features) but are not blended into scores, so weeks stay comparable. Re-based on 29 Oct 2026; replaces the May W19-W21 sample reports, which used a different method. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end. Official complaints = average of the broker-disclosure score and the NSE score (NSE Report 1A complaints per lakh NSE active clients, 3 months ending the week's data month, score 10-1.0x(rate-1)); if only one exists it is used alone. Transparency is reduced by min(1.0, 0.2 x sqrt(NSE penal orders per 10 lakh active clients) over the current and previous financial year) from Report 4A/4B. Engagement includes a UCC client-base adjustment (NSE Report 1C): active-client ratio (active / total UCC) vs the tracked-broker median and 12-month active-client growth (month-on-month x12 if no 12-month history) vs the median; ucc_score = 5 + 2.5 x ratio part + 2.5 x growth part, each part clamped to -1..+1; Engagement changes by 1.3 x (ucc_score - 5) / 5, i.e. at most +/-1.3 (overall at most +/-0.2). Brokers without 1C data are unchanged and flagged.",
  "official_complaints_data": {
   "updated": "2026-10-29",
   "active_clients_source": {

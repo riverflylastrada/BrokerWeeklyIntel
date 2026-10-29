@@ -11,6 +11,8 @@ Overall = same 7-parameter weights; Historical trend is re-chained week to week.
 rating_breakdown.support_reviews and always used as the input.
 Usage: python apply_official_complaints.py official_complaints.json report1.json [report2.json ...]  (in week order; rewritten in place)\n       SEED_FIRST=1 python apply_official_complaints.py oc.json previous_week.json new_week.json   (weekly run: only new_week is rewritten)"""
 import json, os, sys, datetime as dt
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import ucc_factor
 W = dict(technical_reliability=.20, sentiment=.15, new_feature_response=.15, engagement=.15, support=.15, historical_trend=.10, transparency=.10)
 cl = lambda x: round(max(1, min(9.8, x)), 1)
 def month_for(week_end):
@@ -92,6 +94,7 @@ def main():
             pz = penalty_component(b["slug"], rep["week_end"])
             rb["transparency"] = cl(rb["transparency_base"] - (pz["penalty"] if pz else 0))
             b["regulatory_actions"] = pz or dict(penalty=0, orders=0)
+            ucc_factor.apply(b, month_for(rep["week_end"]), cl)
             rb["historical_trend"] = 5.0; p = prev.get(b["slug"])
             if p is not None: rb["historical_trend"] = cl(5 + (sum(rb[k] * w for k, w in W.items()) - p) * 2)
             r = round(sum(rb[k] * w for k, w in W.items()), 1)
@@ -106,6 +109,10 @@ def main():
                  "3 months ending the week's data month, score 10-1.0x(rate-1)); if only one exists it is used alone. Transparency is reduced by "
                  "min(1.0, 0.2 x sqrt(NSE penal orders per 10 lakh active clients) over the current and previous financial year) from Report 4A/4B.")
         if note2 not in rep["methodology_note"]: rep["methodology_note"] += note2
+        note3 = (" Engagement includes a UCC client-base adjustment (NSE Report 1C): active-client ratio (active / total UCC) vs the tracked-broker median "
+                 "and 12-month active-client growth (month-on-month x12 if no 12-month history) vs the median; ucc_score = 5 + 2.5 x ratio part + 2.5 x growth part, "
+                 "each part clamped to -1..+1; Engagement changes by 1.3 x (ucc_score - 5) / 5, i.e. at most +/-1.3 (overall at most +/-0.2). Brokers without 1C data are unchanged and flagged.")
+        if note3 not in rep["methodology_note"]: rep["methodology_note"] += note3
         if path == sys.argv[-1]: rep["official_complaints_data"] = oc  # full monthly figures + source links, latest week only
         else: rep.pop("official_complaints_data", None)
         json.dump(rep, open(path, "w"), ensure_ascii=False, indent=1)
