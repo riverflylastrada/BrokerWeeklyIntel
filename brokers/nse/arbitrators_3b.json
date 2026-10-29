@@ -1,0 +1,221 @@
+{
+"report": "NSE Report 3B: disposal of arbitration by arbitrator (industry totals; NSE does not name the TM in 3B)",
+"years": {
+"2009-10": {
+"arbitration": {
+"awards_arbitration": 1107,
+"awards_appellate": 0,
+"awards_in_client_favour": 267,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_0910.xls"
+},
+"appellate": {
+"awards_arbitration": 648,
+"awards_appellate": 0,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_0910.xls"
+}
+},
+"2010-11": {
+"arbitration": {
+"awards_arbitration": 549,
+"awards_appellate": 96,
+"awards_in_client_favour": 131,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1011.xls"
+},
+"appellate": {
+"awards_arbitration": 319,
+"awards_appellate": 33,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1011.xls"
+}
+},
+"2011-12": {
+"arbitration": {
+"awards_arbitration": 598,
+"awards_appellate": 315,
+"awards_in_client_favour": 126,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1112.xls"
+},
+"appellate": {
+"awards_arbitration": 363,
+"awards_appellate": 132,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1112.xls"
+}
+},
+"2012-13": {
+"arbitration": {
+"awards_arbitration": 653,
+"awards_appellate": 315,
+"awards_in_client_favour": 222,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1213.xls"
+},
+"appellate": {
+"awards_arbitration": 516,
+"awards_appellate": 129,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1213.xls"
+}
+},
+"2013-14": {
+"arbitration": {
+"awards_arbitration": 904,
+"awards_appellate": 474,
+"awards_in_client_favour": 383,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1314.xls"
+},
+"appellate": {
+"awards_arbitration": 778,
+"awards_appellate": 183,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1314.xls"
+}
+},
+"2014-15": {
+"arbitration": {
+"awards_arbitration": 579,
+"awards_appellate": 546,
+"awards_in_client_favour": 180,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1415.xls"
+},
+"appellate": {
+"awards_arbitration": 455,
+"awards_appellate": 291,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1415.xls"
+}
+},
+"2015-16": {
+"arbitration": {
+"awards_arbitration": 482,
+"awards_appellate": 375,
+"awards_in_client_favour": 181,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1516.xls"
+},
+"appellate": {
+"awards_arbitration": 315,
+"awards_appellate": 225,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1516.xls"
+}
+},
+"2016-17": {
+"arbitration": {
+"awards_arbitration": 446,
+"awards_appellate": 378,
+"awards_in_client_favour": 131,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1617.xls"
+},
+"appellate": {
+"awards_arbitration": 294,
+"awards_appellate": 204,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1617.xls"
+}
+},
+"2017-18": {
+"arbitration": {
+"awards_arbitration": 383,
+"awards_appellate": 273,
+"awards_in_client_favour": 133,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1718.xls"
+},
+"appellate": {
+"awards_arbitration": 250,
+"awards_appellate": 126,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1718.xls"
+}
+},
+"2018-19": {
+"arbitration": {
+"awards_arbitration": 486,
+"awards_appellate": 366,
+"awards_in_client_favour": 197,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1819.xls"
+},
+"appellate": {
+"awards_arbitration": 726,
+"awards_appellate": 534,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1819.xls"
+}
+},
+"2019-20": {
+"arbitration": {
+"awards_arbitration": 586,
+"awards_appellate": 339,
+"awards_in_client_favour": 270,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_1920.xls"
+},
+"appellate": {
+"awards_arbitration": 318,
+"awards_appellate": 150,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_1920.xls"
+}
+},
+"2020-21": {
+"arbitration": {
+"awards_arbitration": 410,
+"awards_appellate": 247,
+"awards_in_client_favour": 228,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B1_2021.xls"
+},
+"appellate": {
+"awards_arbitration": 225,
+"awards_appellate": 111,
+"awards_in_client_favour": null,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B2_2021.xls"
+}
+},
+"2021-22": {
+"arbitration": {
+"awards_arbitration": 433,
+"awards_appellate": 308,
+"awards_in_client_favour": 245,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2122.xls"
+}
+},
+"2022-23": {
+"arbitration": {
+"awards_arbitration": 377,
+"awards_appellate": 276,
+"awards_in_client_favour": 183,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2223.xls"
+}
+},
+"2023-24": {
+"arbitration": {
+"awards_arbitration": 409,
+"awards_appellate": 384,
+"awards_in_client_favour": 229,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2324.xls"
+}
+},
+"2024-25": {
+"arbitration": {
+"awards_arbitration": 44,
+"awards_appellate": 107,
+"awards_in_client_favour": 23,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2425.xls"
+}
+},
+"2025-26": {
+"arbitration": {
+"awards_arbitration": 29,
+"awards_appellate": 39,
+"awards_in_client_favour": 17,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2526.xls"
+}
+},
+"2026-27": {
+"arbitration": {
+"awards_arbitration": 0,
+"awards_appellate": 9,
+"awards_in_client_favour": 0,
+"file": "https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report3B_2627.xls"
+}
+}
+}
+}

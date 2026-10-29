@@ -1,4 +1,4 @@
-name: NSE Report 1C (broker active clients) monthly
+name: NSE investor-services reports (1C active clients, 1A complaints, 3B arbitration, 4B penalties) monthly
 
 on:
   schedule:
@@ -26,9 +26,11 @@ jobs:
         env:
           FORCE: ${{ github.event.inputs.force }}
         run: python brokers/refresh_market_share.py
+      - name: Refresh NSE 1A/1C/3B/4B and rebuild processed data
+        run: python brokers/nse/refresh_nse_reports.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add brokers/market_share_history.json brokers/market_share_history.csv
+          git add brokers/market_share_history.json brokers/market_share_history.csv brokers/nse/
           git diff --cached --quiet && echo "no change" || (git commit -m "NSE Report 1C monthly refresh" && git push)
