@@ -8,17 +8,18 @@
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 8.5,
+   "overall_rating": 8.4,
    "trend": "Declining",
-   "previous_rating": 8.9,
+   "previous_rating": 8.8,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 9.8,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 9.8,
+    "support": 9.4,
     "transparency": 7.5,
-    "historical_trend": 4.3
+    "historical_trend": 4.4,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -41,6 +42,27 @@
     "in_week": 60,
     "from_date": "2026-09-26",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.64,
+    "rate_score": 8.9,
+    "resolution_rate": 93.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 52.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-08",
+     "received": 60,
+     "resolved": 52,
+     "pending_end": 11
+    }
    }
   },
   {
@@ -48,7 +70,7 @@
    "slug": "groww",
    "overall_rating": 8.4,
    "trend": "Stable",
-   "previous_rating": 8.2,
+   "previous_rating": 8.3,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 9.0,
@@ -56,7 +78,8 @@
     "engagement": 9.8,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 5.4
+    "historical_trend": 5.2,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -123,6 +146,27 @@
     "in_week": 60,
     "from_date": "2026-09-27",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-08",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
    }
   },
   {
@@ -138,7 +182,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -197,12 +242,16 @@
     "in_week": 60,
     "from_date": "2026-09-26",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 8.3,
+   "overall_rating": 8.2,
    "trend": "Stable",
    "previous_rating": 8.1,
    "rating_breakdown": {
@@ -210,9 +259,10 @@
     "sentiment": 9.2,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.8,
+    "support": 9.3,
     "transparency": 6.0,
-    "historical_trend": 5.3
+    "historical_trend": 5.2,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -298,88 +348,44 @@
     "in_week": 60,
     "from_date": "2026-09-26",
     "to_date": "2026-09-27"
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 7.9,
-   "trend": "Stable",
-   "previous_rating": 8.0,
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.5,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 4.8
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "What is the necessity to put \"Promotional Links\" in the \"My Stocks\" Tab? Why don't you use the Home Page and the \"User\" Tab for such Promos like as usual?",
-     "context": "Google Play review, 1★, 2026-09-24",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "bahut gandi app hai",
-     "context": "Google Play review, 1★, 2026-09-24",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "I love🩵 the app! The app is soo much faster 😍download. But now download faster and more stable. This is syncing 😍happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stop responding until it's done. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry!!!",
-     "context": "Google Play review, 5★, 2026-09-25",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 8.8,
+    "rate_per_lakh": 2.85,
+    "rate_score": 9.7,
+    "resolution_rate": 68.8,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 8.0,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-08",
+     "received": 9,
+     "resolved": 5,
+     "pending_end": 10
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "What is the necessity to put \"Promotional Links\" in the \"My Stocks\" Tab? Why don't you use the Home Page and the \"User\" Tab for such Promos like as usual?",
-      "bahut gandi app hai"
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-23",
-    "to_date": "2026-09-27"
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.7,
+   "overall_rating": 7.5,
    "trend": "Stable",
-   "previous_rating": 7.7,
+   "previous_rating": 7.5,
    "rating_breakdown": {
     "technical_reliability": 9.0,
     "sentiment": 7.8,
     "new_feature_response": 6.0,
     "engagement": 8.5,
-    "support": 9.8,
+    "support": 8.4,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -467,6 +473,27 @@
     "in_week": 18,
     "from_date": "2026-09-08",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 12.24,
+    "rate_score": 5.9,
+    "resolution_rate": 90.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 165.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-08",
+     "received": 291,
+     "resolved": 265,
+     "pending_end": 48
+    }
    }
   },
   {
@@ -482,7 +509,8 @@
     "engagement": 9.8,
     "support": 8.7,
     "transparency": 6.0,
-    "historical_trend": 4.4
+    "historical_trend": 4.4,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -603,22 +631,115 @@
     "in_week": 60,
     "from_date": "2026-09-26",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.4,
+   "trend": "Stable",
+   "previous_rating": 7.5,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.5,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 6.4,
+    "transparency": 6.0,
+    "historical_trend": 4.8,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "What is the necessity to put \"Promotional Links\" in the \"My Stocks\" Tab? Why don't you use the Home Page and the \"User\" Tab for such Promos like as usual?",
+     "context": "Google Play review, 1★, 2026-09-24",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "bahut gandi app hai",
+     "context": "Google Play review, 1★, 2026-09-24",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "I love🩵 the app! The app is soo much faster 😍download. But now download faster and more stable. This is syncing 😍happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stop responding until it's done. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry!!!",
+     "context": "Google Play review, 5★, 2026-09-25",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "What is the necessity to put \"Promotional Links\" in the \"My Stocks\" Tab? Why don't you use the Home Page and the \"User\" Tab for such Promos like as usual?",
+      "bahut gandi app hai"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-23",
+    "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 7.3,
-   "trend": "Declining",
-   "previous_rating": 7.7,
+   "overall_rating": 7.2,
+   "trend": "Stable",
+   "previous_rating": 7.5,
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 7.5,
     "transparency": 7.5,
-    "historical_trend": 4.4
+    "historical_trend": 4.4,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -740,6 +861,27 @@
     "in_week": 60,
     "from_date": "2026-09-24",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 14.56,
+    "rate_score": 5.0,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 270.0,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-08",
+     "received": 265,
+     "resolved": 275,
+     "pending_end": 27
+    }
    }
   },
   {
@@ -747,15 +889,16 @@
    "slug": "zerodha",
    "overall_rating": 7.2,
    "trend": "Declining",
-   "previous_rating": 7.7,
+   "previous_rating": 7.8,
    "rating_breakdown": {
     "technical_reliability": 5.5,
     "sentiment": 5.8,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 9.3,
+    "support": 9.6,
     "transparency": 7.5,
-    "historical_trend": 4.2
+    "historical_trend": 4.1,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -877,22 +1020,44 @@
     "in_week": 60,
     "from_date": "2026-09-23",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.51,
+    "rate_score": 10.0,
+    "resolution_rate": 91.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 102.7,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-08",
+     "received": 98,
+     "resolved": 85,
+     "pending_end": 29
+    }
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 7.0,
-   "trend": "Stable",
-   "previous_rating": 6.7,
+   "overall_rating": 6.9,
+   "trend": "Improving",
+   "previous_rating": 6.6,
    "rating_breakdown": {
     "technical_reliability": 7.0,
     "sentiment": 6.0,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.7,
+    "support": 7.6,
     "transparency": 6.0,
-    "historical_trend": 5.6
+    "historical_trend": 5.4,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1006,22 +1171,44 @@
     "in_week": 58,
     "from_date": "2026-09-20",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 6.5,
+    "rate_per_lakh": 14.02,
+    "rate_score": 5.2,
+    "resolution_rate": 96.6,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 303.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-08",
+     "received": 317,
+     "resolved": 311,
+     "pending_end": 31
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 6.7,
+   "overall_rating": 6.6,
    "trend": "Declining",
-   "previous_rating": 7.5,
+   "previous_rating": 7.2,
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 5.6,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 8.0,
+    "support": 7.1,
     "transparency": 7.5,
-    "historical_trend": 3.7
+    "historical_trend": 4.0,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1145,22 +1332,44 @@
     "in_week": 58,
     "from_date": "2026-09-20",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 6.2,
+    "rate_per_lakh": 15.04,
+    "rate_score": 4.8,
+    "resolution_rate": 95.2,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 209.3,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-08",
+     "received": 174,
+     "resolved": 230,
+     "pending_end": 32
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.2,
+   "overall_rating": 4.8,
    "trend": "Stable",
-   "previous_rating": 5.4,
+   "previous_rating": 5.0,
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 2.0,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 9.8,
+    "support": 7.2,
     "transparency": 6.0,
-    "historical_trend": 4.7
+    "historical_trend": 4.7,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -1282,6 +1491,27 @@
     "in_week": 46,
     "from_date": "2026-09-15",
     "to_date": "2026-09-27"
+   },
+   "official_complaints": {
+    "score": 4.5,
+    "rate_per_lakh": 20.22,
+    "rate_score": 2.7,
+    "resolution_rate": 87.4,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 106.7,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-08",
+     "received": 116,
+     "resolved": 100,
+     "pending_end": 43
+    }
    }
   }
  ],
@@ -1294,5 +1524,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

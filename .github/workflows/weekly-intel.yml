@@ -45,6 +45,15 @@ jobs:
         run: |
           python -m scripts.run_weekly
 
+      - name: Official broker complaints (SEBI disclosures) refresh + blend into new week
+        continue-on-error: true
+        timeout-minutes: 20
+        run: |
+          sudo apt-get install -y poppler-utils >/dev/null
+          python brokers/refresh_official_complaints.py
+          FILES=$(ls data/historical/BrokerWeeklyIntel-20??-W??.json | sort | tail -2)
+          SEED_FIRST=1 python brokers/apply_official_complaints.py brokers/official_complaints.json $FILES || echo "official blend skipped"
+
       - name: Bank Pulse weekly run (Apify low and slow, writes via ingest function)
         working-directory: banks
         continue-on-error: true
@@ -61,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/ data/historical/ banks/last_published.json || true
+          git add reports/ data/historical/ banks/last_published.json brokers/official_complaints.json || true
           git commit -m "chore: weekly intel report $(date +%Y-W%W)" || echo "No changes to commit"
           git push
 

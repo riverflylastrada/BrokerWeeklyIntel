@@ -18,7 +18,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 5.1
+    "historical_trend": 5.1,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -41,224 +42,27 @@
     "in_week": 60,
     "from_date": "2026-09-12",
     "to_date": "2026-09-13"
-   }
-  },
-  {
-   "broker": "Upstox",
-   "slug": "upstox",
-   "overall_rating": 8.0,
-   "trend": "Stable",
-   "previous_rating": 7.9,
-   "rating_breakdown": {
-    "technical_reliability": 9.0,
-    "sentiment": 7.3,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.2
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "I have created the account long back and when I logged in right now there are negative amounts showing in the funds page. There was no mail or anything regarding this as the amount is piling up right now.",
-     "context": "Google Play review, 1★, 2026-09-10",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "No margin facilities, and high brokerage, pls try to avoid, using this from 2yrs,enough of this!!! They reply to u that we charge a minimal 20/order but this is a clean lie and brutal truth. Trying to find some good platform 👋",
-     "context": "Google Play review, 1★, 2026-09-11",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "On OnePlus, works like a breeze. I have one bone to pick, allow screen rotation feature to work in this app. I have a green line on my screen that blocks numbers and in the chart I cannot go into landscape. It is fixed with the new update, I can now slide the holdings page to see the numbers. Thanks a lot. Lately, I have noticed that TSL disappears on certain days and reappears suddenly the next day only to disappear again??? Today, Sept 11, 2026, I can see TSL again present. Hope it is fixed!",
-     "context": "Google Play review, 5★, 2026-09-11",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "third class app",
-      "Not allow me to do intraday in recently listed IPO stocks"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "one of the worst app I have ever used, you can't find anything in this app, not user friendly",
-      "most useless features. 1.upstox 360 sl setting in preference only in % not in points 🤦. 2.scalper mode sl trailing, drag and drop not available . 3.web pro need"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "Worst experience because of AMC charges. I opened Upstox just to explore the app and left the account unused. Later, I found around ₹700 deducted as AMC charges",
-      "No margin facilities, and high brokerage, pls try to avoid, using this from 2yrs,enough of this!!! They reply to u that we charge a minimal 20/order but this is"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "most useless features. 1.upstox 360 sl setting in preference only in % not in points 🤦. 2.scalper mode sl trailing, drag and drop not available . 3.web pro need",
-      "lot of stock investing is missing and amc waha"
-     ]
-    },
-    {
-     "theme": "Transparency",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "totally gaali dene ko mann krta h iss app ko totally fraud h profile nhi open hota h kitna bhi kosis kr lo aur aagar coustomer care se baat krne ko bolo to ek h"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Most lagging and worst app in industry. Not recommended"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Pls don't force us to opt for FnO. FnO window pops up deceptively with all the check box checked... We should always be alert to close the window else by mistak"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Upstox",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-10",
-     "last_seen": "2026-09-10"
-    },
-    {
-     "broker": "Upstox",
-     "description": "Performance: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "feature_specific",
-     "volume": 1,
-     "first_seen": "2026-09-11",
-     "last_seen": "2026-09-11"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-09",
-    "to_date": "2026-09-13"
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 7.9,
-   "trend": "Stable",
-   "previous_rating": 8.0,
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.7,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 4.9
-   },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "agen agen selfi and disturb",
-     "context": "Google Play review, 2★, 2026-09-13",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "पास, निवेश एमएफ ऐप में व्यवस्थित दिखा।",
-     "context": "Google Play review, 1★, 2026-09-13",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Originally I wanted a trading app online that didn't look too technical. Is app ka layout normal user ke hisab se easy laga, ek baar use krke dekhna",
-     "context": "Google Play review, 5★, 2026-09-13",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "agen agen selfi and disturb",
-      "पास, निवेश एमएफ ऐप में व्यवस्थित दिखा।"
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-13",
-    "to_date": "2026-09-13"
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 7.9,
+   "overall_rating": 8.0,
    "trend": "Stable",
-   "previous_rating": 7.7,
+   "previous_rating": 7.8,
    "rating_breakdown": {
     "technical_reliability": 8.0,
     "sentiment": 7.2,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 9.2,
     "transparency": 7.5,
-    "historical_trend": 5.4
+    "historical_trend": 5.4,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -389,157 +193,44 @@
     "in_week": 60,
     "from_date": "2026-09-10",
     "to_date": "2026-09-13"
-   }
-  },
-  {
-   "broker": "Angel One",
-   "slug": "angel-one",
-   "overall_rating": 7.8,
-   "trend": "Stable",
-   "previous_rating": 8.0,
-   "rating_breakdown": {
-    "technical_reliability": 9.0,
-    "sentiment": 7.7,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.3,
-    "transparency": 6.0,
-    "historical_trend": 4.6
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged report how much you earn and loss and remaining amount,they stoels money from your account if you raise complaint not give the satisfaction answer in commodity crude you place limite order not beach at your limite amount and place order automatically chart is moving slowly exicute order fast and delaying for exit order i am not trading in a",
-     "context": "Google Play review, 1★, 2026-09-13",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "I have my demat account in upstox as well as angel but I like angel better. There are some things and features of upstox which are better. Like I can see XIRR on my investments. Please add that in Angel.",
-     "context": "Google Play review, 2★, 2026-09-13",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "I completely changed my view about this broker from 0 to 100. I have been using their mobile app since 2022. From 2025 onwards, their mobile app's performance is Super 👌. Order execution is very fast, and trading charts are very good. I don't face any glitches while trading. Thank you 😊 AngelOne, for your best efforts to make this app very trading friendly.",
-     "context": "Google Play review, 5★, 2026-09-12",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
-     "platform": "other",
-     "broker": "Angel One",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.51,
+    "rate_score": 10.0,
+    "resolution_rate": 91.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 102.7,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-08",
+     "received": 98,
+     "resolved": 85,
+     "pending_end": 29
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 6,
-     "severity": "high",
-     "example_quotes": [
-      "Worst app",
-      "why not you show event mark like zerodha"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re",
-      "is app se mai dhayan se apna target price set kar ke lagana .. because yeh app automatically target price (TP) (3:20:05 sec par remove kar deti hai. Mera kiya t"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "option not showing charge increase",
-      "I have my demat account in upstox as well as angel but I like angel better. There are some things and features of upstox which are better. Like I can see XIRR o"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "option not showing charge increase"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Hello Angel One Support, My ₹1 bank verification payment was successful, but my account is still not verified. Please tell me the next step I should take to com"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Angel One",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-13",
-     "last_seen": "2026-09-13"
-    },
-    {
-     "broker": "Angel One",
-     "description": "Performance: 2 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "feature_specific",
-     "volume": 2,
-     "first_seen": "2026-09-13",
-     "last_seen": "2026-09-13"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-12",
-    "to_date": "2026-09-13"
    }
   },
   {
    "broker": "Groww",
    "slug": "groww",
-   "overall_rating": 7.7,
-   "trend": "Declining",
+   "overall_rating": 7.9,
+   "trend": "Stable",
    "previous_rating": 8.2,
    "rating_breakdown": {
     "technical_reliability": 8.5,
     "sentiment": 8.5,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 8.0,
+    "support": 8.9,
     "transparency": 7.5,
-    "historical_trend": 4.2
+    "historical_trend": 4.5,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -660,22 +351,430 @@
     "in_week": 60,
     "from_date": "2026-09-13",
     "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-08",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
+   }
+  },
+  {
+   "broker": "Angel One",
+   "slug": "angel-one",
+   "overall_rating": 7.8,
+   "trend": "Stable",
+   "previous_rating": 8.0,
+   "rating_breakdown": {
+    "technical_reliability": 9.0,
+    "sentiment": 7.7,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 9.3,
+    "transparency": 6.0,
+    "historical_trend": 4.6,
+    "support_reviews": 9.3
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged report how much you earn and loss and remaining amount,they stoels money from your account if you raise complaint not give the satisfaction answer in commodity crude you place limite order not beach at your limite amount and place order automatically chart is moving slowly exicute order fast and delaying for exit order i am not trading in a",
+     "context": "Google Play review, 1★, 2026-09-13",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "I have my demat account in upstox as well as angel but I like angel better. There are some things and features of upstox which are better. Like I can see XIRR on my investments. Please add that in Angel.",
+     "context": "Google Play review, 2★, 2026-09-13",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "I completely changed my view about this broker from 0 to 100. I have been using their mobile app since 2022. From 2025 onwards, their mobile app's performance is Super 👌. Order execution is very fast, and trading charts are very good. I don't face any glitches while trading. Thank you 😊 AngelOne, for your best efforts to make this app very trading friendly.",
+     "context": "Google Play review, 5★, 2026-09-12",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 6,
+     "severity": "high",
+     "example_quotes": [
+      "Worst app",
+      "why not you show event mark like zerodha"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re",
+      "is app se mai dhayan se apna target price set kar ke lagana .. because yeh app automatically target price (TP) (3:20:05 sec par remove kar deti hai. Mera kiya t"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "option not showing charge increase",
+      "I have my demat account in upstox as well as angel but I like angel better. There are some things and features of upstox which are better. Like I can see XIRR o"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "this aap is good for learn trading, but not secure your fund in your demat account angle one three times blokage my amount not refund, if you not chack leged re"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "option not showing charge increase"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Hello Angel One Support, My ₹1 bank verification payment was successful, but my account is still not verified. Please tell me the next step I should take to com"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Angel One",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-13",
+     "last_seen": "2026-09-13"
+    },
+    {
+     "broker": "Angel One",
+     "description": "Performance: 2 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-09-13",
+     "last_seen": "2026-09-13"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-12",
+    "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   }
+  },
+  {
+   "broker": "Upstox",
+   "slug": "upstox",
+   "overall_rating": 7.7,
+   "trend": "Stable",
+   "previous_rating": 7.7,
+   "rating_breakdown": {
+    "technical_reliability": 9.0,
+    "sentiment": 7.3,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 8.1,
+    "transparency": 7.5,
+    "historical_trend": 5.1,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "I have created the account long back and when I logged in right now there are negative amounts showing in the funds page. There was no mail or anything regarding this as the amount is piling up right now.",
+     "context": "Google Play review, 1★, 2026-09-10",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "No margin facilities, and high brokerage, pls try to avoid, using this from 2yrs,enough of this!!! They reply to u that we charge a minimal 20/order but this is a clean lie and brutal truth. Trying to find some good platform 👋",
+     "context": "Google Play review, 1★, 2026-09-11",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "On OnePlus, works like a breeze. I have one bone to pick, allow screen rotation feature to work in this app. I have a green line on my screen that blocks numbers and in the chart I cannot go into landscape. It is fixed with the new update, I can now slide the holdings page to see the numbers. Thanks a lot. Lately, I have noticed that TSL disappears on certain days and reappears suddenly the next day only to disappear again??? Today, Sept 11, 2026, I can see TSL again present. Hope it is fixed!",
+     "context": "Google Play review, 5★, 2026-09-11",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "third class app",
+      "Not allow me to do intraday in recently listed IPO stocks"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "one of the worst app I have ever used, you can't find anything in this app, not user friendly",
+      "most useless features. 1.upstox 360 sl setting in preference only in % not in points 🤦. 2.scalper mode sl trailing, drag and drop not available . 3.web pro need"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Worst experience because of AMC charges. I opened Upstox just to explore the app and left the account unused. Later, I found around ₹700 deducted as AMC charges",
+      "No margin facilities, and high brokerage, pls try to avoid, using this from 2yrs,enough of this!!! They reply to u that we charge a minimal 20/order but this is"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "most useless features. 1.upstox 360 sl setting in preference only in % not in points 🤦. 2.scalper mode sl trailing, drag and drop not available . 3.web pro need",
+      "lot of stock investing is missing and amc waha"
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "totally gaali dene ko mann krta h iss app ko totally fraud h profile nhi open hota h kitna bhi kosis kr lo aur aagar coustomer care se baat krne ko bolo to ek h"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Most lagging and worst app in industry. Not recommended"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Pls don't force us to opt for FnO. FnO window pops up deceptively with all the check box checked... We should always be alert to close the window else by mistak"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Upstox",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-10",
+     "last_seen": "2026-09-10"
+    },
+    {
+     "broker": "Upstox",
+     "description": "Performance: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 1,
+     "first_seen": "2026-09-11",
+     "last_seen": "2026-09-11"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-09",
+    "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 14.56,
+    "rate_score": 5.0,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 270.0,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-08",
+     "received": 265,
+     "resolved": 275,
+     "pending_end": 27
+    }
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.4,
+   "trend": "Stable",
+   "previous_rating": 7.5,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.7,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 6.4,
+    "transparency": 6.0,
+    "historical_trend": 4.9,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "agen agen selfi and disturb",
+     "context": "Google Play review, 2★, 2026-09-13",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "पास, निवेश एमएफ ऐप में व्यवस्थित दिखा।",
+     "context": "Google Play review, 1★, 2026-09-13",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Originally I wanted a trading app online that didn't look too technical. Is app ka layout normal user ke hisab se easy laga, ek baar use krke dekhna",
+     "context": "Google Play review, 5★, 2026-09-13",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "agen agen selfi and disturb",
+      "पास, निवेश एमएफ ऐप में व्यवस्थित दिखा।"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-13",
+    "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.3,
+   "overall_rating": 7.2,
    "trend": "Stable",
-   "previous_rating": 7.1,
+   "previous_rating": 7.0,
    "rating_breakdown": {
     "technical_reliability": 8.5,
     "sentiment": 7.2,
     "new_feature_response": 6.0,
     "engagement": 8.5,
-    "support": 8.0,
+    "support": 7.5,
     "transparency": 6.0,
-    "historical_trend": 5.3
+    "historical_trend": 5.4,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -798,22 +897,194 @@
     "in_week": 26,
     "from_date": "2026-08-29",
     "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 12.24,
+    "rate_score": 5.9,
+    "resolution_rate": 90.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 165.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-08",
+     "received": 291,
+     "resolved": 265,
+     "pending_end": 48
+    }
+   }
+  },
+  {
+   "broker": "Sahi Broking",
+   "slug": "sahi-broking",
+   "overall_rating": 7.1,
+   "trend": "Declining",
+   "previous_rating": 7.9,
+   "rating_breakdown": {
+    "technical_reliability": 6.5,
+    "sentiment": 7.3,
+    "new_feature_response": 8.0,
+    "engagement": 8.1,
+    "support": 8.8,
+    "transparency": 6.0,
+    "historical_trend": 3.7,
+    "support_reviews": 8.7
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "there should be full screen option drawing tool bar open and close in single click because if we add tools in favourite it automatically hide",
+     "context": "Google Play review, 2★, 2026-09-11",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "customer service is very poor... after 20days ago requested for commodities segment activation still not activate this one. I m thinking to move other broker.",
+     "context": "Google Play review, 2★, 2026-09-12",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "It's clutter free, yet deep. It doesn't throw the entire kitchen sink at you. The way you have implemented news and the watchlists is really useful, and innovative. Charts are great, seeing my holdings on the chart is superb. Don't complicate it going forward. Thanks.",
+     "context": "Google Play review, 5★, 2026-09-13",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Performance",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "change exchange nse to bse and bse to nse toggle not available in market watch . chart and order window in web terminal.",
+      "baki to theek hai par fund settlement me kafi time lagta hai"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "app saying update the app ... playstore shows no update",
+      "unable to open app, always to update."
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "Can't open the app !! I downloaded and provide everything what this App asked for.When I tried to open it's says \" time to update \" I tried multiple times !! it",
+      "app is not opening"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "customer service is very poor... after 20days ago requested for commodities segment activation still not activate this one. I m thinking to move other broker.",
+      "i tried to open account in sahi but I have not received any credentials in 7 days and no response from customer care. bad application and bad service."
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "change exchange nse to bse and bse to nse toggle not available in market watch . chart and order window in web terminal."
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "there should be full screen option drawing tool bar open and close in single click because if we add tools in favourite it automatically hide"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Sahi Broking",
+     "description": "Reliability: 4 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 4,
+     "first_seen": "2026-09-12",
+     "last_seen": "2026-09-13"
+    },
+    {
+     "broker": "Sahi Broking",
+     "description": "Performance: 4 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 4,
+     "first_seen": "2026-09-12",
+     "last_seen": "2026-09-13"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-11",
+    "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 8.8,
+    "rate_per_lakh": 2.85,
+    "rate_score": 9.7,
+    "resolution_rate": 68.8,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 8.0,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-08",
+     "received": 9,
+     "resolved": 5,
+     "pending_end": 10
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.1,
+   "overall_rating": 6.9,
    "trend": "Stable",
-   "previous_rating": 7.3,
+   "previous_rating": 7.0,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 5.8,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 9.3,
+    "support": 7.8,
     "transparency": 7.5,
-    "historical_trend": 4.7
+    "historical_trend": 4.9,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -934,150 +1205,44 @@
     "in_week": 60,
     "from_date": "2026-09-08",
     "to_date": "2026-09-13"
-   }
-  },
-  {
-   "broker": "Sahi Broking",
-   "slug": "sahi-broking",
-   "overall_rating": 7.1,
-   "trend": "Declining",
-   "previous_rating": 7.9,
-   "rating_breakdown": {
-    "technical_reliability": 6.5,
-    "sentiment": 7.3,
-    "new_feature_response": 8.0,
-    "engagement": 8.1,
-    "support": 8.7,
-    "transparency": 6.0,
-    "historical_trend": 3.6
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "there should be full screen option drawing tool bar open and close in single click because if we add tools in favourite it automatically hide",
-     "context": "Google Play review, 2★, 2026-09-11",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
-     "platform": "other",
-     "broker": "Sahi Broking",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "customer service is very poor... after 20days ago requested for commodities segment activation still not activate this one. I m thinking to move other broker.",
-     "context": "Google Play review, 2★, 2026-09-12",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
-     "platform": "other",
-     "broker": "Sahi Broking",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "It's clutter free, yet deep. It doesn't throw the entire kitchen sink at you. The way you have implemented news and the watchlists is really useful, and innovative. Charts are great, seeing my holdings on the chart is superb. Don't complicate it going forward. Thanks.",
-     "context": "Google Play review, 5★, 2026-09-13",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
-     "platform": "other",
-     "broker": "Sahi Broking",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 6.2,
+    "rate_per_lakh": 15.04,
+    "rate_score": 4.8,
+    "resolution_rate": 95.2,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 209.3,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-08",
+     "received": 174,
+     "resolved": 230,
+     "pending_end": 32
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Performance",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "change exchange nse to bse and bse to nse toggle not available in market watch . chart and order window in web terminal.",
-      "baki to theek hai par fund settlement me kafi time lagta hai"
-     ]
-    },
-    {
-     "theme": "Other",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "app saying update the app ... playstore shows no update",
-      "unable to open app, always to update."
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "Can't open the app !! I downloaded and provide everything what this App asked for.When I tried to open it's says \" time to update \" I tried multiple times !! it",
-      "app is not opening"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "customer service is very poor... after 20days ago requested for commodities segment activation still not activate this one. I m thinking to move other broker.",
-      "i tried to open account in sahi but I have not received any credentials in 7 days and no response from customer care. bad application and bad service."
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "change exchange nse to bse and bse to nse toggle not available in market watch . chart and order window in web terminal."
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "there should be full screen option drawing tool bar open and close in single click because if we add tools in favourite it automatically hide"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Sahi Broking",
-     "description": "Reliability: 4 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "platform_wide",
-     "volume": 4,
-     "first_seen": "2026-09-12",
-     "last_seen": "2026-09-13"
-    },
-    {
-     "broker": "Sahi Broking",
-     "description": "Performance: 4 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 4,
-     "first_seen": "2026-09-12",
-     "last_seen": "2026-09-13"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-11",
-    "to_date": "2026-09-13"
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.8,
+   "overall_rating": 6.7,
    "trend": "Stable",
-   "previous_rating": 6.7,
+   "previous_rating": 6.6,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.2,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.0,
+    "support": 7.2,
     "transparency": 6.0,
-    "historical_trend": 5.2
+    "historical_trend": 5.2,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1208,12 +1373,33 @@
     "in_week": 57,
     "from_date": "2026-09-06",
     "to_date": "2026-09-12"
+   },
+   "official_complaints": {
+    "score": 6.5,
+    "rate_per_lakh": 14.02,
+    "rate_score": 5.2,
+    "resolution_rate": 96.6,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 303.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-08",
+     "received": 317,
+     "resolved": 311,
+     "pending_end": 31
+    }
    }
   },
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 6.6,
+   "overall_rating": 6.7,
    "trend": "Declining",
    "previous_rating": 7.4,
    "rating_breakdown": {
@@ -1221,9 +1407,10 @@
     "sentiment": 4.7,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 8.0,
+    "support": 8.6,
     "transparency": 7.5,
-    "historical_trend": 3.7
+    "historical_trend": 3.9,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1354,22 +1541,44 @@
     "in_week": 60,
     "from_date": "2026-09-09",
     "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.64,
+    "rate_score": 8.9,
+    "resolution_rate": 93.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 52.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-08",
+     "received": 60,
+     "resolved": 52,
+     "pending_end": 11
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.2,
+   "overall_rating": 4.9,
    "trend": "Stable",
-   "previous_rating": 5.2,
+   "previous_rating": 4.9,
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 2.8,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 8.7,
+    "support": 6.6,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1501,6 +1710,27 @@
     "in_week": 21,
     "from_date": "2026-08-21",
     "to_date": "2026-09-13"
+   },
+   "official_complaints": {
+    "score": 4.5,
+    "rate_per_lakh": 20.22,
+    "rate_score": 2.7,
+    "resolution_rate": 87.4,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 106.7,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-08",
+     "received": 116,
+     "resolved": 100,
+     "pending_end": 43
+    }
    }
   }
  ],
@@ -1513,5 +1743,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

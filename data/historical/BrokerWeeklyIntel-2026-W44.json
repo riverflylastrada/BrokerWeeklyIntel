@@ -18,7 +18,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 5.8
+    "historical_trend": 5.8,
+    "support_reviews": 9.8
    },
    "new_features": [
     {
@@ -108,22 +109,27 @@
     "in_week": 60,
     "from_date": "2026-10-27",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 8.2,
+   "overall_rating": 8.1,
    "trend": "Stable",
-   "previous_rating": 8.4,
+   "previous_rating": 8.3,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 8.5,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.8,
+    "support": 9.1,
     "transparency": 6.0,
-    "historical_trend": 4.6
+    "historical_trend": 4.6,
+    "support_reviews": 9.8
    },
    "new_features": [
     {
@@ -259,6 +265,27 @@
     "in_week": 60,
     "from_date": "2026-10-27",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 8.4,
+    "rate_per_lakh": 3.68,
+    "rate_score": 9.3,
+    "resolution_rate": 61.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 10.3,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-09",
+     "received": 16,
+     "resolved": 10,
+     "pending_end": 16
+    }
    }
   },
   {
@@ -274,7 +301,8 @@
     "engagement": 9.8,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 4.2
+    "historical_trend": 4.2,
+    "support_reviews": 9.8
    },
    "new_features": [
     {
@@ -467,21 +495,43 @@
     "in_week": 60,
     "from_date": "2026-10-28",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
    }
   },
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 7.8,
+   "overall_rating": 7.9,
    "trend": "Declining",
    "rating_breakdown": {
     "technical_reliability": 8.5,
     "sentiment": 8.4,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 8.7,
+    "support": 8.9,
     "transparency": 7.5,
-    "historical_trend": 4.2
+    "historical_trend": 4.3,
+    "support_reviews": 8.7
    },
    "new_features": [
     {
@@ -659,21 +709,43 @@
     "in_week": 60,
     "from_date": "2026-10-27",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.28,
+    "rate_score": 9.1,
+    "resolution_rate": 91.2,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 48.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-09",
+     "received": 44,
+     "resolved": 40,
+     "pending_end": 15
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.7,
+   "overall_rating": 7.5,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 8.5,
     "sentiment": 7.2,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 8.7,
+    "support": 7.5,
     "transparency": 7.5,
-    "historical_trend": 5.4
+    "historical_trend": 5.4,
+    "support_reviews": 8.7
    },
    "new_features": [
     {
@@ -851,13 +923,34 @@
     "Top negative theme: Other (4 mentions) — watch next week's share",
     "User reaction to 'Rebrand to Kotak Neo [low confidence]'"
    ],
-   "previous_rating": 7.5,
+   "previous_rating": 7.3,
    "confidence": "High",
    "sample": {
     "play_reviews": 60,
     "in_week": 43,
     "from_date": "2026-10-23",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 6.3,
+    "rate_per_lakh": 14.7,
+    "rate_score": 4.9,
+    "resolution_rate": 94.8,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 204.7,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-09",
+     "received": 182,
+     "resolved": 180,
+     "pending_end": 34
+    }
    }
   },
   {
@@ -873,7 +966,8 @@
     "engagement": 9.8,
     "support": 9.3,
     "transparency": 6.0,
-    "historical_trend": 4.7
+    "historical_trend": 4.7,
+    "support_reviews": 9.3
    },
    "new_features": [
     {
@@ -1065,22 +1159,27 @@
     "in_week": 60,
     "from_date": "2026-10-28",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 7.3,
-   "trend": "Declining",
+   "overall_rating": 7.5,
+   "trend": "Stable",
    "previous_rating": 7.7,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.6,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.0,
+    "support": 8.8,
     "transparency": 7.5,
-    "historical_trend": 4.4
+    "historical_trend": 4.7,
+    "support_reviews": 8.0
    },
    "new_features": [
     {
@@ -1279,220 +1378,44 @@
     "in_week": 60,
     "from_date": "2026-10-26",
     "to_date": "2026-10-28"
-   }
-  },
-  {
-   "broker": "HDFC Sky",
-   "slug": "hdfc-sky",
-   "overall_rating": 6.9,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 6.0,
-    "sentiment": 6.4,
-    "new_feature_response": 6.0,
-    "engagement": 8.5,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 4.8
    },
-   "new_features": [
-    {
-     "broker": "HDFC Sky",
-     "feature_name": "IPO apply above ₹5L UPI limit via linked HDFC Bank account",
-     "launch_date": "2026-10-16",
-     "user_reaction": "Too early to tell",
-     "discussion_volume": "Low",
-     "evidence_links": [
-      "https://x.com/i/status/2111041966813126663"
-     ]
+   "official_complaints": {
+    "score": 9.7,
+    "rate_per_lakh": 1.52,
+    "rate_score": 10.0,
+    "resolution_rate": 90.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 103.3,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-09",
+     "received": 123,
+     "resolved": 120,
+     "pending_end": 32
     }
-   ],
-   "key_quotes": [
-    {
-     "quote": "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime when upto his mood maybe go for other provider it's my suggestion If star available in negitve then I'll sure give -5 star my request is to e",
-     "context": "Google Play review, 1★, 2026-10-27",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it continues like this again",
-     "context": "Google Play review, 1★, 2026-10-16",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "SIR, MY FIRST👇 SUGGESTION HAS BEEN Fulfilled..now everything is fine you made it really good... only one problem i have been facing is app is lagging many times. whenever i searched a stock, opening an index chart i find it lagging Sir it's my humble request to you that please develop the watchlist ",
-     "context": "Google Play review, 5★, 2026-10-26",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": 1.0
-    },
-    {
-     "quote": "India fintech Moneyview listed on NSE/BSE on Thu Oct 1 at ₹55 vs a ₹34 issue price (+61.76%), per HDFC Sky.  The IPO raised ₹1,091.68 crore (fresh issue of ₹750 cr + OFS of ₹341.68 cr) and was ~71.4x subscribed overall: NII ~120x, QIB ~93x and retail ~20x.  It is a strong https:/",
-     "context": "X post, 2026-10-01",
-     "sentiment": "negative",
-     "source_url": "https://x.com/i/status/2105547468616380775",
-     "platform": "x",
-     "broker": "HDFC Sky",
-     "sentimentScore": -0.6
-    },
-    {
-     "quote": "Bad Service: In this hdfc app I try to setup sip Autopay but around a 3 week I summited my request and after 4 days automatically my request is vanis out from the app if transaction is not completed that time also they show summited but they don't allow to cancel my request or de",
-     "context": "App Store review, 1★, 2026-10-04",
-     "sentiment": "negative",
-     "source_url": "https://apps.apple.com/in/app/id6447300262?see-all=reviews",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "Open free demat account and start your trading journey with the link given below :-\r\n\r\n✅upstox\r\nhttps://upstox.com/open-account/?f=23AV3U",
-     "context": "YouTube comment on a recent review video (comment date not verified this week)",
-     "sentiment": "neutral",
-     "source_url": "https://www.youtube.com/watch?v=6FMM2vrRYyA&lc=UgzdvKJVLoDYkaK_wYF4AaABAg",
-     "platform": "youtube",
-     "broker": "HDFC Sky",
-     "sentimentScore": 0
-    },
-    {
-     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
-     "context": "Reddit r/IndianStreetBets, 2026-10-28",
-     "sentiment": "negative",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
-     "platform": "reddit",
-     "broker": "HDFC Sky",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "Is HDFC Sky's Scalper Mode actually useful during volatile markets. — It is always frustrating while scalping to find how quickly a good entry can disappear while you are still clicking through order windows and confirmations when the market starts moving sharply. I tri",
-     "context": "Reddit r/IndianStreetBets, 2026-10-26",
-     "sentiment": "neutral",
-     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xfpq7g/is_hdfc_skys_scalper_mode_actually_useful_during/",
-     "platform": "reddit",
-     "broker": "HDFC Sky",
-     "sentimentScore": 0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 10,
-     "severity": "high",
-     "example_quotes": [
-      "bad 👎",
-      "pathetic"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime w",
-      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "App goes slow and some time it is difficult to manage",
-      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "I have been receiving too many calls from HDFC Bank, and an amount has been deducted from my account through this app with my permission. Please check this issu",
-      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic",
-      "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it "
-     ]
-    },
-    {
-     "theme": "Transparency",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "This is fraud I have lost 12.14 lakhs",
-      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl",
-      "Hdfc Sky doesn't have mutual funds direct growth plan... I can not use HDFC Sky app for all my investments at 1 place. Poor aap"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "HDFC Sky",
-     "description": "Reliability: 4 of last 60 Play reviews report it — e.g. \"it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can \"",
-     "severity": "medium",
-     "issue_type": "platform_wide",
-     "volume": 4,
-     "first_seen": "2026-10-13",
-     "last_seen": "2026-10-27"
-    },
-    {
-     "broker": "HDFC Sky",
-     "description": "Performance: 4 of last 60 Play reviews report it — e.g. \"Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguidin\"",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 4,
-     "first_seen": "2026-10-06",
-     "last_seen": "2026-10-25"
-    }
-   ],
-   "watch_items": [
-    "Track reliability complaints (4 in last 60 reviews) for a fix",
-    "Top negative theme: Other (10 mentions) — watch next week's share"
-   ],
-   "previous_rating": 7.0,
-   "confidence": "Low",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 11,
-    "from_date": "2026-10-05",
-    "to_date": "2026-10-28"
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.9,
+   "overall_rating": 6.8,
    "trend": "Improving",
-   "previous_rating": 6.2,
+   "previous_rating": 6.1,
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 6.1,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.7,
+    "support": 7.8,
     "transparency": 6.0,
-    "historical_trend": 6.2
+    "historical_trend": 6.1,
+    "support_reviews": 8.7
    },
    "new_features": [
     {
@@ -1692,22 +1615,264 @@
     "in_week": 38,
     "from_date": "2026-10-22",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.96,
+    "rate_score": 5.6,
+    "resolution_rate": 97.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 280.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-09",
+     "received": 239,
+     "resolved": 245,
+     "pending_end": 25
+    }
+   }
+  },
+  {
+   "broker": "HDFC Sky",
+   "slug": "hdfc-sky",
+   "overall_rating": 6.7,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 6.0,
+    "sentiment": 6.4,
+    "new_feature_response": 6.0,
+    "engagement": 8.5,
+    "support": 8.7,
+    "transparency": 6.0,
+    "historical_trend": 4.9,
+    "support_reviews": 9.8
+   },
+   "new_features": [
+    {
+     "broker": "HDFC Sky",
+     "feature_name": "IPO apply above ₹5L UPI limit via linked HDFC Bank account",
+     "launch_date": "2026-10-16",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://x.com/i/status/2111041966813126663"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime when upto his mood maybe go for other provider it's my suggestion If star available in negitve then I'll sure give -5 star my request is to e",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it continues like this again",
+     "context": "Google Play review, 1★, 2026-10-16",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "SIR, MY FIRST👇 SUGGESTION HAS BEEN Fulfilled..now everything is fine you made it really good... only one problem i have been facing is app is lagging many times. whenever i searched a stock, opening an index chart i find it lagging Sir it's my humble request to you that please develop the watchlist ",
+     "context": "Google Play review, 5★, 2026-10-26",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "India fintech Moneyview listed on NSE/BSE on Thu Oct 1 at ₹55 vs a ₹34 issue price (+61.76%), per HDFC Sky.  The IPO raised ₹1,091.68 crore (fresh issue of ₹750 cr + OFS of ₹341.68 cr) and was ~71.4x subscribed overall: NII ~120x, QIB ~93x and retail ~20x.  It is a strong https:/",
+     "context": "X post, 2026-10-01",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2105547468616380775",
+     "platform": "x",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Bad Service: In this hdfc app I try to setup sip Autopay but around a 3 week I summited my request and after 4 days automatically my request is vanis out from the app if transaction is not completed that time also they show summited but they don't allow to cancel my request or de",
+     "context": "App Store review, 1★, 2026-10-04",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id6447300262?see-all=reviews",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Open free demat account and start your trading journey with the link given below :-\r\n\r\n✅upstox\r\nhttps://upstox.com/open-account/?f=23AV3U",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=6FMM2vrRYyA&lc=UgzdvKJVLoDYkaK_wYF4AaABAg",
+     "platform": "youtube",
+     "broker": "HDFC Sky",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
+     "context": "Reddit r/IndianStreetBets, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
+     "platform": "reddit",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Is HDFC Sky's Scalper Mode actually useful during volatile markets. — It is always frustrating while scalping to find how quickly a good entry can disappear while you are still clicking through order windows and confirmations when the market starts moving sharply. I tri",
+     "context": "Reddit r/IndianStreetBets, 2026-10-26",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xfpq7g/is_hdfc_skys_scalper_mode_actually_useful_during/",
+     "platform": "reddit",
+     "broker": "HDFC Sky",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 10,
+     "severity": "high",
+     "example_quotes": [
+      "bad 👎",
+      "pathetic"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime w",
+      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "App goes slow and some time it is difficult to manage",
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "I have been receiving too many calls from HDFC Bank, and an amount has been deducted from my account through this app with my permission. Please check this issu",
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic",
+      "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it "
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "This is fraud I have lost 12.14 lakhs",
+      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl",
+      "Hdfc Sky doesn't have mutual funds direct growth plan... I can not use HDFC Sky app for all my investments at 1 place. Poor aap"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "HDFC Sky",
+     "description": "Reliability: 4 of last 60 Play reviews report it — e.g. \"it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can \"",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 4,
+     "first_seen": "2026-10-13",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "HDFC Sky",
+     "description": "Performance: 4 of last 60 Play reviews report it — e.g. \"Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguidin\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 4,
+     "first_seen": "2026-10-06",
+     "last_seen": "2026-10-25"
+    }
+   ],
+   "watch_items": [
+    "Track reliability complaints (4 in last 60 reviews) for a fix",
+    "Top negative theme: Other (10 mentions) — watch next week's share"
+   ],
+   "previous_rating": 6.8,
+   "confidence": "Low",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 11,
+    "from_date": "2026-10-05",
+    "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 7.5,
+    "rate_per_lakh": 10.76,
+    "rate_score": 6.5,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 145.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-09",
+     "received": 58,
+     "resolved": 92,
+     "pending_end": 14
+    }
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 6.7,
+   "overall_rating": 6.4,
    "trend": "Declining",
-   "previous_rating": 7.7,
+   "previous_rating": 7.6,
    "rating_breakdown": {
     "technical_reliability": 5.0,
     "sentiment": 5.1,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 9.8,
+    "support": 8.3,
     "transparency": 7.5,
-    "historical_trend": 3.3
+    "historical_trend": 3.1,
+    "support_reviews": 9.8
    },
    "new_features": [
     {
@@ -1917,21 +2082,43 @@
     "in_week": 60,
     "from_date": "2026-10-26",
     "to_date": "2026-10-28"
+   },
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.8,
+    "rate_score": 5.7,
+    "resolution_rate": 94.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 237.3,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-09",
+     "received": 168,
+     "resolved": 149,
+     "pending_end": 46
+    }
    }
   },
   {
    "broker": "5Paisa",
    "slug": "5paisa",
-   "overall_rating": 6.7,
+   "overall_rating": 6.2,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.7,
     "new_feature_response": 3.5,
     "engagement": 9.6,
-    "support": 8.7,
+    "support": 5.8,
     "transparency": 6.0,
-    "historical_trend": 4.9
+    "historical_trend": 5.1,
+    "support_reviews": 8.7
    },
    "new_features": [
     {
@@ -2081,28 +2268,50 @@
     "Top negative theme: Other (11 mentions) — watch next week's share",
     "User reaction to '5paisa 2.0 app (new app + AI assistant)'"
    ],
-   "previous_rating": 6.7,
+   "previous_rating": 6.2,
    "confidence": "Low",
    "sample": {
     "play_reviews": 60,
     "in_week": 3,
     "from_date": "2026-09-25",
     "to_date": "2026-10-27"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.0,
+   "overall_rating": 4.7,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 1.9,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 8.0,
+    "support": 6.4,
     "transparency": 6.0,
-    "historical_trend": 4.9
+    "historical_trend": 5.1,
+    "support_reviews": 8.0
    },
    "new_features": [
     {
@@ -2260,13 +2469,34 @@
     "Top negative theme: Other (20 mentions) — watch next week's share",
     "User reaction to 'US market exposure, zero platform fees [low confidence]'"
    ],
-   "previous_rating": 5.0,
+   "previous_rating": 4.7,
    "confidence": "Low",
    "sample": {
     "play_reviews": 60,
     "in_week": 5,
     "from_date": "2026-10-03",
     "to_date": "2026-10-27"
+   },
+   "official_complaints": {
+    "score": 4.8,
+    "rate_per_lakh": 19.78,
+    "rate_score": 2.9,
+    "resolution_rate": 91.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 104.3,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-09",
+     "received": 105,
+     "resolved": 118,
+     "pending_end": 30
+    }
    }
   }
  ],
@@ -2432,5 +2662,638 @@
   "Groww/Angel One: US-stock rollout reactions",
   "HDFC Sky: chart/crash fix after update"
  ],
- "methodology_note": "Scores use the same 7-parameter method as the backfilled W36-W43 weeks: newest 60 Google Play reviews per broker drive Technical reliability, Sentiment and Support; Engagement, Transparency and New-feature response as of W44; Historical trend vs the previous week. X, Reddit, App Store and news items collected for W44 are shown as evidence (quotes, issues, features) but are not blended into scores, so weeks stay comparable. Re-based on 29 Oct 2026; replaces the May W19-W21 sample reports, which used a different method."
+ "methodology_note": "Scores use the same 7-parameter method as the backfilled W36-W43 weeks: newest 60 Google Play reviews per broker drive Technical reliability, Sentiment and Support; Engagement, Transparency and New-feature response as of W44; Historical trend vs the previous week. X, Reddit, App Store and news items collected for W44 are shown as evidence (quotes, issues, features) but are not blended into scores, so weeks stay comparable. Re-based on 29 Oct 2026; replaces the May W19-W21 sample reports, which used a different method. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end.",
+ "official_complaints_data": {
+  "updated": "2026-10-29",
+  "active_clients_source": {
+   "month": "2026-09",
+   "source": "NSE broker-wise active clients, September 2026 (as compiled from NSE disclosures)",
+   "url": "https://dhan.co/blog/stock-market/top-50-largest-stock-brokers-in-india-as-of-september-2026/"
+  },
+  "definition": "Monthly totals across all sources (direct, SEBI SCORES, exchanges, other) from the broker's SEBI-mandated Investor Complaints disclosure.",
+  "brokers": {
+   "zerodha": {
+    "entity": "Zerodha Broking Ltd",
+    "active_clients": 6791541,
+    "source_page": "https://zerodha.com/disclosure/",
+    "months": {
+     "2025-10": {
+      "carried_forward": 8,
+      "received": 117,
+      "resolved": 95,
+      "pending_end": 30,
+      "avg_resolution_days": 6.275
+     },
+     "2025-11": {
+      "carried_forward": 30,
+      "received": 109,
+      "resolved": 118,
+      "pending_end": 21,
+      "avg_resolution_days": 7.22
+     },
+     "2025-12": {
+      "carried_forward": 21,
+      "received": 86,
+      "resolved": 82,
+      "pending_end": 25,
+      "avg_resolution_days": 5.56
+     },
+     "2026-01": {
+      "carried_forward": 25,
+      "received": 80,
+      "resolved": 81,
+      "pending_end": 24,
+      "avg_resolution_days": 7.845
+     },
+     "2026-02": {
+      "carried_forward": 24,
+      "received": 128,
+      "resolved": 111,
+      "pending_end": 41,
+      "avg_resolution_days": 6.84
+     },
+     "2026-03": {
+      "carried_forward": 41,
+      "received": 87,
+      "resolved": 93,
+      "pending_end": 35,
+      "avg_resolution_days": 9.67
+     },
+     "2026-04": {
+      "carried_forward": 40,
+      "received": 122,
+      "resolved": 126,
+      "pending_end": 36,
+      "avg_resolution_days": 8.15
+     },
+     "2026-05": {
+      "carried_forward": 36,
+      "received": 128,
+      "resolved": 122,
+      "pending_end": 42,
+      "avg_resolution_days": 8.15
+     },
+     "2026-06": {
+      "carried_forward": 42,
+      "received": 121,
+      "resolved": 154,
+      "pending_end": 9,
+      "avg_resolution_days": 6.36
+     },
+     "2026-07": {
+      "carried_forward": 9,
+      "received": 89,
+      "resolved": 82,
+      "pending_end": 16,
+      "avg_resolution_days": 5.82
+     },
+     "2026-08": {
+      "carried_forward": 16,
+      "received": 98,
+      "resolved": 85,
+      "pending_end": 29,
+      "avg_resolution_days": 5.14
+     },
+     "2026-09": {
+      "carried_forward": 29,
+      "received": 123,
+      "resolved": 120,
+      "pending_end": 32,
+      "avg_resolution_days": 6.07
+     }
+    },
+    "data_url": "https://docs.google.com/spreadsheets/d/12_L4ku18tU12orNkyFJIY2Kkv03YNssT8GNK8tNdf_c/export?format=csv",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "kotak-securities": {
+    "entity": "Kotak Securities Ltd",
+    "active_clients": 1391840,
+    "source_page": "https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/",
+    "months": {
+     "2026-04": {
+      "carried_forward": 24,
+      "received": 216,
+      "resolved": 194,
+      "pending_end": 46
+     },
+     "2026-05": {
+      "carried_forward": 46,
+      "received": 179,
+      "resolved": 180,
+      "pending_end": 45
+     },
+     "2026-06": {
+      "carried_forward": 45,
+      "received": 196,
+      "resolved": 197,
+      "pending_end": 44
+     },
+     "2026-07": {
+      "carried_forward": 44,
+      "received": 258,
+      "resolved": 214,
+      "pending_end": 88
+     },
+     "2026-08": {
+      "carried_forward": 88,
+      "received": 174,
+      "resolved": 230,
+      "pending_end": 32
+     },
+     "2026-09": {
+      "carried_forward": 32,
+      "received": 182,
+      "resolved": 180,
+      "pending_end": 34
+     }
+    },
+    "data_url": "https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "hdfc-sky": {
+    "entity": "HDFC Securities Ltd (HDFC Sky)",
+    "active_clients": 1353843,
+    "source_page": "https://hdfcsec.com/investor-complaints-data-stock-broking",
+    "months": {
+     "2026-04": {
+      "carried_forward": 20,
+      "received": 91,
+      "resolved": 89,
+      "pending_end": 22
+     },
+     "2026-05": {
+      "carried_forward": 22,
+      "received": 95,
+      "resolved": 84,
+      "pending_end": 33
+     },
+     "2026-06": {
+      "carried_forward": 33,
+      "received": 118,
+      "resolved": 116,
+      "pending_end": 35
+     },
+     "2026-07": {
+      "carried_forward": 35,
+      "received": 88,
+      "resolved": 101,
+      "pending_end": 22
+     },
+     "2026-08": {
+      "carried_forward": 22,
+      "received": 291,
+      "resolved": 265,
+      "pending_end": 48
+     },
+     "2026-09": {
+      "carried_forward": 48,
+      "received": 58,
+      "resolved": 92,
+      "pending_end": 14
+     }
+    },
+    "data_url": "https://hdfcsec.com/investor-complaints-data-stock-broking",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "icici-direct": {
+    "entity": "ICICI Securities Ltd",
+    "active_clients": 2160619,
+    "source_page": "https://www.icicidirect.com/grievance-redressal/grievance-redressal.html",
+    "months": {
+     "2025-10": {
+      "carried_forward": 40,
+      "received": 347,
+      "resolved": 347,
+      "pending_end": 40
+     },
+     "2025-11": {
+      "carried_forward": 40,
+      "received": 376,
+      "resolved": 383,
+      "pending_end": 33
+     },
+     "2025-12": {
+      "carried_forward": 33,
+      "received": 365,
+      "resolved": 365,
+      "pending_end": 33
+     },
+     "2026-01": {
+      "carried_forward": 33,
+      "received": 305,
+      "resolved": 317,
+      "pending_end": 21
+     },
+     "2026-02": {
+      "carried_forward": 21,
+      "received": 280,
+      "resolved": 264,
+      "pending_end": 37
+     },
+     "2026-03": {
+      "carried_forward": 37,
+      "received": 277,
+      "resolved": 250,
+      "pending_end": 64
+     },
+     "2026-04": {
+      "carried_forward": 64,
+      "received": 264,
+      "resolved": 305,
+      "pending_end": 23
+     },
+     "2026-05": {
+      "carried_forward": 23,
+      "received": 233,
+      "resolved": 240,
+      "pending_end": 16
+     },
+     "2026-06": {
+      "carried_forward": 16,
+      "received": 308,
+      "resolved": 302,
+      "pending_end": 22
+     },
+     "2026-07": {
+      "carried_forward": 22,
+      "received": 284,
+      "resolved": 281,
+      "pending_end": 25
+     },
+     "2026-08": {
+      "carried_forward": 25,
+      "received": 317,
+      "resolved": 311,
+      "pending_end": 31
+     },
+     "2026-09": {
+      "carried_forward": 31,
+      "received": 239,
+      "resolved": 245,
+      "pending_end": 25
+     }
+    },
+    "data_url": "https://secure.icicidirect.com/customer/staticdata/Annexure-B_Complaint%20format_Stock%20broker.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "upstox": {
+    "entity": "Upstox Securities Pvt Ltd",
+    "active_clients": 1854285,
+    "source_page": "https://upstox.com/investor-complaint-details",
+    "months": {
+     "2026-04": {
+      "carried_forward": 35,
+      "received": 341,
+      "resolved": 301,
+      "pending_end": 75
+     },
+     "2026-05": {
+      "carried_forward": 75,
+      "received": 259,
+      "resolved": 247,
+      "pending_end": 87
+     },
+     "2026-06": {
+      "carried_forward": 87,
+      "received": 266,
+      "resolved": 302,
+      "pending_end": 51
+     },
+     "2026-07": {
+      "carried_forward": 51,
+      "received": 279,
+      "resolved": 293,
+      "pending_end": 37
+     },
+     "2026-08": {
+      "carried_forward": 37,
+      "received": 265,
+      "resolved": 275,
+      "pending_end": 27
+     },
+     "2026-09": {
+      "carried_forward": 27,
+      "received": 168,
+      "resolved": 149,
+      "pending_end": 46
+     }
+    },
+    "data_url": "https://assets.upstox.com/content/assets/pdfs/cms/investor-details/investor-charterwebsitedatasecuritiesseptember26.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "sahi-broking": {
+    "entity": "Aaritya Broking Pvt Ltd",
+    "active_clients": 281028,
+    "source_page": "https://www.sahi.com/investor-charters-and-grievance",
+    "months": {
+     "2026-04": {
+      "carried_forward": 13,
+      "received": 13,
+      "resolved": 10,
+      "pending_end": 16
+     },
+     "2026-05": {
+      "carried_forward": 16,
+      "received": 5,
+      "resolved": 13,
+      "pending_end": 8
+     },
+     "2026-06": {
+      "carried_forward": 8,
+      "received": 9,
+      "resolved": 7,
+      "pending_end": 10
+     },
+     "2026-07": {
+      "carried_forward": 10,
+      "received": 6,
+      "resolved": 10,
+      "pending_end": 6
+     },
+     "2026-08": {
+      "carried_forward": 6,
+      "received": 9,
+      "resolved": 5,
+      "pending_end": 10
+     },
+     "2026-09": {
+      "carried_forward": 10,
+      "received": 16,
+      "resolved": 10,
+      "pending_end": 16
+     }
+    },
+    "data_url": "https://www.sahi.com/assets/uploads/Sep_2026_666bd50e25.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "dhan": {
+    "entity": "Raise Securities Pvt Ltd",
+    "active_clients": 1120901,
+    "source_page": "https://dhan.co/download-centre-pdf/Grievances.pdf",
+    "months": {
+     "2026-04": {
+      "carried_forward": 19,
+      "received": 28,
+      "resolved": 35,
+      "pending_end": 12
+     },
+     "2026-05": {
+      "carried_forward": 12,
+      "received": 45,
+      "resolved": 39,
+      "pending_end": 18
+     },
+     "2026-06": {
+      "carried_forward": 18,
+      "received": 56,
+      "resolved": 47,
+      "pending_end": 27
+     },
+     "2026-07": {
+      "carried_forward": 27,
+      "received": 40,
+      "resolved": 64,
+      "pending_end": 3
+     },
+     "2026-08": {
+      "carried_forward": 3,
+      "received": 60,
+      "resolved": 52,
+      "pending_end": 11
+     },
+     "2026-09": {
+      "carried_forward": 11,
+      "received": 44,
+      "resolved": 40,
+      "pending_end": 15
+     }
+    },
+    "data_url": "https://dhan.co/download-centre-pdf/Grievances.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "sharekhan": {
+    "entity": "Sharekhan Ltd",
+    "active_clients": 527503,
+    "source_page": "https://www.sharekhan.com/MediaGalary/Newsletter/ComplaintDisclosure-271124.html",
+    "months": {
+     "2025-10": {
+      "carried_forward": 28,
+      "received": 83,
+      "resolved": 89,
+      "pending_end": 22
+     },
+     "2025-11": {
+      "carried_forward": 22,
+      "received": 67,
+      "resolved": 70,
+      "pending_end": 19
+     },
+     "2025-12": {
+      "carried_forward": 19,
+      "received": 80,
+      "resolved": 77,
+      "pending_end": 22
+     },
+     "2026-01": {
+      "carried_forward": 22,
+      "received": 77,
+      "resolved": 81,
+      "pending_end": 18
+     },
+     "2026-02": {
+      "carried_forward": 18,
+      "received": 86,
+      "resolved": 87,
+      "pending_end": 17
+     },
+     "2026-03": {
+      "carried_forward": 17,
+      "received": 63,
+      "resolved": 63,
+      "pending_end": 17
+     },
+     "2026-04": {
+      "carried_forward": 17,
+      "received": 85,
+      "resolved": 86,
+      "pending_end": 16
+     },
+     "2026-05": {
+      "carried_forward": 16,
+      "received": 95,
+      "resolved": 90,
+      "pending_end": 21
+     },
+     "2026-06": {
+      "carried_forward": 21,
+      "received": 112,
+      "resolved": 109,
+      "pending_end": 24
+     },
+     "2026-07": {
+      "carried_forward": 24,
+      "received": 92,
+      "resolved": 89,
+      "pending_end": 27
+     },
+     "2026-08": {
+      "carried_forward": 27,
+      "received": 116,
+      "resolved": 100,
+      "pending_end": 43
+     },
+     "2026-09": {
+      "carried_forward": 43,
+      "received": 105,
+      "resolved": 118,
+      "pending_end": 30
+     }
+    },
+    "data_url": "https://www.sharekhan.com/MediaGalary/Newsletter/Stock-Broker-Complaint-Data-271124.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "5paisa": {
+    "entity": "5paisa Capital Ltd",
+    "active_clients": 321174,
+    "source_page": null,
+    "months": {
+     "2026-04": {
+      "carried_forward": 15,
+      "received": 30,
+      "resolved": 43,
+      "pending_end": 2
+     },
+     "2026-05": {
+      "carried_forward": 2,
+      "received": 23,
+      "resolved": 16,
+      "pending_end": 9
+     },
+     "2026-06": {
+      "carried_forward": 9,
+      "received": 395,
+      "resolved": 402,
+      "pending_end": 2
+     },
+     "2026-07": {
+      "carried_forward": 2,
+      "received": 25,
+      "resolved": 24,
+      "pending_end": 3
+     },
+     "2026-08": {
+      "carried_forward": 3,
+      "received": 26,
+      "resolved": 24,
+      "pending_end": 5
+     }
+    },
+    "data_url": "https://storage.googleapis.com/5paisa-prod-storage/files/investor_charter/2026-09/stock-broker-aug.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "ok",
+    "note": ""
+   },
+   "groww": {
+    "entity": "Groww Invest Tech Pvt Ltd",
+    "active_clients": 13448194,
+    "source_page": "https://groww.in/investor-relations",
+    "months": {
+     "2025-10": {
+      "carried_forward": 29,
+      "received": 208,
+      "resolved": 196,
+      "pending_end": 41
+     },
+     "2025-11": {
+      "carried_forward": 41,
+      "received": 160,
+      "resolved": 146,
+      "pending_end": 55
+     },
+     "2025-12": {
+      "carried_forward": 55,
+      "received": 266,
+      "resolved": 252,
+      "pending_end": 69
+     },
+     "2026-01": {
+      "carried_forward": 69,
+      "received": 213,
+      "resolved": 210,
+      "pending_end": 72
+     },
+     "2026-02": {
+      "carried_forward": 72,
+      "received": 216,
+      "resolved": 248,
+      "pending_end": 40
+     },
+     "2026-03": {
+      "carried_forward": 40,
+      "received": 206,
+      "resolved": 182,
+      "pending_end": 64
+     },
+     "2026-04": {
+      "carried_forward": 64,
+      "received": 256,
+      "resolved": 225,
+      "pending_end": 95
+     },
+     "2026-05": {
+      "carried_forward": 95,
+      "received": 214,
+      "resolved": 224,
+      "pending_end": 85
+     },
+     "2026-06": {
+      "carried_forward": 85,
+      "received": 191,
+      "resolved": 234,
+      "pending_end": 42
+     }
+    },
+    "data_url": "https://cms-resources.groww.in/uploads/WEBSITE_REPORTING_June_2026_Stock_Broker_6d34586228.pdf",
+    "fetched_on": "2026-10-29",
+    "fetch_status": "manual",
+    "note": "Groww posts each month as a new PDF with a hashed file name; no stable index page found. Last file found: June 2026."
+   },
+   "angel-one": {
+    "entity": "Angel One Ltd",
+    "active_clients": 6755711,
+    "source_page": "https://www.angelone.in/investor-charter",
+    "months": {},
+    "data_url": null,
+    "fetched_on": null,
+    "fetch_status": "missing",
+    "note": "Investor charter page shows only blank SEBI templates; no filled monthly stock-broker complaint data found."
+   },
+   "fyers": {
+    "entity": "Fyers Securities Pvt Ltd",
+    "active_clients": 197380,
+    "source_page": "https://fyers.in/investor-charter-stock-brokers",
+    "months": {},
+    "data_url": null,
+    "fetched_on": null,
+    "fetch_status": "missing",
+    "note": "Investor charter page has no monthly complaint figures; no data file found."
+   }
+  }
+ }
 }

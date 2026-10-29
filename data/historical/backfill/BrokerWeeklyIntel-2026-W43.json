@@ -10,15 +10,16 @@
    "slug": "groww",
    "overall_rating": 8.4,
    "trend": "Improving",
-   "previous_rating": 7.9,
+   "previous_rating": 8.1,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 8.9,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 9.3,
+    "support": 9.6,
     "transparency": 7.5,
-    "historical_trend": 5.8
+    "historical_trend": 5.5,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -85,22 +86,44 @@
     "in_week": 60,
     "from_date": "2026-10-25",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
    }
   },
   {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 8.4,
+   "overall_rating": 8.3,
    "trend": "Improving",
-   "previous_rating": 7.9,
+   "previous_rating": 7.8,
    "rating_breakdown": {
     "technical_reliability": 9.5,
     "sentiment": 9.5,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.8,
+    "support": 9.1,
     "transparency": 6.0,
-    "historical_trend": 5.8
+    "historical_trend": 5.8,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -185,6 +208,27 @@
     "in_week": 60,
     "from_date": "2026-10-24",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 8.4,
+    "rate_per_lakh": 3.68,
+    "rate_score": 9.3,
+    "resolution_rate": 61.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 10.3,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-09",
+     "received": 16,
+     "resolved": 10,
+     "pending_end": 16
+    }
    }
   },
   {
@@ -198,9 +242,10 @@
     "sentiment": 8.8,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 9.8,
+    "support": 9.4,
     "transparency": 7.5,
-    "historical_trend": 4.9
+    "historical_trend": 4.8,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -292,6 +337,27 @@
     "in_week": 60,
     "from_date": "2026-10-24",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.28,
+    "rate_score": 9.1,
+    "resolution_rate": 91.2,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 48.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-09",
+     "received": 44,
+     "resolved": 40,
+     "pending_end": 15
+    }
    }
   },
   {
@@ -307,7 +373,8 @@
     "engagement": 8.7,
     "support": 9.3,
     "transparency": 7.5,
-    "historical_trend": 4.2
+    "historical_trend": 4.2,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -409,6 +476,10 @@
     "in_week": 60,
     "from_date": "2026-10-23",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
@@ -424,7 +495,8 @@
     "engagement": 9.8,
     "support": 9.8,
     "transparency": 6.0,
-    "historical_trend": 4.3
+    "historical_trend": 4.3,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -510,12 +582,166 @@
     "in_week": 60,
     "from_date": "2026-10-24",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
+   }
+  },
+  {
+   "broker": "Zerodha",
+   "slug": "zerodha",
+   "overall_rating": 7.7,
+   "trend": "Improving",
+   "previous_rating": 7.3,
+   "rating_breakdown": {
+    "technical_reliability": 6.0,
+    "sentiment": 7.4,
+    "new_feature_response": 8.0,
+    "engagement": 9.8,
+    "support": 9.5,
+    "transparency": 7.5,
+    "historical_trend": 5.7,
+    "support_reviews": 9.3
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
+     "context": "Google Play review, 1★, 2026-10-25",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "very poor",
+     "context": "Google Play review, 1★, 2026-10-25",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good",
+     "context": "Google Play review, 5★, 2026-10-25",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "UX",
+     "count": 7,
+     "severity": "high",
+     "example_quotes": [
+      "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
+      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
+      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa",
+      "app is slow and stick to the previous chart"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "very poor",
+      "couldn't connect after trying so many times, each time saying invalid credentials and clear what should I do and not accepting kite code"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Its three-month performance reflects poorly in the market, indicating a negative outcome. New or inexperienced users should avoid it; it appears to be a hidden "
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Extremely disappointing experience with @zerodhaonline. For the past 3 days, I’ve been contacting customer support 3 times a day, but I keep receiving assurance"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Zerodha",
+     "description": "Reliability: 5 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 5,
+     "first_seen": "2026-10-22",
+     "last_seen": "2026-10-25"
+    },
+    {
+     "broker": "Zerodha",
+     "description": "Performance: 4 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 4,
+     "first_seen": "2026-10-22",
+     "last_seen": "2026-10-25"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-10-22",
+    "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 9.7,
+    "rate_per_lakh": 1.52,
+    "rate_score": 10.0,
+    "resolution_rate": 90.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 103.3,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-09",
+     "received": 123,
+     "resolved": 120,
+     "pending_end": 32
+    }
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 7.7,
+   "overall_rating": 7.6,
    "trend": "Stable",
    "previous_rating": 7.8,
    "rating_breakdown": {
@@ -523,9 +749,10 @@
     "sentiment": 6.8,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 7.8,
     "transparency": 7.5,
-    "historical_trend": 4.9
+    "historical_trend": 4.6,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -647,150 +874,44 @@
     "in_week": 60,
     "from_date": "2026-10-21",
     "to_date": "2026-10-25"
-   }
-  },
-  {
-   "broker": "Zerodha",
-   "slug": "zerodha",
-   "overall_rating": 7.7,
-   "trend": "Improving",
-   "previous_rating": 7.2,
-   "rating_breakdown": {
-    "technical_reliability": 6.0,
-    "sentiment": 7.4,
-    "new_feature_response": 8.0,
-    "engagement": 9.8,
-    "support": 9.3,
-    "transparency": 7.5,
-    "historical_trend": 5.8
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
-     "context": "Google Play review, 1★, 2026-10-25",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
-     "platform": "other",
-     "broker": "Zerodha",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "very poor",
-     "context": "Google Play review, 1★, 2026-10-25",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
-     "platform": "other",
-     "broker": "Zerodha",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good",
-     "context": "Google Play review, 5★, 2026-10-25",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
-     "platform": "other",
-     "broker": "Zerodha",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.8,
+    "rate_score": 5.7,
+    "resolution_rate": 94.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 237.3,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-09",
+     "received": 168,
+     "resolved": 149,
+     "pending_end": 46
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "UX",
-     "count": 7,
-     "severity": "high",
-     "example_quotes": [
-      "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
-      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "MY OLD SAVED CHART OF TRADING VIEW BETA IS NOT OPENING",
-      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "The Chart is always a negative point of the kite, I have been using it for many years but the only thing I am frustrated about is the chart. Currently chart loa",
-      "app is slow and stick to the previous chart"
-     ]
-    },
-    {
-     "theme": "Other",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "very poor",
-      "couldn't connect after trying so many times, each time saying invalid credentials and clear what should I do and not accepting kite code"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Its three-month performance reflects poorly in the market, indicating a negative outcome. New or inexperienced users should avoid it; it appears to be a hidden "
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Extremely disappointing experience with @zerodhaonline. For the past 3 days, I’ve been contacting customer support 3 times a day, but I keep receiving assurance"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Zerodha",
-     "description": "Reliability: 5 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "platform_wide",
-     "volume": 5,
-     "first_seen": "2026-10-22",
-     "last_seen": "2026-10-25"
-    },
-    {
-     "broker": "Zerodha",
-     "description": "Performance: 4 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 4,
-     "first_seen": "2026-10-22",
-     "last_seen": "2026-10-25"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-10-22",
-    "to_date": "2026-10-25"
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.5,
+   "overall_rating": 7.3,
    "trend": "Stable",
-   "previous_rating": 7.8,
+   "previous_rating": 7.6,
    "rating_breakdown": {
     "technical_reliability": 8.0,
     "sentiment": 6.9,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 8.7,
+    "support": 7.5,
     "transparency": 7.5,
-    "historical_trend": 4.5
+    "historical_trend": 4.5,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -921,22 +1042,44 @@
     "in_week": 60,
     "from_date": "2026-10-19",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 6.3,
+    "rate_per_lakh": 14.7,
+    "rate_score": 4.9,
+    "resolution_rate": 94.8,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 204.7,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-09",
+     "received": 182,
+     "resolved": 180,
+     "pending_end": 34
+    }
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.0,
+   "overall_rating": 6.8,
    "trend": "Stable",
-   "previous_rating": 7.3,
+   "previous_rating": 7.1,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
     "engagement": 8.5,
-    "support": 9.8,
+    "support": 8.7,
     "transparency": 6.0,
-    "historical_trend": 4.4
+    "historical_trend": 4.5,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -1059,22 +1202,44 @@
     "in_week": 20,
     "from_date": "2026-09-29",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 7.5,
+    "rate_per_lakh": 10.76,
+    "rate_score": 6.5,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 145.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-09",
+     "received": 58,
+     "resolved": 92,
+     "pending_end": 14
+    }
    }
   },
   {
    "broker": "5Paisa",
    "slug": "5paisa",
-   "overall_rating": 6.7,
+   "overall_rating": 6.2,
    "trend": "Stable",
-   "previous_rating": 6.9,
+   "previous_rating": 6.5,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.9,
     "new_feature_response": 3.5,
     "engagement": 9.6,
-    "support": 8.7,
+    "support": 5.8,
     "transparency": 6.0,
-    "historical_trend": 4.6
+    "historical_trend": 4.5,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1187,22 +1352,44 @@
     "in_week": 7,
     "from_date": "2026-09-25",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.2,
+   "overall_rating": 6.1,
    "trend": "Declining",
-   "previous_rating": 6.9,
+   "previous_rating": 6.7,
    "rating_breakdown": {
     "technical_reliability": 4.5,
     "sentiment": 5.5,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.0,
+    "support": 7.4,
     "transparency": 6.0,
-    "historical_trend": 3.8
+    "historical_trend": 4.0,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1334,22 +1521,44 @@
     "in_week": 56,
     "from_date": "2026-10-18",
     "to_date": "2026-10-25"
+   },
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.96,
+    "rate_score": 5.6,
+    "resolution_rate": 97.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 280.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-09",
+     "received": 239,
+     "resolved": 245,
+     "pending_end": 25
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.0,
+   "overall_rating": 4.7,
    "trend": "Stable",
-   "previous_rating": 5.1,
+   "previous_rating": 4.8,
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 2.0,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 8.0,
+    "support": 6.4,
     "transparency": 6.0,
-    "historical_trend": 4.8
+    "historical_trend": 4.9,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1481,6 +1690,27 @@
     "in_week": 11,
     "from_date": "2026-10-01",
     "to_date": "2026-10-24"
+   },
+   "official_complaints": {
+    "score": 4.8,
+    "rate_per_lakh": 19.78,
+    "rate_score": 2.9,
+    "resolution_rate": 91.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 104.3,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-09",
+     "received": 105,
+     "resolved": 118,
+     "pending_end": 30
+    }
    }
   }
  ],
@@ -1493,5 +1723,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

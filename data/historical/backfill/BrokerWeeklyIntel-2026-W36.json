@@ -17,7 +17,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -76,6 +77,10 @@
     "in_week": 60,
     "from_date": "2026-09-04",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
@@ -88,9 +93,10 @@
     "sentiment": 9.0,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 9.3,
+    "support": 9.6,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -184,43 +190,27 @@
     "in_week": 60,
     "from_date": "2026-09-06",
     "to_date": "2026-09-06"
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 8.0,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.8,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 5.0
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "Good trading app.",
-     "context": "Google Play review, 5★, 2026-09-06",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-07",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
     }
-   ],
-   "negative_themes": [],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-06",
-    "to_date": "2026-09-06"
    }
   },
   {
@@ -235,7 +225,8 @@
     "engagement": 9.8,
     "support": 9.3,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -312,6 +303,10 @@
     "in_week": 60,
     "from_date": "2026-09-05",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
@@ -324,9 +319,10 @@
     "sentiment": 8.0,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.3,
+    "support": 9.4,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -429,123 +425,43 @@
     "in_week": 60,
     "from_date": "2026-09-04",
     "to_date": "2026-09-06"
-   }
-  },
-  {
-   "broker": "Upstox",
-   "slug": "upstox",
-   "overall_rating": 7.9,
-   "trend": "Stable",
-   "rating_breakdown": {
-    "technical_reliability": 8.5,
-    "sentiment": 7.5,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.8,
-    "transparency": 7.5,
-    "historical_trend": 5.0
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "I am extremely dissatisfied with the way charges have been deducted from my Upstox account. I have noticed charges being applied to my account that were either not clearly communicated to me or appear to be significantly higher than what I expected.",
-     "context": "Google Play review, 1★, 2026-09-05",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ever in industry my first stock app but if you remove AMC let me know",
-     "context": "Google Play review, 1★, 2026-09-06",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good and interesting fact well beautiful song cheppu",
-     "context": "Google Play review, 5★, 2026-09-05",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 9.4,
+    "rate_per_lakh": 2.37,
+    "rate_score": 9.9,
+    "resolution_rate": 83.3,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 6.7,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-07",
+     "received": 6,
+     "resolved": 10,
+     "pending_end": 6
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Charges",
-     "count": 7,
-     "severity": "high",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "old users being charged with app maintenance fees and new users not. why this inequality?"
-     ]
-    },
-    {
-     "theme": "Other",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "sabse Jyada ghatiya app hai",
-      "👍"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "when a limit order is placed for sell,then we wish to exit the market price due to market conditions that cannot possible before cancelling previous limit order"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
-      "previous UI was the best, current one is worst."
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Upstox",
-     "description": "Reliability: 3 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "platform_wide",
-     "volume": 3,
-     "first_seen": "2026-09-04",
-     "last_seen": "2026-09-06"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-04",
-    "to_date": "2026-09-06"
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 7.7,
+   "overall_rating": 7.8,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 6.9,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.0,
+    "support": 8.9,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -676,6 +592,210 @@
     "in_week": 60,
     "from_date": "2026-09-03",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 9.9,
+    "rate_per_lakh": 1.66,
+    "rate_score": 10.0,
+    "resolution_rate": 95.7,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 112.7,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-07",
+     "received": 89,
+     "resolved": 82,
+     "pending_end": 16
+    }
+   }
+  },
+  {
+   "broker": "Upstox",
+   "slug": "upstox",
+   "overall_rating": 7.7,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 8.5,
+    "sentiment": 7.5,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 8.1,
+    "transparency": 7.5,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "I am extremely dissatisfied with the way charges have been deducted from my Upstox account. I have noticed charges being applied to my account that were either not clearly communicated to me or appear to be significantly higher than what I expected.",
+     "context": "Google Play review, 1★, 2026-09-05",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ever in industry my first stock app but if you remove AMC let me know",
+     "context": "Google Play review, 1★, 2026-09-06",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good and interesting fact well beautiful song cheppu",
+     "context": "Google Play review, 5★, 2026-09-05",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Charges",
+     "count": 7,
+     "severity": "high",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "old users being charged with app maintenance fees and new users not. why this inequality?"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "sabse Jyada ghatiya app hai",
+      "👍"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "when a limit order is placed for sell,then we wish to exit the market price due to market conditions that cannot possible before cancelling previous limit order"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "good ux and ui but i shutting down my account as my profit is lower then brokerage and when i open account there are free AMC BUT NOW they charge 350 highest ev",
+      "previous UI was the best, current one is worst."
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Upstox",
+     "description": "Reliability: 3 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 3,
+     "first_seen": "2026-09-04",
+     "last_seen": "2026-09-06"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-04",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 14.45,
+    "rate_score": 5.0,
+    "resolution_rate": 95.8,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 268.0,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-07",
+     "received": 279,
+     "resolved": 293,
+     "pending_end": 37
+    }
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.5,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.8,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 6.4,
+    "transparency": 6.0,
+    "historical_trend": 5.0,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "Good trading app.",
+     "context": "Google Play review, 5★, 2026-09-06",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-06",
+    "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 45.98,
+    "rate_score": 0.0,
+    "resolution_rate": 99.3,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 147.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-07",
+     "received": 25,
+     "resolved": 24,
+     "pending_end": 3
+    }
    }
   },
   {
@@ -690,7 +810,8 @@
     "engagement": 9.0,
     "support": 9.3,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -821,21 +942,43 @@
     "in_week": 60,
     "from_date": "2026-09-01",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 9.3,
+    "rate_per_lakh": 4.19,
+    "rate_score": 9.1,
+    "resolution_rate": 98.0,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 47.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-07",
+     "received": 40,
+     "resolved": 64,
+     "pending_end": 3
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.3,
+   "overall_rating": 7.0,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 6.6,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 9.3,
+    "support": 7.6,
     "transparency": 7.5,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -965,21 +1108,43 @@
     "in_week": 60,
     "from_date": "2026-08-31",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 5.9,
+    "rate_per_lakh": 15.16,
+    "rate_score": 4.7,
+    "resolution_rate": 87.0,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 211.0,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-07",
+     "received": 258,
+     "resolved": 214,
+     "pending_end": 88
+    }
    }
   },
   {
    "broker": "HDFC Sky",
    "slug": "hdfc-sky",
-   "overall_rating": 7.1,
+   "overall_rating": 7.0,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 7.4,
     "sentiment": 6.9,
     "new_feature_response": 6.0,
     "engagement": 8.5,
-    "support": 8.6,
+    "support": 8.4,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 8.6
    },
    "new_features": [],
    "key_quotes": [
@@ -1103,21 +1268,43 @@
     "in_week": 27,
     "from_date": "2026-08-24",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 8.3,
+    "rate_per_lakh": 7.41,
+    "rate_score": 7.8,
+    "resolution_rate": 93.2,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 100.3,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-07",
+     "received": 88,
+     "resolved": 101,
+     "pending_end": 22
+    }
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.7,
+   "overall_rating": 6.6,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 7.3,
+    "support": 7.1,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 7.3
    },
    "new_features": [],
    "key_quotes": [
@@ -1239,21 +1426,43 @@
     "in_week": 48,
     "from_date": "2026-08-27",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 12.73,
+    "rate_score": 5.7,
+    "resolution_rate": 97.1,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 275.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-07",
+     "received": 284,
+     "resolved": 281,
+     "pending_end": 25
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.2,
+   "overall_rating": 4.9,
    "trend": "Stable",
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 2.9,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 8.7,
+    "support": 6.8,
     "transparency": 6.0,
-    "historical_trend": 5.0
+    "historical_trend": 5.0,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -1385,6 +1594,27 @@
     "in_week": 21,
     "from_date": "2026-08-10",
     "to_date": "2026-09-06"
+   },
+   "official_complaints": {
+    "score": 5.0,
+    "rate_per_lakh": 18.89,
+    "rate_score": 3.2,
+    "resolution_rate": 91.4,
+    "months_used": [
+     "2026-05",
+     "2026-06",
+     "2026-07"
+    ],
+    "target_month": "2026-07",
+    "stale": false,
+    "avg_monthly_received": 99.7,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-07",
+     "received": 92,
+     "resolved": 89,
+     "pending_end": 27
+    }
    }
   }
  ],
@@ -1397,5 +1627,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

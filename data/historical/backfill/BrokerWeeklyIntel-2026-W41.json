@@ -8,7 +8,7 @@
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 8.6,
+   "overall_rating": 8.5,
    "trend": "Stable",
    "previous_rating": 8.4,
    "rating_breakdown": {
@@ -16,9 +16,10 @@
     "sentiment": 9.8,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 9.8,
+    "support": 9.4,
     "transparency": 7.5,
-    "historical_trend": 5.3
+    "historical_trend": 5.2,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -59,6 +60,27 @@
     "in_week": 60,
     "from_date": "2026-10-11",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.28,
+    "rate_score": 9.1,
+    "resolution_rate": 91.2,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 48.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-09",
+     "received": 44,
+     "resolved": 40,
+     "pending_end": 15
+    }
    }
   },
   {
@@ -74,7 +96,8 @@
     "engagement": 9.8,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 4.9
+    "historical_trend": 4.9,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -160,6 +183,27 @@
     "in_week": 60,
     "from_date": "2026-10-11",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
    }
   },
   {
@@ -175,7 +219,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 4.7
+    "historical_trend": 4.7,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -270,22 +315,27 @@
     "in_week": 60,
     "from_date": "2026-10-10",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 7.6,
+   "overall_rating": 7.7,
    "trend": "Improving",
-   "previous_rating": 6.2,
+   "previous_rating": 6.3,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 5.8,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 9.2,
     "transparency": 7.5,
-    "historical_trend": 7.4
+    "historical_trend": 7.3,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -408,251 +458,33 @@
     "in_week": 60,
     "from_date": "2026-10-07",
     "to_date": "2026-10-11"
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 7.5,
-   "trend": "Stable",
-   "previous_rating": 7.7,
-   "rating_breakdown": {
-    "technical_reliability": 9.0,
-    "sentiment": 8.2,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 9.3,
-    "transparency": 6.0,
-    "historical_trend": 4.6
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "worst app not got reward for refering going to uninstall and shift to growww zero star",
-     "context": "Google Play review, 1★, 2026-10-09",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the app now I want to delete my trade account because it's not opened yet inside the app but idk what to do man worst app ever",
-     "context": "Google Play review, 1★, 2026-10-11",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "for someone who who both trades and invests this demat trading app is a real time saver",
-     "context": "Google Play review, 5★, 2026-10-09",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 9.7,
+    "rate_per_lakh": 1.52,
+    "rate_score": 10.0,
+    "resolution_rate": 90.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 103.3,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-09",
+     "received": 123,
+     "resolved": 120,
+     "pending_end": 32
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 7,
-     "severity": "high",
-     "example_quotes": [
-      "nam6%/>(77/8>?8aste namaste I के साथ साथ jkk4 ,,,?^",
-      "worst app not got reward for refering going to uninstall and shift to growww zero star"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the a",
-      "5 paisa withdraw system 3rd class plz don't download this 5 paisa app groww aap withdraw money very easy"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the a",
-      "5 paisa withdraw system 3rd class plz don't download this 5 paisa app groww aap withdraw money very easy"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "wrote and communicated customer care several times regarding age of holding. unable to figure out it will incur ltcg or stcg while selling stock."
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "5Paisa",
-     "description": "Reliability: 2 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 2,
-     "first_seen": "2026-10-05",
-     "last_seen": "2026-10-11"
-    },
-    {
-     "broker": "5Paisa",
-     "description": "Performance: 2 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "feature_specific",
-     "volume": 2,
-     "first_seen": "2026-10-05",
-     "last_seen": "2026-10-11"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "Low",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 15,
-    "from_date": "2026-09-24",
-    "to_date": "2026-10-11"
-   }
-  },
-  {
-   "broker": "HDFC Sky",
-   "slug": "hdfc-sky",
-   "overall_rating": 7.5,
-   "trend": "Stable",
-   "previous_rating": 7.5,
-   "rating_breakdown": {
-    "technical_reliability": 8.0,
-    "sentiment": 7.7,
-    "new_feature_response": 6.0,
-    "engagement": 8.5,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 5.0
-   },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not available for stocks listed under Quant section under Research. The team is actively resolving these fundamental issues. While fixes are taking a bit longer than expected, we anticipate all bugs will be resolved before Dussehra.",
-     "context": "Google Play review, 2★, 2026-09-30",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are activating account. Red flag, never saw someone scamming at this extent. Saleem from hdfc sky was tele caller",
-     "context": "Google Play review, 1★, 2026-10-06",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "hige accuracy app and very easy to use it's good app for Trading",
-     "context": "Google Play review, 5★, 2026-09-18",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 7,
-     "severity": "high",
-     "example_quotes": [
-      "Very poor app quality service",
-      "your could have been the best but you will never become one. the way you made for the user is not good."
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti",
-      "service slow"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 3,
-     "severity": "medium",
-     "example_quotes": [
-      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa",
-      "app is good...but it can be more better....it looks already good but it can be even more better....but 2 thing you have to consider...1)app is lagging sometimes"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa",
-      "i tried clearing cache uninstalled and reinstalled still unable to view chart can someone help me"
-     ]
-    },
-    {
-     "theme": "Transparency",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "HDFC Sky",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-30",
-     "last_seen": "2026-09-30"
-    },
-    {
-     "broker": "HDFC Sky",
-     "description": "Performance: 3 of last 60 Play reviews report it",
-     "severity": "medium",
-     "issue_type": "feature_specific",
-     "volume": 3,
-     "first_seen": "2026-09-22",
-     "last_seen": "2026-10-06"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "Low",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 15,
-    "from_date": "2026-09-17",
-    "to_date": "2026-10-11"
    }
   },
   {
    "broker": "Sahi Broking",
    "slug": "sahi-broking",
-   "overall_rating": 7.5,
+   "overall_rating": 7.4,
    "trend": "Declining",
    "previous_rating": 8.4,
    "rating_breakdown": {
@@ -660,9 +492,10 @@
     "sentiment": 7.7,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.3,
+    "support": 8.9,
     "transparency": 6.0,
-    "historical_trend": 3.5
+    "historical_trend": 3.4,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -792,22 +625,194 @@
     "in_week": 60,
     "from_date": "2026-10-08",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 8.4,
+    "rate_per_lakh": 3.68,
+    "rate_score": 9.3,
+    "resolution_rate": 61.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 10.3,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-09",
+     "received": 16,
+     "resolved": 10,
+     "pending_end": 16
+    }
+   }
+  },
+  {
+   "broker": "HDFC Sky",
+   "slug": "hdfc-sky",
+   "overall_rating": 7.3,
+   "trend": "Stable",
+   "previous_rating": 7.3,
+   "rating_breakdown": {
+    "technical_reliability": 8.0,
+    "sentiment": 7.7,
+    "new_feature_response": 6.0,
+    "engagement": 8.5,
+    "support": 8.7,
+    "transparency": 6.0,
+    "historical_trend": 5.1,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not available for stocks listed under Quant section under Research. The team is actively resolving these fundamental issues. While fixes are taking a bit longer than expected, we anticipate all bugs will be resolved before Dussehra.",
+     "context": "Google Play review, 2★, 2026-09-30",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are activating account. Red flag, never saw someone scamming at this extent. Saleem from hdfc sky was tele caller",
+     "context": "Google Play review, 1★, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "hige accuracy app and very easy to use it's good app for Trading",
+     "context": "Google Play review, 5★, 2026-09-18",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 7,
+     "severity": "high",
+     "example_quotes": [
+      "Very poor app quality service",
+      "your could have been the best but you will never become one. the way you made for the user is not good."
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti",
+      "service slow"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa",
+      "app is good...but it can be more better....it looks already good but it can be even more better....but 2 thing you have to consider...1)app is lagging sometimes"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa",
+      "i tried clearing cache uninstalled and reinstalled still unable to view chart can someone help me"
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "1. UI Issue: Bid/ask prices appear on the main screen, but the percentage is only shown on the script details screen. 2. Feature Issue: Chart view is not availa"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "HDFC Sky",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-30",
+     "last_seen": "2026-09-30"
+    },
+    {
+     "broker": "HDFC Sky",
+     "description": "Performance: 3 of last 60 Play reviews report it",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 3,
+     "first_seen": "2026-09-22",
+     "last_seen": "2026-10-06"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "Low",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 15,
+    "from_date": "2026-09-17",
+    "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 7.5,
+    "rate_per_lakh": 10.76,
+    "rate_score": 6.5,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 145.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-09",
+     "received": 58,
+     "resolved": 92,
+     "pending_end": 14
+    }
    }
   },
   {
    "broker": "Upstox",
    "slug": "upstox",
-   "overall_rating": 7.5,
+   "overall_rating": 7.3,
    "trend": "Declining",
-   "previous_rating": 8.0,
+   "previous_rating": 7.8,
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 7.0,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 9.3,
+    "support": 8.1,
     "transparency": 7.5,
-    "historical_trend": 4.1
+    "historical_trend": 4.2,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -927,6 +932,160 @@
     "in_week": 60,
     "from_date": "2026-10-07",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.8,
+    "rate_score": 5.7,
+    "resolution_rate": 94.0,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 237.3,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-09",
+     "received": 168,
+     "resolved": 149,
+     "pending_end": 46
+    }
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.0,
+   "trend": "Stable",
+   "previous_rating": 7.3,
+   "rating_breakdown": {
+    "technical_reliability": 9.0,
+    "sentiment": 8.2,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 6.2,
+    "transparency": 6.0,
+    "historical_trend": 4.4,
+    "support_reviews": 9.3
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "worst app not got reward for refering going to uninstall and shift to growww zero star",
+     "context": "Google Play review, 1★, 2026-10-09",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the app now I want to delete my trade account because it's not opened yet inside the app but idk what to do man worst app ever",
+     "context": "Google Play review, 1★, 2026-10-11",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "for someone who who both trades and invests this demat trading app is a real time saver",
+     "context": "Google Play review, 5★, 2026-10-09",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 7,
+     "severity": "high",
+     "example_quotes": [
+      "nam6%/>(77/8>?8aste namaste I के साथ साथ jkk4 ,,,?^",
+      "worst app not got reward for refering going to uninstall and shift to growww zero star"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the a",
+      "5 paisa withdraw system 3rd class plz don't download this 5 paisa app groww aap withdraw money very easy"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "I downloaded this yesterday but I can't get inside the app it says ur account is opened and ready to trade but nthg else is showing I can't even go inside the a",
+      "5 paisa withdraw system 3rd class plz don't download this 5 paisa app groww aap withdraw money very easy"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "wrote and communicated customer care several times regarding age of holding. unable to figure out it will incur ltcg or stcg while selling stock."
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "5Paisa",
+     "description": "Reliability: 2 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 2,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-11"
+    },
+    {
+     "broker": "5Paisa",
+     "description": "Performance: 2 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-11"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "Low",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 15,
+    "from_date": "2026-09-24",
+    "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-09",
+    "stale": true,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
    }
   },
   {
@@ -942,7 +1101,8 @@
     "engagement": 9.8,
     "support": 8.0,
     "transparency": 6.0,
-    "historical_trend": 2.6
+    "historical_trend": 2.6,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1054,22 +1214,27 @@
     "in_week": 60,
     "from_date": "2026-10-10",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
    "overall_rating": 6.8,
-   "trend": "Declining",
-   "previous_rating": 7.3,
+   "trend": "Stable",
+   "previous_rating": 7.0,
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 5.5,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.0,
+    "support": 7.4,
     "transparency": 6.0,
-    "historical_trend": 4.2
+    "historical_trend": 4.6,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1200,22 +1365,44 @@
     "in_week": 49,
     "from_date": "2026-10-01",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 6.8,
+    "rate_per_lakh": 12.96,
+    "rate_score": 5.6,
+    "resolution_rate": 97.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 280.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-09",
+     "received": 239,
+     "resolved": 245,
+     "pending_end": 25
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 6.2,
+   "overall_rating": 6.3,
    "trend": "Declining",
-   "previous_rating": 7.2,
+   "previous_rating": 7.0,
    "rating_breakdown": {
     "technical_reliability": 6.0,
     "sentiment": 4.5,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 6.0,
+    "support": 6.2,
     "transparency": 7.5,
-    "historical_trend": 3.4
+    "historical_trend": 3.8,
+    "support_reviews": 6.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1347,22 +1534,44 @@
     "in_week": 59,
     "from_date": "2026-10-04",
     "to_date": "2026-10-11"
+   },
+   "official_complaints": {
+    "score": 6.3,
+    "rate_per_lakh": 14.7,
+    "rate_score": 4.9,
+    "resolution_rate": 94.8,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 204.7,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-09",
+     "received": 182,
+     "resolved": 180,
+     "pending_end": 34
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.1,
+   "overall_rating": 4.8,
    "trend": "Stable",
-   "previous_rating": 5.2,
+   "previous_rating": 4.8,
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 1.8,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 9.3,
+    "support": 7.1,
     "transparency": 6.0,
-    "historical_trend": 4.9
+    "historical_trend": 5.1,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -1476,6 +1685,27 @@
     "in_week": 35,
     "from_date": "2026-09-29",
     "to_date": "2026-10-09"
+   },
+   "official_complaints": {
+    "score": 4.8,
+    "rate_per_lakh": 19.78,
+    "rate_score": 2.9,
+    "resolution_rate": 91.1,
+    "months_used": [
+     "2026-07",
+     "2026-08",
+     "2026-09"
+    ],
+    "target_month": "2026-09",
+    "stale": false,
+    "avg_monthly_received": 104.3,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-09",
+     "received": 105,
+     "resolved": 118,
+     "pending_end": 30
+    }
    }
   }
  ],
@@ -1488,5 +1718,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

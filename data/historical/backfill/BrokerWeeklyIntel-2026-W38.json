@@ -8,17 +8,18 @@
   {
    "broker": "Dhan",
    "slug": "dhan",
-   "overall_rating": 8.9,
+   "overall_rating": 8.8,
    "trend": "Improving",
-   "previous_rating": 6.6,
+   "previous_rating": 6.7,
    "rating_breakdown": {
     "technical_reliability": 9.8,
     "sentiment": 9.8,
     "new_feature_response": 7.0,
     "engagement": 9.0,
-    "support": 9.8,
+    "support": 9.4,
     "transparency": 7.5,
-    "historical_trend": 8.9
+    "historical_trend": 8.6,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -59,6 +60,27 @@
     "in_week": 60,
     "from_date": "2026-09-19",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 9.1,
+    "rate_per_lakh": 4.64,
+    "rate_score": 8.9,
+    "resolution_rate": 93.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 52.0,
+    "active_clients": 1120901,
+    "latest": {
+     "month": "2026-08",
+     "received": 60,
+     "resolved": 52,
+     "pending_end": 11
+    }
    }
   },
   {
@@ -74,7 +96,8 @@
     "engagement": 8.7,
     "support": 9.8,
     "transparency": 7.5,
-    "historical_trend": 4.9
+    "historical_trend": 4.9,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -97,22 +120,27 @@
     "in_week": 60,
     "from_date": "2026-09-19",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Groww",
    "slug": "groww",
-   "overall_rating": 8.2,
+   "overall_rating": 8.3,
    "trend": "Improving",
-   "previous_rating": 7.7,
+   "previous_rating": 7.9,
    "rating_breakdown": {
     "technical_reliability": 9.5,
     "sentiment": 8.7,
     "new_feature_response": 6.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 9.2,
     "transparency": 7.5,
-    "historical_trend": 5.9
+    "historical_trend": 5.6,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -190,6 +218,27 @@
     "in_week": 60,
     "from_date": "2026-09-20",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.64,
+    "rate_score": 10.0,
+    "resolution_rate": 94.2,
+    "months_used": [
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ],
+    "target_month": "2026-08",
+    "stale": true,
+    "avg_monthly_received": 220.3,
+    "active_clients": 13448194,
+    "latest": {
+     "month": "2026-06",
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
    }
   },
   {
@@ -203,9 +252,10 @@
     "sentiment": 7.7,
     "new_feature_response": 8.0,
     "engagement": 8.1,
-    "support": 9.3,
+    "support": 9.1,
     "transparency": 6.0,
-    "historical_trend": 6.7
+    "historical_trend": 6.7,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -324,62 +374,27 @@
     "in_week": 60,
     "from_date": "2026-09-18",
     "to_date": "2026-09-20"
-   }
-  },
-  {
-   "broker": "5Paisa",
-   "slug": "5paisa",
-   "overall_rating": 8.0,
-   "trend": "Stable",
-   "previous_rating": 7.9,
-   "rating_breakdown": {
-    "technical_reliability": 9.8,
-    "sentiment": 9.8,
-    "new_feature_response": 3.5,
-    "engagement": 9.6,
-    "support": 9.8,
-    "transparency": 6.0,
-    "historical_trend": 5.1
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "I wanted to understand leveraged positions properly, so the information around mtf was useful before considering it.",
-     "context": "Google Play review, 1★, 2026-09-20",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "एमएफ ऐप में नियम साफ दिखते हैं।",
-     "context": "Google Play review, 5★, 2026-09-20",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
-     "platform": "other",
-     "broker": "5Paisa",
-     "sentimentScore": 1.0
+   "official_complaints": {
+    "score": 8.8,
+    "rate_per_lakh": 2.85,
+    "rate_score": 9.7,
+    "resolution_rate": 68.8,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 8.0,
+    "active_clients": 281028,
+    "latest": {
+     "month": "2026-08",
+     "received": 9,
+     "resolved": 5,
+     "pending_end": 10
     }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "I wanted to understand leveraged positions properly, so the information around mtf was useful before considering it."
-     ]
-    }
-   ],
-   "technical_issues": [],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-20",
-    "to_date": "2026-09-20"
    }
   },
   {
@@ -395,7 +410,8 @@
     "engagement": 9.8,
     "support": 9.8,
     "transparency": 6.0,
-    "historical_trend": 5.1
+    "historical_trend": 5.1,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -499,293 +515,27 @@
     "in_week": 60,
     "from_date": "2026-09-20",
     "to_date": "2026-09-20"
-   }
-  },
-  {
-   "broker": "HDFC Sky",
-   "slug": "hdfc-sky",
-   "overall_rating": 7.7,
-   "trend": "Improving",
-   "previous_rating": 7.3,
-   "rating_breakdown": {
-    "technical_reliability": 9.5,
-    "sentiment": 7.5,
-    "new_feature_response": 6.0,
-    "engagement": 8.5,
-    "support": 8.7,
-    "transparency": 6.0,
-    "historical_trend": 5.6
    },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible once enabled and you cannot then change your bank account. Customer support first ignored the ticket when i escalated they kept pushing the deadline and ultimately closed the issue without resolution as i \"missed\" a call. Also doesn't have direct mutual fund investment ability adding to that the aggressive mtf marketing is just annoying.",
-     "context": "Google Play review, 1★, 2026-09-07",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "good",
-     "context": "Google Play review, 2★, 2026-09-12",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "hige accuracy app and very easy to use it's good app for Trading",
-     "context": "Google Play review, 5★, 2026-09-18",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
-     "platform": "other",
-     "broker": "HDFC Sky",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 8,
-     "severity": "high",
-     "example_quotes": [
-      "3rd class app",
-      "Never try this App, worst very delay while taking order"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "no option for dark mode..can't look into the screen for longer time period..almost all other brokarages have the option for dark mode...",
-      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "bhai tum chart par pop up wala problem kab solve karoge \"chart auto saved successfully\" to me trading satrt karu",
-      "worst ui&ux"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 2,
-     "severity": "low",
-     "example_quotes": [
-      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o",
-      "Poori Advertisement Jhooth hai Inki. Koi Zero Brokerage nahi hai, Ek baar Khud hi Demat Account Open Karke dekho , Tab pata chal jayega aur After 1 Month Rs 10/"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Poori Advertisement Jhooth hai Inki. Koi Zero Brokerage nahi hai, Ek baar Khud hi Demat Account Open Karke dekho , Tab pata chal jayega aur After 1 Month Rs 10/"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "HDFC Sky",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-07",
-     "last_seen": "2026-09-07"
-    },
-    {
-     "broker": "HDFC Sky",
-     "description": "Performance: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "feature_specific",
-     "volume": 1,
-     "first_seen": "2026-09-07",
-     "last_seen": "2026-09-07"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "Medium",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 24,
-    "from_date": "2026-09-03",
-    "to_date": "2026-09-19"
-   }
-  },
-  {
-   "broker": "Upstox",
-   "slug": "upstox",
-   "overall_rating": 7.7,
-   "trend": "Stable",
-   "previous_rating": 8.0,
-   "rating_breakdown": {
-    "technical_reliability": 9.0,
-    "sentiment": 6.1,
-    "new_feature_response": 6.0,
-    "engagement": 9.8,
-    "support": 9.3,
-    "transparency": 7.5,
-    "historical_trend": 4.5
-   },
-   "new_features": [],
-   "key_quotes": [
-    {
-     "quote": "Very disappointed with Upstox. I am eligible for Instant Withdrawal, but the app incorrectly shows “not eligible.” Only after contacting support did I learn about a partner bank issue, with no prior notification. I have a family medical emergency and urgently need my funds, but support has provided no immediate solution or proper senior-level escalation. Extremely dissatisfied with the transparency, withdrawal process, and customer support.",
-     "context": "Google Play review, 1★, 2026-09-18",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -1.0
-    },
-    {
-     "quote": "The new update sucked because its portfolio side is too short to see the quality price and profit side... please last version is best so keep them running smoothly🤐🙏",
-     "context": "Google Play review, 2★, 2026-09-18",
-     "sentiment": "negative",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": -0.5
-    },
-    {
-     "quote": "today I faced in withdrawal request but unfortunately no option for instant withdrawal but I need money urgently the customer support team is working awesomely and I got payment within 1 hour great app has great team no more words to write simply awesome awesome awesome don't miss this app",
-     "context": "Google Play review, 5★, 2026-09-18",
-     "sentiment": "positive",
-     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
-     "platform": "other",
-     "broker": "Upstox",
-     "sentimentScore": 1.0
-    }
-   ],
-   "negative_themes": [
-    {
-     "theme": "Other",
-     "count": 11,
-     "severity": "high",
-     "example_quotes": [
-      "new account open problem",
-      "wrost app...."
-     ]
-    },
-    {
-     "theme": "UX",
-     "count": 5,
-     "severity": "medium",
-     "example_quotes": [
-      "bad interface. I'm a new user. trying to sign up using my phone number. but it didn't work",
-      "Currently, I am facing an issue regarding resume SIP of stocks which is not working for me. \"Resume SIP\" Pop up will not be removed after clicking on the \"Confi"
-     ]
-    },
-    {
-     "theme": "Charges",
-     "count": 4,
-     "severity": "medium",
-     "example_quotes": [
-      "please Don't install this app i am requesting you to everyone please because this app takes high brokerage and monthly maintenance charges",
-      "Bhai bahut danger charges hai inke kama kama kar inke dene ka kya"
-     ]
-    },
-    {
-     "theme": "Reliability",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Currently, I am facing an issue regarding resume SIP of stocks which is not working for me. \"Resume SIP\" Pop up will not be removed after clicking on the \"Confi"
-     ]
-    },
-    {
-     "theme": "Support",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "Very disappointed with Upstox. I am eligible for Instant Withdrawal, but the app incorrectly shows “not eligible.” Only after contacting support did I learn abo"
-     ]
-    },
-    {
-     "theme": "Performance",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "jan buzkar aisa interface banaya jata he, jise ki user ka jada se jada loss ho, aur brokerage ke jariye en apps ka maximum fayda ho... enki default settings dek"
-     ]
-    },
-    {
-     "theme": "Features/Gaps",
-     "count": 1,
-     "severity": "low",
-     "example_quotes": [
-      "before update it was much user friendly. scrolling from delivery to intraday in position was much easy. now we've to filter out intraday if we want to check jus"
-     ]
-    }
-   ],
-   "technical_issues": [
-    {
-     "broker": "Upstox",
-     "description": "Reliability: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "platform_wide",
-     "volume": 1,
-     "first_seen": "2026-09-18",
-     "last_seen": "2026-09-18"
-    },
-    {
-     "broker": "Upstox",
-     "description": "Performance: 1 of last 60 Play reviews report it",
-     "severity": "low",
-     "issue_type": "feature_specific",
-     "volume": 1,
-     "first_seen": "2026-09-18",
-     "last_seen": "2026-09-18"
-    }
-   ],
-   "watch_items": [],
-   "confidence": "High",
-   "sample": {
-    "play_reviews": 60,
-    "in_week": 60,
-    "from_date": "2026-09-17",
-    "to_date": "2026-09-20"
+   "official_complaints": {
+    "score": null,
+    "status": "not published"
    }
   },
   {
    "broker": "Zerodha",
    "slug": "zerodha",
-   "overall_rating": 7.7,
+   "overall_rating": 7.8,
    "trend": "Stable",
-   "previous_rating": 7.9,
+   "previous_rating": 8.0,
    "rating_breakdown": {
     "technical_reliability": 7.5,
     "sentiment": 6.8,
     "new_feature_response": 8.0,
     "engagement": 9.8,
-    "support": 8.7,
+    "support": 9.2,
     "transparency": 7.5,
-    "historical_trend": 4.7
+    "historical_trend": 4.6,
+    "support_reviews": 8.7
    },
    "new_features": [],
    "key_quotes": [
@@ -918,22 +668,437 @@
     "in_week": 60,
     "from_date": "2026-09-17",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 9.8,
+    "rate_per_lakh": 1.51,
+    "rate_score": 10.0,
+    "resolution_rate": 91.7,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 102.7,
+    "active_clients": 6791541,
+    "latest": {
+     "month": "2026-08",
+     "received": 98,
+     "resolved": 85,
+     "pending_end": 29
+    }
+   }
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 7.5,
+   "trend": "Stable",
+   "previous_rating": 7.4,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 9.8,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 6.4,
+    "transparency": 6.0,
+    "historical_trend": 5.1,
+    "support_reviews": 9.8
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "I wanted to understand leveraged positions properly, so the information around mtf was useful before considering it.",
+     "context": "Google Play review, 1★, 2026-09-20",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "एमएफ ऐप में नियम साफ दिखते हैं।",
+     "context": "Google Play review, 5★, 2026-09-20",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "I wanted to understand leveraged positions properly, so the information around mtf was useful before considering it."
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-20",
+    "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 3.0,
+    "rate_per_lakh": 46.29,
+    "rate_score": 0.0,
+    "resolution_rate": 98.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 148.7,
+    "active_clients": 321174,
+    "latest": {
+     "month": "2026-08",
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
+   }
+  },
+  {
+   "broker": "HDFC Sky",
+   "slug": "hdfc-sky",
+   "overall_rating": 7.5,
+   "trend": "Stable",
+   "previous_rating": 7.2,
+   "rating_breakdown": {
+    "technical_reliability": 9.5,
+    "sentiment": 7.5,
+    "new_feature_response": 6.0,
+    "engagement": 8.5,
+    "support": 7.8,
+    "transparency": 6.0,
+    "historical_trend": 5.5,
+    "support_reviews": 8.7
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible once enabled and you cannot then change your bank account. Customer support first ignored the ticket when i escalated they kept pushing the deadline and ultimately closed the issue without resolution as i \"missed\" a call. Also doesn't have direct mutual fund investment ability adding to that the aggressive mtf marketing is just annoying.",
+     "context": "Google Play review, 1★, 2026-09-07",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "good",
+     "context": "Google Play review, 2★, 2026-09-12",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "hige accuracy app and very easy to use it's good app for Trading",
+     "context": "Google Play review, 5★, 2026-09-18",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 8,
+     "severity": "high",
+     "example_quotes": [
+      "3rd class app",
+      "Never try this App, worst very delay while taking order"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "no option for dark mode..can't look into the screen for longer time period..almost all other brokarages have the option for dark mode...",
+      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "bhai tum chart par pop up wala problem kab solve karoge \"chart auto saved successfully\" to me trading satrt karu",
+      "worst ui&ux"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o",
+      "Poori Advertisement Jhooth hai Inki. Koi Zero Brokerage nahi hai, Ek baar Khud hi Demat Account Open Karke dekho , Tab pata chal jayega aur After 1 Month Rs 10/"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "The experience was pathetic, they nag you to enable hdfcsky direct which is now throwing error when transferring funds! they dont tell that it is irreversible o"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Poori Advertisement Jhooth hai Inki. Koi Zero Brokerage nahi hai, Ek baar Khud hi Demat Account Open Karke dekho , Tab pata chal jayega aur After 1 Month Rs 10/"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "HDFC Sky",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-07",
+     "last_seen": "2026-09-07"
+    },
+    {
+     "broker": "HDFC Sky",
+     "description": "Performance: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 1,
+     "first_seen": "2026-09-07",
+     "last_seen": "2026-09-07"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "Medium",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 24,
+    "from_date": "2026-09-03",
+    "to_date": "2026-09-19"
+   },
+   "official_complaints": {
+    "score": 6.9,
+    "rate_per_lakh": 12.24,
+    "rate_score": 5.9,
+    "resolution_rate": 90.9,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 165.7,
+    "active_clients": 1353843,
+    "latest": {
+     "month": "2026-08",
+     "received": 291,
+     "resolved": 265,
+     "pending_end": 48
+    }
+   }
+  },
+  {
+   "broker": "Upstox",
+   "slug": "upstox",
+   "overall_rating": 7.5,
+   "trend": "Stable",
+   "previous_rating": 7.7,
+   "rating_breakdown": {
+    "technical_reliability": 9.0,
+    "sentiment": 6.1,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 7.9,
+    "transparency": 7.5,
+    "historical_trend": 4.6,
+    "support_reviews": 9.3
+   },
+   "new_features": [],
+   "key_quotes": [
+    {
+     "quote": "Very disappointed with Upstox. I am eligible for Instant Withdrawal, but the app incorrectly shows “not eligible.” Only after contacting support did I learn about a partner bank issue, with no prior notification. I have a family medical emergency and urgently need my funds, but support has provided no immediate solution or proper senior-level escalation. Extremely dissatisfied with the transparency, withdrawal process, and customer support.",
+     "context": "Google Play review, 1★, 2026-09-18",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "The new update sucked because its portfolio side is too short to see the quality price and profit side... please last version is best so keep them running smoothly🤐🙏",
+     "context": "Google Play review, 2★, 2026-09-18",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "today I faced in withdrawal request but unfortunately no option for instant withdrawal but I need money urgently the customer support team is working awesomely and I got payment within 1 hour great app has great team no more words to write simply awesome awesome awesome don't miss this app",
+     "context": "Google Play review, 5★, 2026-09-18",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 11,
+     "severity": "high",
+     "example_quotes": [
+      "new account open problem",
+      "wrost app...."
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "bad interface. I'm a new user. trying to sign up using my phone number. but it didn't work",
+      "Currently, I am facing an issue regarding resume SIP of stocks which is not working for me. \"Resume SIP\" Pop up will not be removed after clicking on the \"Confi"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "please Don't install this app i am requesting you to everyone please because this app takes high brokerage and monthly maintenance charges",
+      "Bhai bahut danger charges hai inke kama kama kar inke dene ka kya"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Currently, I am facing an issue regarding resume SIP of stocks which is not working for me. \"Resume SIP\" Pop up will not be removed after clicking on the \"Confi"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Very disappointed with Upstox. I am eligible for Instant Withdrawal, but the app incorrectly shows “not eligible.” Only after contacting support did I learn abo"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "jan buzkar aisa interface banaya jata he, jise ki user ka jada se jada loss ho, aur brokerage ke jariye en apps ka maximum fayda ho... enki default settings dek"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "before update it was much user friendly. scrolling from delivery to intraday in position was much easy. now we've to filter out intraday if we want to check jus"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Upstox",
+     "description": "Reliability: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-09-18",
+     "last_seen": "2026-09-18"
+    },
+    {
+     "broker": "Upstox",
+     "description": "Performance: 1 of last 60 Play reviews report it",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 1,
+     "first_seen": "2026-09-18",
+     "last_seen": "2026-09-18"
+    }
+   ],
+   "watch_items": [],
+   "confidence": "High",
+   "sample": {
+    "play_reviews": 60,
+    "in_week": 60,
+    "from_date": "2026-09-17",
+    "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 6.4,
+    "rate_per_lakh": 14.56,
+    "rate_score": 5.0,
+    "resolution_rate": 97.0,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 270.0,
+    "active_clients": 1854285,
+    "latest": {
+     "month": "2026-08",
+     "received": 265,
+     "resolved": 275,
+     "pending_end": 27
+    }
    }
   },
   {
    "broker": "Kotak Securities",
    "slug": "kotak-securities",
-   "overall_rating": 7.5,
-   "trend": "Improving",
-   "previous_rating": 7.1,
+   "overall_rating": 7.2,
+   "trend": "Stable",
+   "previous_rating": 6.9,
    "rating_breakdown": {
     "technical_reliability": 7.0,
     "sentiment": 6.5,
     "new_feature_response": 6.0,
     "engagement": 9.7,
-    "support": 9.8,
+    "support": 8.0,
     "transparency": 7.5,
-    "historical_trend": 5.7
+    "historical_trend": 5.6,
+    "support_reviews": 9.8
    },
    "new_features": [],
    "key_quotes": [
@@ -1056,22 +1221,44 @@
     "in_week": 51,
     "from_date": "2026-09-12",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 6.2,
+    "rate_per_lakh": 15.04,
+    "rate_score": 4.8,
+    "resolution_rate": 95.2,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 209.3,
+    "active_clients": 1391840,
+    "latest": {
+     "month": "2026-08",
+     "received": 174,
+     "resolved": 230,
+     "pending_end": 32
+    }
    }
   },
   {
    "broker": "ICICI Direct",
    "slug": "icici-direct",
-   "overall_rating": 6.7,
+   "overall_rating": 6.6,
    "trend": "Stable",
-   "previous_rating": 6.8,
+   "previous_rating": 6.7,
    "rating_breakdown": {
     "technical_reliability": 6.5,
     "sentiment": 5.8,
     "new_feature_response": 6.0,
     "engagement": 9.2,
-    "support": 8.0,
+    "support": 7.2,
     "transparency": 6.0,
-    "historical_trend": 4.9
+    "historical_trend": 4.9,
+    "support_reviews": 8.0
    },
    "new_features": [],
    "key_quotes": [
@@ -1202,22 +1389,44 @@
     "in_week": 60,
     "from_date": "2026-09-15",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 6.5,
+    "rate_per_lakh": 14.02,
+    "rate_score": 5.2,
+    "resolution_rate": 96.6,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 303.0,
+    "active_clients": 2160619,
+    "latest": {
+     "month": "2026-08",
+     "received": 317,
+     "resolved": 311,
+     "pending_end": 31
+    }
    }
   },
   {
    "broker": "Sharekhan",
    "slug": "sharekhan",
-   "overall_rating": 5.4,
+   "overall_rating": 5.0,
    "trend": "Stable",
-   "previous_rating": 5.2,
+   "previous_rating": 4.9,
    "rating_breakdown": {
     "technical_reliability": 1,
     "sentiment": 3.1,
     "new_feature_response": 6.0,
     "engagement": 8.6,
-    "support": 9.3,
+    "support": 6.9,
     "transparency": 6.0,
-    "historical_trend": 5.3
+    "historical_trend": 5.2,
+    "support_reviews": 9.3
    },
    "new_features": [],
    "key_quotes": [
@@ -1340,6 +1549,27 @@
     "in_week": 15,
     "from_date": "2026-08-28",
     "to_date": "2026-09-20"
+   },
+   "official_complaints": {
+    "score": 4.5,
+    "rate_per_lakh": 20.22,
+    "rate_score": 2.7,
+    "resolution_rate": 87.4,
+    "months_used": [
+     "2026-06",
+     "2026-07",
+     "2026-08"
+    ],
+    "target_month": "2026-08",
+    "stale": false,
+    "avg_monthly_received": 106.7,
+    "active_clients": 527503,
+    "latest": {
+     "month": "2026-08",
+     "received": 116,
+     "resolved": 100,
+     "pending_end": 43
+    }
    }
   }
  ],
@@ -1352,5 +1582,5 @@
  },
  "new_features_summary": [],
  "watch_items_next_2_weeks": [],
- "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20."
+ "methodology_note": "Backfilled on 29 Oct 2026 with the same 7-parameter method as W44 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker as of the week's end (dated, India store). Technical reliability, Sentiment and Support are recomputed for the week; Engagement, Transparency and New-feature response are held at W44 values (no dated history). X/Reddit/App Store enrichment used in W44 is not available for past weeks. Confidence: High if 40+ of the 60 reviews fall inside the week, Medium 20-39, Low under 20. Support blends Official Complaints (50%): SEBI-mandated monthly investor-complaint disclosures per lakh NSE active clients (score 10-0.4x(rate-2), 70%) and resolution rate (30%), 3-month window of months published by the week's end."
 }

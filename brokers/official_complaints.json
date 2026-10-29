@@ -1,0 +1,633 @@
+{
+ "updated": "2026-10-29",
+ "active_clients_source": {
+  "month": "2026-09",
+  "source": "NSE broker-wise active clients, September 2026 (as compiled from NSE disclosures)",
+  "url": "https://dhan.co/blog/stock-market/top-50-largest-stock-brokers-in-india-as-of-september-2026/"
+ },
+ "definition": "Monthly totals across all sources (direct, SEBI SCORES, exchanges, other) from the broker's SEBI-mandated Investor Complaints disclosure.",
+ "brokers": {
+  "zerodha": {
+   "entity": "Zerodha Broking Ltd",
+   "active_clients": 6791541,
+   "source_page": "https://zerodha.com/disclosure/",
+   "months": {
+    "2025-10": {
+     "carried_forward": 8,
+     "received": 117,
+     "resolved": 95,
+     "pending_end": 30,
+     "avg_resolution_days": 6.275
+    },
+    "2025-11": {
+     "carried_forward": 30,
+     "received": 109,
+     "resolved": 118,
+     "pending_end": 21,
+     "avg_resolution_days": 7.22
+    },
+    "2025-12": {
+     "carried_forward": 21,
+     "received": 86,
+     "resolved": 82,
+     "pending_end": 25,
+     "avg_resolution_days": 5.56
+    },
+    "2026-01": {
+     "carried_forward": 25,
+     "received": 80,
+     "resolved": 81,
+     "pending_end": 24,
+     "avg_resolution_days": 7.845
+    },
+    "2026-02": {
+     "carried_forward": 24,
+     "received": 128,
+     "resolved": 111,
+     "pending_end": 41,
+     "avg_resolution_days": 6.84
+    },
+    "2026-03": {
+     "carried_forward": 41,
+     "received": 87,
+     "resolved": 93,
+     "pending_end": 35,
+     "avg_resolution_days": 9.67
+    },
+    "2026-04": {
+     "carried_forward": 40,
+     "received": 122,
+     "resolved": 126,
+     "pending_end": 36,
+     "avg_resolution_days": 8.15
+    },
+    "2026-05": {
+     "carried_forward": 36,
+     "received": 128,
+     "resolved": 122,
+     "pending_end": 42,
+     "avg_resolution_days": 8.15
+    },
+    "2026-06": {
+     "carried_forward": 42,
+     "received": 121,
+     "resolved": 154,
+     "pending_end": 9,
+     "avg_resolution_days": 6.36
+    },
+    "2026-07": {
+     "carried_forward": 9,
+     "received": 89,
+     "resolved": 82,
+     "pending_end": 16,
+     "avg_resolution_days": 5.82
+    },
+    "2026-08": {
+     "carried_forward": 16,
+     "received": 98,
+     "resolved": 85,
+     "pending_end": 29,
+     "avg_resolution_days": 5.14
+    },
+    "2026-09": {
+     "carried_forward": 29,
+     "received": 123,
+     "resolved": 120,
+     "pending_end": 32,
+     "avg_resolution_days": 6.07
+    }
+   },
+   "data_url": "https://docs.google.com/spreadsheets/d/12_L4ku18tU12orNkyFJIY2Kkv03YNssT8GNK8tNdf_c/export?format=csv",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "kotak-securities": {
+   "entity": "Kotak Securities Ltd",
+   "active_clients": 1391840,
+   "source_page": "https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/",
+   "months": {
+    "2026-04": {
+     "carried_forward": 24,
+     "received": 216,
+     "resolved": 194,
+     "pending_end": 46
+    },
+    "2026-05": {
+     "carried_forward": 46,
+     "received": 179,
+     "resolved": 180,
+     "pending_end": 45
+    },
+    "2026-06": {
+     "carried_forward": 45,
+     "received": 196,
+     "resolved": 197,
+     "pending_end": 44
+    },
+    "2026-07": {
+     "carried_forward": 44,
+     "received": 258,
+     "resolved": 214,
+     "pending_end": 88
+    },
+    "2026-08": {
+     "carried_forward": 88,
+     "received": 174,
+     "resolved": 230,
+     "pending_end": 32
+    },
+    "2026-09": {
+     "carried_forward": 32,
+     "received": 182,
+     "resolved": 180,
+     "pending_end": 34
+    }
+   },
+   "data_url": "https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "hdfc-sky": {
+   "entity": "HDFC Securities Ltd (HDFC Sky)",
+   "active_clients": 1353843,
+   "source_page": "https://hdfcsec.com/investor-complaints-data-stock-broking",
+   "months": {
+    "2026-04": {
+     "carried_forward": 20,
+     "received": 91,
+     "resolved": 89,
+     "pending_end": 22
+    },
+    "2026-05": {
+     "carried_forward": 22,
+     "received": 95,
+     "resolved": 84,
+     "pending_end": 33
+    },
+    "2026-06": {
+     "carried_forward": 33,
+     "received": 118,
+     "resolved": 116,
+     "pending_end": 35
+    },
+    "2026-07": {
+     "carried_forward": 35,
+     "received": 88,
+     "resolved": 101,
+     "pending_end": 22
+    },
+    "2026-08": {
+     "carried_forward": 22,
+     "received": 291,
+     "resolved": 265,
+     "pending_end": 48
+    },
+    "2026-09": {
+     "carried_forward": 48,
+     "received": 58,
+     "resolved": 92,
+     "pending_end": 14
+    }
+   },
+   "data_url": "https://hdfcsec.com/investor-complaints-data-stock-broking",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "icici-direct": {
+   "entity": "ICICI Securities Ltd",
+   "active_clients": 2160619,
+   "source_page": "https://www.icicidirect.com/grievance-redressal/grievance-redressal.html",
+   "months": {
+    "2025-10": {
+     "carried_forward": 40,
+     "received": 347,
+     "resolved": 347,
+     "pending_end": 40
+    },
+    "2025-11": {
+     "carried_forward": 40,
+     "received": 376,
+     "resolved": 383,
+     "pending_end": 33
+    },
+    "2025-12": {
+     "carried_forward": 33,
+     "received": 365,
+     "resolved": 365,
+     "pending_end": 33
+    },
+    "2026-01": {
+     "carried_forward": 33,
+     "received": 305,
+     "resolved": 317,
+     "pending_end": 21
+    },
+    "2026-02": {
+     "carried_forward": 21,
+     "received": 280,
+     "resolved": 264,
+     "pending_end": 37
+    },
+    "2026-03": {
+     "carried_forward": 37,
+     "received": 277,
+     "resolved": 250,
+     "pending_end": 64
+    },
+    "2026-04": {
+     "carried_forward": 64,
+     "received": 264,
+     "resolved": 305,
+     "pending_end": 23
+    },
+    "2026-05": {
+     "carried_forward": 23,
+     "received": 233,
+     "resolved": 240,
+     "pending_end": 16
+    },
+    "2026-06": {
+     "carried_forward": 16,
+     "received": 308,
+     "resolved": 302,
+     "pending_end": 22
+    },
+    "2026-07": {
+     "carried_forward": 22,
+     "received": 284,
+     "resolved": 281,
+     "pending_end": 25
+    },
+    "2026-08": {
+     "carried_forward": 25,
+     "received": 317,
+     "resolved": 311,
+     "pending_end": 31
+    },
+    "2026-09": {
+     "carried_forward": 31,
+     "received": 239,
+     "resolved": 245,
+     "pending_end": 25
+    }
+   },
+   "data_url": "https://secure.icicidirect.com/customer/staticdata/Annexure-B_Complaint%20format_Stock%20broker.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "upstox": {
+   "entity": "Upstox Securities Pvt Ltd",
+   "active_clients": 1854285,
+   "source_page": "https://upstox.com/investor-complaint-details",
+   "months": {
+    "2026-04": {
+     "carried_forward": 35,
+     "received": 341,
+     "resolved": 301,
+     "pending_end": 75
+    },
+    "2026-05": {
+     "carried_forward": 75,
+     "received": 259,
+     "resolved": 247,
+     "pending_end": 87
+    },
+    "2026-06": {
+     "carried_forward": 87,
+     "received": 266,
+     "resolved": 302,
+     "pending_end": 51
+    },
+    "2026-07": {
+     "carried_forward": 51,
+     "received": 279,
+     "resolved": 293,
+     "pending_end": 37
+    },
+    "2026-08": {
+     "carried_forward": 37,
+     "received": 265,
+     "resolved": 275,
+     "pending_end": 27
+    },
+    "2026-09": {
+     "carried_forward": 27,
+     "received": 168,
+     "resolved": 149,
+     "pending_end": 46
+    }
+   },
+   "data_url": "https://assets.upstox.com/content/assets/pdfs/cms/investor-details/investor-charterwebsitedatasecuritiesseptember26.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "sahi-broking": {
+   "entity": "Aaritya Broking Pvt Ltd",
+   "active_clients": 281028,
+   "source_page": "https://www.sahi.com/investor-charters-and-grievance",
+   "months": {
+    "2026-04": {
+     "carried_forward": 13,
+     "received": 13,
+     "resolved": 10,
+     "pending_end": 16
+    },
+    "2026-05": {
+     "carried_forward": 16,
+     "received": 5,
+     "resolved": 13,
+     "pending_end": 8
+    },
+    "2026-06": {
+     "carried_forward": 8,
+     "received": 9,
+     "resolved": 7,
+     "pending_end": 10
+    },
+    "2026-07": {
+     "carried_forward": 10,
+     "received": 6,
+     "resolved": 10,
+     "pending_end": 6
+    },
+    "2026-08": {
+     "carried_forward": 6,
+     "received": 9,
+     "resolved": 5,
+     "pending_end": 10
+    },
+    "2026-09": {
+     "carried_forward": 10,
+     "received": 16,
+     "resolved": 10,
+     "pending_end": 16
+    }
+   },
+   "data_url": "https://www.sahi.com/assets/uploads/Sep_2026_666bd50e25.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "dhan": {
+   "entity": "Raise Securities Pvt Ltd",
+   "active_clients": 1120901,
+   "source_page": "https://dhan.co/download-centre-pdf/Grievances.pdf",
+   "months": {
+    "2026-04": {
+     "carried_forward": 19,
+     "received": 28,
+     "resolved": 35,
+     "pending_end": 12
+    },
+    "2026-05": {
+     "carried_forward": 12,
+     "received": 45,
+     "resolved": 39,
+     "pending_end": 18
+    },
+    "2026-06": {
+     "carried_forward": 18,
+     "received": 56,
+     "resolved": 47,
+     "pending_end": 27
+    },
+    "2026-07": {
+     "carried_forward": 27,
+     "received": 40,
+     "resolved": 64,
+     "pending_end": 3
+    },
+    "2026-08": {
+     "carried_forward": 3,
+     "received": 60,
+     "resolved": 52,
+     "pending_end": 11
+    },
+    "2026-09": {
+     "carried_forward": 11,
+     "received": 44,
+     "resolved": 40,
+     "pending_end": 15
+    }
+   },
+   "data_url": "https://dhan.co/download-centre-pdf/Grievances.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "sharekhan": {
+   "entity": "Sharekhan Ltd",
+   "active_clients": 527503,
+   "source_page": "https://www.sharekhan.com/MediaGalary/Newsletter/ComplaintDisclosure-271124.html",
+   "months": {
+    "2025-10": {
+     "carried_forward": 28,
+     "received": 83,
+     "resolved": 89,
+     "pending_end": 22
+    },
+    "2025-11": {
+     "carried_forward": 22,
+     "received": 67,
+     "resolved": 70,
+     "pending_end": 19
+    },
+    "2025-12": {
+     "carried_forward": 19,
+     "received": 80,
+     "resolved": 77,
+     "pending_end": 22
+    },
+    "2026-01": {
+     "carried_forward": 22,
+     "received": 77,
+     "resolved": 81,
+     "pending_end": 18
+    },
+    "2026-02": {
+     "carried_forward": 18,
+     "received": 86,
+     "resolved": 87,
+     "pending_end": 17
+    },
+    "2026-03": {
+     "carried_forward": 17,
+     "received": 63,
+     "resolved": 63,
+     "pending_end": 17
+    },
+    "2026-04": {
+     "carried_forward": 17,
+     "received": 85,
+     "resolved": 86,
+     "pending_end": 16
+    },
+    "2026-05": {
+     "carried_forward": 16,
+     "received": 95,
+     "resolved": 90,
+     "pending_end": 21
+    },
+    "2026-06": {
+     "carried_forward": 21,
+     "received": 112,
+     "resolved": 109,
+     "pending_end": 24
+    },
+    "2026-07": {
+     "carried_forward": 24,
+     "received": 92,
+     "resolved": 89,
+     "pending_end": 27
+    },
+    "2026-08": {
+     "carried_forward": 27,
+     "received": 116,
+     "resolved": 100,
+     "pending_end": 43
+    },
+    "2026-09": {
+     "carried_forward": 43,
+     "received": 105,
+     "resolved": 118,
+     "pending_end": 30
+    }
+   },
+   "data_url": "https://www.sharekhan.com/MediaGalary/Newsletter/Stock-Broker-Complaint-Data-271124.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "5paisa": {
+   "entity": "5paisa Capital Ltd",
+   "active_clients": 321174,
+   "source_page": null,
+   "months": {
+    "2026-04": {
+     "carried_forward": 15,
+     "received": 30,
+     "resolved": 43,
+     "pending_end": 2
+    },
+    "2026-05": {
+     "carried_forward": 2,
+     "received": 23,
+     "resolved": 16,
+     "pending_end": 9
+    },
+    "2026-06": {
+     "carried_forward": 9,
+     "received": 395,
+     "resolved": 402,
+     "pending_end": 2
+    },
+    "2026-07": {
+     "carried_forward": 2,
+     "received": 25,
+     "resolved": 24,
+     "pending_end": 3
+    },
+    "2026-08": {
+     "carried_forward": 3,
+     "received": 26,
+     "resolved": 24,
+     "pending_end": 5
+    }
+   },
+   "data_url": "https://storage.googleapis.com/5paisa-prod-storage/files/investor_charter/2026-09/stock-broker-aug.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "ok",
+   "note": ""
+  },
+  "groww": {
+   "entity": "Groww Invest Tech Pvt Ltd",
+   "active_clients": 13448194,
+   "source_page": "https://groww.in/investor-relations",
+   "months": {
+    "2025-10": {
+     "carried_forward": 29,
+     "received": 208,
+     "resolved": 196,
+     "pending_end": 41
+    },
+    "2025-11": {
+     "carried_forward": 41,
+     "received": 160,
+     "resolved": 146,
+     "pending_end": 55
+    },
+    "2025-12": {
+     "carried_forward": 55,
+     "received": 266,
+     "resolved": 252,
+     "pending_end": 69
+    },
+    "2026-01": {
+     "carried_forward": 69,
+     "received": 213,
+     "resolved": 210,
+     "pending_end": 72
+    },
+    "2026-02": {
+     "carried_forward": 72,
+     "received": 216,
+     "resolved": 248,
+     "pending_end": 40
+    },
+    "2026-03": {
+     "carried_forward": 40,
+     "received": 206,
+     "resolved": 182,
+     "pending_end": 64
+    },
+    "2026-04": {
+     "carried_forward": 64,
+     "received": 256,
+     "resolved": 225,
+     "pending_end": 95
+    },
+    "2026-05": {
+     "carried_forward": 95,
+     "received": 214,
+     "resolved": 224,
+     "pending_end": 85
+    },
+    "2026-06": {
+     "carried_forward": 85,
+     "received": 191,
+     "resolved": 234,
+     "pending_end": 42
+    }
+   },
+   "data_url": "https://cms-resources.groww.in/uploads/WEBSITE_REPORTING_June_2026_Stock_Broker_6d34586228.pdf",
+   "fetched_on": "2026-10-29",
+   "fetch_status": "manual",
+   "note": "Groww posts each month as a new PDF with a hashed file name; no stable index page found. Last file found: June 2026."
+  },
+  "angel-one": {
+   "entity": "Angel One Ltd",
+   "active_clients": 6755711,
+   "source_page": "https://www.angelone.in/investor-charter",
+   "months": {},
+   "data_url": null,
+   "fetched_on": null,
+   "fetch_status": "missing",
+   "note": "Investor charter page shows only blank SEBI templates; no filled monthly stock-broker complaint data found."
+  },
+  "fyers": {
+   "entity": "Fyers Securities Pvt Ltd",
+   "active_clients": 197380,
+   "source_page": "https://fyers.in/investor-charter-stock-brokers",
+   "months": {},
+   "data_url": null,
+   "fetched_on": null,
+   "fetch_status": "missing",
+   "note": "Investor charter page has no monthly complaint figures; no data file found."
+  }
+ }
+}
