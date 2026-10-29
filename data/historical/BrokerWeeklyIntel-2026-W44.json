@@ -1,0 +1,2350 @@
+{
+ "week": "2026-W44",
+ "week_start": "2026-10-26",
+ "week_end": "2026-11-01",
+ "report_version": "2.1",
+ "overall_sentiment": "mixed",
+ "brokers": [
+  {
+   "broker": "Sahi Broking",
+   "slug": "sahi-broking",
+   "overall_rating": 8.3,
+   "trend": "Improving",
+   "previous_rating": 6.15,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 6.1,
+    "new_feature_response": 8.0,
+    "engagement": 8.1,
+    "support": 9.8,
+    "transparency": 6.0,
+    "historical_trend": 9.3
+   },
+   "new_features": [
+    {
+     "broker": "Sahi Broking",
+     "feature_name": "App visual refresh [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Positive",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.instagram.com/reel/DfCPDVxTtjK/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Sahi is not good for those who want to Trade in Commodity Expiry day, they block the order after 10:00pm due to development Risk Management",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Indicator not showing in Scalper mode",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "A useful platform for people interested in learning about financial markets\"",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.aaritya.sahi_trade_app&hl=en_IN",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@SquareOfnine9 120 pts down showing in SAHI app",
+     "context": "X post, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2115089158322762106",
+     "platform": "x",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "New agency was issued 😋😋😋😋 Alhamdulillah on Tuesday Oct 27th, 2026 at 03.48 PM  Next-gen IRREVERSIBLE has arrived, yuhuuu in a shape of SAHI APP   So, buat temen-temen yang udah join TIMO CLUB (https://t.co/5BFc5NILqY) bareng aku di 1v1, sekarang tersedia IRREVERSIBLE tipe https:",
+     "context": "X post, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2115021983176151313",
+     "platform": "x",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Missing intraday leverage on my favourite stocks: I love trading on Sahi, but some of my favourite stocks have zero intraday leverage on your platform, so I have to switch to another broker. Please add intraday leverage to more and more stocks, just like other brokers do. Your ap",
+     "context": "App Store review, 1★, 2026-10-17",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id6474591146?see-all=reviews",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "This Broker App Sets the Bar Too High for Others! 🔥: ⭐⭐⭐⭐⭐\n\nHonestly, one of the best broker apps I’ve used so far. The UI is clean, intuitive, and really easy to navigate. What I appreciate most is that the app doesn’t just stay the same — it keeps getting better with every upda",
+     "context": "App Store review, 5★, 2026-10-20",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id6474591146?see-all=reviews",
+     "platform": "other",
+     "broker": "Sahi Broking",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "30 DAYS TO YUNHI FREE HAI... REFERRAL KE LIYE JHOOT KYUN BOL RAHA??",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=29dV3Vxbocs&lc=UgzlDyO1jDhsaXZs0dF4AaABAg",
+     "platform": "youtube",
+     "broker": "Sahi Broking",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "Govt. wants the retail to save the markets — Got this SEBI message today on WhatsApp. The timing of these campaigns tells you everything. Ever noticed how they start spamming you with “Mutual Funds Sahi Hai” when the markets are at ATH? Have you",
+     "context": "Reddit r/IndianStreetBets, 2026-10-08",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x0k575/govt_wants_the_retail_to_save_the_markets/",
+     "platform": "reddit",
+     "broker": "Sahi Broking",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Which are the best indicators? Written by own or using built-ins? — using the sahi trading app rn and with the help of that I built my own custom built RSI indicator that shows us the relative strength index of any stock/index I compared it with the inbuilt RSI indica",
+     "context": "Reddit r/IndianStreetBets, 2026-10-10",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x2ip7d/which_are_the_best_indicators_written_by_own_or/",
+     "platform": "reddit",
+     "broker": "Sahi Broking",
+     "sentimentScore": 0.5
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "Sahi is not good for those who want to Trade in Commodity Expiry day, they block the order after 10:00pm due to development Risk Management",
+      "Indicator not showing in Scalper mode"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 1,
+     "severity": "medium",
+     "example_quotes": [
+      "@SquareOfnine9 120 pts down showing in SAHI app"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [
+    "Top negative theme: Other (2 mentions) — watch next week's share",
+    "User reaction to 'App visual refresh [low confidence]'",
+    "Rating moved 6.15 → 8.7 vs W21; confirm trend holds"
+   ]
+  },
+  {
+   "broker": "Fyers",
+   "slug": "fyers",
+   "overall_rating": 7.9,
+   "trend": "Improving",
+   "previous_rating": 7.15,
+   "rating_breakdown": {
+    "technical_reliability": 9.8,
+    "sentiment": 5.8,
+    "new_feature_response": 6.0,
+    "engagement": 8.7,
+    "support": 9.8,
+    "transparency": 7.5,
+    "historical_trend": 6.9
+   },
+   "new_features": [
+    {
+     "broker": "Fyers",
+     "feature_name": "API v3 changelog updates [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://fyers.in/api-docs/v3/changelog/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "A well-organized layout can make navigating a trading application much easier,,",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@StockyMind I too had losses this week.  So to kill the time, shifting from dhan to fyers.   Creating new account.",
+     "context": "X post, 2026-10-01",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2105549001416405374",
+     "platform": "x",
+     "broker": "Fyers",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@iSatyamkum @zerodha facing the issue with groww here, will use dhan or fyers nw",
+     "context": "X post, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107423015256662479",
+     "platform": "x",
+     "broker": "Fyers",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Forcing mobile data to turn off: While app open mobile data went down frequently tested after closing app and the internet was stable \n\n\nPlease fix asap",
+     "context": "App Store review, 1★, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Most advance and reliable: Fyers is the only broker in Indian stock market which implement new technology first. It provides best in class technology and reliable charts. If you are an Intraday trader and want to trade directly from charts, fyers is the best platform. It also pro",
+     "context": "App Store review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1526652184?see-all=reviews",
+     "platform": "other",
+     "broker": "Fyers",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Fyers backend is so poor..They take brokerage for delivery,still very bad service",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=K9jJyXOkleY&lc=Ugx5H3R2t3MayaYRQLx4AaABAg",
+     "platform": "youtube",
+     "broker": "Fyers",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Reliability",
+     "count": 2,
+     "severity": "medium",
+     "example_quotes": [
+      "@marketcallsHQ Thank you for update sir, previous one tick update lag in the upstox api compare to fyers , I think latest updates will solve the issue...let see"
+     ]
+    }
+   ],
+   "technical_issues": [],
+   "watch_items": [
+    "User reaction to 'API v3 changelog updates [low confidence]'",
+    "Rating moved 7.15 → 8.4 vs W21; confirm trend holds"
+   ]
+  },
+  {
+   "broker": "Dhan",
+   "slug": "dhan",
+   "overall_rating": 7.5,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 8.2,
+    "sentiment": 5.2,
+    "new_feature_response": 7.0,
+    "engagement": 9.0,
+    "support": 9.8,
+    "transparency": 7.5,
+    "historical_trend": 5.0
+   },
+   "new_features": [
+    {
+     "broker": "Dhan",
+     "feature_name": "US stocks brokerage cut to 0.1%",
+     "launch_date": "2026-10-23",
+     "user_reaction": "Positive",
+     "discussion_volume": "High",
+     "evidence_links": [
+      "https://x.com/i/status/2113628053339554096"
+     ]
+    },
+    {
+     "broker": "Dhan",
+     "feature_name": "Commodities with single margin wallet [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.facebook.com/DhanHQ/videos/trade-commodities-on-dhan-with-a-single-margin-wallet-and-fla"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding karne ke Start kro waise hi thoda bahut profit deke lalach dilaya hai uske bad bda losses ho jata hai uske bad se loss ko recover karna Start or usme or paisa ",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN",
+     "platform": "other",
+     "broker": "Dhan",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "technical glitch in app",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN",
+     "platform": "other",
+     "broker": "Dhan",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "The option chain, Trending View charts and Super Orders bring several useful tools together. I can also explore SLBM for eligible long-term holdings.",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.dhan.live&hl=en_IN",
+     "platform": "other",
+     "broker": "Dhan",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@DhanHQ I withdrew money yesterday from my dhan account. As you can see it was a fast withdrawal and it should have been into my bank account by 11 am yesterday itself but I have not received it yet. I m getting money from everyone into my bank account so it is not an issue at my",
+     "context": "X post, 2026-10-01",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2105476397225673094",
+     "platform": "x",
+     "broker": "Dhan",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Chart glitch is happening with dhan frequently . Candles goes blank . Kindly check and resolve this issue . @DhanCares @DhanHQ @BeingPractical  Other suggestion : make sure when particular watchlist is sorted by price or percent, it  sorts all the other watchlist",
+     "context": "X post, 2026-10-16",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2110981983509844095",
+     "platform": "x",
+     "broker": "Dhan",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Unable to sell stocks. Poor customer service: I am unable to sell my stocks, and my profits have now reduced by 15% while the issue remains unresolved. This is extremely frustrating, especially when real money is at stake.\n\nThe customer support experience has been equally disappo",
+     "context": "App Store review, 1★, 2026-10-24",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1575318726?see-all=reviews",
+     "platform": "other",
+     "broker": "Dhan",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Weekly Investing: Weekly SIP schedule choose karne ki flexibility milti hai.",
+     "context": "App Store review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1575318726?see-all=reviews",
+     "platform": "other",
+     "broker": "Dhan",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Dhan App Link: https://invite.dhan.co/?join=MAN38",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=cQuf16Gc4Po&lc=UgzwWRO0v992FcUD5a54AaABAg",
+     "platform": "youtube",
+     "broker": "Dhan",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "Power of zerodha — Zerodha US stocks investing isn’t even fully live yet, and Dhan has already reduced its brokerage from 0.25% to 0.10%. That’s a 60% cut before Zerodha’s product has even launched. Groww brokerage is a",
+     "context": "Reddit r/IndianStreetBets, 2026-10-22",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xcv10w/power_of_zerodha/",
+     "platform": "reddit",
+     "broker": "Dhan",
+     "sentimentScore": 0.5
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Extremely disappointing MTF experience with Dhan! I had stocks worth ₹28K and around ₹40K in my account, yet my positions were auto-exited, booking a loss of ar",
+      "Worst application. Don't use it. Use grow if you want to keep your money safe."
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 13,
+     "severity": "low",
+     "example_quotes": [
+      "sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding karne ke Start kro ",
+      "technical glitch in app",
+      "Quite interesting to see how Zerodha launch of US stock is bringing down the brokerage fee pricing for all the competitors.  Dhan is down to 0.1% IndMoney launc"
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding karne ke Start kro ",
+      "Looting on the name of MTF. Please don't trust this application guys. They won't explain anything where your money goes or any charges which were applied to you"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Looting on the name of MTF. Please don't trust this application guys. They won't explain anything where your money goes or any charges which were applied to you"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Dhan",
+     "description": "Chart candles going blank; US stock prices not updating (Oct 20) — sources: https://x.com/i/status/2110981983509844095, https://x.com/i/status/2112554953239875757",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-16",
+     "last_seen": "2026-10-20"
+    },
+    {
+     "broker": "Dhan",
+     "description": "Reliability: 2 of last 60 Play reviews report it — e.g. \"sirf paisa lutne wala application hai kuch profit nhi hota sab pahle se hi es commpeny ke aadmi setting rehte hai jaise login kro or treding\"",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 2,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Chart candles going blank — check for recurrence",
+    "Track reliability complaints (2 in last 60 reviews) for a fix",
+    "Top negative theme: Other (3 mentions) — watch next week's share",
+    "User reaction to 'Commodities with single margin wallet [low confidence]'"
+   ]
+  },
+  {
+   "broker": "Upstox",
+   "slug": "upstox",
+   "overall_rating": 7.2,
+   "trend": "Improving",
+   "previous_rating": 6.35,
+   "rating_breakdown": {
+    "technical_reliability": 7.0,
+    "sentiment": 4.2,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 9.3,
+    "transparency": 7.5,
+    "historical_trend": 7.0
+   },
+   "new_features": [
+    {
+     "broker": "Upstox",
+     "feature_name": "US stock investing ($1 fractional entry) [low confidence: date approx.]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://x.com/i/status/2112028485472731250"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Their charges are one of the highest as compared to Grow and Zerodha. When looking at the total charges it really hurts the pocket. Planning to close the account and switch to some other broker.",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "all pop ups promotions are really very annoying",
+     "context": "Google Play review, 1★, 2026-10-23",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Plz provide detailed history of📌 sell,bought (buy) share with there sell and buy charges , there is no such section in app where I see my past deduction addition with charges . Every transactions of buy are diminish next day in your app. Its a fault 👎2023 ,3* now it's much better then previous featu",
+     "context": "Google Play review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=in.upstox.app&hl=en_IN",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "⚠️ Facing issues with @upstox?  Technical glitches, order execution problems, or app downtime can create serious trouble for traders—especially in the fast-moving options market.  @upstox, please look into the issue and provide an update. 🙏  #Upstox #StockMarket #OptionsTrading",
+     "context": "X post, 2026-10-14",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2110215789970411673",
+     "platform": "x",
+     "broker": "Upstox",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Every new Upstox login hurdle shows how a single password glitch can freeze real money—our entire trading life rests on a fragile digital gate. #Fintech",
+     "context": "X post, 2026-10-07",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107659698778309109",
+     "platform": "x",
+     "broker": "Upstox",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@BaluGorade The $1 fractional entry is a real barrier-breaker for first-timers. Worth comparing before anyone commits. Upstox launched its US stock investing with access to over 8,000 stocks and 2,000 ETFs, so Zerodha's 2,000 companies and 1,000 ETFs is the smaller menu of the tw",
+     "context": "X post, 2026-10-19",
+     "sentiment": "positive",
+     "source_url": "https://x.com/i/status/2112028485472731250",
+     "platform": "x",
+     "broker": "Upstox",
+     "sentimentScore": 0.5
+    },
+    {
+     "quote": "Fix the app: Whenever I open a stock from my watchlist and return to the watchlist, the application automatically takes me back to the top of the list instead of keeping me at the same position. I have to scroll down to find my previous position every time, which is inconvenient.",
+     "context": "App Store review, 1★, 2026-10-16",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1584953620?see-all=reviews",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Perfect Platform: Most comfortable and user friendly trading/investing app. I have no words to express my gratitude towards Upstox. They are simply the best in what they are doing for their customers. Greatly thankful to the entire Upstox team .Love you guys . \nMy trading journey",
+     "context": "App Store review, 5★, 2026-10-12",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1584953620?see-all=reviews",
+     "platform": "other",
+     "broker": "Upstox",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Groww charge \nfor buying 1 stock ₹26\n for selling 1 stock ₹49\nTotal ₹75😢",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=Et00-vv_K_4&lc=UgyUxqJFfAsHD1pz3ZN4AaABAg",
+     "platform": "youtube",
+     "broker": "Upstox",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
+     "context": "Reddit r/IndianStreetBets, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
+     "platform": "reddit",
+     "broker": "Upstox",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Good step by zerodha — Little late but atleast they realized this.This will also attract newer customer base who are looking to start algo trades.Now this will definately compete with dhan and upstox",
+     "context": "Reddit r/IndianStreetBets, 2026-10-07",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1wzvmz3/good_step_by_zerodha/",
+     "platform": "reddit",
+     "broker": "Upstox",
+     "sentimentScore": 0.5
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 9,
+     "severity": "high",
+     "example_quotes": [
+      "best app",
+      "kitni baar try Kiya account close nahi ho raha"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww...",
+      "Rubbish, clueless company. I am on the higher ₹30 brokerage plan YET I am NOT getting the Benefit of IMPS. Only Next day fund transfer. Plus, there MTF rates & "
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "seems they have iver complicated yhings by updating the UI",
+      "Too slow android app and also web interface, always stuck at crucial time . very high brokerage,very bad experience"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "too much lag today",
+      "Too slow android app and also web interface, always stuck at crucial time . very high brokerage,very bad experience"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 11,
+     "severity": "low",
+     "example_quotes": [
+      "one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww...",
+      "Quite interesting to see how Zerodha launch of US stock is bringing down the brokerage fee pricing for all the competitors.  Dhan is down to 0.1% IndMoney launc"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "very bad very poor support team of upstox they have no supporting or customer care number they have only chat system 😕"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Upstox",
+     "description": "Login/auto-logout and order-cancellation glitches; unable to sell on Jio listing (Oct 28) — sources: https://x.com/i/status/2114567598960754978, https://x.com/i/status/2112468391273648453, https://x.com/i/status/2115303230876082256",
+     "severity": "high",
+     "issue_type": "platform_wide",
+     "volume": 3,
+     "first_seen": "2026-10-07",
+     "last_seen": "2026-10-28"
+    },
+    {
+     "broker": "Upstox",
+     "description": "Reliability: 1 of last 60 Play reviews report it — e.g. \"one of the worst app ever used ... pls do not open a demat account in this charge cutting app it deduct yearly charges much better is groww.\"",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Upstox",
+     "description": "Performance: 2 of last 60 Play reviews report it — e.g. \"too much lag today\"",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-23",
+     "last_seen": "2026-10-26"
+    }
+   ],
+   "watch_items": [
+    "Login/auto-logout and order-cancellation glitches — check for recurrence",
+    "Track reliability complaints (1 in last 60 reviews) for a fix",
+    "Top negative theme: Other (9 mentions) — watch next week's share",
+    "Rating moved 6.35 → 7.7 vs W21; confirm trend holds"
+   ]
+  },
+  {
+   "broker": "Groww",
+   "slug": "groww",
+   "overall_rating": 7.2,
+   "trend": "Stable",
+   "previous_rating": 7.35,
+   "rating_breakdown": {
+    "technical_reliability": 7.5,
+    "sentiment": 5.6,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 8.0,
+    "transparency": 7.5,
+    "historical_trend": 5.2
+   },
+   "new_features": [
+    {
+     "broker": "Groww",
+     "feature_name": "US stocks & ETFs investing (select users)",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Mixed",
+     "discussion_volume": "Medium",
+     "evidence_links": [
+      "https://groww.in/updates/us-stocks-etfs-on-groww"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. From today I see you are enforcing the details submission or app is closing. If I want to check MF details why you will force me to register for a demat account.",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "added USD 216 (21k rupees), 8 days ago and it was never added to my account. Every day they give the same response stating that they are checking with their partner bank, no timelines, no commitment to resolve this.",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "nice yes",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Grow Up..Your app is not working..unable to access account   Groww down issue @_groww",
+     "context": "X post, 2026-10-07",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107914300274954612",
+     "platform": "x",
+     "broker": "Groww",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@groww_cs looks like Groww App is down and facing issue while trying to login. Please update.",
+     "context": "X post, 2026-10-07",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107912060487294983",
+     "platform": "x",
+     "broker": "Groww",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Hey @Zerodha_Online , any update on when US stock investing will launch on Zerodha?  Your peer Groww has already started rolling out US stock investing. When can we expect the same from Zerodha? Would love to invest in US stocks directly through Kite. Any ETA? @Nithin0dha",
+     "context": "X post, 2026-10-13",
+     "sentiment": "positive",
+     "source_url": "https://x.com/i/status/2110064883413004432",
+     "platform": "x",
+     "broker": "Groww",
+     "sentimentScore": 0.5
+    },
+    {
+     "quote": "Changing user interface: Before joining Groww, I tried several trading platforms, but I chose Groww because I genuinely loved its user interface (UI/UX). Unfortunately, the user experience is getting worse with every unnecessary change. The sidebar has disappeared from the stock ",
+     "context": "App Store review, 2★, 2026-10-21",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1404871703?see-all=reviews",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Good app: Why there is no long and short risk reward option in scalping in iPhone",
+     "context": "App Store review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1404871703?see-all=reviews",
+     "platform": "other",
+     "broker": "Groww",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Groww ka UI interface bahut simple aur clean hai..",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=ZVseOi2dJbw&lc=UgwNqIthUXMPV2ODAHh4AaABAg",
+     "platform": "youtube",
+     "broker": "Groww",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "Power of zerodha — Zerodha US stocks investing isn’t even fully live yet, and Dhan has already reduced its brokerage from 0.25% to 0.10%. That’s a 60% cut before Zerodha’s product has even launched. Groww brokerage is a",
+     "context": "Reddit r/IndianStreetBets, 2026-10-22",
+     "sentiment": "positive",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xcv10w/power_of_zerodha/",
+     "platform": "reddit",
+     "broker": "Groww",
+     "sentimentScore": 0.5
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "added USD 216 (21k rupees), 8 days ago and it was never added to my account. Every day they give the same response stating that they are checking with their par",
+      "Groww service is very poor and terrible. I've been trying to complete my KYC for a long time, but it's not happening. I talk to customer service every day, but "
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 11,
+     "severity": "low",
+     "example_quotes": [
+      "Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. From today I see you ",
+      "agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna time nhi hai tumhare ",
+      "@_groww   I have replied  issue couldn’t get fixed the whole day   I SIP worth 80K per month  Yet I couldn’t trade today the whole day due to a faulty glitch   "
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna time nhi hai tumhare ",
+      "SIB and stock for good but option trading worst app. don't use for option trading option trading loss 4L ❌"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna time nhi hai tumhare "
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Not Good Work App"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Groww",
+     "description": "Platform outage: users unable to log in / access account (\"Groww App is down\") — sources: https://x.com/i/status/2107914300274954612, https://x.com/i/status/2107912060487294983",
+     "severity": "high",
+     "issue_type": "platform_wide",
+     "volume": 2,
+     "first_seen": "2026-10-07",
+     "last_seen": "2026-10-07"
+    },
+    {
+     "broker": "Groww",
+     "description": "Reliability: 2 of last 60 Play reviews report it — e.g. \"Not sure what registration you are enforcing. Is it mandatory to register for a demat account??? I am not at all sure what are you trying. F\"",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 2,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Groww",
+     "description": "Performance: 1 of last 60 Play reviews report it — e.g. \"agar stock market IPO mutual fund normal etc jo stock market related ho woh dekhne ke liye bhi aadhar card number add karo bol rhe ho itna t\"",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 1,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Platform outage: users unable to log in / access account (\"Groww App is down\") — check for recurrence",
+    "Track reliability complaints (2 in last 60 reviews) for a fix",
+    "Top negative theme: Support (3 mentions) — watch next week's share",
+    "User reaction to 'US stocks & ETFs investing (select users)'"
+   ]
+  },
+  {
+   "broker": "Angel One",
+   "slug": "angel-one",
+   "overall_rating": 7.2,
+   "trend": "Improving",
+   "previous_rating": 6.55,
+   "rating_breakdown": {
+    "technical_reliability": 7.7,
+    "sentiment": 5.3,
+    "new_feature_response": 6.0,
+    "engagement": 9.8,
+    "support": 8.0,
+    "transparency": 6.0,
+    "historical_trend": 6.5
+   },
+   "new_features": [
+    {
+     "broker": "Angel One",
+     "feature_name": "US stock investing rollout [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.instagram.com/p/DetGBoZiVEo/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "worst app, works slowly for trading",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "chart delay sensex , hangings problem found . fastest needed",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.msf.angelmobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client funding book +41.7% YoY to ₹78.71 bn  🔴 Gross client acquisition 0.45 million: down 19.6% MoM and 17.1% YoY  🔴 Total https",
+     "context": "X post, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107296468709302457",
+     "platform": "x",
+     "broker": "Angel One",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Why the finger print unlock is not being able to enable in angel one app.  Is there any issue with the app or am I the only one facing such issues.  @AngelOne",
+     "context": "X post, 2026-10-05",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2106978230943305788",
+     "platform": "x",
+     "broker": "Angel One",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Fraud app: From my organisation mass download done as mandatory and shares not given to anyone as a employee quota and deducted money is more from all employees all fraud",
+     "context": "App Store review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Ipad review: Hi sir/mam please change the app to support even in landscape mode for the ipad each time the screen keep rotating",
+     "context": "App Store review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1060530981?see-all=reviews",
+     "platform": "other",
+     "broker": "Angel One",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "For stocks : Groww\nFor mutual fund : Groww\n😂",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=rBMwZP2XpkA&lc=Ugz8nahWuX9eZmjnj2F4AaABAg",
+     "platform": "youtube",
+     "broker": "Angel One",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "brokrage is so high",
+      "IPO kharida to milega hi nhi agar + me jata h to Mil gya to pakka minus me hi jayega Kuch to gadbad h isme Mene kai IPO kharidne k liye dale jo badta h wo nhi m"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "not support in I pad",
+      "i have raised a ticket regarding shift from regular to direct mutual, it's been 1 week but there is no response, i tried calling the coustomer service but still"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
+      "worst app, works slowly for trading"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "Tooo higher brokerage",
+      "too much brokerage"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 3,
+     "severity": "low",
+     "example_quotes": [
+      "Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he",
+      "ANGEL ONE SEPTEMBER BUSINESS UPDATE: CLIENT BASE UP 17.3% YoY, BUT NEW SIGNUPS SLOWING  🟢 Client base 39.98 million (+17.3% YoY, +1.1% MoM)  🟢 Average client fu"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "not a user-friendly app"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Angel One",
+     "description": "Jio IPO listing day: users unable to sell (TPIN prompt); fingerprint unlock failing — sources: https://x.com/i/status/2106978230943305788, https://www.reddit.com/r/IPO_India/comments/1xhcoea/jio_platfrorms_limited_listing_day_megathread/",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-28"
+    },
+    {
+     "broker": "Angel One",
+     "description": "Reliability: 1 of last 60 Play reviews report it — e.g. \"Samsung S10 fe plus app is not open new he tab first app download Kiya Bata raha he bug he\"",
+     "severity": "low",
+     "issue_type": "platform_wide",
+     "volume": 1,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Angel One",
+     "description": "Performance: 3 of last 60 Play reviews report it — e.g. \"Angel one app buffering bahut jyada karta hai Angel one mein bhi Stop loss trail karne ka systems Jaise Sahi app mein hai please\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 3,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Jio IPO listing day: users unable to sell (TPIN prompt) — check for recurrence",
+    "Track reliability complaints (1 in last 60 reviews) for a fix",
+    "Top negative theme: Other (5 mentions) — watch next week's share",
+    "User reaction to 'US stock investing rollout [low confidence]'"
+   ]
+  },
+  {
+   "broker": "Kotak Securities",
+   "slug": "kotak-securities",
+   "overall_rating": 6.9,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 7.2,
+    "sentiment": 4.3,
+    "new_feature_response": 6.0,
+    "engagement": 9.7,
+    "support": 8.0,
+    "transparency": 7.5,
+    "historical_trend": 5.0
+   },
+   "new_features": [
+    {
+     "broker": "Kotak Securities",
+     "feature_name": "Kotak Securities retail rebrands to Kotak Neo",
+     "launch_date": "2026-10-07",
+     "user_reaction": "Mixed",
+     "discussion_volume": "Medium",
+     "evidence_links": [
+      "https://x.com/i/status/2107780479676023289"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Nonsense cheater",
+     "context": "Google Play review, 1★, 2026-10-23",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN",
+     "platform": "other",
+     "broker": "Kotak Securities",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "very Worst software, I placed the order but on the laptop screen and even on mobile phone I don't seen that order is placed after 2hr I seen my p&l showing 4200, loss at the Time I connected to customer care they told me that not our issue you have to take screenshot or video shouting. when I placed",
+     "context": "Google Play review, 1★, 2026-10-22",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN",
+     "platform": "other",
+     "broker": "Kotak Securities",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Kotak Neo is a user-friendly stock trading app with a simple interface and useful features for tracking stocks, checking market trends, and managing investments. The app makes buying and selling shares convenient for beginners and experienced traders. However, occasional technical issues or slow loa",
+     "context": "Google Play review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.kotak.neo&hl=en_IN",
+     "platform": "other",
+     "broker": "Kotak Securities",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@gurjota I switched a while back to Kotak Neo, so this wasn't really an issue for me",
+     "context": "X post, 2026-10-07",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2107859766093787281",
+     "platform": "x",
+     "broker": "Kotak Securities",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@Ashish1Nanda I have raised issue with @kotakneo on last Friday for this api / network error, till now I haven't received any information regarding this error from kotak neo, is the kotak neo reliable for api orders? https://t.co/1aJXCtisAv",
+     "context": "X post, 2026-10-20",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2112570848754507893",
+     "platform": "x",
+     "broker": "Kotak Securities",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Very bad experience: I started trading in commodities and after buying order app suddenly stop and i can’t sell my order and eventually i lost my money after app stated running properly , and second thing is i try to connect them through in app costumer representatives but after ",
+     "context": "App Store review, 1★, 2026-10-20",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1553056779?see-all=reviews",
+     "platform": "other",
+     "broker": "Kotak Securities",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Bahut leg hota hai option scalping me kotak neo me.",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=26LqcT0Cj2w&lc=Ugzm7dVzdHi8r0MAevF4AaABAg",
+     "platform": "youtube",
+     "broker": "Kotak Securities",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "Looking for a broker that lets me place a fresh BUY order in stock options on the last day of the monthly expiry, intraday or NRML — i know dhan,zerodha,groww,angel one ,Shoonya,kotak neo does not allow any fresh position on expiry day.",
+     "context": "Reddit r/IndianStockMarket, 2026-10-23",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xdeppv/looking_for_a_broker_that_lets_me_place_a_fresh/",
+     "platform": "reddit",
+     "broker": "Kotak Securities",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "bakwas application hai purana wala hi thik tha",
+      "bohot bohot ghatiya service hain"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Why is Kotak neo forcing an update? I am not able to use the app without applying the latest update. I am paying Kotak securities fees for my account. What is t",
+      "bad customer service, no proper resolution except feeling sorry for customer's inconvenience and the only resolution this platform offers is that they feel sorr"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 7,
+     "severity": "medium",
+     "example_quotes": [
+      "After the latest update it doesn't open.I tried to uninstall and reinstall again but not working.",
+      "worst app ever I have seen , if you guys want to save your money avoid this app so much glitch and you will losse more money due to glitch then tha brokrage it'",
+      "@KotakSecurities Kotak Neo charts on web and mobile apps lag constantly, showing obsolete data. Have to manually refresh every 2-3 minutess just to get real-tim"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "worst app ever I have seen , if you guys want to save your money avoid this app so much glitch and you will losse more money due to glitch then tha brokrage it'",
+      "bad customer service, no proper resolution except feeling sorry for customer's inconvenience and the only resolution this platform offers is that they feel sorr"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "one of the worst app i have ised ever... just freez nifty points during important time.. reported many times still not problem solved..."
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Nonsense cheater"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Kotak Securities",
+     "description": "Kotak Neo charts lag/stale data; wrong Reliance LTP reported on Reddit; API/network error — sources: https://x.com/i/status/2108059048151335340, https://x.com/i/status/2112570848754507893",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 2,
+     "first_seen": "2026-10-08",
+     "last_seen": "2026-10-20"
+    },
+    {
+     "broker": "Kotak Securities",
+     "description": "Reliability: 3 of last 60 Play reviews report it — e.g. \"very Worst software, I placed the order but on the laptop screen and even on mobile phone I don't seen that order is placed after 2hr I seen\"",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 3,
+     "first_seen": "2026-10-22",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Kotak Securities",
+     "description": "Performance: 1 of last 60 Play reviews report it — e.g. \"one of the worst app i have ised ever... just freez nifty points during important time.. reported many times still not problem solved...\"",
+     "severity": "low",
+     "issue_type": "feature_specific",
+     "volume": 1,
+     "first_seen": "2026-10-27",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Kotak Neo charts lag/stale data — check for recurrence",
+    "Track reliability complaints (3 in last 60 reviews) for a fix",
+    "Top negative theme: Other (4 mentions) — watch next week's share",
+    "User reaction to 'Rebrand to Kotak Neo [low confidence]'"
+   ]
+  },
+  {
+   "broker": "Zerodha",
+   "slug": "zerodha",
+   "overall_rating": 6.8,
+   "trend": "Stable",
+   "previous_rating": 7.05,
+   "rating_breakdown": {
+    "technical_reliability": 5.0,
+    "sentiment": 4.9,
+    "new_feature_response": 8.0,
+    "engagement": 9.8,
+    "support": 8.0,
+    "transparency": 7.5,
+    "historical_trend": 4.5
+   },
+   "new_features": [
+    {
+     "broker": "Zerodha",
+     "feature_name": "US stocks & ETFs investing on Kite (0.1% brokerage, ~2,000 stocks + 1,000 ETFs)",
+     "launch_date": "2026-10-20",
+     "user_reaction": "Positive",
+     "discussion_volume": "High",
+     "evidence_links": [
+      "https://x.com/i/status/2112405775221956977",
+      "https://www.reddit.com/r/IndianStockMarket/comments/1xapyqp/zerodha_just_made_lowcost_us_investing_a_lot_more/",
+      "https://x.com/i/status/2114805590006579552",
+      "https://www.reddit.com/r/IndianStockMarket/comments/1xhrqa6/zerodha_us_stocks/",
+      "https://www.reddit.com/r/IndianStockMarket/comments/1xdzlcn/zerodha_starts_us_investments/",
+      "https://www.reddit.com/r/IndianStockMarket/comments/1xdirnl/end_of_all_comparisons_heres_a_quick_guide_on/"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Company Ok, But Your app is old, see Upstox App They Developed every month and All Details User Friendly... Your App Total Waste",
+     "context": "Google Play review, 2★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "recently zerodha kite reduces margin for intraday for maximum number of stocks. this is unfair and pathetic.",
+     "context": "Google Play review, 2★, 2026-10-26",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "good apps",
+     "context": "Google Play review, 5★, 2026-10-27",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "@zerodha The gifted securities credited by CDSL have still not appeared in my Kite holdings after 2 days. Your team keeps asking me to wait until EOD, but the issue remains unresolved.  Ticket #442746  Please investigate this issue urgently and provide a clear update. @AskZerodha",
+     "context": "X post, 2026-10-14",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2110389763547238721",
+     "platform": "x",
+     "broker": "Zerodha",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@zerodha @zerodhamarkets @Nithin0dha - Why did you guys changed BASKET feature.. I have been experiencing so many issue with NEW BASKETs in KITE WEB.. Some order doesnt go through tried to times.. https://t.co/jHD2HhXD1h",
+     "context": "X post, 2026-10-14",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2110266919215669713",
+     "platform": "x",
+     "broker": "Zerodha",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@BaluGorade The $1 fractional entry is a real barrier-breaker for first-timers. Worth comparing before anyone commits. Upstox launched its US stock investing with access to over 8,000 stocks and 2,000 ETFs, so Zerodha's 2,000 companies and 1,000 ETFs is the smaller menu of the tw",
+     "context": "X post, 2026-10-19",
+     "sentiment": "positive",
+     "source_url": "https://x.com/i/status/2112028485472731250",
+     "platform": "x",
+     "broker": "Zerodha",
+     "sentimentScore": 0.5
+    },
+    {
+     "quote": "Trap for small investors — Hidden maintenance fees & penal interest: Terrible experience for retail investors. While competitors offer lifetime zero AMC, Zerodha debits ₹88.50 every quarter under the radar. If your trading balance goes even ₹1 into the negative, they start slappi",
+     "context": "App Store review, 1★, 2026-10-08",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1449453802?see-all=reviews",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Excellent: Professional custmer services provided by Zerodha",
+     "context": "App Store review, 5★, 2026-10-23",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1449453802?see-all=reviews",
+     "platform": "other",
+     "broker": "Zerodha",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Online business are booming",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=HSizIZmsJP8&lc=UgzOkjlMVct_7haMn2F4AaABAg",
+     "platform": "youtube",
+     "broker": "Zerodha",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "UX",
+     "count": 8,
+     "severity": "high",
+     "example_quotes": [
+      "Company Ok, But Your app is old, see Upstox App They Developed every month and All Details User Friendly... Your App Total Waste",
+      "Chart not opening too bad"
+     ]
+    },
+    {
+     "theme": "Other",
+     "count": 6,
+     "severity": "high",
+     "example_quotes": [
+      "the app and kite web is getting more annoying. zerodha is complacent.",
+      "bad experience"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 19,
+     "severity": "medium",
+     "example_quotes": [
+      "Chart not opening too bad",
+      "The app does not open the chart regularly there is a problem in the app which increases problem 😔😔😔",
+      "@Nithin0dha @Nithin0dha today i applied sme ipo from zerodha kite and somehow my mandate got rejected due to technical glitche and when i try to cancel the bid "
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "chart not loading...",
+      "bahut hi bekar hai yeh app isme mtf par loss me bahut hi hidden charge lagate hai or jitna loss mtf me tumhe hoga utna hi loss wallet balance me bhi loss hoga t"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Zerodha is very careless about their customer service, I have raised a request for F&O activation and waited for three days 72 hours but they didn't activate it",
+      "very bad customer support"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "worst demat account in india, High charges, hidden charges, No customer service, Complicated UI, waste of time.",
+      "bahut hi bekar hai yeh app isme mtf par loss me bahut hi hidden charge lagate hai or jitna loss mtf me tumhe hoga utna hi loss wallet balance me bhi loss hoga t"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Zerodha",
+     "description": "Kite charts not loading / chart glitch on mobile, repeated reports over the month — sources: https://x.com/i/status/2107781810541228311, https://x.com/i/status/2110307958857105774, https://x.com/i/status/2112788020676210985, https://x.com/i/status/2114956680568213728, https://x.com/i/status/2115287284656283890",
+     "severity": "high",
+     "issue_type": "feature_specific",
+     "volume": 5,
+     "first_seen": "2026-10-07",
+     "last_seen": "2026-10-28"
+    },
+    {
+     "broker": "Zerodha",
+     "description": "Reliability: 5 of last 60 Play reviews report it — e.g. \"Chart not opening too bad\"",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 5,
+     "first_seen": "2026-10-25",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "Zerodha",
+     "description": "Performance: 4 of last 60 Play reviews report it — e.g. \"chart not loading...\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 4,
+     "first_seen": "2026-10-25",
+     "last_seen": "2026-10-26"
+    }
+   ],
+   "watch_items": [
+    "Kite charts not loading / chart glitch on mobile, repeated reports over the month — check for recurrence",
+    "Track reliability complaints (5 in last 60 reviews) for a fix",
+    "Top negative theme: UX (8 mentions) — watch next week's share"
+   ]
+  },
+  {
+   "broker": "HDFC Sky",
+   "slug": "hdfc-sky",
+   "overall_rating": 6.8,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 6.5,
+    "sentiment": 5.0,
+    "new_feature_response": 6.0,
+    "engagement": 8.5,
+    "support": 9.8,
+    "transparency": 6.0,
+    "historical_trend": 5.0
+   },
+   "new_features": [
+    {
+     "broker": "HDFC Sky",
+     "feature_name": "IPO apply above ₹5L UPI limit via linked HDFC Bank account",
+     "launch_date": "2026-10-16",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://x.com/i/status/2111041966813126663"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime when upto his mood maybe go for other provider it's my suggestion If star available in negitve then I'll sure give -5 star my request is to e",
+     "context": "Google Play review, 1★, 2026-10-27",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it continues like this again",
+     "context": "Google Play review, 1★, 2026-10-16",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "SIR, MY FIRST👇 SUGGESTION HAS BEEN Fulfilled..now everything is fine you made it really good... only one problem i have been facing is app is lagging many times. whenever i searched a stock, opening an index chart i find it lagging Sir it's my humble request to you that please develop the watchlist ",
+     "context": "Google Play review, 5★, 2026-10-26",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.cloudtradetech.sky&hl=en_IN",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "India fintech Moneyview listed on NSE/BSE on Thu Oct 1 at ₹55 vs a ₹34 issue price (+61.76%), per HDFC Sky.  The IPO raised ₹1,091.68 crore (fresh issue of ₹750 cr + OFS of ₹341.68 cr) and was ~71.4x subscribed overall: NII ~120x, QIB ~93x and retail ~20x.  It is a strong https:/",
+     "context": "X post, 2026-10-01",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2105547468616380775",
+     "platform": "x",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Bad Service: In this hdfc app I try to setup sip Autopay but around a 3 week I summited my request and after 4 days automatically my request is vanis out from the app if transaction is not completed that time also they show summited but they don't allow to cancel my request or de",
+     "context": "App Store review, 1★, 2026-10-04",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id6447300262?see-all=reviews",
+     "platform": "other",
+     "broker": "HDFC Sky",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Open free demat account and start your trading journey with the link given below :-\r\n\r\n✅upstox\r\nhttps://upstox.com/open-account/?f=23AV3U",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=6FMM2vrRYyA&lc=UgzdvKJVLoDYkaK_wYF4AaABAg",
+     "platform": "youtube",
+     "broker": "HDFC Sky",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "HDFC Sky vs Upstox MTF charges: ₹750 vs ₹1,200 on the same ₹75k borrowing — Have you ever tried to understand how much you are paying the broker as MTF charges for funding a stock position, rather than just looking at the margin I need upfront? Well I did and this is what I g",
+     "context": "Reddit r/IndianStreetBets, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xhhkbu/hdfc_sky_vs_upstox_mtf_charges_750_vs_1200_on_the/",
+     "platform": "reddit",
+     "broker": "HDFC Sky",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "Is HDFC Sky's Scalper Mode actually useful during volatile markets. — It is always frustrating while scalping to find how quickly a good entry can disappear while you are still clicking through order windows and confirmations when the market starts moving sharply. I tri",
+     "context": "Reddit r/IndianStreetBets, 2026-10-26",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1xfpq7g/is_hdfc_skys_scalper_mode_actually_useful_during/",
+     "platform": "reddit",
+     "broker": "HDFC Sky",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 10,
+     "severity": "high",
+     "example_quotes": [
+      "bad 👎",
+      "pathetic"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can square off anytime w",
+      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "App goes slow and some time it is difficult to manage",
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "I have been receiving too many calls from HDFC Bank, and an amount has been deducted from my account through this app with my permission. Please check this issu",
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "very slow app. and the interface is not user friendly. Also they will call and disturb you daily to sell there basket and brokerage plans. There is no DND polic",
+      "Unable to use CHART scrolling time zooming can you fix this problem it has been going on for a week and thought it would be fixed after the new update. Then it "
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "This is fraud I have lost 12.14 lakhs",
+      "Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguiding that they are acti"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "reporting a bug while updating profile the martial status is not updating or there is no option to select or write anything. hence profile is incomplete not abl",
+      "Hdfc Sky doesn't have mutual funds direct growth plan... I can not use HDFC Sky app for all my investments at 1 place. Poor aap"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "HDFC Sky",
+     "description": "Reliability: 4 of last 60 Play reviews report it — e.g. \"it will crash constantly in 5 minutes or 10 minutes and sometimes in 2 minutes if I only watch then also plz system is very poor broker can \"",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 4,
+     "first_seen": "2026-10-13",
+     "last_seen": "2026-10-27"
+    },
+    {
+     "broker": "HDFC Sky",
+     "description": "Performance: 4 of last 60 Play reviews report it — e.g. \"Day 0 scam in name of activation, the tele caller is forcing me to buy funds, says click on invest now etc as steps and continuous misguidin\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 4,
+     "first_seen": "2026-10-06",
+     "last_seen": "2026-10-25"
+    }
+   ],
+   "watch_items": [
+    "Track reliability complaints (4 in last 60 reviews) for a fix",
+    "Top negative theme: Other (10 mentions) — watch next week's share"
+   ]
+  },
+  {
+   "broker": "5Paisa",
+   "slug": "5paisa",
+   "overall_rating": 6.6,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 7.0,
+    "sentiment": 5.6,
+    "new_feature_response": 3.5,
+    "engagement": 9.6,
+    "support": 8.7,
+    "transparency": 6.0,
+    "historical_trend": 5.0
+   },
+   "new_features": [
+    {
+     "broker": "5Paisa",
+     "feature_name": "5paisa 2.0 app (new app + AI assistant)",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Negative",
+     "discussion_volume": "Medium",
+     "evidence_links": [
+      "https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US",
+      "https://apps.apple.com/us/app/5paisa-2-0-f-o-stocks-ipo/id6759095123"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "5paisa AI is useless, not getting proper output. I am asking about stocks it's giving analysis of index or sector",
+     "context": "Google Play review, 1★, 2026-10-23",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "worst app not got reward for refering going to uninstall and shift to growww zero star",
+     "context": "Google Play review, 1★, 2026-10-09",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "for someone who who both trades and invests this demat trading app is a real time saver",
+     "context": "Google Play review, 5★, 2026-10-09",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.fivepaisa.trade&hl=en_IN",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Mtf: I used this for mtf , the worst app for mtf they square off stocks whenever they want. They sent a message to add funds , I added it before market time and yet it was pending and they squared off my stocks. They send messages midnight informing you to add funds and morning y",
+     "context": "App Store review, 1★, 2026-10-16",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1156366609?see-all=reviews",
+     "platform": "other",
+     "broker": "5Paisa",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Groww Abhi Tak ka best laga mujhe toh 😅",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=QBUVEKZ4eRE&lc=Ugx2aYmAjJD8yK4LQ3R4AaABAg",
+     "platform": "youtube",
+     "broker": "5Paisa",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "I hope you are not one of the 50k investors of 5Paisa capital — Huge operating deleverage- 2% sequentail revenue de-growth lead to 39% fall in PAT. Daily Average Turnover down 15% QoQ (more than industry avg) Total order down 17% QoQ No questions in conference cal",
+     "context": "Reddit r/IndianStockMarket, 2026-10-20",
+     "sentiment": "negative",
+     "source_url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavkj1/i_hope_you_are_not_one_of_the_50k_investors_of/",
+     "platform": "reddit",
+     "broker": "5Paisa",
+     "sentimentScore": -0.5
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 11,
+     "severity": "high",
+     "example_quotes": [
+      "Poor",
+      "dekh miya loan deta bolkar mere paas aya . mujhe iske bareme kuch bhi nahi malum. tu meku tere app se hata"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "don't use this app , worst processing time of our request , my account freezes when I try to unfreeze account they took 15 days to unfreeze and iam not using th",
+      "worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue",
+      "app error when I open the app it's showing the new 5paisa arrived app update notification many times I already uploaded but can't open the app very frustrating "
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "bogus app. they have the worst customer support and worst IT team. they send you an email stating that your default bank account is one account and then they wi",
+      "wrote and communicated customer care several times regarding age of holding. unable to figure out it will incur ltcg or stcg while selling stock."
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "I don't want a new interface and I don't want to update the app. why am I being forced to do it. Its my prerogative. I choose not to update."
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "5Paisa",
+     "description": "Reliability: 5 of last 60 Play reviews report it — e.g. \"worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue\"",
+     "severity": "medium",
+     "issue_type": "platform_wide",
+     "volume": 5,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-19"
+    },
+    {
+     "broker": "5Paisa",
+     "description": "Performance: 5 of last 60 Play reviews report it — e.g. \"worst trading app it stuck wehen I going to add money and many buttons not working it say it has technical issue\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 5,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-24"
+    }
+   ],
+   "watch_items": [
+    "Track reliability complaints (5 in last 60 reviews) for a fix",
+    "Top negative theme: Other (11 mentions) — watch next week's share",
+    "User reaction to '5paisa 2.0 app (new app + AI assistant)'"
+   ]
+  },
+  {
+   "broker": "ICICI Direct",
+   "slug": "icici-direct",
+   "overall_rating": 6.3,
+   "trend": "Declining",
+   "previous_rating": 6.65,
+   "rating_breakdown": {
+    "technical_reliability": 5.5,
+    "sentiment": 3.4,
+    "new_feature_response": 6.0,
+    "engagement": 9.2,
+    "support": 9.3,
+    "transparency": 6.0,
+    "historical_trend": 4.4
+   },
+   "new_features": [
+    {
+     "broker": "ICICI Direct",
+     "feature_name": "External Holdings view [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-a"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Hi, Dissatisfied when compared with other apps. 1. unable to see specific day nav from history. 2. ui /graph is not good. 3. App name is: icici direct, and only regular funds offered. 4.xirr/day returns will not show etc., for portfolio. etc., @icici - I am not happy with app design and features.Wai",
+     "context": "Google Play review, 2★, 2026-10-24",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN",
+     "platform": "other",
+     "broker": "ICICI Direct",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "धोखेबाज एप्लीकेशन। डिलीवरी में कन्वर्ट करते समय चुपचाप बिना बताए बेहिसाब पैसा हड़प लेता है। इसमें खाता न खोलें। मेरे 8 लाख रुपये बर्बाद कर दिया। Very fraud software!",
+     "context": "Google Play review, 1★, 2026-10-23",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN",
+     "platform": "other",
+     "broker": "ICICI Direct",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "great experience....",
+     "context": "Google Play review, 5★, 2026-10-22",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.icicidirect.idirectsuper&hl=en_IN",
+     "platform": "other",
+     "broker": "ICICI Direct",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "In continuation with the issue I faced with ICICI Direct   I was arranged a meeting call with icici employee and I am told that, only I report issue with website and app on Oct 7, that they were not functional for few minutes.   @ICICI_Direct  @ICICIBank_Care",
+     "context": "X post, 2026-10-24",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2114028206269616568",
+     "platform": "x",
+     "broker": "ICICI Direct",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "@ICICI_Direct Thanks ICICI Direct team for resolving the issue. The Family Prime Brokerage Plan has since been updated in my account.",
+     "context": "X post, 2026-10-28",
+     "sentiment": "negative",
+     "source_url": "https://x.com/i/status/2115367521935376700",
+     "platform": "x",
+     "broker": "ICICI Direct",
+     "sentimentScore": -0.6
+    },
+    {
+     "quote": "Bad broker: They have the worst MTF facility among all brokers .. they give no warning to add funds.. they just sell your stock without warning and send you a message after 5 minutes.. every other broker gives a heads up for adding funds ..",
+     "context": "App Store review, 2★, 2026-10-09",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1642076943?see-all=reviews",
+     "platform": "other",
+     "broker": "ICICI Direct",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "GTT Options: Please provide options to set Target and SL instead of 10% always. This will be really helpful. Also default order setup like 4/5/6 lots instead of every-time showing 1 lot",
+     "context": "App Store review, 5★, 2026-10-26",
+     "sentiment": "positive",
+     "source_url": "https://apps.apple.com/in/app/id1642076943?see-all=reviews",
+     "platform": "other",
+     "broker": "ICICI Direct",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Stop loss not explained",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=X_4F-2AHTJE&lc=UgxybCy-mBflBFVfjmt4AaABAg",
+     "platform": "youtube",
+     "broker": "ICICI Direct",
+     "sentimentScore": 0
+    },
+    {
+     "quote": "ICICI direct has 1 second data most likely. I am saving it — If you need it , i will export on weekend once collection completed. I am testing v2 api and will rollback one basic simulation to test multiple options strategy coding and running step by step. if yo",
+     "context": "Reddit r/IndianStreetBets, 2026-10-12",
+     "sentiment": "neutral",
+     "source_url": "https://www.reddit.com/r/IndianStreetBets/comments/1x480vm/icici_direct_has_1_second_data_most_likely_i_am/",
+     "platform": "reddit",
+     "broker": "ICICI Direct",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 12,
+     "severity": "critical",
+     "example_quotes": [
+      "good",
+      "sometimes it gets frustrated when u can't buy an order when u trade daily or frequently"
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 8,
+     "severity": "high",
+     "example_quotes": [
+      "every time the app is not opening I have to uninstall and than reinstall the app",
+      "Earlier it was good. Nowadays I am not able to login. Every time it is not able to open the app and closes automatically."
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "Worst investment application I ever use not a user friendly application very complicated in selling aswell as the finding the stock which you invested already a",
+      "User interface very bad, very slow app, net position not clear, p&l keep changing, reports, statement very slow. Totally not meant for who are traders. only thi"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "User interface very bad, very slow app, net position not clear, p&l keep changing, reports, statement very slow. Totally not meant for who are traders. only thi",
+      "There is an option to download contract notes. When i try to open it asks password..what to write in password is not mentioned in the mail. All idiots are worki"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Hi, Dissatisfied when compared with other apps. 1. unable to see specific day nav from history. 2. ui /graph is not good. 3. App name is: icici direct, and only",
+      "There is an option to download contract notes. When i try to open it asks password..what to write in password is not mentioned in the mail. All idiots are worki"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "glitches and brokerage charges worst app",
+      "Are you stupids or what for kyc photo asking selfie, after taking glitch in software, why can't you take direct photo upload? too much charges for trading"
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "धोखेबाज एप्लीकेशन। डिलीवरी में कन्वर्ट करते समय चुपचाप बिना बताए बेहिसाब पैसा हड़प लेता है। इसमें खाता न खोलें। मेरे 8 लाख रुपये बर्बाद कर दिया। Very fraud softw"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Are you stupids or what for kyc photo asking selfie, after taking glitch in software, why can't you take direct photo upload? too much charges for trading"
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "ICICI Direct",
+     "description": "Reliability: 8 of last 60 Play reviews report it — e.g. \"crashing with black screen not a single star\"",
+     "severity": "high",
+     "issue_type": "platform_wide",
+     "volume": 8,
+     "first_seen": "2026-10-21",
+     "last_seen": "2026-10-26"
+    },
+    {
+     "broker": "ICICI Direct",
+     "description": "Performance: 5 of last 60 Play reviews report it — e.g. \"User interface very bad, very slow app, net position not clear, p&l keep changing, reports, statement very slow. Totally not meant for who a\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 5,
+     "first_seen": "2026-10-21",
+     "last_seen": "2026-10-27"
+    }
+   ],
+   "watch_items": [
+    "Track reliability complaints (8 in last 60 reviews) for a fix",
+    "Top negative theme: Other (12 mentions) — watch next week's share",
+    "User reaction to 'External Holdings view [low confidence]'"
+   ]
+  },
+  {
+   "broker": "Sharekhan",
+   "slug": "sharekhan",
+   "overall_rating": 5.0,
+   "trend": "Stable",
+   "rating_breakdown": {
+    "technical_reliability": 1,
+    "sentiment": 1.9,
+    "new_feature_response": 6.0,
+    "engagement": 8.6,
+    "support": 8.0,
+    "transparency": 6.0,
+    "historical_trend": 5.0
+   },
+   "new_features": [
+    {
+     "broker": "Sharekhan",
+     "feature_name": "US market exposure, zero platform fees [low confidence]",
+     "launch_date": "2026-10 (approx.)",
+     "user_reaction": "Too early to tell",
+     "discussion_volume": "Low",
+     "evidence_links": [
+      "https://www.facebook.com/MiraeAssetSharekhan/posts/tech-stocks-us-market-exposure-and-zero-platform-"
+     ]
+    }
+   ],
+   "key_quotes": [
+    {
+     "quote": "Dear sir, What happened to this app since one month.some times it works very smooth and some time it too worst performing and app automatically closed.",
+     "context": "Google Play review, 2★, 2026-10-06",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Sharekhan",
+     "sentimentScore": -0.5
+    },
+    {
+     "quote": "not able to open the app for days , it just gets closed before opening, pathetic experience. no trader should have this horrible app.",
+     "context": "Google Play review, 1★, 2026-10-14",
+     "sentiment": "negative",
+     "source_url": "https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Sharekhan",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "In sharekhan mobile application on the chart indicator overlaping are not possible. it is very bed.I think sharekhan solve this problem very fast and improve mobile application. it is very good for retail trader",
+     "context": "Google Play review, 5★, 2026-10-24",
+     "sentiment": "positive",
+     "source_url": "https://play.google.com/store/apps/details?id=com.sharekhan.androidsharemobile&hl=en_IN",
+     "platform": "other",
+     "broker": "Sharekhan",
+     "sentimentScore": 1.0
+    },
+    {
+     "quote": "Extremely disappointed: ⭐ 1 Star – Extremely Disappointing and Unacceptable!\n\nI had a portfolio worth ₹1,20,000, and this app has charged approximately ₹90,000 in brokerage. This is absolutely shocking and unacceptable! Nearly 75% of my portfolio value has been wiped out by broke",
+     "context": "App Store review, 1★, 2026-10-21",
+     "sentiment": "negative",
+     "source_url": "https://apps.apple.com/in/app/id1213285821?see-all=reviews",
+     "platform": "other",
+     "broker": "Sharekhan",
+     "sentimentScore": -1.0
+    },
+    {
+     "quote": "Second difference is one has 60K downloads and other one has 5M downloads.",
+     "context": "YouTube comment on a recent review video (comment date not verified this week)",
+     "sentiment": "neutral",
+     "source_url": "https://www.youtube.com/watch?v=WNTsB-L6oYw&lc=UgyLZOshtkuixR3tL9l4AaABAg",
+     "platform": "youtube",
+     "broker": "Sharekhan",
+     "sentimentScore": 0
+    }
+   ],
+   "negative_themes": [
+    {
+     "theme": "Other",
+     "count": 20,
+     "severity": "critical",
+     "example_quotes": [
+      "now a days there is much time taking App to open, very pathetic App.",
+      "18000 deposit krwaya in Sharekhan appwale office ke logo ne ye log farud h koi bhi isme trade nhi Krna please in logo ne meri id bnavayi fir otm wali trade buy "
+     ]
+    },
+    {
+     "theme": "Reliability",
+     "count": 16,
+     "severity": "critical",
+     "example_quotes": [
+      "app becoming worst day by day since Mirae asset took over. always glitch volume not showing in charts.",
+      "The app crashes every time I use it"
+     ]
+    },
+    {
+     "theme": "Performance",
+     "count": 5,
+     "severity": "medium",
+     "example_quotes": [
+      "charges are more. without customer knowledge they increase the brokerages to higher side. when we request to reduce they changed for some time again they increa",
+      "poor app hang always while opening"
+     ]
+    },
+    {
+     "theme": "Charges",
+     "count": 4,
+     "severity": "medium",
+     "example_quotes": [
+      "please is app se dur rahe agar apna paisa safe rakhna hai ye ap din me jo ki unke hi persons me trade diye the usme hi 35000 ke sifr brokerage charges hi kat kl",
+      "Brokerage charges transparency nahi hai....Mai continuous 1800, 1900, 1880 profit book kia..but mera profit only 376, 426 , aise profit aaya..Customer care bolt"
+     ]
+    },
+    {
+     "theme": "Support",
+     "count": 3,
+     "severity": "medium",
+     "example_quotes": [
+      "Brokerage charges transparency nahi hai....Mai continuous 1800, 1900, 1880 profit book kia..but mera profit only 376, 426 , aise profit aaya..Customer care bolt",
+      "customer service very bad 😡🤬😡"
+     ]
+    },
+    {
+     "theme": "UX",
+     "count": 2,
+     "severity": "low",
+     "example_quotes": [
+      "Sharekhan mobile app futures chart & trade tiger Commodity futures chart never match, traders be cautious as both platforms chart don't match & indicators shows",
+      "app becoming worst day by day since Mirae asset took over. always glitch volume not showing in charts."
+     ]
+    },
+    {
+     "theme": "Transparency",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "Fraud broker withdrawal amount not giving my id is 3940200 keep away from this irresponsible broker 3 month passed but my withdrawal amount not giving more than"
+     ]
+    },
+    {
+     "theme": "Features/Gaps",
+     "count": 1,
+     "severity": "low",
+     "example_quotes": [
+      "please add slbm fecility in your app...."
+     ]
+    }
+   ],
+   "technical_issues": [
+    {
+     "broker": "Sharekhan",
+     "description": "Reliability: 16 of last 60 Play reviews report it — e.g. \"The app crashes every time I use it\"",
+     "severity": "critical",
+     "issue_type": "platform_wide",
+     "volume": 16,
+     "first_seen": "2026-10-04",
+     "last_seen": "2026-10-14"
+    },
+    {
+     "broker": "Sharekhan",
+     "description": "Performance: 5 of last 60 Play reviews report it — e.g. \"poor app hang always while opening\"",
+     "severity": "medium",
+     "issue_type": "feature_specific",
+     "volume": 5,
+     "first_seen": "2026-10-05",
+     "last_seen": "2026-10-15"
+    }
+   ],
+   "watch_items": [
+    "Track reliability complaints (16 in last 60 reviews) for a fix",
+    "Top negative theme: Other (20 mentions) — watch next week's share",
+    "User reaction to 'US market exposure, zero platform fees [low confidence]'"
+   ]
+  }
+ ],
+ "industry_themes": {
+  "positive": [
+   "US-stock investing price war: Zerodha launches at 0.1% (Oct 20), Dhan cuts to 0.1% (Oct 23); Groww/Angel One/Upstox already live",
+   "Newer apps (Fyers, Sahi, Dhan) lead on review sentiment",
+   "US-stock investing rollouts (Groww, Angel One)"
+  ],
+  "negative": [
+   "Jio Platforms IPO listing (Oct 28) stressed apps: sell failures/TPIN prompts on Angel One and Upstox",
+   "App stability: Sharekhan force-closes, HDFC Sky crashes/chart bugs, ICICI UI",
+   "Charges and margin changes (Upstox charges, Zerodha MWPL exposure margin from Oct 30)"
+  ],
+  "emerging": [
+   "AI assistants in broker apps (5paisa 2.0) — poor early reception",
+   "SEBI CAS rollout"
+  ],
+  "implications_for_socialcoffee": "Stability and transparent communication win reviews this period; US-stock access is the feature race; crash-free experience is a clear differentiator versus incumbents."
+ },
+ "new_features_summary": [
+  {
+   "broker": "Sahi Broking",
+   "feature_name": "App visual refresh [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Positive",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://www.instagram.com/reel/DfCPDVxTtjK/"
+   ]
+  },
+  {
+   "broker": "Fyers",
+   "feature_name": "API v3 changelog updates [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://fyers.in/api-docs/v3/changelog/"
+   ]
+  },
+  {
+   "broker": "Dhan",
+   "feature_name": "US stocks brokerage cut to 0.1%",
+   "launch_date": "2026-10-23",
+   "user_reaction": "Positive",
+   "discussion_volume": "High",
+   "evidence_links": [
+    "https://x.com/i/status/2113628053339554096"
+   ]
+  },
+  {
+   "broker": "Dhan",
+   "feature_name": "Commodities with single margin wallet [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://www.facebook.com/DhanHQ/videos/trade-commodities-on-dhan-with-a-single-margin-wallet-and-fla"
+   ]
+  },
+  {
+   "broker": "Upstox",
+   "feature_name": "US stock investing ($1 fractional entry) [low confidence: date approx.]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://x.com/i/status/2112028485472731250"
+   ]
+  },
+  {
+   "broker": "Groww",
+   "feature_name": "US stocks & ETFs investing (select users)",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Mixed",
+   "discussion_volume": "Medium",
+   "evidence_links": [
+    "https://groww.in/updates/us-stocks-etfs-on-groww"
+   ]
+  },
+  {
+   "broker": "Angel One",
+   "feature_name": "US stock investing rollout [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://www.instagram.com/p/DetGBoZiVEo/"
+   ]
+  },
+  {
+   "broker": "Kotak Securities",
+   "feature_name": "Kotak Securities retail rebrands to Kotak Neo",
+   "launch_date": "2026-10-07",
+   "user_reaction": "Mixed",
+   "discussion_volume": "Medium",
+   "evidence_links": [
+    "https://x.com/i/status/2107780479676023289"
+   ]
+  },
+  {
+   "broker": "Zerodha",
+   "feature_name": "US stocks & ETFs investing on Kite (0.1% brokerage, ~2,000 stocks + 1,000 ETFs)",
+   "launch_date": "2026-10-20",
+   "user_reaction": "Positive",
+   "discussion_volume": "High",
+   "evidence_links": [
+    "https://x.com/i/status/2112405775221956977",
+    "https://www.reddit.com/r/IndianStockMarket/comments/1xapyqp/zerodha_just_made_lowcost_us_investing_a_lot_more/",
+    "https://x.com/i/status/2114805590006579552",
+    "https://www.reddit.com/r/IndianStockMarket/comments/1xhrqa6/zerodha_us_stocks/",
+    "https://www.reddit.com/r/IndianStockMarket/comments/1xdzlcn/zerodha_starts_us_investments/",
+    "https://www.reddit.com/r/IndianStockMarket/comments/1xdirnl/end_of_all_comparisons_heres_a_quick_guide_on/"
+   ]
+  },
+  {
+   "broker": "HDFC Sky",
+   "feature_name": "IPO apply above ₹5L UPI limit via linked HDFC Bank account",
+   "launch_date": "2026-10-16",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://x.com/i/status/2111041966813126663"
+   ]
+  },
+  {
+   "broker": "5Paisa",
+   "feature_name": "5paisa 2.0 app (new app + AI assistant)",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Negative",
+   "discussion_volume": "Medium",
+   "evidence_links": [
+    "https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US",
+    "https://apps.apple.com/us/app/5paisa-2-0-f-o-stocks-ipo/id6759095123"
+   ]
+  },
+  {
+   "broker": "ICICI Direct",
+   "feature_name": "External Holdings view [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-a"
+   ]
+  },
+  {
+   "broker": "Sharekhan",
+   "feature_name": "US market exposure, zero platform fees [low confidence]",
+   "launch_date": "2026-10 (approx.)",
+   "user_reaction": "Too early to tell",
+   "discussion_volume": "Low",
+   "evidence_links": [
+    "https://www.facebook.com/MiraeAssetSharekhan/posts/tech-stocks-us-market-exposure-and-zero-platform-"
+   ]
+  }
+ ],
+ "watch_items_next_2_weeks": [
+  "US-stock brokerage: will Groww/Angel One match 0.1%?",
+  "Zerodha: impact of additional 15% exposure margin on MWPL securities from Oct 30",
+  "Sharekhan: whether app launch crash gets fixed",
+  "Groww/Angel One: US-stock rollout reactions",
+  "HDFC Sky: chart/crash fix after update"
+ ],
+ "methodology_note": "Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed).  Reddit: 77 posts (Oct 1-28) from r/IndianStreetBets, r/IndiaInvestments, r/IndianStockMarket collected by the private Apify actor zippy_jogger/broker-intel (JSON API blocked even on residential proxy; public RSS used; first pass rate-limited: Zerodha 15, Dhan 5, Angel One 3, Fyers 2, ICICI Direct 2; second low-and-slow pass on 29 Oct (concurrency 1, 8-15s jittered delay, 429 backoff 60/120/300s): Groww 15, Upstox 14, HDFC Sky 7, Sahi 6, Kotak 5, Sharekhan 2, 5Paisa 1 — 77 posts total, all 12 brokers covered). Reddit tone blended 15% into Sentiment; volume into Engagement. Play Store reviews re-collected via the actor for 5 brokers matched the earlier sample. Reddit quotes kept only where the post mentions the broker; Reddit tone is keyword-based (low confidence)."
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Broker Intel input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "sources": {
+      "title": "Sources",
+      "type": "array",
+      "editor": "stringList",
+      "description": "Any of: reddit, play_store, app_store, youtube, linkedin",
+      "default": [
+        "reddit",
+        "play_store",
+        "app_store",
+        "youtube"
+      ]
+    },
+    "brokers": {
+      "title": "Brokers",
+      "type": "array",
+      "editor": "json",
+      "description": "List of {name, slug, keywords[], play_store_id, app_store_id, youtube_query, linkedin_slug}",
+      "default": [
+        {
+          "name": "Zerodha",
+          "slug": "zerodha",
+          "keywords": [
+            "zerodha",
+            "kite"
+          ],
+          "play_store_id": "com.zerodha.kite3",
+          "app_store_id": "1449453802"
+        }
+      ]
+    },
+    "subreddits": {
+      "title": "Subreddits",
+      "type": "array",
+      "editor": "stringList",
+      "default": [
+        "IndianStreetBets",
+        "IndiaInvestments",
+        "IndianStockMarket",
+        "Zerodha"
+      ],
+      "description": "Subreddits"
+    },
+    "daysBack": {
+      "title": "Days back",
+      "type": "integer",
+      "default": 28,
+      "minimum": 1,
+      "maximum": 90,
+      "description": "Days back"
+    },
+    "maxItemsPerSource": {
+      "title": "Max items per broker per source",
+      "type": "integer",
+      "default": 30,
+      "minimum": 1,
+      "maximum": 200,
+      "description": "Max items per broker per source"
+    },
+    "topComments": {
+      "title": "Top comments per Reddit post",
+      "type": "integer",
+      "default": 0,
+      "minimum": 0,
+      "maximum": 10,
+      "description": "Top comments per Reddit post"
+    },
+    "useResidentialProxy": {
+      "title": "Use Apify residential proxy (Reddit/LinkedIn)",
+      "type": "boolean",
+      "default": true,
+      "description": "Use Apify residential proxy (Reddit/LinkedIn)"
+    },
+    "minDelaySecs": {
+      "title": "Min delay (s)",
+      "type": "integer",
+      "default": 8,
+      "minimum": 1,
+      "description": "Minimum randomized delay between requests"
+    },
+    "maxDelaySecs": {
+      "title": "Max delay (s)",
+      "type": "integer",
+      "default": 15,
+      "minimum": 1,
+      "description": "Maximum randomized delay between requests"
+    },
+    "pauseBetweenBrokersSecs": {
+      "title": "Pause between brokers (s)",
+      "type": "integer",
+      "default": 30,
+      "minimum": 0,
+      "description": "Pause between brokers (sequential, concurrency 1)"
+    },
+    "redditMode": {
+      "title": "Reddit mode",
+      "type": "string",
+      "enum": [
+        "auto",
+        "rss"
+      ],
+      "default": "auto",
+      "description": "auto = try JSON then RSS; rss = RSS only"
+    }
+  },
+  "required": [
+    "brokers"
+  ]
+}

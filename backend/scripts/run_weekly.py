@@ -14,13 +14,16 @@ Usage:
     python backend/scripts/run_weekly.py
 
 Environment variables (optional):
-    BROKERS="Zerodha,Groww,Fyers"
+    SUPABASE_URL / SUPABASE_KEY  # brokers + source toggles from admin DB
+    BROKERS="Zerodha,Groww,Fyers"  # fallback list if DB unreachable
+    DRY_RUN=true               # only resolve brokers/sources, no scraping
     REPORT_OUTPUT_DIR="./reports"
     ENABLE_APIFY=true          # Requires APIFY_API_TOKEN
     ENABLE_FIRECRAWL=true      # Requires FIRECRAWL_API_KEY
 """
 
 import asyncio
+import os
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -30,6 +33,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from app.core.config import settings
 from app.data_collection.collector import run_weekly_collection
+from app.data_collection.broker_registry import load_registry
+from app.data_collection.private_actor import run_broker_intel
 
 
 async def main():
@@ -46,9 +51,21 @@ async def main():
     week_end = week_start + timedelta(days=6)
 
     print(f"Week:           {week_start.date()} → {week_end.date()}")
-    print(f"Brokers:        {', '.join(settings.brokers)}")
+    registry = load_registry(settings.brokers)
+    brokers = registry.broker_names
+    # Admin toggles gate the opt-in connectors (env flags must also allow them)
+    use_apify = settings.enable_apify and bool(registry.enabled_sources & {"play_store", "app_store", "youtube", "x", "reddit"})
+    use_firecrawl = settings.enable_firecrawl and bool(registry.enabled_sources & {"web", "news"})
+    print(f"Broker source:  {registry.origin}")
+    print(f"Brokers:        {', '.join(brokers)}")
+    print(f"Sources on:     {', '.join(sorted(registry.enabled_sources))}")
+    print(f"Apify/Firecrawl:{use_apify}/{use_firecrawl}")
     print(f"Environment:    {settings.environment}")
     print()
+
+    if os.getenv("DRY_RUN", "").lower() in ("1", "true", "yes"):
+        print("DRY_RUN set: skipping collection.")
+        return
 
     try:
         # Run the real data collection using the new DataCollector
@@ -56,11 +73,18 @@ async def main():
         result = await run_weekly_collection(
             week_start=week_start,
             week_end=week_end,
-            brokers=settings.brokers,
-            use_apify=settings.enable_apify,
-            use_firecrawl=settings.enable_firecrawl,
+            brokers=brokers,
+            use_apify=use_apify,
+            use_firecrawl=use_firecrawl,
             # output_dir can be overridden via env if needed
         )
+
+        # Private multi-source Apify actor (Reddit, Play/App Store, YouTube, LinkedIn)
+        actor_items = run_broker_intel(
+            registry, days_back=int(os.getenv('ACTOR_DAYS_BACK', '28')),
+            out_dir=Path(result.normalized_artifacts_path) if result.normalized_artifacts_path else None,
+        )
+        print(f"broker-intel actor items: {len(actor_items)}")
 
         print("\n✅ Collection completed successfully!")
         print("-" * 50)
