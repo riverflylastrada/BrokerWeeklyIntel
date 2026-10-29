@@ -3,13 +3,80 @@
   "type": "object",
   "schemaVersion": 1,
   "properties": {
-    "sources": { "title": "Sources", "type": "array", "editor": "stringList", "description": "Any of: reddit, play_store, app_store, youtube, linkedin", "default": ["reddit", "play_store", "app_store", "youtube"] },
-    "brokers": { "title": "Brokers", "type": "array", "editor": "json", "description": "List of {name, slug, keywords[], play_store_id, app_store_id, youtube_query, linkedin_slug}", "default": [{"name": "Zerodha", "slug": "zerodha", "keywords": ["zerodha", "kite"], "play_store_id": "com.zerodha.kite3", "app_store_id": "1449453802"}] },
-    "subreddits": { "title": "Subreddits", "type": "array", "editor": "stringList", "default": ["IndianStreetBets", "IndiaInvestments", "IndianStockMarket", "Zerodha"] },
-    "daysBack": { "title": "Days back", "type": "integer", "default": 28, "minimum": 1, "maximum": 90 },
-    "maxItemsPerSource": { "title": "Max items per broker per source", "type": "integer", "default": 30, "minimum": 1, "maximum": 200 },
-    "topComments": { "title": "Top comments per Reddit post", "type": "integer", "default": 3, "minimum": 0, "maximum": 10 },
-    "useResidentialProxy": { "title": "Use Apify residential proxy (Reddit/LinkedIn)", "type": "boolean", "default": true }
+    "sources": {
+      "title": "Sources",
+      "type": "array",
+      "editor": "stringList",
+      "description": "Any of: reddit, play_store, app_store, youtube, linkedin",
+      "default": [
+        "reddit",
+        "play_store",
+        "app_store",
+        "youtube"
+      ]
+    },
+    "brokers": {
+      "title": "Brokers",
+      "type": "array",
+      "editor": "json",
+      "description": "List of {name, slug, keywords[], play_store_id, app_store_id, youtube_query, linkedin_slug}",
+      "default": [
+        {
+          "name": "Zerodha",
+          "slug": "zerodha",
+          "keywords": [
+            "zerodha",
+            "kite"
+          ],
+          "play_store_id": "com.zerodha.kite3",
+          "app_store_id": "1449453802"
+        }
+      ]
+    },
+    "subreddits": {
+      "title": "Subreddits",
+      "type": "array",
+      "editor": "stringList",
+      "default": [
+        "IndianStreetBets",
+        "IndiaInvestments",
+        "IndianStockMarket",
+        "Zerodha"
+      ],
+      "description": "Subreddits"
+    },
+    "daysBack": {
+      "title": "Days back",
+      "type": "integer",
+      "default": 28,
+      "minimum": 1,
+      "maximum": 90,
+      "description": "Days back"
+    },
+    "maxItemsPerSource": {
+      "title": "Max items per broker per source",
+      "type": "integer",
+      "default": 30,
+      "minimum": 1,
+      "maximum": 200,
+      "description": "Max items per broker per source"
+    },
+    "topComments": {
+      "title": "Top comments per Reddit post",
+      "type": "integer",
+      "default": 3,
+      "minimum": 0,
+      "maximum": 10,
+      "description": "Top comments per Reddit post"
+    },
+    "useResidentialProxy": {
+      "title": "Use Apify residential proxy (Reddit/LinkedIn)",
+      "type": "boolean",
+      "default": true,
+      "description": "Use Apify residential proxy (Reddit/LinkedIn)"
+    }
   },
-  "required": ["brokers"]
+  "required": [
+    "brokers"
+  ]
 }

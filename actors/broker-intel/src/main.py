@@ -12,6 +12,7 @@ async def main():
             try:
                 pc = await Actor.create_proxy_configuration(groups=["RESIDENTIAL"], country_code="IN")
                 proxy_url = await pc.new_url() if pc else None
+                Actor.log.info(f"Proxy: {'RESIDENTIAL/IN' if proxy_url else 'none'}")
             except Exception as e:
                 Actor.log.warning(f"Residential proxy unavailable ({type(e).__name__}); using direct connection")
         web = httpx.Client(headers={"User-Agent": S.UA}, timeout=30, follow_redirects=True, proxy=proxy_url)
@@ -20,7 +21,17 @@ async def main():
         for b in inp.get("brokers", []):
             for src in sorted(srcs):
                 try:
-                    if src == "reddit": items = S.reddit(web, b, inp.get("subreddits") or ["IndianStreetBets", "IndiaInvestments", "IndianStockMarket"], days, lim, int(inp.get("topComments", 3)))
+                    if src == "reddit":
+                        subs = inp.get("subreddits") or ["IndianStreetBets", "IndiaInvestments", "IndianStockMarket"]
+                        items = None
+                        if not stats.get("_reddit_json_blocked"):
+                            try:
+                                items = S.reddit(web, b, subs, days, lim, int(inp.get("topComments", 3)))
+                            except Exception as e:
+                                Actor.log.info(f"Reddit JSON blocked ({type(e).__name__}); using RSS for the rest of the run")
+                                stats["_reddit_json_blocked"] = 1
+                        if items is None:
+                            items = S.reddit_rss(web, b, subs, days, lim, int(inp.get("topComments", 3)))
                     elif src == "play_store": items = S.play_store(b, days, lim)
                     elif src == "app_store": items = S.app_store(plain, b, days, lim)
                     elif src == "youtube": items = S.youtube(b, days, lim)

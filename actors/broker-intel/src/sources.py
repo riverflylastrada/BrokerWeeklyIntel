@@ -6,15 +6,23 @@ import httpx
 
 UA = "BrokerWeeklyIntel/0.1 (public research; contact via GitHub riverflylastrada/BrokerWeeklyIntel)"
 
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
 def _cutoff(days): return (datetime.now(timezone.utc) - timedelta(days=days)).timestamp()
 
 def reddit(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
     out, cut = [], _cutoff(days)
     subs = "+".join(subreddits)
     for kw in broker.get("keywords") or [broker["name"]]:
-        r = client.get(f"https://www.reddit.com/r/{subs}/search.json",
-                       params={"q": kw, "restrict_sr": 1, "sort": "new", "t": "month", "limit": min(limit, 100)})
-        r.raise_for_status(); time.sleep(sleep)
+        params = {"q": kw, "restrict_sr": 1, "sort": "new", "t": "month", "limit": min(limit, 100), "raw_json": 1}
+        r = None
+        for host in ("https://www.reddit.com", "https://old.reddit.com", "https://api.reddit.com"):
+            for ua in (UA, BROWSER_UA):
+                r = client.get(f"{host}/r/{subs}/search.json" if "api." not in host else f"{host}/r/{subs}/search", params=params, headers={"User-Agent": ua})
+                time.sleep(sleep)
+                if r.status_code == 200: break
+            if r.status_code == 200: break
+        r.raise_for_status()
         for c in r.json()["data"]["children"]:
             d = c["data"]
             if d["created_utc"] < cut: continue
@@ -22,7 +30,7 @@ def reddit(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
                         url="https://www.reddit.com" + d["permalink"], author=d.get("author"), subreddit=d["subreddit"],
                         created_utc=d["created_utc"], score=d["score"], num_comments=d["num_comments"], comments=[])
             if top_comments and d["num_comments"]:
-                cr = client.get(f"https://www.reddit.com{d['permalink']}.json", params={"sort": "top", "limit": top_comments})
+                cr = client.get(f"https://old.reddit.com{d['permalink']}.json", params={"sort": "top", "limit": top_comments})
                 time.sleep(sleep)
                 if cr.status_code == 200:
                     for cc in cr.json()[1]["data"]["children"][:top_comments]:
@@ -90,3 +98,40 @@ def linkedin(client, broker, limit):
                      url=f"https://www.linkedin.com/company/{slug}/", author=None, created_utc=None, score=0, num_comments=0)]
     return [dict(source="linkedin", broker=broker["name"], title="", text=p[:1500], url=f"https://www.linkedin.com/company/{slug}/",
                  author=slug, created_utc=None, score=0, num_comments=0) for p in posts]
+
+
+def reddit_rss(client, broker, subreddits, days, limit, top_comments, sleep=2.0):
+    """Fallback when Reddit's JSON API returns 403: public Atom feeds (no score/num_comments)."""
+    import xml.etree.ElementTree as ET, html as H
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    strip = lambda s: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", H.unescape(s or ""))).strip()
+    out, cut, seen = [], _cutoff(days), set()
+    for sub in subreddits:
+        for kw in broker.get("keywords") or [broker["name"]]:
+            r = client.get(f"https://www.reddit.com/r/{sub}/search.rss",
+                           params={"q": kw, "restrict_sr": 1, "sort": "new", "t": "month", "limit": 25},
+                           headers={"User-Agent": BROWSER_UA})
+            time.sleep(sleep)
+            for wait in (10, 30, 60):  # back off on rate limiting
+                if r.status_code != 429: break
+                time.sleep(wait)
+                r = client.get(str(r.request.url), headers={"User-Agent": BROWSER_UA})
+            if r.status_code != 200: continue
+            for e in ET.fromstring(r.text).findall("a:entry", ns):
+                url = e.find("a:link", ns).attrib["href"]
+                ts = datetime.fromisoformat(e.find("a:updated", ns).text).timestamp()
+                if url in seen or ts < cut: continue
+                seen.add(url)
+                body = strip((e.find("a:content", ns).text if e.find("a:content", ns) is not None else ""))
+                body = re.sub(r"submitted by .*$", "", body).strip()
+                item = dict(source="reddit", broker=broker["name"], title=e.find("a:title", ns).text, text=body[:2000], url=url,
+                            author=(e.find("a:author/a:name", ns).text if e.find("a:author/a:name", ns) is not None else None),
+                            subreddit=sub, created_utc=ts, score=None, num_comments=None, comments=[])
+                if top_comments:
+                    cr = client.get(url.rstrip("/") + "/.rss", params={"sort": "top", "limit": top_comments + 1}, headers={"User-Agent": BROWSER_UA})
+                    time.sleep(sleep)
+                    if cr.status_code == 200:
+                        for ce in ET.fromstring(cr.text).findall("a:entry", ns)[1:top_comments + 1]:
+                            item["comments"].append(dict(text=strip(ce.find("a:content", ns).text)[:600], url=ce.find("a:link", ns).attrib["href"]))
+                out.append(item)
+    return out[:limit]

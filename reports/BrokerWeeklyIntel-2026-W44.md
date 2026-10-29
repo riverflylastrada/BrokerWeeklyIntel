@@ -3,7 +3,7 @@
 **Week:** 26 Oct – 1 Nov 2026 (2026-W44, live catch-up run; signals from 1–28 Oct)  
 **Generated:** 2026-10-29  
 **Brokers Analyzed:** Sahi Broking, Fyers, Dhan, Groww, Angel One, Upstox, Kotak Securities, Zerodha, HDFC Sky, 5Paisa, ICICI Direct, Sharekhan  
-**Sources:** Google Play (newest 60 reviews/broker), X (126 posts, 1–28 Oct), Reddit threads (via web search), App Store reviews, YouTube comments, Firecrawl web search, official broker pages.
+**Sources:** Google Play (newest 60 reviews/broker), X (126 posts, 1–28 Oct), Reddit (27 posts via private Apify actor), App Store reviews, YouTube comments, Firecrawl web search, official broker pages.
 
 ## Executive Summary
 
@@ -13,26 +13,26 @@ The month's big story is a **US-stock investing price war**: Zerodha launched US
 
 | Broker | Feature / Update | Launch | User Reaction | Key Evidence / Link |
 |---|---|---|---|---|
-| Sahi Broking | App visual refresh [low confidence] | 2026-10 (approx.) | Positive | [link](https://www.instagram.com/reel/DfCPDVxTtjK/) |
-| Fyers | API v3 changelog updates [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://fyers.in/api-docs/v3/changelog/) |
-| Dhan | US stocks brokerage cut to 0.1% | 2026-10-23 | Positive | [link](https://x.com/i/status/2113628053339554096) |
-| Dhan | Commodities with single margin wallet [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/DhanHQ/videos/trade-commodities-on-dhan-with-a-single-margin-wallet-and-fla) |
-| Groww | US stocks & ETFs investing (select users) | 2026-10 (approx.) | Mixed | [link](https://groww.in/updates/us-stocks-etfs-on-groww) |
-| Angel One | US stock investing rollout [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.instagram.com/p/DetGBoZiVEo/) |
-| Upstox | US stock investing ($1 fractional entry) [low confidence: date approx.] | 2026-10 (approx.) | Too early to tell | [link](https://x.com/i/status/2112028485472731250) |
-| Kotak Securities | Kotak Securities retail rebrands to Kotak Neo | 2026-10-07 | Mixed | [link](https://x.com/i/status/2107780479676023289) |
-| Zerodha | US stocks & ETFs investing on Kite (0.1% brokerage, ~2,000 stocks + 1,000 ETFs) | 2026-10-20 | Positive | [link](https://x.com/i/status/2112405775221956977) |
-| HDFC Sky | IPO apply above ₹5L UPI limit via linked HDFC Bank account | 2026-10-16 | Too early to tell | [link](https://x.com/i/status/2111041966813126663) |
-| 5Paisa | 5paisa 2.0 app (new app + AI assistant) | 2026-10 (approx.) | Negative | [link](https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US) |
-| ICICI Direct | External Holdings view [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-a) |
-| Sharekhan | US market exposure, zero platform fees [low confidence] | 2026-10 (approx.) | Too early to tell | [link](https://www.facebook.com/MiraeAssetSharekhan/posts/tech-stocks-us-market-exposure-and-zero-platform-) |
+| Sahi Broking | App visual refresh [low confidence] | 2026-10 (approx.) | Positive | [1](https://www.instagram.com/reel/DfCPDVxTtjK/) |
+| Fyers | API v3 changelog updates [low confidence] | 2026-10 (approx.) | Too early to tell | [1](https://fyers.in/api-docs/v3/changelog/) |
+| Dhan | US stocks brokerage cut to 0.1% | 2026-10-23 | Positive | [1](https://x.com/i/status/2113628053339554096) |
+| Dhan | Commodities with single margin wallet [low confidence] | 2026-10 (approx.) | Too early to tell | [1](https://www.facebook.com/DhanHQ/videos/trade-commodities-on-dhan-with-a-single-margin-wallet-and-fla) |
+| Upstox | US stock investing ($1 fractional entry) [low confidence: date approx.] | 2026-10 (approx.) | Too early to tell | [1](https://x.com/i/status/2112028485472731250) |
+| Groww | US stocks & ETFs investing (select users) | 2026-10 (approx.) | Mixed | [1](https://groww.in/updates/us-stocks-etfs-on-groww) |
+| Angel One | US stock investing rollout [low confidence] | 2026-10 (approx.) | Too early to tell | [1](https://www.instagram.com/p/DetGBoZiVEo/) |
+| Kotak Securities | Kotak Securities retail rebrands to Kotak Neo | 2026-10-07 | Mixed | [1](https://x.com/i/status/2107780479676023289) |
+| Zerodha | US stocks & ETFs investing on Kite (0.1% brokerage, ~2,000 stocks + 1,000 ETFs) | 2026-10-20 | Positive | [1](https://x.com/i/status/2112405775221956977) [2](https://www.reddit.com/r/IndianStockMarket/comments/1xapyqp/zerodha_just_made_lowcost_us_investing_a_lot_more/) [3](https://x.com/i/status/2114805590006579552) [4](https://www.reddit.com/r/IndianStockMarket/comments/1xhrqa6/zerodha_us_stocks/) |
+| HDFC Sky | IPO apply above ₹5L UPI limit via linked HDFC Bank account | 2026-10-16 | Too early to tell | [1](https://x.com/i/status/2111041966813126663) |
+| 5Paisa | 5paisa 2.0 app (new app + AI assistant) | 2026-10 (approx.) | Negative | [1](https://play.google.com/store/apps/details?id=com.fivepaisa.tradebetter&hl=en_US) [2](https://apps.apple.com/us/app/5paisa-2-0-f-o-stocks-ipo/id6759095123) |
+| ICICI Direct | External Holdings view [low confidence] | 2026-10 (approx.) | Too early to tell | [1](https://www.facebook.com/icicidirect/posts/with-the-new-external-holdings-feature-you-can-now-view-a) |
+| Sharekhan | US market exposure, zero platform fees [low confidence] | 2026-10 (approx.) | Too early to tell | [1](https://www.facebook.com/MiraeAssetSharekhan/posts/tech-stocks-us-market-exposure-and-zero-platform-) |
 
 ## Broker Ratings at a Glance
 
 | Broker | This Week | vs W21 | Trend |
 |---|---|---|---|
 | Sahi Broking | 8.3 | 6.15 | Improving |
-| Fyers | 8.1 | 7.15 | Improving |
+| Fyers | 7.9 | 7.15 | Improving |
 | Dhan | 7.5 | — (new) | Stable |
 | Upstox | 7.3 | 6.35 | Improving |
 | Groww | 7.2 | 7.35 | Stable |
@@ -82,7 +82,7 @@ Honestly, one of the best broker apps I’ve used so far. The UI is clean, intui
 - User reaction to 'App visual refresh [low confidence]'
 - Rating moved 6.15 → 8.7 vs W21; confirm trend holds
 
-### Fyers — 8.1/10 (Improving)
+### Fyers — 7.9/10 (Improving)
 
 #### User Quotes & Sentiment Themes
 - "A well-organized layout can make navigating a trading application much easier,," — Google Play review, 5★, 2026-10-27 ([source](https://play.google.com/store/apps/details?id=com.fyers.trader&hl=en_IN))
@@ -94,6 +94,7 @@ Honestly, one of the best broker apps I’ve used so far. The UI is clean, intui
 Please fix asap" — App Store review, 1★, 2026-10-06 ([source](https://apps.apple.com/in/app/id1526652184?see-all=reviews))
 - "Most advance and reliable: Fyers is the only broker in Indian stock market which implement new technology first. It provides best in class technology and reliable charts. If you are an Intraday trader and want to trade d" — App Store review, 5★, 2026-10-24 ([source](https://apps.apple.com/in/app/id1526652184?see-all=reviews))
 - "Fyers backend is so poor..They take brokerage for delivery,still very bad service" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=K9jJyXOkleY&lc=Ugx5H3R2t3MayaYRQLx4AaABAg))
+- "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything togeth" — Reddit r/IndianStreetBets, 2026-10-08 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/))
 - Theme **Reliability**: 2 mentions (medium)
 
 #### Technical Issues & Glitches
@@ -104,9 +105,9 @@ Please fix asap" — App Store review, 1★, 2026-10-06 ([source](https://apps.a
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 9.8 |
-| Sentiment Balance | 15% | 6.8 |
+| Sentiment Balance | 15% | 5.8 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 8.5 |
+| Engagement & Reach | 15% | 8.7 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 7.5 |
 | Historical Trend | 10% | 6.9 |
@@ -126,6 +127,8 @@ Please fix asap" — App Store review, 1★, 2026-10-06 ([source](https://apps.a
 - "Unable to sell stocks. Poor customer service: I am unable to sell my stocks, and my profits have now reduced by 15% while the issue remains unresolved. This is extremely frustrating, especially when real money is at stak" — App Store review, 1★, 2026-10-24 ([source](https://apps.apple.com/in/app/id1575318726?see-all=reviews))
 - "Weekly Investing: Weekly SIP schedule choose karne ki flexibility milti hai." — App Store review, 5★, 2026-10-27 ([source](https://apps.apple.com/in/app/id1575318726?see-all=reviews))
 - "Dhan App Link: https://invite.dhan.co/?join=MAN38" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=cQuf16Gc4Po&lc=UgzwWRO0v992FcUD5a54AaABAg))
+- "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything togeth" — Reddit r/IndianStreetBets, 2026-10-08 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/))
+- "Power of zerodha — Zerodha US stocks investing isn’t even fully live yet, and Dhan has already reduced its brokerage from 0.25% to 0.10%. That’s a 60% cut before Zerodha’s product has even launched. Groww brokerage is a" — Reddit r/IndianStreetBets, 2026-10-22 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1xcv10w/power_of_zerodha/))
 - Theme **Other**: 3 mentions (medium)
 - Theme **Reliability**: 13 mentions (low)
 - Theme **Transparency**: 2 mentions (low)
@@ -140,9 +143,9 @@ Please fix asap" — App Store review, 1★, 2026-10-06 ([source](https://apps.a
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 8.2 |
-| Sentiment Balance | 15% | 5.0 |
+| Sentiment Balance | 15% | 5.2 |
 | New Feature Response | 15% | 7.0 |
-| Engagement & Reach | 15% | 8.7 |
+| Engagement & Reach | 15% | 9.0 |
 | Support | 15% | 9.8 |
 | Content & Transparency | 10% | 7.5 |
 | Historical Trend | 10% | 5.0 |
@@ -252,6 +255,8 @@ Total ₹75😢" — YouTube comment on a recent review video (comment date not 
 - "For stocks : Groww
 For mutual fund : Groww
 😂" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=rBMwZP2XpkA&lc=Ugz8nahWuX9eZmjnj2F4AaABAg))
+- "What features do you wish your options trading terminal had? — I've been trading options for over 8 years, and one thing I've always felt is that we have plenty of trading tools, but very few that bring everything togeth" — Reddit r/IndianStreetBets, 2026-10-08 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1x0z36u/what_features_do_you_wish_your_options_trading/))
+- "Mkc kb tk yahi dekhna pdega" — Reddit r/IndianStreetBets, 2026-10-22 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1xcekyy/mkc_kb_tk_yahi_dekhna_pdega/))
 - Theme **Other**: 5 mentions (medium)
 - Theme **Support**: 3 mentions (medium)
 - Theme **Performance**: 3 mentions (medium)
@@ -270,7 +275,7 @@ For mutual fund : Groww
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 7.7 |
-| Sentiment Balance | 15% | 5.7 |
+| Sentiment Balance | 15% | 5.3 |
 | New Feature Response | 15% | 6.0 |
 | Engagement & Reach | 15% | 9.8 |
 | Support | 15% | 8.0 |
@@ -335,6 +340,8 @@ For mutual fund : Groww
 - "Trap for small investors — Hidden maintenance fees & penal interest: Terrible experience for retail investors. While competitors offer lifetime zero AMC, Zerodha debits ₹88.50 every quarter under the radar. If your tradi" — App Store review, 1★, 2026-10-08 ([source](https://apps.apple.com/in/app/id1449453802?see-all=reviews))
 - "Excellent: Professional custmer services provided by Zerodha" — App Store review, 5★, 2026-10-23 ([source](https://apps.apple.com/in/app/id1449453802?see-all=reviews))
 - "Online business are booming" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=HSizIZmsJP8&lc=UgzOkjlMVct_7haMn2F4AaABAg))
+- "Holding for 4-5 months and currently down bad. Should I exit or hold? Need advice. — Hey everyone, I’m in a really tough spot and honestly panicking right now. I bought in thinking it would go up by 4-5k, but instead, my" — Reddit r/IndianStockMarket, 2026-10-28 ([source](https://www.reddit.com/r/IndianStockMarket/comments/1xhvdxn/holding_for_45_months_and_currently_down_bad/))
+- "when everyone wants to go to the moon then start space shuttle service" — Reddit r/IndianStockMarket, 2026-10-29 ([source](https://www.reddit.com/r/IndianStockMarket/comments/1xi84u7/when_everyone_wants_to_go_to_the_moon_then_start/))
 - Theme **UX**: 8 mentions (high)
 - Theme **Other**: 6 mentions (high)
 - Theme **Reliability**: 19 mentions (medium)
@@ -352,7 +359,7 @@ For mutual fund : Groww
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 5.0 |
-| Sentiment Balance | 15% | 5.2 |
+| Sentiment Balance | 15% | 4.9 |
 | New Feature Response | 15% | 8.0 |
 | Engagement & Reach | 15% | 9.8 |
 | Support | 15% | 8.0 |
@@ -451,6 +458,8 @@ https://upstox.com/open-account/?f=23AV3U" — YouTube comment on a recent revie
 - "Bad broker: They have the worst MTF facility among all brokers .. they give no warning to add funds.. they just sell your stock without warning and send you a message after 5 minutes.. every other broker gives a heads up" — App Store review, 2★, 2026-10-09 ([source](https://apps.apple.com/in/app/id1642076943?see-all=reviews))
 - "GTT Options: Please provide options to set Target and SL instead of 10% always. This will be really helpful. Also default order setup like 4/5/6 lots instead of every-time showing 1 lot" — App Store review, 5★, 2026-10-26 ([source](https://apps.apple.com/in/app/id1642076943?see-all=reviews))
 - "Stop loss not explained" — YouTube comment on a recent review video (comment date not verified this week) ([source](https://www.youtube.com/watch?v=X_4F-2AHTJE&lc=UgxybCy-mBflBFVfjmt4AaABAg))
+- "Template: Stop Mutual Funds from backing the Jio IPO — The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable mar" — Reddit r/IndianStreetBets, 2026-10-17 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/))
+- "ICICI direct has 1 second data most likely. I am saving it — If you need it , i will export on weekend once collection completed. I am testing v2 api and will rollback one basic simulation to test multiple options strate" — Reddit r/IndianStreetBets, 2026-10-12 ([source](https://www.reddit.com/r/IndianStreetBets/comments/1x480vm/icici_direct_has_1_second_data_most_likely_i_am/))
 - Theme **Other**: 12 mentions (critical)
 - Theme **Reliability**: 8 mentions (high)
 - Theme **UX**: 5 mentions (medium)
@@ -469,9 +478,9 @@ https://upstox.com/open-account/?f=23AV3U" — YouTube comment on a recent revie
 | Parameter | Weight | Score |
 |---|---|---|
 | Technical Reliability & Bug Handling | 20% | 5.5 |
-| Sentiment Balance | 15% | 3.6 |
+| Sentiment Balance | 15% | 3.4 |
 | New Feature Response | 15% | 6.0 |
-| Engagement & Reach | 15% | 9.0 |
+| Engagement & Reach | 15% | 9.2 |
 | Support | 15% | 9.3 |
 | Content & Transparency | 10% | 6.0 |
 | Historical Trend | 10% | 4.4 |
@@ -544,5 +553,5 @@ Stability and transparent communication win reviews this period; US-stock access
 ## Methodology, Data Sources & Limitations
 
 - **Scoring:** original 7-parameter weighted system (Technical Reliability 20%; Sentiment, New Feature Response, Engagement, Support 15% each; Historical Trend 10%; Transparency 10%).
-- Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed). Reddit not collected (403 from runner; needs actor on Apify residential proxy).
+- Live catch-up run. Same 7-parameter weighted scoring as W21 v2.1 (Tech 20%, Sentiment/New-feature/Engagement/Support 15% each, Historical 10%, Transparency 10%). Evidence: newest 60 Google Play reviews per broker (Sep 25-Oct 28) + Firecrawl web search (past month). Feature launch dates approximate; Reddit/X not collected this run. Parameter scores are heuristic from review-theme shares — lower confidence than W21's manual analysis. Enriched 29 Oct with 126 X posts (Oct 1-28, via X API search) and Reddit threads found via Firecrawl search (Apify Reddit actor unavailable on plan). X tone blended 30% into Sentiment; X volume added to Engagement; dated outages lower Technical Reliability. Added App Store reviews (last 28 days, iTunes RSS) blended into Sentiment and YouTube comments as quotes, collected with the broker-intel actor code run locally (actor not yet deployed).  Reddit: 27 posts (Oct 1-28) from r/IndianStreetBets, r/IndiaInvestments, r/IndianStockMarket collected by the private Apify actor zippy_jogger/broker-intel (JSON API blocked even on residential proxy; public RSS used; Reddit rate-limited the run, so coverage is Zerodha 15, Dhan 5, Angel One 3, Fyers 2, ICICI Direct 2, others 0). Reddit tone blended 15% into Sentiment; volume into Engagement. Play Store reviews re-collected via the actor for 5 brokers matched the earlier sample.
 - Limitations: heuristic scoring from samples; items tagged [low confidence] lack exact dates; Reddit coverage partial.
