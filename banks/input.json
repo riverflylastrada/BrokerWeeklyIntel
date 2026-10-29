@@ -1,0 +1,149 @@
+{
+ "sources": [
+  "reddit",
+  "play_store",
+  "app_store",
+  "youtube"
+ ],
+ "brokers": [
+  {
+   "name": "SBI",
+   "slug": "sbi",
+   "keywords": [
+    "SBI YONO",
+    "State Bank of India"
+   ],
+   "play_store_id": "com.sbi.lotusintouch",
+   "app_store_id": "1231393474",
+   "youtube_query": "SBI mobile app review"
+  },
+  {
+   "name": "HDFC Bank",
+   "slug": "hdfc-bank",
+   "keywords": [
+    "HDFC Bank"
+   ],
+   "play_store_id": "com.hdfcbank.android.now",
+   "app_store_id": "6504402552",
+   "youtube_query": "HDFC Bank mobile app review"
+  },
+  {
+   "name": "ICICI Bank",
+   "slug": "icici-bank",
+   "keywords": [
+    "ICICI Bank",
+    "iMobile"
+   ],
+   "play_store_id": "com.csam.icici.bank.imobile",
+   "app_store_id": "375276006",
+   "youtube_query": "ICICI Bank mobile app review"
+  },
+  {
+   "name": "Axis Bank",
+   "slug": "axis-bank",
+   "keywords": [
+    "Axis Bank"
+   ],
+   "play_store_id": "com.axis.mobile",
+   "app_store_id": "699582556",
+   "youtube_query": "Axis Bank mobile app review"
+  },
+  {
+   "name": "Kotak Mahindra Bank",
+   "slug": "kotak-bank",
+   "keywords": [
+    "Kotak 811",
+    "Kotak Bank"
+   ],
+   "play_store_id": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
+   "app_store_id": "6447808696",
+   "youtube_query": "Kotak Mahindra Bank mobile app review"
+  },
+  {
+   "name": "Punjab National Bank",
+   "slug": "pnb",
+   "keywords": [
+    "PNB ONE",
+    "Punjab National Bank"
+   ],
+   "play_store_id": "com.Version1",
+   "app_store_id": "1434797444",
+   "youtube_query": "Punjab National Bank mobile app review"
+  },
+  {
+   "name": "Bank of Baroda",
+   "slug": "bank-of-baroda",
+   "keywords": [
+    "Bank of Baroda",
+    "bob World"
+   ],
+   "play_store_id": "com.bankofbaroda.mconnect",
+   "app_store_id": "1191046038",
+   "youtube_query": "Bank of Baroda mobile app review"
+  },
+  {
+   "name": "IndusInd Bank",
+   "slug": "indusind-bank",
+   "keywords": [
+    "IndusInd"
+   ],
+   "play_store_id": "com.indusind.indie",
+   "app_store_id": "1615506534",
+   "youtube_query": "IndusInd Bank mobile app review"
+  },
+  {
+   "name": "Yes Bank",
+   "slug": "yes-bank",
+   "keywords": [
+    "Yes Bank"
+   ],
+   "play_store_id": "in.irisbyyes.app",
+   "app_store_id": "1575064171",
+   "youtube_query": "Yes Bank mobile app review"
+  },
+  {
+   "name": "IDFC First Bank",
+   "slug": "idfc-first-bank",
+   "keywords": [
+    "IDFC First"
+   ],
+   "play_store_id": "com.idfcfirstbank.optimus",
+   "app_store_id": "1521443352",
+   "youtube_query": "IDFC First Bank mobile app review"
+  },
+  {
+   "name": "AU Small Finance Bank",
+   "slug": "au-bank",
+   "keywords": [
+    "AU Small Finance",
+    "AU Bank"
+   ],
+   "play_store_id": "com.ausmallfinancebank.amb",
+   "app_store_id": "1532869687",
+   "youtube_query": "AU Small Finance Bank mobile app review"
+  },
+  {
+   "name": "Canara Bank",
+   "slug": "canara-bank",
+   "keywords": [
+    "Canara Bank"
+   ],
+   "play_store_id": "com.canarabank.mobility",
+   "app_store_id": "1408607550",
+   "youtube_query": "Canara Bank mobile app review"
+  }
+ ],
+ "subreddits": [
+  "personalfinanceindia",
+  "IndiaInvestments"
+ ],
+ "daysBack": 30,
+ "maxItemsPerSource": 30,
+ "topComments": 0,
+ "useResidentialProxy": true,
+ "minDelaySecs": 8,
+ "maxDelaySecs": 15,
+ "pauseBetweenBrokersSecs": 30,
+ "redditMode": "rss",
+ "maxConcurrency": 1
+}

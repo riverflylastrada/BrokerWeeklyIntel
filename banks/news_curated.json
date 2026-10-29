@@ -1,0 +1,141 @@
+{
+ "sbi": {
+  "outages": 1,
+  "features": 1,
+  "items": [
+   {
+    "type": "outage",
+    "title": "SBI notice: UPI / YONO UPI services intermittently impacted (5 Oct 2026)",
+    "url": "https://www.facebook.com/StateBankOfIndia/posts/due-to-technical-issue-our-upi-yono-upi-services-are-intermittently-impacted-the/1635524801935262/"
+   },
+   {
+    "type": "feature",
+    "title": "YONO update: balance & m-passbook view without full login",
+    "url": "https://www.instagram.com/reel/DdoW9yQJexg/"
+   }
+  ]
+ },
+ "hdfc-bank": {
+  "features": 2,
+  "items": [
+   {
+    "type": "feature",
+    "title": "All-new HDFC Bank App (Play Store listing)",
+    "url": "https://play.google.com/store/apps/details?id=com.hdfcbank.android.now&hl=en_US"
+   },
+   {
+    "type": "feature",
+    "title": "HDFC Bank launches 'Kavach' authentication shield at GFF 2026",
+    "url": "https://www.facebook.com/HDFC.bank/videos/what-if-convenience-and-security-could-go-hand-in-handthats-the-thinking-behind-/1327542530447625/"
+   }
+  ]
+ },
+ "icici-bank": {
+  "outages": 1,
+  "features": 1,
+  "items": [
+   {
+    "type": "outage",
+    "title": "Planned iMobile downtime during domain change to icici.bank.in (Economic Times)",
+    "url": "https://m.economictimes.com/wealth/save/icici-bank-changes-website-and-net-banking-domain-addresses-do-you-also-need-to-reset-your-user-id-and-password/articleshow/134335100.cms"
+   },
+   {
+    "type": "feature",
+    "title": "SmartLock card controls",
+    "url": "https://www.facebook.com/icicibank/videos/open-icici-bank-savings-account/1798004158182601/"
+   }
+  ]
+ },
+ "axis-bank": {
+  "features": 3,
+  "items": [
+   {
+    "type": "feature",
+    "title": "open app: One-View of all bank accounts",
+    "url": "https://www.facebook.com/axisbank/videos/in-the-habit-of-checking-bank-balances-one-app-at-a-timewith-one-view-on-open-ap/1665487385153198/"
+   },
+   {
+    "type": "feature",
+    "title": "open app: Safety Centre toggles for transfers/UPI",
+    "url": "https://www.instagram.com/reel/Dd2zJKHCfMQ/"
+   },
+   {
+    "type": "feature",
+    "title": "My Spends real-time categorisation",
+    "url": "https://www.facebook.com/axisbank/videos/my-spends-on-the-open-app-by-axis-bank-breaks-down-every-spend-by-category-in-re/1071814235620993/"
+   }
+  ]
+ },
+ "kotak-bank": {
+  "features": 1,
+  "items": [
+   {
+    "type": "feature",
+    "title": "Migration to new Kotak811 app; old app access stopped 19 Feb 2026",
+    "url": "https://www.facebook.com/Kotak811DigitalBank/posts/kotak811-app-is-open-247-for-your-banking-needs/1127784216435776/"
+   }
+  ]
+ },
+ "pnb": {
+  "features": 1,
+  "items": [
+   {
+    "type": "feature",
+    "title": "PNB ONE geo-location based transaction control shown at GFF 2026",
+    "url": "https://www.facebook.com/pnbindia/videos/catch-the-highlights-from-another-day-of-insightful-conversations-distinguished-/1412144047536173/"
+   },
+   {
+    "type": "info",
+    "title": "PNB ONE official page",
+    "url": "https://pnb.bank.in/mobile-banking.html"
+   }
+  ]
+ },
+ "bank-of-baroda": {
+  "features": 2,
+  "items": [
+   {
+    "type": "feature",
+    "title": "bob World 2.0 powered by AI showcased at GFF 2026",
+    "url": "https://www.instagram.com/reel/DdL5sZnAtQU/?hl=en"
+   },
+   {
+    "type": "feature",
+    "title": "New 'bob World New' app on Play Store",
+    "url": "https://play.google.com/store/apps/details?id=com.bankofbaroda.bobworlddmb&hl=en_US"
+   }
+  ]
+ },
+ "indusind-bank": {
+  "features": 0,
+  "items": [
+   {
+    "type": "info",
+    "title": "IndusInd INDIE app listing",
+    "url": "https://play.google.com/store/apps/details?id=com.indusind.indie&hl=en_US"
+   }
+  ]
+ },
+ "yes-bank": {
+  "features": 0,
+  "items": []
+ },
+ "idfc-first-bank": {
+  "features": 1,
+  "items": [
+   {
+    "type": "feature",
+    "title": "Bharat Connect bill payments in IDFC FIRST app",
+    "url": "https://www.facebook.com/idfcfirstbank/videos/the-ultimate-convenience-is-now-in-your-hands-with-the-idfc-first-mobile-banking/1474229104556529/"
+   }
+  ]
+ },
+ "au-bank": {
+  "features": 0,
+  "items": []
+ },
+ "canara-bank": {
+  "features": 0,
+  "items": []
+ }
+}
