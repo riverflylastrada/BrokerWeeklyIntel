@@ -1,0 +1,113 @@
+{
+ "week": "2026-W44",
+ "banks": [
+  {
+   "slug": "canara-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 5,
+    "youtube": 22
+   }
+  },
+  {
+   "slug": "pnb",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 1,
+    "youtube": 23
+   }
+  },
+  {
+   "slug": "au-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 13,
+    "youtube": 20
+   }
+  },
+  {
+   "slug": "kotak-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 8,
+    "youtube": 30
+   }
+  },
+  {
+   "slug": "idfc-first-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 6,
+    "youtube": 0
+   }
+  },
+  {
+   "slug": "yes-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 11,
+    "reddit": 5,
+    "youtube": 5
+   }
+  },
+  {
+   "slug": "axis-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 19,
+    "youtube": 23
+   }
+  },
+  {
+   "slug": "sbi",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 30,
+    "youtube": 17
+   }
+  },
+  {
+   "slug": "bank-of-baroda",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 3,
+    "youtube": 16
+   }
+  },
+  {
+   "slug": "icici-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 1,
+    "youtube": 1
+   }
+  },
+  {
+   "slug": "hdfc-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 25,
+    "youtube": 30
+   }
+  },
+  {
+   "slug": "indusind-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 4,
+    "youtube": 19
+   }
+  }
+ ]
+}

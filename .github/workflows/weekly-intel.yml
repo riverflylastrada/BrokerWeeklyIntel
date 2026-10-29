@@ -61,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/ data/historical/ || true
+          git add reports/ data/historical/ banks/last_published.json || true
           git commit -m "chore: weekly intel report $(date +%Y-W%W)" || echo "No changes to commit"
           git push
 

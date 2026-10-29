@@ -69,7 +69,8 @@ def app_store(client, broker, days, limit):
     out, cut = [], _cutoff(days)
     for page in (1, 2):
         r = get_polite(client, f"https://itunes.apple.com/in/rss/customerreviews/page={page}/id={aid}/sortby=mostrecent/json")
-        if r.status_code != 200: break
+        if r.status_code != 200:
+            print(f"app_store {broker['name']} p{page}: HTTP {r.status_code}"); break
         for e in r.json().get("feed", {}).get("entry", [])[1 if page == 1 else 0:]:
             if "im:rating" not in e: continue
             ts = datetime.fromisoformat(e["updated"]["label"]).timestamp()
