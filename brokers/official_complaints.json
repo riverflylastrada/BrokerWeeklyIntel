@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-11-01",
  "active_clients_source": {
   "month": "2026-09",
   "source": "NSE broker-wise active clients, September 2026 (as compiled from NSE disclosures)",
@@ -70,35 +70,35 @@
     },
     "2026-06": {
      "carried_forward": 42,
-     "received": 121,
-     "resolved": 154,
+     "received": 122,
+     "resolved": 155,
      "pending_end": 9,
      "avg_resolution_days": 6.36
     },
     "2026-07": {
      "carried_forward": 9,
-     "received": 89,
-     "resolved": 82,
+     "received": 90,
+     "resolved": 83,
      "pending_end": 16,
      "avg_resolution_days": 5.82
     },
     "2026-08": {
      "carried_forward": 16,
-     "received": 98,
+     "received": 102,
      "resolved": 85,
-     "pending_end": 29,
+     "pending_end": 33,
      "avg_resolution_days": 5.14
     },
     "2026-09": {
-     "carried_forward": 29,
-     "received": 123,
-     "resolved": 120,
-     "pending_end": 32,
+     "carried_forward": 33,
+     "received": 121,
+     "resolved": 127,
+     "pending_end": 27,
      "avg_resolution_days": 6.07
     }
    },
    "data_url": "https://docs.google.com/spreadsheets/d/12_L4ku18tU12orNkyFJIY2Kkv03YNssT8GNK8tNdf_c/export?format=csv",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -146,8 +146,8 @@
    },
    "data_url": "https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/",
    "fetched_on": "2026-10-29",
-   "fetch_status": "ok",
-   "note": ""
+   "fetch_status": "stale",
+   "note": "refresh failed 2026-11-01: HTTP fail https://www.kotakneo.com/contact-us/investor-grievance-report-stock-brokers/"
   },
   "hdfc-sky": {
    "entity": "HDFC Securities Ltd (HDFC Sky)",
@@ -192,7 +192,7 @@
     }
    },
    "data_url": "https://hdfcsec.com/investor-complaints-data-stock-broking",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -275,7 +275,7 @@
     }
    },
    "data_url": "https://secure.icicidirect.com/customer/staticdata/Annexure-B_Complaint%20format_Stock%20broker.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -322,7 +322,7 @@
     }
    },
    "data_url": "https://assets.upstox.com/content/assets/pdfs/cms/investor-details/investor-charterwebsitedatasecuritiesseptember26.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -369,7 +369,7 @@
     }
    },
    "data_url": "https://www.sahi.com/assets/uploads/Sep_2026_666bd50e25.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -416,7 +416,7 @@
     }
    },
    "data_url": "https://dhan.co/download-centre-pdf/Grievances.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -499,7 +499,7 @@
     }
    },
    "data_url": "https://www.sharekhan.com/MediaGalary/Newsletter/Stock-Broker-Complaint-Data-271124.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },
@@ -540,7 +540,7 @@
     }
    },
    "data_url": "https://storage.googleapis.com/5paisa-prod-storage/files/investor_charter/2026-09/stock-broker-aug.pdf",
-   "fetched_on": "2026-10-29",
+   "fetched_on": "2026-11-01",
    "fetch_status": "ok",
    "note": ""
   },

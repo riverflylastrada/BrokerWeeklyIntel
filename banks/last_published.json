@@ -7,16 +7,7 @@
     "play_store": 30,
     "app_store": 30,
     "reddit": 5,
-    "youtube": 22
-   }
-  },
-  {
-   "slug": "pnb",
-   "counts": {
-    "play_store": 30,
-    "app_store": 30,
-    "reddit": 1,
-    "youtube": 23
+    "youtube": 13
    }
   },
   {
@@ -24,8 +15,8 @@
    "counts": {
     "play_store": 30,
     "app_store": 30,
-    "reddit": 13,
-    "youtube": 20
+    "reddit": 12,
+    "youtube": 30
    }
   },
   {
@@ -33,8 +24,17 @@
    "counts": {
     "play_store": 30,
     "app_store": 30,
-    "reddit": 8,
+    "reddit": 10,
     "youtube": 30
+   }
+  },
+  {
+   "slug": "pnb",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 3,
+    "youtube": 0
    }
   },
   {
@@ -42,8 +42,8 @@
    "counts": {
     "play_store": 30,
     "app_store": 30,
-    "reddit": 6,
-    "youtube": 0
+    "reddit": 7,
+    "youtube": 1
    }
   },
   {
@@ -52,16 +52,7 @@
     "play_store": 30,
     "app_store": 11,
     "reddit": 5,
-    "youtube": 5
-   }
-  },
-  {
-   "slug": "axis-bank",
-   "counts": {
-    "play_store": 30,
-    "app_store": 30,
-    "reddit": 19,
-    "youtube": 23
+    "youtube": 15
    }
   },
   {
@@ -70,7 +61,34 @@
     "play_store": 30,
     "app_store": 30,
     "reddit": 30,
-    "youtube": 17
+    "youtube": 16
+   }
+  },
+  {
+   "slug": "axis-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 16,
+    "youtube": 15
+   }
+  },
+  {
+   "slug": "icici-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 30,
+    "youtube": 1
+   }
+  },
+  {
+   "slug": "indusind-bank",
+   "counts": {
+    "play_store": 30,
+    "app_store": 30,
+    "reddit": 4,
+    "youtube": 24
    }
   },
   {
@@ -79,16 +97,7 @@
     "play_store": 30,
     "app_store": 30,
     "reddit": 3,
-    "youtube": 16
-   }
-  },
-  {
-   "slug": "icici-bank",
-   "counts": {
-    "play_store": 30,
-    "app_store": 30,
-    "reddit": 1,
-    "youtube": 1
+    "youtube": 22
    }
   },
   {
@@ -98,15 +107,6 @@
     "app_store": 30,
     "reddit": 25,
     "youtube": 30
-   }
-  },
-  {
-   "slug": "indusind-bank",
-   "counts": {
-    "play_store": 30,
-    "app_store": 30,
-    "reddit": 4,
-    "youtube": 19
    }
   }
  ]
