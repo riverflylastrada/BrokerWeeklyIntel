@@ -2,7 +2,7 @@ name: NSE investor-services reports (1C active clients, 1A complaints, 3B arbitr
 
 on:
   schedule:
-    - cron: '30 4 2,4 * *'   # 10:00 IST on the 2nd and 4th; 4th is a no-op if the month is already in
+    - cron: '30 4 2,4,7,10,14,18,22,26,29 * *'   # 10:00 IST; NSE posts 1C irregularly, no-op once the month is in
   workflow_dispatch:
     inputs:
       force:
