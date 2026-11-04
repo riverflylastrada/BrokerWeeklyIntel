@@ -3,7 +3,7 @@ Runs the private Apify actor `broker-intel` (actors/broker-intel) for the
 sources the admin has switched on (source_settings keys: reddit, play_store,
 app_store, youtube, linkedin). X stays on the X API connector.
 
-Env: APIFY_TOKEN (secret), BROKER_INTEL_ACTOR (e.g. "<username>/broker-intel").
+Env: APIFY_TOKEN or APIFY_API_TOKEN (secret), BROKER_INTEL_ACTOR (default "zippy_jogger/broker-intel").
 Skips cleanly if either is missing.
 """
 from __future__ import annotations
@@ -19,10 +19,11 @@ ACTOR_SOURCES = {"reddit", "play_store", "app_store", "youtube", "linkedin"}
 
 def run_broker_intel(registry: Registry, days_back: int = 28, max_items: int = 30,
                      out_dir: Optional[Path] = None) -> List[dict]:
-    token, actor = os.getenv("APIFY_TOKEN"), os.getenv("BROKER_INTEL_ACTOR")
+    token = os.getenv("APIFY_TOKEN") or os.getenv("APIFY_API_TOKEN")
+    actor = os.getenv("BROKER_INTEL_ACTOR") or "zippy_jogger/broker-intel"
     sources = sorted(registry.enabled_sources & ACTOR_SOURCES)
     if not token or not actor:
-        logger.warning("broker-intel actor skipped: APIFY_TOKEN/BROKER_INTEL_ACTOR not set")
+        logger.warning("broker-intel actor skipped: APIFY_TOKEN/APIFY_API_TOKEN not set")
         return []
     if not sources:
         logger.info("broker-intel actor skipped: no actor sources enabled in admin")

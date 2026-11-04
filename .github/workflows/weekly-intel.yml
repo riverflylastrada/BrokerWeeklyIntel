@@ -36,6 +36,8 @@ jobs:
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
           APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          ENABLE_APIFY: "true"
+          BROKER_INTEL_ACTOR: zippy_jogger/broker-intel
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           # Add other secrets as needed
