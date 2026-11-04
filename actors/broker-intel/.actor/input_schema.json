@@ -105,6 +105,52 @@
       ],
       "default": "auto",
       "description": "auto = try JSON then RSS; rss = RSS only"
+    },
+    "mode": {
+      "title": "Mode",
+      "type": "string",
+      "enum": [
+        "weekly",
+        "mentions"
+      ],
+      "default": "weekly",
+      "description": "weekly = raw items for Sunday scoring; mentions = incremental social listening (classify, dedupe, post to PaisaInsights)"
+    },
+    "category": {
+      "title": "Category",
+      "type": "string",
+      "enum": [
+        "brokers",
+        "banks"
+      ],
+      "default": "brokers",
+      "description": "Mentions mode: category for social_mentions"
+    },
+    "ingestUrl": {
+      "title": "Ingest URL",
+      "type": "string",
+      "editor": "textfield",
+      "description": "Mentions mode: RPC endpoint"
+    },
+    "ingestApiKey": {
+      "title": "Ingest API key (publishable)",
+      "type": "string",
+      "editor": "textfield",
+      "description": "Public anon/publishable key"
+    },
+    "ingestToken": {
+      "title": "Ingest token",
+      "type": "string",
+      "editor": "textfield",
+      "isSecret": true,
+      "description": "Secret ingest token"
+    },
+    "trigger": {
+      "title": "Trigger label",
+      "type": "string",
+      "editor": "textfield",
+      "default": "apify-schedule",
+      "description": "Recorded in social_runs"
     }
   },
   "required": [

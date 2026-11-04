@@ -143,3 +143,29 @@ def reddit_rss(client, broker, subreddits, days, limit, top_comments, sleep=2.0)
                             item["comments"].append(dict(text=strip(ce.find("a:content", ns).text)[:600], url=ce.find("a:link", ns).attrib["href"]))
                 out.append(item)
     return out[:limit]
+
+
+def reddit_rss_multi(client, broker, subreddits, days, limit):
+    """Incremental mode: one multi-subreddit RSS search per keyword (r/A+B+C), t=day/week. Fewer requests = cheaper and politer."""
+    import xml.etree.ElementTree as ET, html as H
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    strip = lambda s: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", H.unescape(s or ""))).strip()
+    out, cut, seen = [], _cutoff(days), set()
+    for kw in broker.get("keywords") or [broker["name"]]:
+        r = get_polite(client, f"https://www.reddit.com/r/{'+'.join(subreddits)}/search.rss",
+                       params={"q": kw, "restrict_sr": 1, "sort": "new", "t": "day" if days <= 1 else "week", "limit": 25},
+                       headers={"User-Agent": BROWSER_UA})
+        if r.status_code != 200:
+            print(f"reddit_rss_multi {broker['name']} '{kw}': HTTP {r.status_code}"); continue
+        for e in ET.fromstring(r.text).findall("a:entry", ns):
+            url = e.find("a:link", ns).attrib["href"]
+            ts = datetime.fromisoformat(e.find("a:updated", ns).text).timestamp()
+            if url in seen or ts < cut: continue
+            seen.add(url)
+            body = strip((e.find("a:content", ns).text if e.find("a:content", ns) is not None else ""))
+            body = re.sub(r"submitted by .*$", "", body).strip()
+            cat = e.find("a:category", ns)
+            out.append(dict(source="reddit", broker=broker["name"], title=e.find("a:title", ns).text, text=body[:2000], url=url,
+                            author=(e.find("a:author/a:name", ns).text if e.find("a:author/a:name", ns) is not None else None),
+                            subreddit=(cat.attrib.get("term") if cat is not None else None), created_utc=ts, score=None, num_comments=None))
+    return out[:limit]

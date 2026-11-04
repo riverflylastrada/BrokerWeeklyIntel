@@ -12,3 +12,9 @@ Output rows: `source, broker, title, text, url, author, subreddit, created_utc, 
 Deployed (private): `zippy_jogger/broker-intel` (id JPczg0Hrmcwio29fS). Redeploy: `cd actors/broker-intel && apify push` with APIFY_TOKEN set.
 
 Note: Reddit JSON API returns 403 even via residential proxy; the actor falls back to public RSS (no score/comment counts) with 429 backoff.
+
+## Mentions mode (twice-daily social listening)
+
+`mode: "mentions"` + `category` (brokers|banks), `daysBack: 1`. Reddit uses one multi-subreddit RSS search per keyword; Play/App Store newest reviews. Each row is classified (sentiment positive/neutral/negative from star rating or keywords; issue tag outage/login/withdrawal/charges/support/kyc/fraud/praise), deduped by URL (App Store rows get a content-hash fragment), filtered by last-seen timestamp per entity/source (named KV store `social-listening-state`, key = category, updated only after a successful post), and posted to the PaisaInsights RPC `ingest_social_mentions` (secret token in task input, `isSecret`). Schema: `social/schema.sql`.
+
+Apify tasks: `social-buzz-brokers` (08:00/20:00 IST), `social-buzz-banks` (08:40/20:40 IST), 512 MB, low and slow. Backup: `.github/workflows/social-listening-backup.yml` (no-op if a run already happened in the window).

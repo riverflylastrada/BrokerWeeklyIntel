@@ -1,0 +1,27 @@
+name: Social listening backup trigger
+
+# Primary schedule lives in Apify (tasks social-buzz-brokers 08:00/20:00 IST, social-buzz-banks 08:40/20:40 IST).
+# This only starts a run if Apify skipped the window; otherwise it no-ops.
+on:
+  schedule:
+    - cron: '0 4 * * *'    # 09:30 IST brokers check
+    - cron: '0 16 * * *'   # 21:30 IST brokers check
+    - cron: '45 4 * * *'   # 10:15 IST banks check
+    - cron: '45 16 * * *'  # 22:15 IST banks check
+  workflow_dispatch:
+    inputs:
+      category:
+        description: brokers or banks
+        default: brokers
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start Apify task if this window was missed
+        env:
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          CATEGORY: ${{ github.event.inputs.category || ((github.event.schedule == '0 4 * * *' || github.event.schedule == '0 16 * * *') && 'brokers' || 'banks') }}
+        run: python social/backup_trigger.py
