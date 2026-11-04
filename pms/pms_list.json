@@ -1,0 +1,146 @@
+[
+ {
+  "slug": "360-one",
+  "name": "360 ONE Asset Management",
+  "reg": "INP000004565",
+  "sebi_name": "360 ONE ASSET MANAGEMENT LIMITED"
+ },
+ {
+  "slug": "ask",
+  "name": "ASK Investment Managers",
+  "reg": "INP000000043",
+  "sebi_name": "ASK INVESTMENT MANAGERS PRIVATE LIMITED"
+ },
+ {
+  "slug": "ask-ltd",
+  "name": "ASK Investment Managers",
+  "reg": "INP000008066",
+  "sebi_name": "ASK INVESTMENT MANAGERS LIMITED"
+ },
+ {
+  "slug": "motilal-oswal",
+  "name": "Motilal Oswal AMC",
+  "reg": "INP000000670",
+  "sebi_name": "MOTILAL OSWAL ASSET MANAGEMENT COMPANY LIMITED"
+ },
+ {
+  "slug": "marcellus",
+  "name": "Marcellus Investment Managers",
+  "reg": "INP000006183",
+  "sebi_name": "MARCELLUS INVESTMENT MANAGERS PRIVATE LIMITED"
+ },
+ {
+  "slug": "whiteoak",
+  "name": "WhiteOak Capital",
+  "reg": "INP000007766",
+  "sebi_name": "WHITEOAK CAPITAL ASSET MANAGEMENT LIMITED"
+ },
+ {
+  "slug": "white-oak-llp",
+  "name": "White Oak Capital",
+  "reg": "INP000005865",
+  "sebi_name": "WHITE OAK CAPITAL MANAGEMENT CONSULTANTS LLP"
+ },
+ {
+  "slug": "abakkus",
+  "name": "Abakkus Asset Manager",
+  "reg": "INP000006457",
+  "sebi_name": "ABAKKUS ASSET MANAGER PRIVATE LIMITED"
+ },
+ {
+  "slug": "carnelian",
+  "name": "Carnelian Asset Management",
+  "reg": "INP000006387",
+  "sebi_name": "CARNELIAN ASSET MANAGEMENT  AND  ADVISORS PRIVATE LIMITED"
+ },
+ {
+  "slug": "icici-prudential",
+  "name": "ICICI Prudential AMC",
+  "reg": "INP000000373",
+  "sebi_name": "ICICI PRUDENTIAL ASSET MANAGEMENT COMPANY LTD."
+ },
+ {
+  "slug": "kotak",
+  "name": "Kotak Mahindra AMC",
+  "reg": "INP000000837",
+  "sebi_name": "KOTAK MAHINDRA ASSET MANAGEMENT COMPANY LTD"
+ },
+ {
+  "slug": "nuvama",
+  "name": "Nuvama Asset Management",
+  "reg": "INP000007207",
+  "sebi_name": "NUVAMA ASSET MANAGEMENT LIMITED"
+ },
+ {
+  "slug": "alchemy",
+  "name": "Alchemy Capital Management",
+  "reg": "INP000000365",
+  "sebi_name": "ALCHEMY CAPITAL MANAGEMENT PRIVATE LTD"
+ },
+ {
+  "slug": "sameeksha",
+  "name": "Sameeksha Capital",
+  "reg": "INP000004995",
+  "sebi_name": "SAMEEKSHA CAPITAL PRIVATE LIMITED"
+ },
+ {
+  "slug": "unifi",
+  "name": "Unifi Capital",
+  "reg": "INP000000613",
+  "sebi_name": "UNIFI CAPITAL PRIVATE LIMITED"
+ },
+ {
+  "slug": "buoyant",
+  "name": "Buoyant Capital",
+  "reg": "INP000005000",
+  "sebi_name": "BUOYANT CAPITAL PRIVATE LIMITED"
+ },
+ {
+  "slug": "helios",
+  "name": "Helios Capital",
+  "reg": "INP000006916",
+  "sebi_name": "HELIOS CAPITAL ASSET MANAGEMENT (INDIA) PRIVATE LIMITED"
+ },
+ {
+  "slug": "stallion",
+  "name": "Stallion Asset",
+  "reg": "INP000006129",
+  "sebi_name": "STALLION ASSET PRIVATE LIMITED"
+ },
+ {
+  "slug": "valuequest",
+  "name": "ValueQuest Investment Advisors",
+  "reg": "INP000003724",
+  "sebi_name": "VALUEQUEST INVESTMENT ADVISORS PVT. LTD."
+ },
+ {
+  "slug": "aditya-birla",
+  "name": "Aditya Birla Sun Life AMC",
+  "reg": "INP000000597",
+  "sebi_name": "ADITYA BIRLA SUN LIFE AMC LIMITED"
+ },
+ {
+  "slug": "hdfc",
+  "name": "HDFC AMC",
+  "reg": "INP000000506",
+  "sebi_name": "HDFC ASSET MANAGEMENT COMPANY LIMITED"
+ },
+ {
+  "slug": "axis",
+  "name": "Axis AMC",
+  "reg": "INP000003534",
+  "sebi_name": "AXIS ASSET MANAGEMENT COMPANY LIMITED"
+ },
+ {
+  "slug": "sbi-funds",
+  "name": "SBI Funds Management",
+  "reg": "INP000000852",
+  "sebi_name": "SBI FUNDS MANAGEMENT LIMITED"
+ },
+ {
+  "slug": "first-global",
+  "name": "First Global Finance",
+  "reg": "INP000006697",
+  "sebi_name": "FIRST GLOBAL FINANCE PVT LTD"
+ }
+]

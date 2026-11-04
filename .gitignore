@@ -44,3 +44,5 @@ coverage/
 # TypeScript
 *.tsbuildinfo
 frontend/
+__pycache__/
+pms/items.json
