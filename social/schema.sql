@@ -72,12 +72,12 @@ begin
   where coalesce(i->>'url','') <> '' and coalesce(i->>'entity_slug','') <> ''
   on conflict (url) do nothing;
   get diagnostics v_ins = row_count;
-  -- spike alerts: >=3 negative mentions (or >=3 outage/login/withdrawal) for one entity in the last 12h
+  -- spike alerts: >=3 negative (or outage/login/withdrawal) mentions for one entity collected in the last 12h (posted within 72h; review feeds lag ~1 day)
   insert into social_alerts (category, entity_slug, entity_name, alert_type, issue_tag, mention_count, window_start, window_end, sample_urls)
   select category, entity_slug, max(entity_name), 'negative_spike', mode() within group (order by issue_tag), count(*),
          date_trunc('hour', now()) - interval '12 hours', now(), (array_agg(url order by posted_at desc))[1:5]
   from social_mentions
-  where category = p_category and posted_at > now() - interval '12 hours'
+  where category = p_category and created_at > now() - interval '12 hours' and posted_at > now() - interval '72 hours'
     and (sentiment = 'negative' or issue_tag in ('outage','login','withdrawal'))
   group by category, entity_slug having count(*) >= 3
   on conflict (category, entity_slug, alert_type, window_start) do update set mention_count = excluded.mention_count, window_end = excluded.window_end, sample_urls = excluded.sample_urls;
