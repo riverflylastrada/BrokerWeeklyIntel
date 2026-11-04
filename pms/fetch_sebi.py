@@ -35,6 +35,13 @@ def parse(h):
             i += 21; continue
         i += 1
     d["strategies"] = strat
+    # client-category break-up (PF/EPFO, Corporates, Non-Corporates, Non-Residents, FPI, Others)
+    try:
+        b = T.index("Break-up of clients of the Portfolio Manager"); k = T.index("No. of unique Clients as on last day of the month", b)
+        a = T.index("Assets under Management (AUM) as on last day of the month  (Amount in INR crores)", k) if "Assets under Management (AUM) as on last day of the month  (Amount in INR crores)" in T else k + 8
+        cats = ["pf_epfo", "corporates", "non_corporates", "non_residents", "fpi", "others"]
+        d["breakup"] = {c: dict(clients=num(T[k+1+n]), aum=num(T[a+1+n])) for n, c in enumerate(cats)}
+    except (ValueError, IndexError): d["breakup"] = None
     # complaints: last "Total" row after "Data on Complaints"
     try:
         c = max(i for i, x in enumerate(T) if x == "Data on Complaints"); j = T.index("Total", c)
@@ -55,13 +62,13 @@ if __name__ == "__main__":
         y, mo = m.year, m.month - k
         while mo <= 0: mo += 12; y -= 1
         return dt.date(y, mo, 1)
-    months = [back(m0, k) for k in (0, 1, 2, 12)]
+    months = [back(m0, k) for k in range(0, 13)]  # 13 months for trend charts; already-fetched months are skipped
     get(); ok = fail = 0
     for p in meta:
         rec = db.setdefault(p["slug"], {})
         for m in months:
             key = m.strftime("%Y-%m")
-            if rec.get(key): continue
+            if rec.get(key) and (rec[key].get("breakup") or os.environ.get("NO_BREAKUP_REFETCH")): continue
             time.sleep(random.uniform(15, 25))
             try:
                 d = parse(get(dict(pmrId=f"{p['reg']}@@{p['reg']}@@{p['sebi_name']}", year=m.year, month=m.month)))

@@ -7,7 +7,7 @@
       "title": "Sources",
       "type": "array",
       "editor": "stringList",
-      "description": "Any of: reddit, play_store, app_store, youtube, linkedin",
+      "description": "Any of: reddit, play_store, app_store, youtube, linkedin, news (Google News RSS)",
       "default": [
         "reddit",
         "play_store",
@@ -121,7 +121,8 @@
       "type": "string",
       "enum": [
         "brokers",
-        "banks"
+        "banks",
+        "pms"
       ],
       "default": "brokers",
       "description": "Mentions mode: category for social_mentions"

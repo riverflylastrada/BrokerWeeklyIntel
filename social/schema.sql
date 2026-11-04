@@ -1,6 +1,6 @@
 create table if not exists public.social_mentions (
   id bigserial primary key,
-  category text not null check (category in ('brokers','banks')),
+  category text not null check (category in ('brokers','banks','pms')),
   entity_slug text not null,
   entity_name text,
   source text not null,
@@ -59,7 +59,7 @@ begin
   if v_expected is null or encode(extensions.digest(coalesce(p_token,''), 'sha256'), 'hex') <> v_expected then
     raise exception 'unauthorized' using errcode = '28000';
   end if;
-  if p_category not in ('brokers','banks') or jsonb_typeof(p_items) <> 'array' or jsonb_array_length(p_items) > 2000 then
+  if p_category not in ('brokers','banks','pms') or jsonb_typeof(p_items) <> 'array' or jsonb_array_length(p_items) > 2000 then
     raise exception 'bad payload' using errcode = '22023';
   end if;
   insert into social_mentions (category, entity_slug, entity_name, source, url, title, text, rating, posted_at, sentiment, issue_tag, engagement, author, run_id)

@@ -19,6 +19,7 @@ if os.getenv("APIFY_API_TOKEN"):
         print(f"::warning::PMS sentiment scrape failed ({type(e).__name__}); scoring with neutral sentiment")
 json.dump(items, open(os.path.join(HERE, "items.json"), "w"))
 subprocess.run([sys.executable, "score.py"], cwd=HERE, check=True)
+subprocess.run([sys.executable, "build_site_data.py"], cwd=HERE, check=True)
 rep = json.load(open(os.path.join(HERE, "pms_report.json"))); week = rep["week"]
 if len(rep["pms"]) < 10:
     print(f"::warning::PMS report NOT published: only {len(rep['pms'])} providers scored"); sys.exit(0)

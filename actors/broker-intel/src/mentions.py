@@ -43,7 +43,7 @@ def to_rows(items, slug, name, cutoff, last_seen):
         ts = it.get("created_utc")
         if ts is None or ts < cutoff: continue          # daysBack window (also drops undated YouTube rows)
         if last_seen and ts < last_seen - 43200: continue  # older than last-seen minus 12h grace (stores publish late); URL dedupe handles the overlap
-        text = " ".join(x for x in [it.get("title") if it.get("source") == "reddit" else None, it.get("text")] if x)
+        text = " ".join(x for x in [it.get("title") if it.get("source") in ("reddit", "news") else None, it.get("text")] if x)
         sent, issue = classify(text, it.get("rating"))
         rows.append(dict(entity_slug=slug, entity_name=name, source=it.get("source"), url=stable_url(it, slug),
                          title=(it.get("title") or "")[:300], text=(it.get("text") or "")[:2000], rating=it.get("rating"),

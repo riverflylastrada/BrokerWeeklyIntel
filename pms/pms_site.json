@@ -1,0 +1,1493 @@
+{
+"generated_from": "SEBI monthly PMS compliance reports + SEBI orders",
+"week": "2026-W45",
+"providers": [
+{
+"slug": "360-one",
+"name": "360 ONE Asset Management",
+"rank": 19,
+"overall": 6.6,
+"as_of_month": "2026-09",
+"clients": 4381,
+"aum_cr": 24775.0,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 3.0,
+"resolved_3m": 3.0,
+"pending": 0,
+"received_12m": 3.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 100.0,
+"per_1000_clients_annualised": 2.74
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 32324.2,
+"clients": 6578,
+"equity_ret_1y": -3.86,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -140.08
+},
+{
+"month": "2026-07",
+"aum_cr": 27077.3,
+"clients": 4589,
+"equity_ret_1y": 3.21,
+"bench_ret_1y": 2.98,
+"complaints_received": 3.0,
+"complaints_resolved": 1.0,
+"complaints_pending": 2.0,
+"net_flow_month_cr": -917.53
+},
+{
+"month": "2026-08",
+"aum_cr": 27182.2,
+"clients": 4450,
+"equity_ret_1y": 8.78,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -684.63
+},
+{
+"month": "2026-09",
+"aum_cr": 24775.0,
+"clients": 4381,
+"equity_ret_1y": 2.78,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -816.35
+}
+]
+},
+{
+"slug": "ask",
+"name": "ASK Investment Managers",
+"rank": 21,
+"overall": 5.1,
+"as_of_month": "2026-09",
+"clients": 6323,
+"aum_cr": 8148.0,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 2.0,
+"resolved_3m": 2.0,
+"pending": 1.0,
+"received_12m": 3.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 100.0,
+"per_1000_clients_annualised": 1.27
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 15212.4,
+"clients": 9897,
+"equity_ret_1y": -9.82,
+"bench_ret_1y": -5.34,
+"complaints_received": 1.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -670.90354
+},
+{
+"month": "2026-07",
+"aum_cr": 9984.4,
+"clients": 7160,
+"equity_ret_1y": -3.4,
+"bench_ret_1y": 2.74,
+"complaints_received": 2.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 3.0,
+"net_flow_month_cr": -696.97638
+},
+{
+"month": "2026-08",
+"aum_cr": 9296.0,
+"clients": 6726,
+"equity_ret_1y": -1.86,
+"bench_ret_1y": 4.38,
+"complaints_received": 0.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -669.54111
+},
+{
+"month": "2026-09",
+"aum_cr": 8148.0,
+"clients": 6323,
+"equity_ret_1y": -8.98,
+"bench_ret_1y": -2.67,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -509.78254
+}
+]
+},
+{
+"slug": "motilal-oswal",
+"name": "Motilal Oswal AMC",
+"rank": 15,
+"overall": 7.6,
+"as_of_month": "2026-09",
+"clients": 13533,
+"aum_cr": 14769.8,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 4.0,
+"resolved_3m": 4.0,
+"pending": 1.0,
+"received_12m": 4.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 100.0,
+"per_1000_clients_annualised": 1.18
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 14386.8,
+"clients": 13387,
+"equity_ret_1y": -8.94,
+"bench_ret_1y": -5.3,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 85.72089
+},
+{
+"month": "2026-07",
+"aum_cr": 14944.6,
+"clients": 13358,
+"equity_ret_1y": 4.13,
+"bench_ret_1y": 2.99,
+"complaints_received": 1.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -49.24344
+},
+{
+"month": "2026-08",
+"aum_cr": 15557.3,
+"clients": 13394,
+"equity_ret_1y": 13.87,
+"bench_ret_1y": 4.72,
+"complaints_received": 1.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -34.1214
+},
+{
+"month": "2026-09",
+"aum_cr": 14769.8,
+"clients": 13533,
+"equity_ret_1y": 6.45,
+"bench_ret_1y": -2.28,
+"complaints_received": 2.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": 46.9074
+}
+]
+},
+{
+"slug": "marcellus",
+"name": "Marcellus Investment Managers",
+"rank": 18,
+"overall": 6.8,
+"as_of_month": "2026-09",
+"clients": 1820,
+"aum_cr": 2136.9,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 1.0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 3880.3,
+"clients": 3028,
+"equity_ret_1y": -9.38,
+"bench_ret_1y": -3.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -239.14
+},
+{
+"month": "2026-07",
+"aum_cr": 2387.0,
+"clients": 1949,
+"equity_ret_1y": 1.96,
+"bench_ret_1y": 0.3,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -81.74
+},
+{
+"month": "2026-08",
+"aum_cr": 2324.8,
+"clients": 1867,
+"equity_ret_1y": 4.16,
+"bench_ret_1y": 0.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -92.52
+},
+{
+"month": "2026-09",
+"aum_cr": 2136.9,
+"clients": 1820,
+"equity_ret_1y": -1.11,
+"bench_ret_1y": -6.05,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -45.54
+}
+]
+},
+{
+"slug": "whiteoak",
+"name": "WhiteOak Capital",
+"rank": 20,
+"overall": 6.4,
+"as_of_month": "2026-09",
+"clients": 2144,
+"aum_cr": 2839.3,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 4427.8,
+"clients": 2971,
+"equity_ret_1y": -4.52,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -84.39
+},
+{
+"month": "2026-07",
+"aum_cr": 3209.1,
+"clients": 2286,
+"equity_ret_1y": 0.71,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -116.11
+},
+{
+"month": "2026-08",
+"aum_cr": 3156.2,
+"clients": 2218,
+"equity_ret_1y": 4.33,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -116.11
+},
+{
+"month": "2026-09",
+"aum_cr": 2839.3,
+"clients": 2144,
+"equity_ret_1y": -1.0,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -135.55
+}
+]
+},
+{
+"slug": "abakkus",
+"name": "Abakkus Investment Managers",
+"rank": 11,
+"overall": 8.3,
+"as_of_month": "2026-09",
+"clients": 12173,
+"aum_cr": 22333.1,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 20676.4,
+"clients": 11675,
+"equity_ret_1y": -4.68,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 68.71
+},
+{
+"month": "2026-07",
+"aum_cr": 20.0,
+"clients": 1,
+"equity_ret_1y": null,
+"bench_ret_1y": null,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 0.0
+},
+{
+"month": "2026-08",
+"aum_cr": 22954.0,
+"clients": 12117,
+"equity_ret_1y": 14.59,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -60.82
+},
+{
+"month": "2026-09",
+"aum_cr": 22333.1,
+"clients": 12173,
+"equity_ret_1y": 9.34,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 153.26
+}
+]
+},
+{
+"slug": "carnelian",
+"name": "Carnelian Asset Management",
+"rank": 9,
+"overall": 8.4,
+"as_of_month": "2026-09",
+"clients": 7619,
+"aum_cr": 13503.7,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 5.0,
+"resolved_3m": 5.0,
+"pending": 0,
+"received_12m": 7.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 100.0,
+"per_1000_clients_annualised": 2.63
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 8480.7,
+"clients": 4536,
+"equity_ret_1y": -0.26,
+"bench_ret_1y": -5.5,
+"complaints_received": 2.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 862.93173
+},
+{
+"month": "2026-07",
+"aum_cr": 12382.4,
+"clients": 6753,
+"equity_ret_1y": 11.88,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 423.89569
+},
+{
+"month": "2026-08",
+"aum_cr": 13469.6,
+"clients": 7181,
+"equity_ret_1y": 19.61,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 520.94592
+},
+{
+"month": "2026-09",
+"aum_cr": 13503.7,
+"clients": 7619,
+"equity_ret_1y": 13.79,
+"bench_ret_1y": -2.33,
+"complaints_received": 5.0,
+"complaints_resolved": 5.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 560.7
+}
+]
+},
+{
+"slug": "icici-prudential",
+"name": "ICICI Prudential AMC",
+"rank": 14,
+"overall": 7.6,
+"as_of_month": "2026-09",
+"clients": 30807,
+"aum_cr": 30144.7,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 10.0,
+"resolved_3m": 7.0,
+"pending": 4.0,
+"received_12m": 10.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 70.0,
+"per_1000_clients_annualised": 1.3
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 26279.3,
+"clients": 26451,
+"equity_ret_1y": -3.35,
+"bench_ret_1y": -5.41,
+"complaints_received": 0.0,
+"complaints_resolved": 1.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 273.62
+},
+{
+"month": "2026-07",
+"aum_cr": 30689.8,
+"clients": 30324,
+"equity_ret_1y": 7.6,
+"bench_ret_1y": 2.84,
+"complaints_received": 2.0,
+"complaints_resolved": 2.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": 449.58
+},
+{
+"month": "2026-08",
+"aum_cr": 31538.1,
+"clients": 30937,
+"equity_ret_1y": 9.41,
+"bench_ret_1y": 4.51,
+"complaints_received": 5.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 6.0,
+"net_flow_month_cr": 418.81
+},
+{
+"month": "2026-09",
+"aum_cr": 30144.7,
+"clients": 30807,
+"equity_ret_1y": 1.8,
+"bench_ret_1y": -2.52,
+"complaints_received": 3.0,
+"complaints_resolved": 5.0,
+"complaints_pending": 4.0,
+"net_flow_month_cr": 289.31
+}
+]
+},
+{
+"slug": "kotak",
+"name": "Kotak Mahindra AMC",
+"rank": 7,
+"overall": 8.5,
+"as_of_month": "2026-09",
+"clients": 1511,
+"aum_cr": 44834.4,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 51351.7,
+"clients": 1519,
+"equity_ret_1y": -3.39,
+"bench_ret_1y": -3.45,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 19.47
+},
+{
+"month": "2026-07",
+"aum_cr": 49202.6,
+"clients": 1493,
+"equity_ret_1y": 8.04,
+"bench_ret_1y": -0.43,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -12.19
+},
+{
+"month": "2026-08",
+"aum_cr": 49083.5,
+"clients": 1502,
+"equity_ret_1y": 12.28,
+"bench_ret_1y": -0.35,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -13.93
+},
+{
+"month": "2026-09",
+"aum_cr": 44834.4,
+"clients": 1511,
+"equity_ret_1y": 3.89,
+"bench_ret_1y": -7.09,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -39.0
+}
+]
+},
+{
+"slug": "nuvama",
+"name": "Nuvama Asset Management",
+"rank": 12,
+"overall": 8.2,
+"as_of_month": "2026-09",
+"clients": 613,
+"aum_cr": 4210.7,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 1.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 5501.1,
+"clients": 834,
+"equity_ret_1y": -10.48,
+"bench_ret_1y": -4.74,
+"complaints_received": 1.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 1.0,
+"net_flow_month_cr": -42.62
+},
+{
+"month": "2026-07",
+"aum_cr": 4630.3,
+"clients": 649,
+"equity_ret_1y": 8.5,
+"bench_ret_1y": 1.55,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -95.35
+},
+{
+"month": "2026-08",
+"aum_cr": 4586.2,
+"clients": 639,
+"equity_ret_1y": 15.18,
+"bench_ret_1y": 2.57,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -87.16
+},
+{
+"month": "2026-09",
+"aum_cr": 4210.7,
+"clients": 613,
+"equity_ret_1y": 9.29,
+"bench_ret_1y": -4.42,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -69.05
+}
+]
+},
+{
+"slug": "alchemy",
+"name": "Alchemy Capital Management",
+"rank": 3,
+"overall": 9.0,
+"as_of_month": "2026-09",
+"clients": 2259,
+"aum_cr": 8018.5,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 6757.1,
+"clients": 2294,
+"equity_ret_1y": -5.78,
+"bench_ret_1y": -5.49,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -205.69
+},
+{
+"month": "2026-07",
+"aum_cr": 7653.4,
+"clients": 2218,
+"equity_ret_1y": 8.14,
+"bench_ret_1y": 2.97,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 68.84
+},
+{
+"month": "2026-08",
+"aum_cr": 8201.6,
+"clients": 2232,
+"equity_ret_1y": 17.62,
+"bench_ret_1y": 4.7,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 63.85
+},
+{
+"month": "2026-09",
+"aum_cr": 8018.5,
+"clients": 2259,
+"equity_ret_1y": 14.26,
+"bench_ret_1y": -2.34,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 99.46
+}
+]
+},
+{
+"slug": "sameeksha",
+"name": "Sameeksha Capital",
+"rank": 6,
+"overall": 8.5,
+"as_of_month": "2026-09",
+"clients": 655,
+"aum_cr": 1406.5,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 1133.6,
+"clients": 651,
+"equity_ret_1y": 1.54,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 17.86333
+},
+{
+"month": "2026-07",
+"aum_cr": 1458.9,
+"clients": 663,
+"equity_ret_1y": 4.43,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 11.29946
+},
+{
+"month": "2026-08",
+"aum_cr": 1456.7,
+"clients": 661,
+"equity_ret_1y": 7.29,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 3.20055
+},
+{
+"month": "2026-09",
+"aum_cr": 1406.5,
+"clients": 655,
+"equity_ret_1y": 3.73,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -5.23
+}
+]
+},
+{
+"slug": "unifi",
+"name": "Unifi Capital",
+"rank": 17,
+"overall": 7.2,
+"as_of_month": "2026-09",
+"clients": 7689,
+"aum_cr": 15863.3,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 20542.3,
+"clients": 9994,
+"equity_ret_1y": -4.25,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -276.13
+},
+{
+"month": "2026-07",
+"aum_cr": 16364.1,
+"clients": 8247,
+"equity_ret_1y": 2.04,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -382.82
+},
+{
+"month": "2026-08",
+"aum_cr": 16468.3,
+"clients": 8074,
+"equity_ret_1y": 10.05,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -391.28
+},
+{
+"month": "2026-09",
+"aum_cr": 15863.3,
+"clients": 7689,
+"equity_ret_1y": 5.48,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -198.13
+}
+]
+},
+{
+"slug": "buoyant",
+"name": "Buoyant Capital",
+"rank": 4,
+"overall": 8.8,
+"as_of_month": "2026-09",
+"clients": 9822,
+"aum_cr": 13801.1,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 7442.8,
+"clients": 4500,
+"equity_ret_1y": 4.2,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 369.95
+},
+{
+"month": "2026-07",
+"aum_cr": 13538.6,
+"clients": 9231,
+"equity_ret_1y": 8.13,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 485.1
+},
+{
+"month": "2026-08",
+"aum_cr": 14202.7,
+"clients": 9559,
+"equity_ret_1y": 11.38,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 433.94
+},
+{
+"month": "2026-09",
+"aum_cr": 13801.1,
+"clients": 9822,
+"equity_ret_1y": 5.03,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 292.48
+}
+]
+},
+{
+"slug": "helios",
+"name": "Helios Capital",
+"rank": 10,
+"overall": 8.3,
+"as_of_month": "2026-09",
+"clients": 973,
+"aum_cr": 3378.2,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 3552.1,
+"clients": 854,
+"equity_ret_1y": 0.98,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -6.6
+},
+{
+"month": "2026-07",
+"aum_cr": 3328.4,
+"clients": 941,
+"equity_ret_1y": 4.6,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -3.43
+},
+{
+"month": "2026-08",
+"aum_cr": 3375.3,
+"clients": 965,
+"equity_ret_1y": 10.25,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 6.65
+},
+{
+"month": "2026-09",
+"aum_cr": 3378.2,
+"clients": 973,
+"equity_ret_1y": 2.95,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 4.27
+}
+]
+},
+{
+"slug": "stallion",
+"name": "Stallion Asset",
+"rank": 1,
+"overall": 9.6,
+"as_of_month": "2026-09",
+"clients": 7883,
+"aum_cr": 10417.8,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 6186.7,
+"clients": 5340,
+"equity_ret_1y": 4.71,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 176.28
+},
+{
+"month": "2026-07",
+"aum_cr": 8719.9,
+"clients": 6665,
+"equity_ret_1y": 15.26,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 427.38
+},
+{
+"month": "2026-08",
+"aum_cr": 9610.8,
+"clients": 7246,
+"equity_ret_1y": 18.21,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 540.78
+},
+{
+"month": "2026-09",
+"aum_cr": 10417.8,
+"clients": 7883,
+"equity_ret_1y": 18.39,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 657.37
+}
+]
+},
+{
+"slug": "valuequest",
+"name": "ValueQuest Investment Advisors",
+"rank": 5,
+"overall": 8.5,
+"as_of_month": "2026-09",
+"clients": 1824,
+"aum_cr": 19285.3,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 18398.5,
+"clients": 2119,
+"equity_ret_1y": -8.59,
+"bench_ret_1y": -5.5,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 80.74
+},
+{
+"month": "2026-07",
+"aum_cr": 19314.6,
+"clients": 1850,
+"equity_ret_1y": 9.6,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -55.06
+},
+{
+"month": "2026-08",
+"aum_cr": 20083.7,
+"clients": 1833,
+"equity_ret_1y": 19.32,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -70.22
+},
+{
+"month": "2026-09",
+"aum_cr": 19285.3,
+"clients": 1824,
+"equity_ret_1y": 13.71,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 9.7
+}
+]
+},
+{
+"slug": "aditya-birla",
+"name": "Aditya Birla Sun Life AMC",
+"rank": 16,
+"overall": 7.5,
+"as_of_month": "2026-09",
+"clients": 2546,
+"aum_cr": 663424.5,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 29336.5,
+"clients": 2447,
+"equity_ret_1y": -8.16,
+"bench_ret_1y": -5.39,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 501.67046
+},
+{
+"month": "2026-07",
+"aum_cr": 655104.4,
+"clients": 2561,
+"equity_ret_1y": 3.46,
+"bench_ret_1y": 2.38,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 9604.40762
+},
+{
+"month": "2026-08",
+"aum_cr": 658188.3,
+"clients": 2577,
+"equity_ret_1y": 7.04,
+"bench_ret_1y": 3.83,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -850.96919
+},
+{
+"month": "2026-09",
+"aum_cr": 663424.5,
+"clients": 2546,
+"equity_ret_1y": 0.62,
+"bench_ret_1y": -3.17,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 1435.00105
+}
+]
+},
+{
+"slug": "hdfc",
+"name": "HDFC AMC",
+"rank": 8,
+"overall": 8.4,
+"as_of_month": "2026-09",
+"clients": 245,
+"aum_cr": 686873.3,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 4924.9,
+"clients": 161,
+"equity_ret_1y": 1.13,
+"bench_ret_1y": -5.2,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -4.15
+},
+{
+"month": "2026-07",
+"aum_cr": 684590.7,
+"clients": 231,
+"equity_ret_1y": 2.56,
+"bench_ret_1y": 2.42,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 644490.27
+},
+{
+"month": "2026-08",
+"aum_cr": 685380.4,
+"clients": 238,
+"equity_ret_1y": 4.27,
+"bench_ret_1y": 3.9,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 4945.59
+},
+{
+"month": "2026-09",
+"aum_cr": 686873.3,
+"clients": 245,
+"equity_ret_1y": -2.82,
+"bench_ret_1y": -3.12,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 878.85
+}
+]
+},
+{
+"slug": "axis",
+"name": "Axis AMC",
+"rank": 13,
+"overall": 8.1,
+"as_of_month": "2026-09",
+"clients": 3750,
+"aum_cr": 15297.0,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 1.0,
+"resolved_3m": 1.0,
+"pending": 0,
+"received_12m": 1.0,
+"months_covered_12m": 4,
+"resolution_rate_pct": 100.0,
+"per_1000_clients_annualised": 1.07
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 1662.9,
+"clients": 1565,
+"equity_ret_1y": -11.16,
+"bench_ret_1y": -3.62,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -50.31322
+},
+{
+"month": "2026-07",
+"aum_cr": 15294.2,
+"clients": 3786,
+"equity_ret_1y": 2.9,
+"bench_ret_1y": 2.27,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -152.36
+},
+{
+"month": "2026-08",
+"aum_cr": 15433.4,
+"clients": 3807,
+"equity_ret_1y": 8.77,
+"bench_ret_1y": 3.67,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -148.49
+},
+{
+"month": "2026-09",
+"aum_cr": 15297.0,
+"clients": 3750,
+"equity_ret_1y": 6.73,
+"bench_ret_1y": -3.28,
+"complaints_received": 1.0,
+"complaints_resolved": 1.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -86.71
+}
+]
+},
+{
+"slug": "sbi-funds",
+"name": "SBI Funds Management",
+"rank": 2,
+"overall": 9.2,
+"as_of_month": "2026-09",
+"clients": 1981,
+"aum_cr": 1296481.8,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 1574141.6,
+"clients": 1646,
+"equity_ret_1y": -11.07,
+"bench_ret_1y": -3.35,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -45.9031
+},
+{
+"month": "2026-07",
+"aum_cr": 1285896.4,
+"clients": 1771,
+"equity_ret_1y": 12.53,
+"bench_ret_1y": -0.38,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -189415.4217
+},
+{
+"month": "2026-08",
+"aum_cr": 1288868.4,
+"clients": 1841,
+"equity_ret_1y": 16.05,
+"bench_ret_1y": -0.28,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -2800.238
+},
+{
+"month": "2026-09",
+"aum_cr": 1296481.8,
+"clients": 1981,
+"equity_ret_1y": 19.74,
+"bench_ret_1y": -6.97,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": 1202.0433
+}
+]
+},
+{
+"slug": "first-global",
+"name": "First Global Finance",
+"rank": 22,
+"overall": 4.5,
+"as_of_month": "2026-09",
+"clients": 185,
+"aum_cr": 183.6,
+"epfo_share_pct": null,
+"aum_ex_epfo_cr": null,
+"complaints": {
+"received_3m": 0,
+"resolved_3m": 0,
+"pending": 0,
+"received_12m": 0,
+"months_covered_12m": 4,
+"resolution_rate_pct": null,
+"per_1000_clients_annualised": 0.0
+},
+"regulatory": [
+{
+"date": "2026-05",
+"title": "SEBI final order: Rs 14 lakh penalty each on First Global Finance, Devina Mehra and Neeraj Khanna; barred from onboarding new PMS clients for 21 days (outsourcing core PMS functions, misleading performance claims)",
+"severity": 3,
+"url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779810509185.pdf"
+}
+],
+"history": [
+{
+"month": "2025-09",
+"aum_cr": 290.1,
+"clients": 249,
+"equity_ret_1y": -12.76,
+"bench_ret_1y": -5.04,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -10.32
+},
+{
+"month": "2026-07",
+"aum_cr": 208.6,
+"clients": 199,
+"equity_ret_1y": -1.53,
+"bench_ret_1y": 2.98,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -4.48
+},
+{
+"month": "2026-08",
+"aum_cr": 204.7,
+"clients": 195,
+"equity_ret_1y": 1.53,
+"bench_ret_1y": 4.72,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -5.2
+},
+{
+"month": "2026-09",
+"aum_cr": 183.6,
+"clients": 185,
+"equity_ret_1y": -3.32,
+"bench_ret_1y": -2.33,
+"complaints_received": 0.0,
+"complaints_resolved": 0.0,
+"complaints_pending": 0.0,
+"net_flow_month_cr": -13.25
+}
+]
+}
+],
+"totals": {
+"providers": 22,
+"complaints_received_3m": 25.0,
+"pending": 7.0,
+"sebi_actions": 1
+}
+}

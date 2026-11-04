@@ -169,3 +169,27 @@ def reddit_rss_multi(client, broker, subreddits, days, limit):
                             author=(e.find("a:author/a:name", ns).text if e.find("a:author/a:name", ns) is not None else None),
                             subreddit=(cat.attrib.get("term") if cat is not None else None), created_utc=ts, score=None, num_comments=None))
     return out[:limit]
+
+
+def google_news(client, broker, days, limit):
+    """Google News RSS search (India/English), one request per keyword. Free, no proxy; used for PMS providers that have no apps."""
+    import xml.etree.ElementTree as ET, html as H
+    from email.utils import parsedate_to_datetime
+    strip = lambda s: re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", H.unescape(s or ""))).strip()
+    out, cut, seen = [], _cutoff(days), set()
+    for kw in broker.get("keywords") or [broker["name"]]:
+        r = get_polite(client, "https://news.google.com/rss/search",
+                       params={"q": f'"{kw}" when:{max(1, int(days))}d', "hl": "en-IN", "gl": "IN", "ceid": "IN:en"},
+                       headers={"User-Agent": BROWSER_UA})
+        if r.status_code != 200:
+            print(f"google_news {broker['name']} '{kw}': HTTP {r.status_code}"); continue
+        for it in ET.fromstring(r.text).iter("item"):
+            url = (it.findtext("link") or "").strip()
+            try: ts = parsedate_to_datetime(it.findtext("pubDate")).timestamp()
+            except Exception: continue
+            if not url or url in seen or ts < cut: continue
+            seen.add(url)
+            src = it.find("source")
+            out.append(dict(source="news", broker=broker["name"], title=strip(it.findtext("title")), text=strip(it.findtext("description"))[:2000],
+                            url=url, author=(src.text if src is not None else None), created_utc=ts, score=None, num_comments=None, rating=None))
+    return out[:limit]

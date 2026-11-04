@@ -48,10 +48,12 @@ async def main():
                                 stats["_reddit_json_blocked"] = 1
                         if items is None:
                             items = S.reddit_rss(web, b, subs, days, lim, int(inp.get("topComments", 3)))
+                    elif src in ("play_store", "app_store") and not b.get(f"{src}_id"): continue
                     elif src == "play_store": items = S.play_store(b, days, lim); S.pause()
                     elif src == "app_store": items = S.app_store(plain, b, days, lim)
                     elif src == "youtube": items = S.youtube(b, days, lim)
                     elif src == "linkedin": items = S.linkedin(web, b, lim)
+                    elif src == "news": items = S.google_news(plain, b, days, lim)
                     else: continue
                 except Exception as e:
                     Actor.log.warning(f"{b.get('name')}/{src} failed: {type(e).__name__}: {str(e)[:200]}")
