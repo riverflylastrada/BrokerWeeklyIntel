@@ -30,7 +30,7 @@ create table if not exists public.social_alerts (
   window_end timestamptz not null,
   sample_urls text[],
   created_at timestamptz not null default now(),
-  unique (category, entity_slug, alert_type, window_start)
+  unique (category, entity_slug, alert_type, issue_tag, window_start)
 );
 create table if not exists public.social_runs (
   id bigserial primary key,
@@ -72,15 +72,30 @@ begin
   where coalesce(i->>'url','') <> '' and coalesce(i->>'entity_slug','') <> ''
   on conflict (url) do nothing;
   get diagnostics v_ins = row_count;
-  -- spike alerts: >=3 negative (or outage/login/withdrawal) mentions for one entity collected in the last 12h (posted within 72h; review feeds lag ~1 day)
+  -- spike alerts (per entity): negatives posted in the last 24h vs that entity's own prior-7-day daily average.
+  -- threshold = max(5, 2x baseline); 10 while there is no prior history. Same rule per issue tag (outage/login/withdrawal/fraud).
+  with cur as (
+    select entity_slug, max(entity_name) entity_name, null::text tag, count(*) n, (array_agg(url order by posted_at desc))[1:5] urls
+      from social_mentions where category = p_category and sentiment = 'negative' and posted_at > now() - interval '24 hours' group by entity_slug
+    union all
+    select entity_slug, max(entity_name), issue_tag, count(*), (array_agg(url order by posted_at desc))[1:5]
+      from social_mentions where category = p_category and sentiment = 'negative' and issue_tag in ('outage','login','withdrawal','fraud')
+       and posted_at > now() - interval '24 hours' group by entity_slug, issue_tag),
+  base as (
+    select entity_slug, null::text tag, count(*) / 7.0 avg_day from social_mentions
+     where category = p_category and sentiment = 'negative' and posted_at between now() - interval '8 days' and now() - interval '24 hours' group by entity_slug
+    union all
+    select entity_slug, issue_tag, count(*) / 7.0 from social_mentions
+     where category = p_category and sentiment = 'negative' and issue_tag in ('outage','login','withdrawal','fraud')
+       and posted_at between now() - interval '8 days' and now() - interval '24 hours' group by entity_slug, issue_tag),
+  hist as (select entity_slug, min(posted_at) first_seen from social_mentions where category = p_category group by entity_slug)
   insert into social_alerts (category, entity_slug, entity_name, alert_type, issue_tag, mention_count, window_start, window_end, sample_urls)
-  select category, entity_slug, max(entity_name), 'negative_spike', mode() within group (order by issue_tag), count(*),
-         date_trunc('hour', now()) - interval '12 hours', now(), (array_agg(url order by posted_at desc))[1:5]
-  from social_mentions
-  where category = p_category and created_at > now() - interval '12 hours' and posted_at > now() - interval '72 hours'
-    and (sentiment = 'negative' or issue_tag in ('outage','login','withdrawal'))
-  group by category, entity_slug having count(*) >= 3
-  on conflict (category, entity_slug, alert_type, window_start) do update set mention_count = excluded.mention_count, window_end = excluded.window_end, sample_urls = excluded.sample_urls;
+  select p_category, c.entity_slug, c.entity_name, case when c.tag is null then 'negative_spike' else 'issue_spike' end, coalesce(c.tag, ''), c.n,
+         date_trunc('day', now()), now(), c.urls
+  from cur c left join base b on b.entity_slug = c.entity_slug and b.tag is not distinct from c.tag
+  join hist h on h.entity_slug = c.entity_slug
+  where c.n >= case when h.first_seen > now() - interval '4 days' then 10 else greatest(5, ceil(2 * coalesce(b.avg_day, 0))) end
+  on conflict (category, entity_slug, alert_type, issue_tag, window_start) do update set mention_count = excluded.mention_count, window_end = excluded.window_end, sample_urls = excluded.sample_urls, issue_tag = excluded.issue_tag;
   get diagnostics v_alerts = row_count;
   delete from social_mentions where posted_at < now() - interval '90 days' or (posted_at is null and created_at < now() - interval '90 days');
   delete from social_alerts where created_at < now() - interval '90 days';
