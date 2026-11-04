@@ -23,7 +23,7 @@ for p in meta:
         return sum(a * x for a, x in xs) / sum(a for a, _ in xs) if xs else None
     e1, e3 = ex("1y"), ex("3y")
     excess = e1 if e3 is None else 0.4 * e1 + 0.6 * e3 if e1 is not None else e3
-    ret_s = round(cl(5 + excess / 2), 1) if excess is not None else 5.0
+    ret_s = round(cl(5 + excess / 3), 1) if excess is not None else 5.0
     beats = [(s["aum"], s["ret"][h] > s["bench"][h]) for s in eq for h in ("1y", "3y", "5y") if s["ret"].get(h) and s["bench"].get(h)]
     cons = round(10 * sum(a for a, b in beats if b) / sum(a for a, _ in beats), 1) if beats else 5.0
     comp = [rec[m].get("complaints") or {} for m in months[-3:]]

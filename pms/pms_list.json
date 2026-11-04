@@ -8,12 +8,6 @@
  {
   "slug": "ask",
   "name": "ASK Investment Managers",
-  "reg": "INP000000043",
-  "sebi_name": "ASK INVESTMENT MANAGERS PRIVATE LIMITED"
- },
- {
-  "slug": "ask-ltd",
-  "name": "ASK Investment Managers",
   "reg": "INP000008066",
   "sebi_name": "ASK INVESTMENT MANAGERS LIMITED"
  },
@@ -36,16 +30,10 @@
   "sebi_name": "WHITEOAK CAPITAL ASSET MANAGEMENT LIMITED"
  },
  {
-  "slug": "white-oak-llp",
-  "name": "White Oak Capital",
-  "reg": "INP000005865",
-  "sebi_name": "WHITE OAK CAPITAL MANAGEMENT CONSULTANTS LLP"
- },
- {
   "slug": "abakkus",
-  "name": "Abakkus Asset Manager",
-  "reg": "INP000006457",
-  "sebi_name": "ABAKKUS ASSET MANAGER PRIVATE LIMITED"
+  "name": "Abakkus Investment Managers",
+  "reg": "INP000009959",
+  "sebi_name": "ABAKKUS INVESTMENT MANAGERS PRIVATE LIMITED"
  },
  {
   "slug": "carnelian",

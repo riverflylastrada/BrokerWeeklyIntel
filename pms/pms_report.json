@@ -1,0 +1,1609 @@
+{
+ "category": "pms",
+ "week": "2026-W45",
+ "generated_at": "2026-11-04T08:30:54.586648+00:00",
+ "pms": [
+  {
+   "slug": "stallion",
+   "name": "Stallion Asset",
+   "sebi_reg": "INP000006129",
+   "legal_name": "STALLION ASSET PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 9.6,
+   "params": {
+    "returns_vs_benchmark": 10,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 10.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 10417.8,
+   "clients": 7883,
+   "aum_yoy_pct": 68.4,
+   "clients_yoy_pct": 47.6,
+   "net_flows_fy_cr": 2139.18,
+   "excess_1y_pp": 20.72,
+   "excess_3y_pp": 24.21,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Stallion Core Fund",
+     "aum_cr": 10340.31,
+     "ret_1y": 18.39,
+     "bench_1y": -2.33,
+     "ret_3y": 33.41,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 1
+  },
+  {
+   "slug": "sbi-funds",
+   "name": "SBI Funds Management",
+   "sebi_reg": "INP000000852",
+   "legal_name": "SBI FUNDS MANAGEMENT LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 9.1,
+   "params": {
+    "returns_vs_benchmark": 9.8,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.6,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 1296481.8,
+   "clients": 1981,
+   "aum_yoy_pct": -17.6,
+   "clients_yoy_pct": 20.4,
+   "net_flows_fy_cr": -419092.9466,
+   "excess_1y_pp": 26.71,
+   "excess_3y_pp": 6.26,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Sbi Aeon Alpha Portfolio",
+     "aum_cr": 845.059,
+     "ret_1y": 24.64,
+     "bench_1y": -7.09,
+     "ret_3y": 12.34,
+     "bench_3y": 6.06,
+     "benchmark": "Nifty50 TRI"
+    },
+    {
+     "name": "Sbi Esg Portfolio (Formerly Known As Sbi Growth With Values Portfolio)",
+     "aum_cr": 671.561,
+     "ret_1y": 13.95,
+     "bench_1y": -7.09,
+     "ret_3y": 12.51,
+     "bench_3y": 6.06,
+     "benchmark": "Nifty50 TRI"
+    },
+    {
+     "name": "Sbi Liquid Portfolio",
+     "aum_cr": 16.537,
+     "ret_1y": 4.25,
+     "bench_1y": 3.81,
+     "ret_3y": 4.39,
+     "bench_3y": 6.62,
+     "benchmark": "CRISIL Composite Bond Fund Index"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 2
+  },
+  {
+   "slug": "alchemy",
+   "name": "Alchemy Capital Management",
+   "sebi_reg": "INP000000365",
+   "legal_name": "ALCHEMY CAPITAL MANAGEMENT PRIVATE LTD",
+   "as_of_month": "2026-09",
+   "overall": 9.0,
+   "params": {
+    "returns_vs_benchmark": 9.0,
+    "consistency": 9.8,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 6.5,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 8018.5,
+   "clients": 2259,
+   "aum_yoy_pct": 18.7,
+   "clients_yoy_pct": -1.5,
+   "net_flows_fy_cr": 405.84,
+   "excess_1y_pp": 16.6,
+   "excess_3y_pp": 8.93,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Alchemy Select Stock",
+     "aum_cr": 5382.89,
+     "ret_1y": 14.78,
+     "bench_1y": -2.33,
+     "ret_3y": 19.65,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Alchemy High Growth",
+     "aum_cr": 776.55,
+     "ret_1y": 13.32,
+     "bench_1y": -2.33,
+     "ret_3y": 13.32,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 Composite"
+    },
+    {
+     "name": "Alchemy Smart Alpha 250",
+     "aum_cr": 715.1,
+     "ret_1y": 12.4,
+     "bench_1y": -2.33,
+     "ret_3y": 15.8,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Alchemy Ascent",
+     "aum_cr": 213.61,
+     "ret_1y": 9.78,
+     "bench_1y": -2.33,
+     "ret_3y": 5.7,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Alchemy W.I.N Strategy",
+     "aum_cr": 124.83,
+     "ret_1y": 15.07,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 3
+  },
+  {
+   "slug": "buoyant",
+   "name": "Buoyant Capital",
+   "sebi_reg": "INP000005000",
+   "legal_name": "BUOYANT CAPITAL PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.8,
+   "params": {
+    "returns_vs_benchmark": 6.8,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 10.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 13801.1,
+   "clients": 9822,
+   "aum_yoy_pct": 85.4,
+   "clients_yoy_pct": 118.3,
+   "net_flows_fy_cr": 2978.24,
+   "excess_1y_pp": 7.36,
+   "excess_3y_pp": 4.3,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Buoyant Opportunities Pms",
+     "aum_cr": 12574.49,
+     "ret_1y": 5.03,
+     "bench_1y": -2.33,
+     "ret_3y": 13.5,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 4
+  },
+  {
+   "slug": "valuequest",
+   "name": "ValueQuest Investment Advisors",
+   "sebi_reg": "INP000003724",
+   "legal_name": "VALUEQUEST INVESTMENT ADVISORS PVT. LTD.",
+   "as_of_month": "2026-09",
+   "overall": 8.6,
+   "params": {
+    "returns_vs_benchmark": 8.1,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 4.5,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 19285.3,
+   "clients": 1824,
+   "aum_yoy_pct": 4.8,
+   "clients_yoy_pct": -13.9,
+   "net_flows_fy_cr": 98.27,
+   "excess_1y_pp": 16.04,
+   "excess_3y_pp": 4.96,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Valuequest Alpha",
+     "aum_cr": 11843.09,
+     "ret_1y": 13.25,
+     "bench_1y": -2.33,
+     "ret_3y": 13.88,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Valuequest Platinum",
+     "aum_cr": 3450.78,
+     "ret_1y": 9.0,
+     "bench_1y": -2.33,
+     "ret_3y": 11.18,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Valuequest Growth",
+     "aum_cr": 2011.41,
+     "ret_1y": 26.39,
+     "bench_1y": -2.33,
+     "ret_3y": 14.18,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Valuequest Vision",
+     "aum_cr": 1121.03,
+     "ret_1y": 10.3,
+     "bench_1y": -2.33,
+     "ret_3y": 26.2,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 5
+  },
+  {
+   "slug": "sameeksha",
+   "name": "Sameeksha Capital",
+   "sebi_reg": "INP000004995",
+   "legal_name": "SAMEEKSHA CAPITAL PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.5,
+   "params": {
+    "returns_vs_benchmark": 6.9,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 7.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 1406.5,
+   "clients": 655,
+   "aum_yoy_pct": 24.1,
+   "clients_yoy_pct": 0.6,
+   "net_flows_fy_cr": 81.32,
+   "excess_1y_pp": 6.06,
+   "excess_3y_pp": 5.36,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Sameeksha Ind Equity Fund",
+     "aum_cr": 1285.58,
+     "ret_1y": 3.73,
+     "bench_1y": -2.33,
+     "ret_3y": 14.56,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 6
+  },
+  {
+   "slug": "carnelian",
+   "name": "Carnelian Asset Management",
+   "sebi_reg": "INP000006387",
+   "legal_name": "CARNELIAN ASSET MANAGEMENT  AND  ADVISORS PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.4,
+   "params": {
+    "returns_vs_benchmark": 9.3,
+    "consistency": 10.0,
+    "complaints_sebi": 3.4,
+    "regulatory_record": 10,
+    "aum_client_growth": 10.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 13503.7,
+   "clients": 7619,
+   "aum_yoy_pct": 59.2,
+   "clients_yoy_pct": 68.0,
+   "net_flows_fy_cr": 2214.26,
+   "excess_1y_pp": 16.12,
+   "excess_3y_pp": 10.63,
+   "complaints": {
+    "received_3m": 5.0,
+    "pending": 0,
+    "per_1000_clients_annualised": 2.63
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Carnelian Shift Strategy",
+     "aum_cr": 6261.03,
+     "ret_1y": 9.35,
+     "bench_1y": -2.33,
+     "ret_3y": 17.89,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    },
+    {
+     "name": "Carnelian Bespoke Portfolio",
+     "aum_cr": 4222.3,
+     "ret_1y": 19.97,
+     "bench_1y": -2.33,
+     "ret_3y": 22.45,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    },
+    {
+     "name": "Carnelian Capital Compounder Strategy",
+     "aum_cr": 2615.0,
+     "ret_1y": 14.82,
+     "bench_1y": -2.33,
+     "ret_3y": 20.3,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    },
+    {
+     "name": "Carnelian Contra Portfolio Strategy",
+     "aum_cr": 133.11,
+     "ret_1y": 6.63,
+     "bench_1y": -2.33,
+     "ret_3y": 19.11,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 7
+  },
+  {
+   "slug": "kotak",
+   "name": "Kotak Mahindra AMC",
+   "sebi_reg": "INP000000837",
+   "legal_name": "KOTAK MAHINDRA ASSET MANAGEMENT COMPANY LTD",
+   "as_of_month": "2026-09",
+   "overall": 8.4,
+   "params": {
+    "returns_vs_benchmark": 7.6,
+    "consistency": 9.8,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 4.4,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 44834.4,
+   "clients": 1511,
+   "aum_yoy_pct": -12.7,
+   "clients_yoy_pct": -0.5,
+   "net_flows_fy_cr": -123.82,
+   "excess_1y_pp": 10.98,
+   "excess_3y_pp": 5.9,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Kotak India Focus Portfolio Investment Approach",
+     "aum_cr": 808.97,
+     "ret_1y": 4.28,
+     "bench_1y": -7.09,
+     "ret_3y": 12.41,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Kotak India Focus Portfolio Investment Approach Customised",
+     "aum_cr": 48.01,
+     "ret_1y": 3.43,
+     "bench_1y": -7.09,
+     "ret_3y": 4.34,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Kotak Evolv Equity Investment Approach",
+     "aum_cr": 47.74,
+     "ret_1y": -2.25,
+     "bench_1y": -7.09,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "NIFTY 50 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 8
+  },
+  {
+   "slug": "hdfc",
+   "name": "HDFC AMC",
+   "sebi_reg": "INP000000506",
+   "legal_name": "HDFC ASSET MANAGEMENT COMPANY LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.4,
+   "params": {
+    "returns_vs_benchmark": 5.7,
+    "consistency": 9.1,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 10.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 686873.3,
+   "clients": 245,
+   "aum_yoy_pct": 13846.9,
+   "clients_yoy_pct": 52.2,
+   "net_flows_fy_cr": 650361.4,
+   "excess_1y_pp": 0.31,
+   "excess_3y_pp": 3.06,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Diversified Portfolio - Equity",
+     "aum_cr": 556.93,
+     "ret_1y": -2.04,
+     "bench_1y": -2.33,
+     "ret_3y": 13.37,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Bespoke Accounts",
+     "aum_cr": 98.61,
+     "ret_1y": -6.13,
+     "bench_1y": -7.09,
+     "ret_3y": 4.43,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "All Cap Portfolio - Dpms",
+     "aum_cr": 32.99,
+     "ret_1y": -6.92,
+     "bench_1y": -2.33,
+     "ret_3y": 6.73,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Hdfc Amc Mf Select Portfolio  Equity",
+     "aum_cr": 21.63,
+     "ret_1y": -1.08,
+     "bench_1y": -7.09,
+     "ret_3y": 13.85,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Enhanced Portfolio 1",
+     "aum_cr": 5.79,
+     "ret_1y": -7.71,
+     "bench_1y": -2.33,
+     "ret_3y": 4.3,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 9
+  },
+  {
+   "slug": "helios",
+   "name": "Helios Capital",
+   "sebi_reg": "INP000006916",
+   "legal_name": "HELIOS CAPITAL ASSET MANAGEMENT (INDIA) PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.3,
+   "params": {
+    "returns_vs_benchmark": 6.6,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.4,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 3378.2,
+   "clients": 973,
+   "aum_yoy_pct": -4.9,
+   "clients_yoy_pct": 13.9,
+   "net_flows_fy_cr": -30.33,
+   "excess_1y_pp": 5.28,
+   "excess_3y_pp": 4.28,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Helios India Rising Portfolio",
+     "aum_cr": 1556.23,
+     "ret_1y": 2.95,
+     "bench_1y": -2.33,
+     "ret_3y": 13.48,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 10
+  },
+  {
+   "slug": "abakkus",
+   "name": "Abakkus Investment Managers",
+   "sebi_reg": "INP000009959",
+   "legal_name": "ABAKKUS INVESTMENT MANAGERS PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.2,
+   "params": {
+    "returns_vs_benchmark": 7.2,
+    "consistency": 8.7,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.2,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 22333.1,
+   "clients": 12173,
+   "aum_yoy_pct": 8.0,
+   "clients_yoy_pct": 4.3,
+   "net_flows_fy_cr": -497.53,
+   "excess_1y_pp": 11.67,
+   "excess_3y_pp": 3.12,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Abakkus All Cap Approach",
+     "aum_cr": 7337.41,
+     "ret_1y": 3.06,
+     "bench_1y": -2.33,
+     "ret_3y": 8.88,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Emerging Opportunities Approach",
+     "aum_cr": 6102.6,
+     "ret_1y": 6.74,
+     "bench_1y": -2.33,
+     "ret_3y": 12.1,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus All Cap (Fpi) Approach",
+     "aum_cr": 3391.07,
+     "ret_1y": 15.12,
+     "bench_1y": -2.33,
+     "ret_3y": 15.66,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Personalised Opportunity Specific Strategy",
+     "aum_cr": 2050.86,
+     "ret_1y": 21.75,
+     "bench_1y": -2.33,
+     "ret_3y": 19.12,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Diversified Alpha Approach",
+     "aum_cr": 1343.09,
+     "ret_1y": 13.42,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE500TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 11
+  },
+  {
+   "slug": "nuvama",
+   "name": "Nuvama Asset Management",
+   "sebi_reg": "INP000007207",
+   "legal_name": "NUVAMA ASSET MANAGEMENT LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.2,
+   "params": {
+    "returns_vs_benchmark": 7.8,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 1.3,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 4210.7,
+   "clients": 613,
+   "aum_yoy_pct": -23.5,
+   "clients_yoy_pct": -26.5,
+   "net_flows_fy_cr": -541.42,
+   "excess_1y_pp": 13.71,
+   "excess_3y_pp": 5.04,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Nuvama Equities Expansion Target (Next) Strategy",
+     "aum_cr": 191.62,
+     "ret_1y": 9.97,
+     "bench_1y": -2.33,
+     "ret_3y": 13.25,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Infinity Core Equity Approach",
+     "aum_cr": 149.99,
+     "ret_1y": 8.42,
+     "bench_1y": -7.09,
+     "ret_3y": 12.37,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI INDEX"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 12
+  },
+  {
+   "slug": "axis",
+   "name": "Axis AMC",
+   "sebi_reg": "INP000003534",
+   "legal_name": "AXIS ASSET MANAGEMENT COMPANY LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 8.1,
+   "params": {
+    "returns_vs_benchmark": 7.0,
+    "consistency": 10.0,
+    "complaints_sebi": 7.3,
+    "regulatory_record": 10,
+    "aum_client_growth": 7.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 15297.0,
+   "clients": 3750,
+   "aum_yoy_pct": 819.9,
+   "clients_yoy_pct": 139.6,
+   "net_flows_fy_cr": -1256.81,
+   "excess_1y_pp": 10.01,
+   "excess_3y_pp": 3.27,
+   "complaints": {
+    "received_3m": 1.0,
+    "pending": 0,
+    "per_1000_clients_annualised": 1.07
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Axis Pure Contra Portfolio",
+     "aum_cr": 1372.81,
+     "ret_1y": -2.28,
+     "bench_1y": -2.33,
+     "ret_3y": 10.61,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Axis Brand Equity Portfolio",
+     "aum_cr": 748.77,
+     "ret_1y": 4.51,
+     "bench_1y": -7.09,
+     "ret_3y": 6.47,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Axis Pure Growth Portfolio",
+     "aum_cr": 720.6,
+     "ret_1y": 3.82,
+     "bench_1y": -2.33,
+     "ret_3y": 10.67,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Axis Customized Portfolio",
+     "aum_cr": 610.38,
+     "ret_1y": 8.47,
+     "bench_1y": -2.33,
+     "ret_3y": 13.01,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Axis Kaizen Portfolio",
+     "aum_cr": 527.65,
+     "ret_1y": 33.92,
+     "bench_1y": -2.33,
+     "ret_3y": 23.73,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 13
+  },
+  {
+   "slug": "motilal-oswal",
+   "name": "Motilal Oswal AMC",
+   "sebi_reg": "INP000000670",
+   "legal_name": "MOTILAL OSWAL ASSET MANAGEMENT COMPANY LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 7.6,
+   "params": {
+    "returns_vs_benchmark": 7.4,
+    "consistency": 8.9,
+    "complaints_sebi": 5.5,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 14769.8,
+   "clients": 13533,
+   "aum_yoy_pct": 2.7,
+   "clients_yoy_pct": 1.1,
+   "net_flows_fy_cr": -181.45954,
+   "excess_1y_pp": 8.73,
+   "excess_3y_pp": 6.12,
+   "complaints": {
+    "received_3m": 4.0,
+    "pending": 1.0,
+    "per_1000_clients_annualised": 1.18
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Motilal Oswal Founders Portfolio",
+     "aum_cr": 4289.04644,
+     "ret_1y": 6.08,
+     "bench_1y": -2.33,
+     "ret_3y": 17.81,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Next Trillion Dollar Opportunity Strategy",
+     "aum_cr": 4200.3946,
+     "ret_1y": 3.12,
+     "bench_1y": -2.33,
+     "ret_3y": 10.1,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Value Migration Strategy",
+     "aum_cr": 3094.1521,
+     "ret_1y": -1.38,
+     "bench_1y": -2.33,
+     "ret_3y": 15.69,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Motilal Oswal Mid To Mega Strategy",
+     "aum_cr": 2466.92458,
+     "ret_1y": 20.23,
+     "bench_1y": -2.33,
+     "ret_3y": 19.95,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "India Growth Strategy",
+     "aum_cr": 347.86021,
+     "ret_1y": 23.83,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "S and P BSE 500 TR"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 14
+  },
+  {
+   "slug": "icici-prudential",
+   "name": "ICICI Prudential AMC",
+   "sebi_reg": "INP000000373",
+   "legal_name": "ICICI PRUDENTIAL ASSET MANAGEMENT COMPANY LTD.",
+   "as_of_month": "2026-09",
+   "overall": 7.5,
+   "params": {
+    "returns_vs_benchmark": 6.4,
+    "consistency": 10.0,
+    "complaints_sebi": 3.8,
+    "regulatory_record": 10,
+    "aum_client_growth": 7.8,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 30144.7,
+   "clients": 30807,
+   "aum_yoy_pct": 14.7,
+   "clients_yoy_pct": 16.5,
+   "net_flows_fy_cr": 2295.47,
+   "excess_1y_pp": 4.33,
+   "excess_3y_pp": 4.06,
+   "complaints": {
+    "received_3m": 10.0,
+    "pending": 4.0,
+    "per_1000_clients_annualised": 1.3
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Icici Prudential Pms Contra Strategy",
+     "aum_cr": 13510.56,
+     "ret_1y": 0.19,
+     "bench_1y": -2.33,
+     "ret_3y": 12.26,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Icici Prudential Pms Pipe Strategy",
+     "aum_cr": 8085.82,
+     "ret_1y": 4.37,
+     "bench_1y": -2.33,
+     "ret_3y": 13.38,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Icici Prudential Pms Growth Leaders Strategy",
+     "aum_cr": 1572.22,
+     "ret_1y": 1.55,
+     "bench_1y": -2.33,
+     "ret_3y": 13.65,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Icici Prudential Pms Ace Strategy",
+     "aum_cr": 1410.74,
+     "ret_1y": 0.94,
+     "bench_1y": -2.33,
+     "ret_3y": 17.53,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Icici Prudential Pms Prime Strategy",
+     "aum_cr": 1242.09,
+     "ret_1y": 2.95,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 15
+  },
+  {
+   "slug": "aditya-birla",
+   "name": "Aditya Birla Sun Life AMC",
+   "sebi_reg": "INP000000597",
+   "legal_name": "ADITYA BIRLA SUN LIFE AMC LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 7.5,
+   "params": {
+    "returns_vs_benchmark": 5.9,
+    "consistency": 4.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 8.6,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 663424.5,
+   "clients": 2546,
+   "aum_yoy_pct": 2161.4,
+   "clients_yoy_pct": 4.0,
+   "net_flows_fy_cr": 601680.8764,
+   "excess_1y_pp": 3.78,
+   "excess_3y_pp": 1.91,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Select Sector Portfolio",
+     "aum_cr": 605.09122,
+     "ret_1y": 9.29,
+     "bench_1y": -2.33,
+     "ret_3y": 19.29,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TRI"
+    },
+    {
+     "name": "India Special Opportunities Portfolio Stp",
+     "aum_cr": 446.54331,
+     "ret_1y": -2.91,
+     "bench_1y": -2.33,
+     "ret_3y": 6.7,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TRI"
+    },
+    {
+     "name": "India Special Opportunities Portfolio",
+     "aum_cr": 359.45303,
+     "ret_1y": -2.96,
+     "bench_1y": -2.33,
+     "ret_3y": 6.97,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TRI"
+    },
+    {
+     "name": "India Special Opportunities Portfolio Nr",
+     "aum_cr": 201.42861,
+     "ret_1y": -2.78,
+     "bench_1y": -2.33,
+     "ret_3y": 7.19,
+     "bench_3y": 9.2,
+     "benchmark": "S and P BSE 500 TRI"
+    },
+    {
+     "name": "Core Equity Portfolio",
+     "aum_cr": 153.15669,
+     "ret_1y": -4.72,
+     "bench_1y": -7.09,
+     "ret_3y": 4.66,
+     "bench_3y": 6.06,
+     "benchmark": "Nifty 50 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 16
+  },
+  {
+   "slug": "unifi",
+   "name": "Unifi Capital",
+   "sebi_reg": "INP000000613",
+   "legal_name": "UNIFI CAPITAL PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 7.2,
+   "params": {
+    "returns_vs_benchmark": 5.9,
+    "consistency": 6.7,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 1.7,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 15863.3,
+   "clients": 7689,
+   "aum_yoy_pct": -22.8,
+   "clients_yoy_pct": -23.1,
+   "net_flows_fy_cr": -2370.98,
+   "excess_1y_pp": 7.81,
+   "excess_3y_pp": -0.72,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Blended- Rangoli",
+     "aum_cr": 11004.63,
+     "ret_1y": 5.32,
+     "bench_1y": -2.33,
+     "ret_3y": 8.46,
+     "bench_3y": 9.2,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Bcad Breakout 20",
+     "aum_cr": 1840.66,
+     "ret_1y": 4.39,
+     "bench_1y": -2.33,
+     "ret_3y": 7.47,
+     "bench_3y": 9.2,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Apj",
+     "aum_cr": 1008.11,
+     "ret_1y": 8.8,
+     "bench_1y": -2.33,
+     "ret_3y": 11.62,
+     "bench_3y": 9.2,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Bcad",
+     "aum_cr": 211.78,
+     "ret_1y": 1.88,
+     "bench_1y": -2.33,
+     "ret_3y": 6.08,
+     "bench_3y": 9.2,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Individually Managed Accounts",
+     "aum_cr": 199.22,
+     "ret_1y": 10.25,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "S and PBSE500TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 17
+  },
+  {
+   "slug": "marcellus",
+   "name": "Marcellus Investment Managers",
+   "sebi_reg": "INP000006183",
+   "legal_name": "MARCELLUS INVESTMENT MANAGERS PRIVATE LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 6.7,
+   "params": {
+    "returns_vs_benchmark": 5.1,
+    "consistency": 3.7,
+    "complaints_sebi": 8.5,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 2136.9,
+   "clients": 1820,
+   "aum_yoy_pct": -44.9,
+   "clients_yoy_pct": -39.9,
+   "net_flows_fy_cr": -549.57,
+   "excess_1y_pp": 4.94,
+   "excess_3y_pp": -2.83,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 1.0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Ccp",
+     "aum_cr": 1482.44,
+     "ret_1y": -0.99,
+     "bench_1y": -7.09,
+     "ret_3y": 3.59,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Mc-I",
+     "aum_cr": 152.33,
+     "ret_1y": -0.22,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Kcp",
+     "aum_cr": 113.3,
+     "ret_1y": -2.17,
+     "bench_1y": -7.09,
+     "ret_3y": 7.01,
+     "bench_3y": 6.06,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Lcp",
+     "aum_cr": 112.56,
+     "ret_1y": -1.28,
+     "bench_1y": -2.33,
+     "ret_3y": 0.91,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Rgp",
+     "aum_cr": 78.71,
+     "ret_1y": -2.07,
+     "bench_1y": -2.33,
+     "ret_3y": 4.75,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 18
+  },
+  {
+   "slug": "360-one",
+   "name": "360 ONE Asset Management",
+   "sebi_reg": "INP000004565",
+   "legal_name": "360 ONE ASSET MANAGEMENT LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 6.6,
+   "params": {
+    "returns_vs_benchmark": 6.1,
+    "consistency": 8.8,
+    "complaints_sebi": 3.2,
+    "regulatory_record": 10,
+    "aum_client_growth": 2.1,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 24775.0,
+   "clients": 4381,
+   "aum_yoy_pct": -23.4,
+   "clients_yoy_pct": -33.4,
+   "net_flows_fy_cr": -6471.89,
+   "excess_1y_pp": 5.11,
+   "excess_3y_pp": 2.19,
+   "complaints": {
+    "received_3m": 3.0,
+    "pending": 0,
+    "per_1000_clients_annualised": 2.74
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Customised Discretionary Portfolio - Equity",
+     "aum_cr": 12700.83,
+     "ret_1y": 4.08,
+     "bench_1y": -2.33,
+     "ret_3y": 12.18,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "360 One Multicap Pms",
+     "aum_cr": 2841.06,
+     "ret_1y": 1.31,
+     "bench_1y": -2.33,
+     "ret_3y": 8.13,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "360 One Phoenix Portfolio",
+     "aum_cr": 1621.25,
+     "ret_1y": 1.79,
+     "bench_1y": -2.33,
+     "ret_3y": 10.93,
+     "bench_3y": 9.2,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "360 One Large Value Strategy Pms",
+     "aum_cr": 703.05,
+     "ret_1y": -12.38,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE500TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 19
+  },
+  {
+   "slug": "whiteoak",
+   "name": "WhiteOak Capital",
+   "sebi_reg": "INP000007766",
+   "legal_name": "WHITEOAK CAPITAL ASSET MANAGEMENT LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 6.4,
+   "params": {
+    "returns_vs_benchmark": 5.0,
+    "consistency": 3.4,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 0.4,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 2839.3,
+   "clients": 2144,
+   "aum_yoy_pct": -35.9,
+   "clients_yoy_pct": -27.8,
+   "net_flows_fy_cr": -762.0,
+   "excess_1y_pp": 1.33,
+   "excess_3y_pp": -0.71,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "White Oak India Pioneers Equity Portfolio",
+     "aum_cr": 2617.88,
+     "ret_1y": -1.01,
+     "bench_1y": -2.33,
+     "ret_3y": 8.46,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "White Oak India Pioneers Equity Portfolio Stp Plan",
+     "aum_cr": 56.23,
+     "ret_1y": -1.48,
+     "bench_1y": -2.33,
+     "ret_3y": 8.22,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "White Oak India Digital Leaders",
+     "aum_cr": 51.15,
+     "ret_1y": 1.2,
+     "bench_1y": -2.33,
+     "ret_3y": 10.2,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Whiteoak India Business Leaders Pms",
+     "aum_cr": 48.21,
+     "ret_1y": -1.25,
+     "bench_1y": -2.33,
+     "ret_3y": 8.52,
+     "bench_3y": 9.2,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Whiteoak Capital Research Select Equity Portfolio",
+     "aum_cr": 20.97,
+     "ret_1y": -3.61,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 20
+  },
+  {
+   "slug": "ask",
+   "name": "ASK Investment Managers",
+   "sebi_reg": "INP000008066",
+   "legal_name": "ASK INVESTMENT MANAGERS LIMITED",
+   "as_of_month": "2026-09",
+   "overall": 5.1,
+   "params": {
+    "returns_vs_benchmark": 2.8,
+    "consistency": 0.2,
+    "complaints_sebi": 5.3,
+    "regulatory_record": 10,
+    "aum_client_growth": 5.0,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 8148.0,
+   "clients": 6323,
+   "aum_yoy_pct": -46.4,
+   "clients_yoy_pct": -36.1,
+   "net_flows_fy_cr": -3366.19107,
+   "excess_1y_pp": -6.32,
+   "excess_3y_pp": -7.02,
+   "complaints": {
+    "received_3m": 2.0,
+    "pending": 1.0,
+    "per_1000_clients_annualised": 1.27
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Ask Indian Entrepreneur Portfolio",
+     "aum_cr": 4990.32554,
+     "ret_1y": -9.52,
+     "bench_1y": -2.33,
+     "ret_3y": 1.75,
+     "bench_3y": 9.19,
+     "benchmark": "S and P BSE 500 - TRI"
+    },
+    {
+     "name": "Ask India Select Portfolio",
+     "aum_cr": 796.79404,
+     "ret_1y": -10.46,
+     "bench_1y": -2.33,
+     "ret_3y": 1.06,
+     "bench_3y": 9.19,
+     "benchmark": "S and P BSE 500 - TRI"
+    },
+    {
+     "name": "Ask Growth Portfolio",
+     "aum_cr": 610.5384,
+     "ret_1y": -10.84,
+     "bench_1y": -2.33,
+     "ret_3y": 1.88,
+     "bench_3y": 9.19,
+     "benchmark": "S and P BSE 500 - TRI"
+    },
+    {
+     "name": "Ask Domestic Resurgence Portfolio",
+     "aum_cr": 420.11094,
+     "ret_1y": -4.58,
+     "bench_1y": -2.33,
+     "ret_3y": 3.93,
+     "bench_3y": 9.19,
+     "benchmark": "S and P BSE 500 - TRI"
+    },
+    {
+     "name": "Ask Lighthouse Portfolio",
+     "aum_cr": 399.95346,
+     "ret_1y": -4.83,
+     "bench_1y": -2.33,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "S and P BSE 500 - TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 21
+  },
+  {
+   "slug": "first-global",
+   "name": "First Global Finance",
+   "sebi_reg": "INP000006697",
+   "legal_name": "FIRST GLOBAL FINANCE PVT LTD",
+   "as_of_month": "2026-09",
+   "overall": 4.5,
+   "params": {
+    "returns_vs_benchmark": 4.0,
+    "consistency": 0.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 2.5,
+    "aum_client_growth": 0.6,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 183.6,
+   "clients": 185,
+   "aum_yoy_pct": -36.7,
+   "clients_yoy_pct": -25.7,
+   "net_flows_fy_cr": -37.27,
+   "excess_1y_pp": -0.99,
+   "excess_3y_pp": -4.59,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [
+    {
+     "date": "2026-05",
+     "title": "SEBI final order: Rs 14 lakh penalty each on First Global Finance, Devina Mehra and Neeraj Khanna; barred from onboarding new PMS clients for 21 days (outsourcing core PMS functions, misleading performance claims)",
+     "severity": 3,
+     "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2026/1779810509185.pdf"
+    }
+   ],
+   "top_strategies": [
+    {
+     "name": "Is50",
+     "aum_cr": 159.0,
+     "ret_1y": -3.32,
+     "bench_1y": -2.33,
+     "ret_3y": 4.62,
+     "bench_3y": 9.21,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 22
+  }
+ ],
+ "methodology": {
+  "weights": {
+   "returns_vs_benchmark": 25,
+   "consistency": 15,
+   "complaints_sebi": 15,
+   "regulatory_record": 15,
+   "aum_client_growth": 10,
+   "disclosure_transparency": 10,
+   "sentiment": 10
+  },
+  "sources": [
+   "SEBI monthly PMS compliance reports (sebi.gov.in)",
+   "SEBI enforcement orders",
+   "Reddit / YouTube / news"
+  ],
+  "notes": "Returns are AUM-weighted TWRR of discretionary equity strategies vs each strategy's SEBI-reported benchmark (0.4x 1Y + 0.6x 3Y excess). Fees are not publicly disclosed per client, so transparency measures completeness of SEBI disclosures."
+ }
+}
