@@ -14353,220 +14353,452 @@ month,rank,broker,legal_name,active_clients,total_ucc,complaints,resolved,pendin
 2026-08,197,Stockfield Financial Services,Stockfield Financial Services Private Limited,1,949,1,1,0,0,https://web.archive.org/web/20260907204704/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
 2026-08,198,Axis Bank,Axis Bank Ltd.,1,818,1,1,0,0,https://web.archive.org/web/20260907204704/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
 2026-08,199,Punjab National Bank,Punjab National Bank,1,3,1,1,0,0,https://web.archive.org/web/20260907204704/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,1,Groww,Groww Invest Tech Private Limited,13448194,44850590,713,528,185,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,2,Zerodha,Zerodha Broking Limited,6791541,18034811,378,323,55,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,3,Angel One,Angel One Limited,6755711,39655653,658,486,172,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,4,ICICI Direct,Icici Securities Limited,2160619,12942453,410,331,79,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,5,Upstox,Upstox Securities Private Limited,1854285,19750654,514,448,66,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,6,Kotak Securities,Kotak Securities Ltd.,1391840,7469769,295,251,44,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,7,HDFC Securities,Hdfc Securities Ltd.,1353843,10047007,210,163,47,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,8,Dhan,Raise Securities Private Limited (formerly Known As Moneylicious Securities Private Limited) (dhan App),1120901,3533560,120,95,25,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,9,SBI Securities,Sbicap Securities Limited,1021295,8630814,169,138,31,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,10,Motilal Oswal,Motilal Oswal Financial Services Limited,908987,5440425,417,346,71,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,11,Paytm Money,Paytm Money Ltd.,762793,6543162,92,73,19,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,12,INDmoney,Indstocks Private Limited,718725,4756180,53,42,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,13,Sharekhan,Sharekhan Ltd.,527503,3700510,127,102,25,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,14,Axis Direct,Axis Securities Limited,428144,6763957,103,89,14,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,15,IIFL Securities,Iifl Capital Services Ltd.,340957,3593990,221,186,35,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,16,5Paisa,5paisa Capital Limited,321174,5179798,47,44,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,17,Sahi,Aaritya Broking Private Ltd,281028,357624,39,31,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,18,Choice,Choice Equity Broking Private Limited,242106,1273149,123,107,16,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,19,Geojit,Geojit Investments Limited,207487,1575490,17,16,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,20,Phonepe Wealth Broking,Phonepe Wealth Broking Private Limited,206598,1460632,17,13,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,21,Fyers,Fyers Securities Private Limited,197380,1065788,50,39,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,22,m.Stock (Mirae),Mirae Asset Capital Markets ( India ) Private Limited,183789,2487753,163,150,13,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,23,SMC Global,Smc Global Securities Ltd.,159588,912373,73,62,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,24,Jainam Broking,Jainam Broking Limited,153962,399819,87,83,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,25,Anand Rathi Share And Stock Brokers,Anand Rathi Share And Stock Brokers Limited,153235,781652,91,76,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,26,Nu Investors Technologies,Nu Investors Technologies Private Limited,152255,602548,94,75,19,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,27,Nuvama (Edelweiss),Nuvama Wealth And Investment Limited.,138354,1250980,38,30,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,28,Nirmal Bang Securities,Nirmal Bang Securities Pvt. Ltd.,135500,594423,70,55,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,29,Marwadi Shares And Finance,Marwadi Shares And Finance Limited,131766,427384,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,30,Religare,Religare Broking Limited,125814,1389069,64,49,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,31,Jm Financial Services,Jm Financial Services Limited,113385,474514,37,22,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,32,Ventura Securities,Ventura Securities Limited,99681,617618,21,20,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,33,Yes Securities (India),Yes Securities (india) Limited,95660,945987,35,29,6,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,34,Alice Blue,Alice Blue Fin Svcs P Ltd,94919,870578,41,37,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,35,Finvasia Securities,Finvasia Securities Private Limited,92194,512274,49,35,14,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,36,Moneywise Finvest,Moneywise Finvest Limited,81373,366939,58,43,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,37,Tradebulls Securities (P),Tradebulls Securities (p) Ltd.,78255,349014,83,76,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,38,Nj India Invest,Nj India Invest Private Limited,74648,1877380,5,4,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,39,Stockholding Services,Stockholding Services Limited,71090,310440,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,40,Aditya Birla Money,Aditya Birla Money Limited,68735,903586,35,31,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,41,Bajaj Financial Securities,Bajaj Financial Securities Ltd.,66938,1378118,44,32,12,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,42,Indiabulls Securities,Indiabulls Securities Limited (formerly Known As Dhani Stocks Limited),61352,893891,57,48,9,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,43,Jhaveri Securities,Jhaveri Securities Limited,59352,184924,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,44,Master Capital Services,Master Capital Services Limited,59097,343234,12,9,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,45,Idbi Capital Markets & Securities,Idbi Capital Markets & Securities Ltd.,58515,434632,23,19,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,46,Arihant Capital Markets,Arihant Capital Markets Limited,55152,251047,36,28,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,47,Bonanza Portfolio,Bonanza Portfolio Ltd.,55139,511490,15,14,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,48,Samco,Samco Securities Limited,52444,577906,54,44,10,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,49,Globe Capital Market,Globe Capital Market Limited,52333,286701,33,31,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,50,Monarch Networth Capital,Monarch Networth Capital Limited,51226,320547,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,51,Integrated Enterprises (India),Integrated Enterprises (india) Private Limited,50986,259149,20,10,10,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,52,Swastika Investmart,Swastika Investmart Limited,50148,431213,11,2,9,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,53,Indusind Securities,Indusind Securities Limited (formerly Known As Reliance Securities Limited),48610,1097317,39,35,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,54,Sushil Financial Services,Sushil Financial Services Private Limited,47481,235457,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,55,Suresh Rathi Securities,Suresh Rathi Securities Private Limited,45707,154959,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,56,Prabhudas Lilladher,Prabhudas Lilladher Pvt. Ltd.,45137,194328,33,25,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,57,South Asian Stocks,South Asian Stocks Ltd.,44365,68719,7,6,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,58,Flattrade Broking,Flattrade Broking Private Limited,40795,131102,41,37,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,59,Shah Investors Home,Shah Investors Home Limited,37675,137582,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,60,Univest Stock Broking,Univest Stock Broking Private Limited,37096,110952,20,20,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,61,Econo Broking,Econo Broking Private Limited,33451,86196,1,1,0,1,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,62,Shri Parasram Holdings,Shri Parasram Holdings Pvt. Ltd.,32634,180043,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,63,Aionion Capital Market Services,Aionion Capital Market Services Private Limited,31626,36035,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,64,Marketwolf Securities,Marketwolf Securities Private Limited,31190,821517,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,65,Lakshmishree Investment & Securities,Lakshmishree Investment & Securities Pvt. Ltd.,26636,93945,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,66,Eureka Stock & Share Broking Services,Eureka Stock & Share Broking Services Limited,26101,95735,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,67,Shriram Insight Share Brokers,Shriram Insight Share Brokers Limited,25681,215993,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,68,Profitmart Securities,Profitmart Securities Private Limited,24748,240048,13,12,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,69,Lkp Securities,Lkp Securities Ltd.,23178,171433,7,6,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,70,Way2Wealth Brokers,Way2wealth Brokers Private Limited,21881,173118,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,71,Goodwill Wealth Management,Goodwill Wealth Management Pvt Ltd,21174,234423,31,16,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,72,Kifs Trade Capital,Kifs Trade Capital Private Limited,20585,117486,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,73,Ashika Stock Broking,Ashika Stock Broking Ltd.,19968,128092,7,6,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,74,B N Rathi Securities,B N Rathi Securities Limited,18702,91769,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,75,Canara Bank Securities,Canara Bank Securities Limited,17494,137650,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,76,Bob Capital Markets,Bob Capital Markets Limited,16385,310573,34,25,9,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,77,Acumen Capital Market (India),Acumen Capital Market (india) Ltd,16145,130442,7,3,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,78,Ans,Ans Pvt. Ltd.,15487,55022,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,79,Navia Markets,Navia Markets Ltd.,15159,117036,16,14,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,80,Market Pulse Securities,Market Pulse Securities Private Limited,14532,199324,6,6,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,81,Gopocket Invest Tech,Gopocket Invest Tech Private Limited (formerly Known As Sky Commodities India Pvt Ltd),14483,50666,64,62,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,82,Bhansali Value Creations,Bhansali Value Creations Private Limited,14358,44622,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,83,Iss Enterprise,Iss Enterprise Limited,14283,157929,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,84,Zebu Share And Wealth Managements,Zebu Share And Wealth Managements Private Limited,13976,96334,5,0,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,85,Alankit Imaginations,Alankit Imaginations Limited,13670,129787,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,86,Rudra Shares & Stock Brokers,Rudra Shares & Stock Brokers Ltd,13011,42664,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,87,Bp Equities,Bp Equities Private Limited,12561,55006,6,6,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,88,Sykes & Ray Equities (I),Sykes & Ray Equities (i) Ltd.,12431,88651,3,0,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,89,Finwizard Technology,Finwizard Technology Private Limited,12331,370153,10,8,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,90,Bgse Financials,Bgse Financials Limited,12328,105501,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,91,Indbank Merchant Banking Services,Indbank Merchant Banking Services Ltd.,12099,67800,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,92,Astha Credit & Securities (P),Astha Credit & Securities (p) Ltd,11813,187861,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,93,Tradejini Financial Services,Tradejini Financial Services Pvt Ltd,11680,66086,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,94,Pravin Ratilal Share And Stock Brokers,Pravin Ratilal Share And Stock Brokers Ltd,11545,39966,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,95,Pocketful Fintech Capital,Pocketful Fintech Capital Private Limited,11460,14392,34,30,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,96,Inventure Growth & Securities,Inventure Growth & Securities Limited,11128,51033,8,8,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,97,Enrich Financial Market,Enrich Financial Market Private Limited,10512,86449,3,1,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,98,Kunvarji Finstock,Kunvarji Finstock Pvt. Ltd.,10466,61135,10,9,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,99,Trustline Securities,Trustline Securities Limited,10450,135270,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,100,Jk Securities,Jk Securities Pvt. Ltd.,10171,42587,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,101,Gepl Capital,Gepl Capital Private Limited,9907,44639,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,102,Indira Securities,Indira Securities Private Limited,9706,49531,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,103,Wealth India Financial Services,Wealth India Financial Services Pvt Ltd,9264,79189,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,104,Standard Chartered Securities (India),Standard Chartered Securities (india) Limited,9058,202165,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,105,Share India Securities,Share India Securities Limited,8798,44809,5,4,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,106,A C Agarwal Share Brokers,A C Agarwal Share Brokers Pvt Ltd,8620,27258,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,107,Adroit Financial Services,Adroit Financial Services Private Limited,8221,62288,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,108,Sunidhi Securities & Finance,Sunidhi Securities & Finance Limited,7803,60156,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,109,Mansukh Securities & Finance,Mansukh Securities & Finance Limited,7681,85820,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,110,Definedge Securities Broking,Definedge Securities Broking Private Limited,7537,42625,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,111,Wealthyin Broking,Wealthyin Broking Private Limited,7454,33645,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,112,Smifs,Smifs Limited,6995,35945,15,7,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,113,Mehta Equities,Mehta Equities Limited,6878,41046,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,114,Capstocks & Securities (India),Capstocks & Securities (india) Private Limited,6625,47101,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,115,Prithvi Finmart,Prithvi Finmart Private Limited,6529,22955,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,116,Sunlight Broking Llp,Sunlight Broking Llp,6461,19342,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,117,Mintcap Brokers,Mintcap Brokers Private Limited,6408,3101,5,4,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,118,R K Global Shares & Securities,R K Global Shares & Securities Limited,6289,62867,9,3,6,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,119,Ganganagar Commodity,Ganganagar Commodity Limited,5932,19948,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,120,Krchoksey Shares And Securities,Krchoksey Shares And Securities Private Limited,5873,67108,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,121,Mangal Keshav Financial Services Llp,Mangal Keshav Financial Services Llp,5698,86685,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,122,Elite Wealth,Elite Wealth Limited,5662,41621,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,123,Raghunandan Capital,Raghunandan Capital Private Limited,5414,35739,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,124,Zanskar Securities,Zanskar Securities Private Limited,5272,24431,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,125,Rikhav Securities,Rikhav Securities Limited,5162,21402,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,126,Systematix Shares & Stocks (India),Systematix Shares & Stocks (india) Ltd.,5010,61900,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,127,Marfatia Stock Broking,Marfatia Stock Broking Private Limited,5000,32467,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,128,India Advantage Securities,India Advantage Securities Private Limited,4496,28084,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,129,Peerless Securities,Peerless Securities Limited,4396,27148,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,130,Tradeswift Broking,Tradeswift Broking Private Limited,4139,19318,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,131,Pace Stock Broking Services,Pace Stock Broking Services Private Limited,4080,46104,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,132,Zuari Finserv,Zuari Finserv Limited,4055,27147,5,2,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,133,Muthoot Securities,Muthoot Securities Ltd.,3654,80376,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,134,Ifci Financial Services,Ifci Financial Services Limited,3562,36784,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,135,Arham Wealth Management,Arham Wealth Management Pvt Ltd,3347,11598,8,8,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,136,Julius Baer Wealth Advisors (India),Julius Baer Wealth Advisors (india) Private Limited,3260,8884,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,137,Kantilal Chhaganlal Securities,Kantilal Chhaganlal Securities Private Limited,3167,53214,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,138,Ashlar Securities,Ashlar Securities Private Limited,3149,37665,11,11,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,139,Centrum Finverse,Centrum Finverse Limited,2886,19433,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,140,Kedia Capital Services,Kedia Capital Services Private Limited,2786,15446,4,3,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,141,Ats Share Brokers,Ats Share Brokers Private Limited,2777,33643,7,5,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,142,Navkar Share & Stock Brokers,Navkar Share & Stock Brokers Private Limited,2601,7345,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,143,Mse Financial Services,Mse Financial Services Ltd.,2426,21384,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,144,Skp Securities,Skp Securities Ltd.,2360,26668,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,145,Mandot Securities,Mandot Securities Private Limited,2190,38373,8,7,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,146,Greshma Shares & Stocks,Greshma Shares & Stocks Limited,2184,10119,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,147,Balaji Equities,Balaji Equities Ltd.,2035,20160,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,148,Ajcon Global Services,Ajcon Global Services Limited,2028,19745,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,149,Centrum Broking,Centrum Broking Limited,2009,36612,6,6,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,150,Ghalla Bhansali Stock Brokers,Ghalla Bhansali Stock Brokers Private Limited,1927,8810,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,151,Nikunj Stock Brokers,Nikunj Stock Brokers Ltd.,1898,12785,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,152,Ski Capital Services,Ski Capital Services Ltd.,1680,14388,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,153,Incred Capital Wealth Portfolio Managers,Incred Capital Wealth Portfolio Managers Private Limited,1613,8447,3,0,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,154,Ambalal Shares And Stocks,Ambalal Shares And Stocks Private Limited,1528,14862,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,155,Frr Shares And Securities,Frr Shares And Securities Limited,1430,11556,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,156,Fair Intermediate Investment,Fair Intermediate Investment Pvt. Ltd.,1424,14103,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,157,Bondbazaar Securities,Bondbazaar Securities Private Limited,1387,25586,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,158,Dealmoney Commodities,Dealmoney Commodities Pvt. Ltd.,1295,89004,5,5,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,159,Abhipra Capital,Abhipra Capital Limited,1222,32721,4,1,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,160,Interactive Brokers (India),Interactive Brokers (india) Private Limited,1098,8728,9,9,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,161,Uae Exchange & Finance,Uae Exchange & Finance Ltd.,925,17269,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,162,Anush Shares & Securities,Anush Shares & Securities Pvt.ltd.,905,10698,8,0,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,163,Aum Securities,Aum Securities Private Ltd.,884,3004,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,164,Nnm Securities,Nnm Securities Pvt. Ltd.,876,4642,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,165,Achintya Securities,Achintya Securities Limited,768,4443,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,166,Baljit Securities,Baljit Securities Pvt. Ltd.,738,7115,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,167,Kedia Shares & Stocks Brokers,Kedia Shares & Stocks Brokers Limited,704,3565,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,168,Neo Wealth Management,Neo Wealth Management Private Limited,701,2150,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,169,Stockology Securities,Stockology Securities Private Limited,677,260,14,11,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,170,Lalkar Securities,Lalkar Securities Private Limited,661,4308,29,29,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,171,Nuvama Wealth Management Limited,Nuvama Wealth Management Limited,618,35973,10,5,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,172,Marck Securities,Marck Securities Pvt. Ltd.,485,7404,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,173,Morgan Stanley India Company,Morgan Stanley India Company Private Limited,406,21158,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,174,Bnp Paribas Securities India,Bnp Paribas Securities India Private Limited,402,6793,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,175,Growth Securities,Growth Securities Private Limited,320,1314,5,5,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,176,Saurashtra Capital Services,Saurashtra Capital Services Pvt. Ltd,269,3051,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,177,Hsbc Securities & Capital Markets (India),Hsbc Securities & Capital Markets (india) Pvt. Ltd.,258,15540,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,178,Tradebook Consultancy Services,Tradebook Consultancy Services Private Limited,253,,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,179,Barclays Securities (India),Barclays Securities (india) Private Limited,237,6528,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,180,Multigain Securities Services,Multigain Securities Services Pvt. Ltd.,185,3253,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,181,Sunshine Stock Broking,Sunshine Stock Broking Private Limited,183,1308,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,182,Dyna Wegmans Securities,Dyna Wegmans Securities Limited,168,1937,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,183,Nirmal Bang Equities,Nirmal Bang Equities Private Limited,154,3176,7,7,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,184,Avendus Wealth Management,Avendus Wealth Management Private Limited,154,266,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,185,Fortune Capital Services,Fortune Capital Services,103,1109,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,186,New Berry Capitals,New Berry Capitals Private Limited,80,952,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,187,Svcm Securities,Svcm Securities Private Limited,79,522,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,188,Arete Securities,Arete Securities Limited,77,11224,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,189,Ksn Credence Commodities Trading,Ksn Credence Commodities Trading Private Limited,70,200,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,190,Singhal Capital Services,Singhal Capital Services Ltd.,59,1246,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,191,Integra Securities,Integra Securities Private Limited,56,761,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,192,Maheshwari Equity Services (P),Maheshwari Equity Services (p) Limited,51,216,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,193,Elixir Equities,Elixir Equities Private Limited,41,1691,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,194,Dynamic Equities,Dynamic Equities Private Limited,40,25822,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,195,Shri Ram Commodities,Shri Ram Commodities,36,417,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,196,Khosla Tradewise,Khosla Tradewise Private Limited,33,260,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,197,Dhan Stock & Share Brokers,Dhan Stock & Share Brokers Pvt. Ltd.,27,230,51,48,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,198,Junomoneta Finsol,Junomoneta Finsol Private Limited,26,2,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,199,Bajaj Share & Stock Brokers,Bajaj Share & Stock Brokers Pvt. Ltd,20,126,5,4,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,200,Share India Algoplus,Share India Algoplus Private Limited,20,44,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,201,Kifs Broking,Kifs Broking Private Limited,6,14,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,202,Giriraj Stock Broking,Giriraj Stock Broking Private Limited,4,7,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,203,Finsol Securities,Finsol Securities Private Limited,1,2,65,63,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,204,Icici Bank,Icici Bank Ltd.,1,59,30,22,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,205,Delta Techinvest,Delta Techinvest Private Limited,1,1,8,4,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,206,Citadel Securities India Markets,Citadel Securities India Markets Private Limited,1,1,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,207,Yes Bank,Yes Bank Limited,1,1,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,208,Axis Bank,Axis Bank Ltd.,1,818,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,209,Bank Of Baroda,Bank Of Baroda,1,1,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,210,State Bank Of India,State Bank Of India,1,119,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,211,Union Bank Of India,Union Bank Of India,1,17,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,212,Central Bank Of India,Central Bank Of India,1,1,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,213,Centricity Securities,Centricity Securities Private Limited,1,3,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,214,Global Vision Securities,Global Vision Securities Private Limited,1,4,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,215,Hensex Securities,Hensex Securities Private Limited,1,10049,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,216,Punjab National Bank,Punjab National Bank,1,3,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
-2026-09,217,Stockfield Financial Services,Stockfield Financial Services Private Limited,1,949,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,1,Groww,Groww Invest Tech Private Limited,13448194,44850590,713,528,185,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,2,Zerodha,Zerodha Broking Limited,6791541,18034811,378,323,55,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,3,Angel One,Angel One Limited,6755711,39655653,658,486,172,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,4,ICICI Direct,Icici Securities Limited,2160619,12942453,410,331,79,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,5,Upstox,Upstox Securities Private Limited,1854285,19750654,514,448,66,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,6,Kotak Securities,Kotak Securities Ltd.,1391840,7469769,295,251,44,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,7,HDFC Securities,Hdfc Securities Ltd.,1353843,10047007,210,163,47,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,8,Dhan,Raise Securities Private Limited (formerly Known As Moneylicious Securities Private Limited) (dhan App),1120901,3533560,120,95,25,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,9,SBI Securities,Sbicap Securities Limited,1021295,8630814,169,138,31,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,10,Motilal Oswal,Motilal Oswal Financial Services Limited,908987,5440425,417,346,71,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,11,Paytm Money,Paytm Money Ltd.,762793,6543162,92,73,19,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,12,INDmoney,Indstocks Private Limited,718725,4756180,53,42,11,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,13,Sharekhan,Sharekhan Ltd.,527503,3700510,127,102,25,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,14,Axis Direct,Axis Securities Limited,428144,6763957,103,89,14,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,15,IIFL Securities,Iifl Capital Services Ltd.,340957,3593990,221,186,35,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,16,5Paisa,5paisa Capital Limited,321174,5179798,47,44,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,17,Sahi,Aaritya Broking Private Ltd,281028,357624,39,31,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,18,Choice,Choice Equity Broking Private Limited,242106,1273149,123,107,16,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,19,Geojit,Geojit Investments Limited,207487,1575490,17,16,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,20,Phonepe Wealth Broking,Phonepe Wealth Broking Private Limited,206598,1460632,17,13,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,21,Fyers,Fyers Securities Private Limited,197380,1065788,50,39,11,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,22,m.Stock (Mirae),Mirae Asset Capital Markets ( India ) Private Limited,183789,2487753,163,150,13,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,23,SMC Global,Smc Global Securities Ltd.,159588,912373,73,62,11,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,24,Jainam Broking,Jainam Broking Limited,153962,399819,87,83,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,25,Anand Rathi Share And Stock Brokers,Anand Rathi Share And Stock Brokers Limited,153235,781652,91,76,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,26,Nu Investors Technologies,Nu Investors Technologies Private Limited,152255,602548,94,75,19,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,27,Nuvama (Edelweiss),Nuvama Wealth And Investment Limited.,138354,1250980,38,30,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,28,Nirmal Bang Securities,Nirmal Bang Securities Pvt. Ltd.,135500,594423,70,55,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,29,Marwadi Shares And Finance,Marwadi Shares And Finance Limited,131766,427384,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,30,Religare,Religare Broking Limited,125814,1389069,64,49,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,31,Jm Financial Services,Jm Financial Services Limited,113385,474514,37,22,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,32,Ventura Securities,Ventura Securities Limited,99681,617618,21,20,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,33,Yes Securities (India),Yes Securities (india) Limited,95660,945987,35,29,6,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,34,Alice Blue,Alice Blue Fin Svcs P Ltd,94919,870578,41,37,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,35,Finvasia Securities,Finvasia Securities Private Limited,92194,512274,49,35,14,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,36,Moneywise Finvest,Moneywise Finvest Limited,81373,366939,58,43,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,37,Tradebulls Securities (P),Tradebulls Securities (p) Ltd.,78255,349014,83,76,7,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,38,Nj India Invest,Nj India Invest Private Limited,74648,1877380,5,4,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,39,Stockholding Services,Stockholding Services Limited,71090,310440,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,40,Aditya Birla Money,Aditya Birla Money Limited,68735,903586,35,31,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,41,Bajaj Financial Securities,Bajaj Financial Securities Ltd.,66938,1378118,44,32,12,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,42,Indiabulls Securities,Indiabulls Securities Limited (formerly Known As Dhani Stocks Limited),61352,893891,57,48,9,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,43,Jhaveri Securities,Jhaveri Securities Limited,59352,184924,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,44,Master Capital Services,Master Capital Services Limited,59097,343234,12,9,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,45,Idbi Capital Markets & Securities,Idbi Capital Markets & Securities Ltd.,58515,434632,23,19,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,46,Arihant Capital Markets,Arihant Capital Markets Limited,55152,251047,36,28,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,47,Bonanza Portfolio,Bonanza Portfolio Ltd.,55139,511490,15,14,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,48,Samco,Samco Securities Limited,52444,577906,54,44,10,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,49,Globe Capital Market,Globe Capital Market Limited,52333,286701,33,31,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,50,Monarch Networth Capital,Monarch Networth Capital Limited,51226,320547,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,51,Integrated Enterprises (India),Integrated Enterprises (india) Private Limited,50986,259149,20,10,10,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,52,Swastika Investmart,Swastika Investmart Limited,50148,431213,11,2,9,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,53,Indusind Securities,Indusind Securities Limited (formerly Known As Reliance Securities Limited),48610,1097317,39,35,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,54,Sushil Financial Services,Sushil Financial Services Private Limited,47481,235457,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,55,Suresh Rathi Securities,Suresh Rathi Securities Private Limited,45707,154959,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,56,Prabhudas Lilladher,Prabhudas Lilladher Pvt. Ltd.,45137,194328,33,25,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,57,South Asian Stocks,South Asian Stocks Ltd.,44365,68719,7,6,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,58,Flattrade Broking,Flattrade Broking Private Limited,40795,131102,41,37,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,59,Shah Investors Home,Shah Investors Home Limited,37675,137582,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,60,Univest Stock Broking,Univest Stock Broking Private Limited,37096,110952,20,20,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,61,Econo Broking,Econo Broking Private Limited,33451,86196,1,1,0,1,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,62,Shri Parasram Holdings,Shri Parasram Holdings Pvt. Ltd.,32634,180043,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,63,Aionion Capital Market Services,Aionion Capital Market Services Private Limited,31626,36035,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,64,Marketwolf Securities,Marketwolf Securities Private Limited,31190,821517,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,65,Lakshmishree Investment & Securities,Lakshmishree Investment & Securities Pvt. Ltd.,26636,93945,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,66,Eureka Stock & Share Broking Services,Eureka Stock & Share Broking Services Limited,26101,95735,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,67,Shriram Insight Share Brokers,Shriram Insight Share Brokers Limited,25681,215993,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,68,Profitmart Securities,Profitmart Securities Private Limited,24748,240048,13,12,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,69,Lkp Securities,Lkp Securities Ltd.,23178,171433,7,6,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,70,Way2Wealth Brokers,Way2wealth Brokers Private Limited,21881,173118,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,71,Goodwill Wealth Management,Goodwill Wealth Management Pvt Ltd,21174,234423,31,16,15,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,72,Kifs Trade Capital,Kifs Trade Capital Private Limited,20585,117486,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,73,Ashika Stock Broking,Ashika Stock Broking Ltd.,19968,128092,7,6,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,74,B N Rathi Securities,B N Rathi Securities Limited,18702,91769,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,75,Canara Bank Securities,Canara Bank Securities Limited,17494,137650,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,76,Bob Capital Markets,Bob Capital Markets Limited,16385,310573,34,25,9,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,77,Acumen Capital Market (India),Acumen Capital Market (india) Ltd,16145,130442,7,3,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,78,Ans,Ans Pvt. Ltd.,15487,55022,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,79,Navia Markets,Navia Markets Ltd.,15159,117036,16,14,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,80,Market Pulse Securities,Market Pulse Securities Private Limited,14532,199324,6,6,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,81,Gopocket Invest Tech,Gopocket Invest Tech Private Limited (formerly Known As Sky Commodities India Pvt Ltd),14483,50666,64,62,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,82,Bhansali Value Creations,Bhansali Value Creations Private Limited,14358,44622,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,83,Iss Enterprise,Iss Enterprise Limited,14283,157929,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,84,Zebu Share And Wealth Managements,Zebu Share And Wealth Managements Private Limited,13976,96334,5,0,5,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,85,Alankit Imaginations,Alankit Imaginations Limited,13670,129787,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,86,Rudra Shares & Stock Brokers,Rudra Shares & Stock Brokers Ltd,13011,42664,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,87,Bp Equities,Bp Equities Private Limited,12561,55006,6,6,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,88,Sykes & Ray Equities (I),Sykes & Ray Equities (i) Ltd.,12431,88651,3,0,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,89,Finwizard Technology,Finwizard Technology Private Limited,12331,370153,10,8,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,90,Bgse Financials,Bgse Financials Limited,12328,105501,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,91,Indbank Merchant Banking Services,Indbank Merchant Banking Services Ltd.,12099,67800,3,2,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,92,Astha Credit & Securities (P),Astha Credit & Securities (p) Ltd,11813,187861,3,2,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,93,Tradejini Financial Services,Tradejini Financial Services Pvt Ltd,11680,66086,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,94,Pravin Ratilal Share And Stock Brokers,Pravin Ratilal Share And Stock Brokers Ltd,11545,39966,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,95,Pocketful Fintech Capital,Pocketful Fintech Capital Private Limited,11460,14392,34,30,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,96,Inventure Growth & Securities,Inventure Growth & Securities Limited,11128,51033,8,8,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,97,Enrich Financial Market,Enrich Financial Market Private Limited,10512,86449,3,1,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,98,Kunvarji Finstock,Kunvarji Finstock Pvt. Ltd.,10466,61135,10,9,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,99,Trustline Securities,Trustline Securities Limited,10450,135270,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,100,Jk Securities,Jk Securities Pvt. Ltd.,10171,42587,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,101,Gepl Capital,Gepl Capital Private Limited,9907,44639,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,102,Indira Securities,Indira Securities Private Limited,9706,49531,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,103,Wealth India Financial Services,Wealth India Financial Services Pvt Ltd,9264,79189,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,104,Standard Chartered Securities (India),Standard Chartered Securities (india) Limited,9058,202165,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,105,Share India Securities,Share India Securities Limited,8798,44809,5,4,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,106,A C Agarwal Share Brokers,A C Agarwal Share Brokers Pvt Ltd,8620,27258,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,107,Adroit Financial Services,Adroit Financial Services Private Limited,8221,62288,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,108,Sunidhi Securities & Finance,Sunidhi Securities & Finance Limited,7803,60156,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,109,Mansukh Securities & Finance,Mansukh Securities & Finance Limited,7681,85820,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,110,Definedge Securities Broking,Definedge Securities Broking Private Limited,7537,42625,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,111,Wealthyin Broking,Wealthyin Broking Private Limited,7454,33645,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,112,Smifs,Smifs Limited,6995,35945,15,7,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,113,Mehta Equities,Mehta Equities Limited,6878,41046,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,114,Capstocks & Securities (India),Capstocks & Securities (india) Private Limited,6625,47101,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,115,Prithvi Finmart,Prithvi Finmart Private Limited,6529,22955,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,116,Sunlight Broking Llp,Sunlight Broking Llp,6461,19342,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,117,Mintcap Brokers,Mintcap Brokers Private Limited,6408,3101,5,4,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,118,R K Global Shares & Securities,R K Global Shares & Securities Limited,6289,62867,9,3,6,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,119,Ganganagar Commodity,Ganganagar Commodity Limited,5932,19948,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,120,Krchoksey Shares And Securities,Krchoksey Shares And Securities Private Limited,5873,67108,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,121,Mangal Keshav Financial Services Llp,Mangal Keshav Financial Services Llp,5698,86685,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,122,Elite Wealth,Elite Wealth Limited,5662,41621,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,123,Raghunandan Capital,Raghunandan Capital Private Limited,5414,35739,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,124,Zanskar Securities,Zanskar Securities Private Limited,5272,24431,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,125,Rikhav Securities,Rikhav Securities Limited,5162,21402,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,126,Systematix Shares & Stocks (India),Systematix Shares & Stocks (india) Ltd.,5010,61900,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,127,Marfatia Stock Broking,Marfatia Stock Broking Private Limited,5000,32467,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,128,India Advantage Securities,India Advantage Securities Private Limited,4496,28084,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,129,Peerless Securities,Peerless Securities Limited,4396,27148,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,130,Tradeswift Broking,Tradeswift Broking Private Limited,4139,19318,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,131,Pace Stock Broking Services,Pace Stock Broking Services Private Limited,4080,46104,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,132,Zuari Finserv,Zuari Finserv Limited,4055,27147,5,2,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,133,Muthoot Securities,Muthoot Securities Ltd.,3654,80376,3,2,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,134,Ifci Financial Services,Ifci Financial Services Limited,3562,36784,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,135,Arham Wealth Management,Arham Wealth Management Pvt Ltd,3347,11598,8,8,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,136,Julius Baer Wealth Advisors (India),Julius Baer Wealth Advisors (india) Private Limited,3260,8884,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,137,Kantilal Chhaganlal Securities,Kantilal Chhaganlal Securities Private Limited,3167,53214,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,138,Ashlar Securities,Ashlar Securities Private Limited,3149,37665,11,11,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,139,Centrum Finverse,Centrum Finverse Limited,2886,19433,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,140,Kedia Capital Services,Kedia Capital Services Private Limited,2786,15446,4,3,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,141,Ats Share Brokers,Ats Share Brokers Private Limited,2777,33643,7,5,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,142,Navkar Share & Stock Brokers,Navkar Share & Stock Brokers Private Limited,2601,7345,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,143,Mse Financial Services,Mse Financial Services Ltd.,2426,21384,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,144,Skp Securities,Skp Securities Ltd.,2360,26668,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,145,Mandot Securities,Mandot Securities Private Limited,2190,38373,8,7,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,146,Greshma Shares & Stocks,Greshma Shares & Stocks Limited,2184,10119,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,147,Balaji Equities,Balaji Equities Ltd.,2035,20160,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,148,Ajcon Global Services,Ajcon Global Services Limited,2028,19745,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,149,Centrum Broking,Centrum Broking Limited,2009,36612,6,6,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,150,Ghalla Bhansali Stock Brokers,Ghalla Bhansali Stock Brokers Private Limited,1927,8810,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,151,Nikunj Stock Brokers,Nikunj Stock Brokers Ltd.,1898,12785,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,152,Ski Capital Services,Ski Capital Services Ltd.,1680,14388,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,153,Incred Capital Wealth Portfolio Managers,Incred Capital Wealth Portfolio Managers Private Limited,1613,8447,3,0,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,154,Ambalal Shares And Stocks,Ambalal Shares And Stocks Private Limited,1528,14862,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,155,Frr Shares And Securities,Frr Shares And Securities Limited,1430,11556,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,156,Fair Intermediate Investment,Fair Intermediate Investment Pvt. Ltd.,1424,14103,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,157,Bondbazaar Securities,Bondbazaar Securities Private Limited,1387,25586,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,158,Dealmoney Commodities,Dealmoney Commodities Pvt. Ltd.,1295,89004,5,5,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,159,Abhipra Capital,Abhipra Capital Limited,1222,32721,4,1,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,160,Interactive Brokers (India),Interactive Brokers (india) Private Limited,1098,8728,9,9,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,161,Uae Exchange & Finance,Uae Exchange & Finance Ltd.,925,17269,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,162,Anush Shares & Securities,Anush Shares & Securities Pvt.ltd.,905,10698,8,0,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,163,Aum Securities,Aum Securities Private Ltd.,884,3004,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,164,Nnm Securities,Nnm Securities Pvt. Ltd.,876,4642,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,165,Achintya Securities,Achintya Securities Limited,768,4443,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,166,Baljit Securities,Baljit Securities Pvt. Ltd.,738,7115,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,167,Kedia Shares & Stocks Brokers,Kedia Shares & Stocks Brokers Limited,704,3565,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,168,Neo Wealth Management,Neo Wealth Management Private Limited,701,2150,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,169,Stockology Securities,Stockology Securities Private Limited,677,260,14,11,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,170,Lalkar Securities,Lalkar Securities Private Limited,661,4308,29,29,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,171,Nuvama Wealth Management Limited,Nuvama Wealth Management Limited,618,35973,10,5,5,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,172,Marck Securities,Marck Securities Pvt. Ltd.,485,7404,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,173,Morgan Stanley India Company,Morgan Stanley India Company Private Limited,406,21158,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,174,Bnp Paribas Securities India,Bnp Paribas Securities India Private Limited,402,6793,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,175,Growth Securities,Growth Securities Private Limited,320,1314,5,5,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,176,Saurashtra Capital Services,Saurashtra Capital Services Pvt. Ltd,269,3051,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,177,Hsbc Securities & Capital Markets (India),Hsbc Securities & Capital Markets (india) Pvt. Ltd.,258,15540,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,178,Tradebook Consultancy Services,Tradebook Consultancy Services Private Limited,253,,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,179,Barclays Securities (India),Barclays Securities (india) Private Limited,237,6528,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,180,Multigain Securities Services,Multigain Securities Services Pvt. Ltd.,185,3253,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,181,Sunshine Stock Broking,Sunshine Stock Broking Private Limited,183,1308,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,182,Dyna Wegmans Securities,Dyna Wegmans Securities Limited,168,1937,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,183,Nirmal Bang Equities,Nirmal Bang Equities Private Limited,154,3176,7,7,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,184,Avendus Wealth Management,Avendus Wealth Management Private Limited,154,266,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,185,Fortune Capital Services,Fortune Capital Services,103,1109,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,186,New Berry Capitals,New Berry Capitals Private Limited,80,952,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,187,Svcm Securities,Svcm Securities Private Limited,79,522,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,188,Arete Securities,Arete Securities Limited,77,11224,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,189,Ksn Credence Commodities Trading,Ksn Credence Commodities Trading Private Limited,70,200,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,190,Singhal Capital Services,Singhal Capital Services Ltd.,59,1246,4,4,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,191,Integra Securities,Integra Securities Private Limited,56,761,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,192,Maheshwari Equity Services (P),Maheshwari Equity Services (p) Limited,51,216,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,193,Elixir Equities,Elixir Equities Private Limited,41,1691,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,194,Dynamic Equities,Dynamic Equities Private Limited,40,25822,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,195,Shri Ram Commodities,Shri Ram Commodities,36,417,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,196,Khosla Tradewise,Khosla Tradewise Private Limited,33,260,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,197,Dhan Stock & Share Brokers,Dhan Stock & Share Brokers Pvt. Ltd.,27,230,51,48,3,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,198,Junomoneta Finsol,Junomoneta Finsol Private Limited,26,2,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,199,Bajaj Share & Stock Brokers,Bajaj Share & Stock Brokers Pvt. Ltd,20,126,5,4,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,200,Share India Algoplus,Share India Algoplus Private Limited,20,44,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,201,Kifs Broking,Kifs Broking Private Limited,6,14,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,202,Giriraj Stock Broking,Giriraj Stock Broking Private Limited,4,7,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,203,Finsol Securities,Finsol Securities Private Limited,1,2,65,63,2,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,204,Icici Bank,Icici Bank Ltd.,1,59,30,22,8,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,205,Delta Techinvest,Delta Techinvest Private Limited,1,1,8,4,4,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,206,Citadel Securities India Markets,Citadel Securities India Markets Private Limited,1,1,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,207,Yes Bank,Yes Bank Limited,1,1,3,3,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,208,Axis Bank,Axis Bank Ltd.,1,818,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,209,Bank Of Baroda,Bank Of Baroda,1,1,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,210,State Bank Of India,State Bank Of India,1,119,2,1,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,211,Union Bank Of India,Union Bank Of India,1,17,2,2,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,212,Central Bank Of India,Central Bank Of India,1,1,1,0,1,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,213,Centricity Securities,Centricity Securities Private Limited,1,3,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,214,Global Vision Securities,Global Vision Securities Private Limited,1,4,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,215,Hensex Securities,Hensex Securities Private Limited,1,10049,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,216,Punjab National Bank,Punjab National Bank,1,3,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-09,217,Stockfield Financial Services,Stockfield Financial Services Private Limited,1,949,1,1,0,0,https://web.archive.org/web/20261007183127/https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,1,Groww,Groww Invest Tech Private Limited,13752402,44850590,818,681,137,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,2,Angel One,Angel One Limited,6998516,39655653,764,667,97,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,3,Zerodha,Zerodha Broking Limited,6759106,18034811,435,377,58,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,4,ICICI Direct,Icici Securities Limited,2164341,12942453,463,403,60,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,5,Upstox,Upstox Securities Private Limited,1842937,19750654,578,509,69,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,6,Kotak Securities,Kotak Securities Ltd.,1404735,7469769,329,293,36,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,7,HDFC Securities,Hdfc Securities Ltd.,1360386,10047007,246,200,46,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,8,Dhan,Raise Securities Private Limited (formerly Known As Moneylicious Securities Private Limited) (dhan App),1146640,3533560,127,117,10,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,9,SBI Securities,Sbicap Securities Limited,1004107,8630814,217,172,45,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,10,Motilal Oswal,Motilal Oswal Financial Services Limited,916270,5440425,476,410,66,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,11,Paytm Money,Paytm Money Ltd.,730292,6543162,121,90,31,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,12,INDmoney,Indstocks Private Limited,720574,4756180,59,52,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,13,Sharekhan,Sharekhan Ltd.,529021,3700510,147,128,19,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,14,Axis Direct,Axis Securities Limited,421853,6763957,117,104,13,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,15,IIFL Securities,Iifl Capital Services Ltd.,346052,3593990,246,224,22,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,16,5Paisa,5paisa Capital Limited,321263,5179798,55,49,6,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,17,Sahi,Aaritya Broking Private Ltd,315400,357624,48,40,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,18,Choice,Choice Equity Broking Private Limited,243203,1273149,133,121,12,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,19,Phonepe Wealth Broking,Phonepe Wealth Broking Private Limited,213639,1460632,19,16,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,20,Geojit,Geojit Investments Limited,200967,1575490,25,17,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,21,Fyers,Fyers Securities Private Limited,199413,1065788,57,46,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,22,Nu Investors Technologies,Nu Investors Technologies Private Limited,178748,602548,105,92,13,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,23,m.Stock (Mirae),Mirae Asset Capital Markets ( India ) Private Limited,177283,2487753,174,167,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,24,Jainam Broking,Jainam Broking Limited,160575,399819,94,84,10,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,25,SMC Global,Smc Global Securities Ltd.,159550,912373,85,69,16,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,26,Anand Rathi Share And Stock Brokers,Anand Rathi Share And Stock Brokers Limited,155883,781652,102,88,14,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,27,Nuvama (Edelweiss),Nuvama Wealth And Investment Limited.,138045,1250980,41,36,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,28,Nirmal Bang Securities,Nirmal Bang Securities Pvt. Ltd.,135865,594423,71,63,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,29,Marwadi Shares And Finance,Marwadi Shares And Finance Limited,134859,427384,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,30,Religare,Religare Broking Limited,124670,1389069,72,56,16,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,31,Jm Financial Services,Jm Financial Services Limited,113283,474514,40,33,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,32,Ventura Securities,Ventura Securities Limited,99757,617618,27,22,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,33,Alice Blue,Alice Blue Fin Svcs P Ltd,95440,870578,46,44,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,34,Yes Securities (India),Yes Securities (india) Limited,95134,945987,43,32,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,35,Finvasia Securities,Finvasia Securities Private Limited,90985,512274,62,47,15,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,36,Moneywise Finvest,Moneywise Finvest Limited,81738,366939,63,58,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,37,Tradebulls Securities (P),Tradebulls Securities (p) Ltd.,79312,349014,96,80,16,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,38,Nj India Invest,Nj India Invest Private Limited,75941,1877380,9,5,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,39,Stockholding Services,Stockholding Services Limited,69998,310440,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,40,Aditya Birla Money,Aditya Birla Money Limited,68762,903586,38,36,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,41,Bajaj Financial Securities,Bajaj Financial Securities Ltd.,68012,1378118,52,45,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,42,Master Capital Services,Master Capital Services Limited,61965,343234,16,11,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,43,Indiabulls Securities,Indiabulls Securities Limited (formerly Known As Dhani Stocks Limited),61109,893891,59,56,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,44,Jhaveri Securities,Jhaveri Securities Limited,60703,184924,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,45,Idbi Capital Markets & Securities,Idbi Capital Markets & Securities Ltd.,59626,434632,26,22,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,46,Arihant Capital Markets,Arihant Capital Markets Limited,55893,251047,46,35,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,47,Bonanza Portfolio,Bonanza Portfolio Ltd.,55696,511490,28,17,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,48,Monarch Networth Capital,Monarch Networth Capital Limited,51913,320547,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,49,Globe Capital Market,Globe Capital Market Limited,51716,286701,34,33,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,50,Samco,Samco Securities Limited,51500,577906,61,54,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,51,Integrated Enterprises (India),Integrated Enterprises (india) Private Limited,50917,259149,23,21,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,52,Swastika Investmart,Swastika Investmart Limited,50550,431213,13,9,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,53,Indusind Securities,Indusind Securities Limited (formerly Known As Reliance Securities Limited),48688,1097317,46,39,7,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,54,South Asian Stocks,South Asian Stocks Ltd.,48597,68719,7,7,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,55,Sushil Financial Services,Sushil Financial Services Private Limited,47810,235457,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,56,Suresh Rathi Securities,Suresh Rathi Securities Private Limited,47717,154959,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,57,Prabhudas Lilladher,Prabhudas Lilladher Pvt. Ltd.,45437,194328,38,29,9,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,58,Flattrade Broking,Flattrade Broking Private Limited,41530,131102,53,43,10,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,59,Shah Investors Home,Shah Investors Home Limited,38242,137582,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,60,Univest Stock Broking,Univest Stock Broking Private Limited,38131,110952,23,20,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,61,Econo Broking,Econo Broking Private Limited,34634,86196,1,1,0,1,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,62,Shri Parasram Holdings,Shri Parasram Holdings Pvt. Ltd.,32859,180043,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,63,Aionion Capital Market Services,Aionion Capital Market Services Private Limited,31887,36035,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,64,Marketwolf Securities,Marketwolf Securities Private Limited,29541,821517,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,65,Lakshmishree Investment & Securities,Lakshmishree Investment & Securities Pvt. Ltd.,27325,93945,3,1,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,66,Eureka Stock & Share Broking Services,Eureka Stock & Share Broking Services Limited,25772,95735,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,67,Shriram Insight Share Brokers,Shriram Insight Share Brokers Limited,25507,215993,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,68,Profitmart Securities,Profitmart Securities Private Limited,24472,240048,14,13,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,69,Lkp Securities,Lkp Securities Ltd.,22955,171433,8,6,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,70,Way2Wealth Brokers,Way2wealth Brokers Private Limited,21657,173118,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,71,Goodwill Wealth Management,Goodwill Wealth Management Pvt Ltd,21002,234423,39,35,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,72,Kifs Trade Capital,Kifs Trade Capital Private Limited,20981,117486,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,73,Ashika Stock Broking,Ashika Stock Broking Ltd.,19973,128092,7,7,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,74,B N Rathi Securities,B N Rathi Securities Limited,18913,91769,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,75,Cholamandalam Securities,Cholamandalam Securities Limited,17806,88780,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,76,Bob Capital Markets,Bob Capital Markets Limited,17773,310573,46,35,11,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,77,Canara Bank Securities,Canara Bank Securities Limited,17241,137650,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,78,Ans,Ans Pvt. Ltd.,15987,55022,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,79,Acumen Capital Market (India),Acumen Capital Market (india) Ltd,15854,130442,7,4,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,80,Navia Markets,Navia Markets Ltd.,15343,117036,16,15,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,81,Bhansali Value Creations,Bhansali Value Creations Private Limited,14655,44622,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,82,Iss Enterprise,Iss Enterprise Limited,14343,157929,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,83,Gopocket Invest Tech,Gopocket Invest Tech Private Limited (formerly Known As Sky Commodities India Pvt Ltd),14197,50666,75,66,9,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,84,Zebu Share And Wealth Managements,Zebu Share And Wealth Managements Private Limited,13994,96334,5,1,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,85,Market Pulse Securities,Market Pulse Securities Private Limited,13933,199324,12,6,6,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,86,Alankit Imaginations,Alankit Imaginations Limited,13811,129787,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,87,Pocketful Fintech Capital,Pocketful Fintech Capital Private Limited,13462,14392,40,32,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,88,Rudra Shares & Stock Brokers,Rudra Shares & Stock Brokers Ltd,13339,42664,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,89,Bp Equities,Bp Equities Private Limited,12701,55006,6,6,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,90,Sykes & Ray Equities (I),Sykes & Ray Equities (i) Ltd.,12384,88651,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,91,Bgse Financials,Bgse Financials Limited,12258,105501,2,1,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,92,Indbank Merchant Banking Services,Indbank Merchant Banking Services Ltd.,11823,67800,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,93,Astha Credit & Securities (P),Astha Credit & Securities (p) Ltd,11788,187861,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,94,Pravin Ratilal Share And Stock Brokers,Pravin Ratilal Share And Stock Brokers Ltd,11744,39966,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,95,Tradejini Financial Services,Tradejini Financial Services Pvt Ltd,11626,66086,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,96,Inventure Growth & Securities,Inventure Growth & Securities Limited,11164,51033,8,8,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,97,Finwizard Technology,Finwizard Technology Private Limited,11127,370153,10,10,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,98,Enrich Financial Market,Enrich Financial Market Private Limited,10741,86449,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,99,Kunvarji Finstock,Kunvarji Finstock Pvt. Ltd.,10546,61135,10,10,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,100,Trustline Securities,Trustline Securities Limited,10364,135270,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,101,Jk Securities,Jk Securities Pvt. Ltd.,10214,42587,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,102,Indira Securities,Indira Securities Private Limited,9866,49531,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,103,Gepl Capital,Gepl Capital Private Limited,9442,44639,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,104,Wealth India Financial Services,Wealth India Financial Services Pvt Ltd,9120,79189,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,105,Standard Chartered Securities (India),Standard Chartered Securities (india) Limited,9054,202165,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,106,Share India Securities,Share India Securities Limited,8803,44809,6,4,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,107,A C Agarwal Share Brokers,A C Agarwal Share Brokers Pvt Ltd,8759,27258,3,1,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,108,Adroit Financial Services,Adroit Financial Services Private Limited,8369,62288,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,109,Wealthyin Broking,Wealthyin Broking Private Limited,7894,33645,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,110,Mansukh Securities & Finance,Mansukh Securities & Finance Limited,7750,85820,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,111,Sunidhi Securities & Finance,Sunidhi Securities & Finance Limited,7708,60156,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,112,Definedge Securities Broking,Definedge Securities Broking Private Limited,7659,42625,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,113,Smifs,Smifs Limited,7203,35945,15,14,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,114,Mehta Equities,Mehta Equities Limited,6929,41046,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,115,Capstocks & Securities (India),Capstocks & Securities (india) Private Limited,6568,47101,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,116,Prithvi Finmart,Prithvi Finmart Private Limited,6486,22955,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,117,Sunlight Broking Llp,Sunlight Broking Llp,6439,19342,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,118,Mintcap Brokers,Mintcap Brokers Private Limited,6416,3101,5,5,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,119,R K Global Shares & Securities,R K Global Shares & Securities Limited,6263,62867,9,4,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,120,Ganganagar Commodity,Ganganagar Commodity Limited,6244,19948,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,121,Coimbatore Capital,Coimbatore Capital Limited,6212,48457,2,0,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,122,Krchoksey Shares And Securities,Krchoksey Shares And Securities Private Limited,5945,67108,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,123,Elite Wealth,Elite Wealth Limited,5846,41621,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,124,Mangal Keshav Financial Services Llp,Mangal Keshav Financial Services Llp,5670,86685,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,125,Zanskar Securities,Zanskar Securities Private Limited,5575,24431,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,126,Raghunandan Capital,Raghunandan Capital Private Limited,5460,35739,3,2,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,127,Rikhav Securities,Rikhav Securities Limited,5192,21402,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,128,Marfatia Stock Broking,Marfatia Stock Broking Private Limited,5035,32467,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,129,Systematix Shares & Stocks (India),Systematix Shares & Stocks (india) Ltd.,4992,61900,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,130,360 One Distribution Services,360 One Distribution Services Limited,4565,25058,2,0,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,131,India Advantage Securities,India Advantage Securities Private Limited,4520,28084,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,132,Peerless Securities,Peerless Securities Limited,4379,27148,6,1,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,133,Rajvi Stock Broking,Rajvi Stock Broking Private Limited,4203,20430,4,0,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,134,Tradeswift Broking,Tradeswift Broking Private Limited,4191,19318,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,135,Zuari Finserv,Zuari Finserv Limited,4068,27147,6,2,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,136,Pace Stock Broking Services,Pace Stock Broking Services Private Limited,4046,46104,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,137,Ifci Financial Services,Ifci Financial Services Limited,3566,36784,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,138,Muthoot Securities,Muthoot Securities Ltd.,3465,80376,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,139,Arham Wealth Management,Arham Wealth Management Pvt Ltd,3383,11598,8,8,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,140,Julius Baer Wealth Advisors (India),Julius Baer Wealth Advisors (india) Private Limited,3256,8884,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,141,Kantilal Chhaganlal Securities,Kantilal Chhaganlal Securities Private Limited,3152,53214,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,142,Centrum Finverse,Centrum Finverse Limited,3145,19433,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,143,Ashlar Securities,Ashlar Securities Private Limited,3113,37665,14,11,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,144,Ats Share Brokers,Ats Share Brokers Private Limited,2809,33643,8,7,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,145,Kedia Capital Services,Kedia Capital Services Private Limited,2791,15446,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,146,Navkar Share & Stock Brokers,Navkar Share & Stock Brokers Private Limited,2636,7345,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,147,Skp Securities,Skp Securities Ltd.,2316,26668,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,148,Greshma Shares & Stocks,Greshma Shares & Stocks Limited,2216,10119,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,149,Mandot Securities,Mandot Securities Private Limited,2201,38373,9,8,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,150,Mse Financial Services,Mse Financial Services Ltd.,2163,21384,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,151,Integrated Master Securities,Integrated Master Securities Pvt. Ltd.,2035,18587,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,152,Balaji Equities,Balaji Equities Ltd.,2014,20160,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,153,Ghalla Bhansali Stock Brokers,Ghalla Bhansali Stock Brokers Private Limited,1992,8810,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,154,Ajcon Global Services,Ajcon Global Services Limited,1964,19745,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,155,Nikunj Stock Brokers,Nikunj Stock Brokers Ltd.,1888,12785,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,156,Centrum Broking,Centrum Broking Limited,1767,36612,6,6,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,157,Ski Capital Services,Ski Capital Services Ltd.,1660,14388,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,158,Incred Capital Wealth Portfolio Managers,Incred Capital Wealth Portfolio Managers Private Limited,1632,8447,3,1,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,159,Cil Securities,Cil Securities Ltd.,1511,14785,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,160,Ambalal Shares And Stocks,Ambalal Shares And Stocks Private Limited,1505,14862,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,161,Fair Intermediate Investment,Fair Intermediate Investment Pvt. Ltd.,1430,14103,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,162,Bondbazaar Securities,Bondbazaar Securities Private Limited,1408,25586,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,163,Frr Shares And Securities,Frr Shares And Securities Limited,1408,11556,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,164,Abhipra Capital,Abhipra Capital Limited,1206,32721,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,165,Dealmoney Commodities,Dealmoney Commodities Pvt. Ltd.,1106,89004,6,5,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,166,Interactive Brokers (India),Interactive Brokers (india) Private Limited,1085,8728,9,9,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,167,Anush Shares & Securities,Anush Shares & Securities Pvt.ltd.,901,10698,8,0,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,168,Aum Securities,Aum Securities Private Ltd.,876,3004,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,169,Nnm Securities,Nnm Securities Pvt. Ltd.,859,4642,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,170,Psb Securities,Psb Securities Limited,838,10197,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,171,Stockology Securities,Stockology Securities Private Limited,828,260,18,14,4,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,172,Uae Exchange & Finance,Uae Exchange & Finance Ltd.,825,17269,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,173,Mnm Stock Broking  Pvt Ltd,Mnm Stock Broking  Pvt Ltd,789,2902,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,174,Achintya Securities,Achintya Securities Limited,770,4443,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,175,Baljit Securities,Baljit Securities Pvt. Ltd.,755,7115,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,176,Neo Wealth Management,Neo Wealth Management Private Limited,734,2150,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,177,Kedia Shares & Stocks Brokers,Kedia Shares & Stocks Brokers Limited,706,3565,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,178,Lalkar Securities,Lalkar Securities Private Limited,655,4308,29,29,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,179,Nuvama Wealth Management Limited,Nuvama Wealth Management Limited,620,35973,10,9,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,180,Tradebook Consultancy Services,Tradebook Consultancy Services Private Limited,596,,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,181,Marck Securities,Marck Securities Pvt. Ltd.,475,7404,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,182,Bnp Paribas Securities India,Bnp Paribas Securities India Private Limited,405,6793,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,183,Morgan Stanley India Company,Morgan Stanley India Company Private Limited,401,21158,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,184,Growth Securities,Growth Securities Private Limited,318,1314,5,5,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,185,Mithun Securities,Mithun Securities Pvt. Ltd.,291,6752,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,186,Saurashtra Capital Services,Saurashtra Capital Services Pvt. Ltd,268,3051,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,187,Hsbc Securities & Capital Markets (India),Hsbc Securities & Capital Markets (india) Pvt. Ltd.,256,15540,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,188,Barclays Securities (India),Barclays Securities (india) Private Limited,233,6528,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,189,Sunshine Stock Broking,Sunshine Stock Broking Private Limited,185,1308,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,190,Multigain Securities Services,Multigain Securities Services Pvt. Ltd.,182,3253,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,191,Avendus Wealth Management,Avendus Wealth Management Private Limited,171,266,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,192,Dyna Wegmans Securities,Dyna Wegmans Securities Limited,171,1937,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,193,Nirmal Bang Equities,Nirmal Bang Equities Private Limited,154,3176,7,7,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,194,Zen Securities,Zen Securities Ltd.,113,105192,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,195,Asnani Stock Broker,Asnani Stock Broker Private Limited,110,1148,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,196,As Bullshify,As Bullshify Pvt Ltd,103,3,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,197,Fortune Capital Services,Fortune Capital Services,101,1109,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,198,New Berry Capitals,New Berry Capitals Private Limited,80,952,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,199,Arete Securities,Arete Securities Limited,76,11224,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,200,Ksn Credence Commodities Trading,Ksn Credence Commodities Trading Private Limited,70,200,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,201,Svcm Securities,Svcm Securities Private Limited,69,522,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,202,Integra Securities,Integra Securities Private Limited,53,761,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,203,Maheshwari Equity Services (P),Maheshwari Equity Services (p) Limited,52,216,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,204,Dynamic Equities,Dynamic Equities Private Limited,40,25822,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,205,Elixir Equities,Elixir Equities Private Limited,38,1691,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,206,Shri Ram Commodities,Shri Ram Commodities,34,417,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,207,Khosla Tradewise,Khosla Tradewise Private Limited,33,260,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,208,Singhal Capital Services,Singhal Capital Services Ltd.,29,1246,4,4,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,209,Dhan Stock & Share Brokers,Dhan Stock & Share Brokers Pvt. Ltd.,28,230,57,52,5,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,210,Junomoneta Finsol,Junomoneta Finsol Private Limited,27,2,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,211,Share India Algoplus,Share India Algoplus Private Limited,21,44,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,212,Bullpulse Marketedge,Bullpulse Marketedge Private Limited,19,34,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,213,Bajaj Share & Stock Brokers,Bajaj Share & Stock Brokers Pvt. Ltd,18,126,5,5,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,214,Goenka Capital Market Services,Goenka Capital Market Services,9,878,3,0,3,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,215,Giriraj Stock Broking,Giriraj Stock Broking Private Limited,6,7,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,216,Kifs Broking,Kifs Broking Private Limited,6,14,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,217,Centricity Securities,Centricity Securities Private Limited,2,3,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,218,Finsol Securities,Finsol Securities Private Limited,1,2,73,71,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,219,Icici Bank,Icici Bank Ltd.,1,59,33,31,2,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,220,Delta Techinvest,Delta Techinvest Private Limited,1,1,22,14,8,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,221,Citadel Securities India Markets,Citadel Securities India Markets Private Limited,1,1,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,222,Yes Bank,Yes Bank Limited,1,1,3,3,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,223,Bank Of Baroda,Bank Of Baroda,1,1,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,224,State Bank Of India,State Bank Of India,1,119,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,225,Union Bank Of India,Union Bank Of India,1,17,2,2,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,226,Axis Bank,Axis Bank Ltd.,1,818,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,227,Central Bank Of India,Central Bank Of India,1,1,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,228,Global Vision Securities,Global Vision Securities Private Limited,1,4,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,229,Hensex Securities,Hensex Securities Private Limited,1,10049,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,230,Punjab National Bank,Punjab National Bank,1,3,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,231,Stockfield Financial Services,Stockfield Financial Services Private Limited,1,949,1,1,0,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
+2026-10,232,Universal Stock Brokers,Universal Stock Brokers Pvt. Ltd.,1,83,1,0,1,0,https://nsearchives.nseindia.com/miscellaneous/ArbitrationReports/isc_report1C_2627.xls
