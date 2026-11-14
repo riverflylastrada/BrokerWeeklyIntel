@@ -1,14 +1,14 @@
 {
  "category": "pms",
- "week": "2026-W45",
- "generated_at": "2026-11-04T09:14:07.754841+00:00",
+ "week": "2026-W46",
+ "generated_at": "2026-11-14T11:11:17.697870+00:00",
  "pms": [
   {
    "slug": "stallion",
    "name": "Stallion Asset",
    "sebi_reg": "INP000006129",
    "legal_name": "STALLION ASSET PRIVATE LIMITED",
-   "as_of_month": "2026-09",
+   "as_of_month": "2026-10",
    "overall": 9.6,
    "params": {
     "returns_vs_benchmark": 10,
@@ -19,13 +19,13 @@
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 10417.8,
-   "clients": 7883,
-   "aum_yoy_pct": 68.4,
-   "clients_yoy_pct": 47.6,
-   "net_flows_fy_cr": 2139.18,
-   "excess_1y_pp": 20.72,
-   "excess_3y_pp": 24.21,
+   "aum_cr": 10775.5,
+   "clients": 8802,
+   "aum_yoy_pct": 66.0,
+   "clients_yoy_pct": 61.6,
+   "net_flows_fy_cr": 2977.3,
+   "excess_1y_pp": 18.35,
+   "excess_3y_pp": 19.89,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -35,11 +35,11 @@
    "top_strategies": [
     {
      "name": "Stallion Core Fund",
-     "aum_cr": 10340.31,
-     "ret_1y": 18.39,
-     "bench_1y": -2.33,
-     "ret_3y": 33.41,
-     "bench_3y": 9.2,
+     "aum_cr": 10673.62,
+     "ret_1y": 11.2,
+     "bench_1y": -7.15,
+     "ret_3y": 29.83,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     }
    ],
@@ -52,214 +52,14 @@
    "rank": 1
   },
   {
-   "slug": "sbi-funds",
-   "name": "SBI Funds Management",
-   "sebi_reg": "INP000000852",
-   "legal_name": "SBI FUNDS MANAGEMENT LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 9.2,
-   "params": {
-    "returns_vs_benchmark": 9.8,
-    "consistency": 10.0,
-    "complaints_sebi": 10,
-    "regulatory_record": 10,
-    "aum_client_growth": 5.6,
-    "disclosure_transparency": 10.0,
-    "sentiment": 6.8
-   },
-   "aum_cr": 1296481.8,
-   "clients": 1981,
-   "aum_yoy_pct": -17.6,
-   "clients_yoy_pct": 20.4,
-   "net_flows_fy_cr": -419092.9466,
-   "excess_1y_pp": 26.71,
-   "excess_3y_pp": 6.26,
-   "complaints": {
-    "received_3m": 0,
-    "pending": 0,
-    "per_1000_clients_annualised": 0.0
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Sbi Aeon Alpha Portfolio",
-     "aum_cr": 845.059,
-     "ret_1y": 24.64,
-     "bench_1y": -7.09,
-     "ret_3y": 12.34,
-     "bench_3y": 6.06,
-     "benchmark": "Nifty50 TRI"
-    },
-    {
-     "name": "Sbi Esg Portfolio (Formerly Known As Sbi Growth With Values Portfolio)",
-     "aum_cr": 671.561,
-     "ret_1y": 13.95,
-     "bench_1y": -7.09,
-     "ret_3y": 12.51,
-     "bench_3y": 6.06,
-     "benchmark": "Nifty50 TRI"
-    },
-    {
-     "name": "Sbi Liquid Portfolio",
-     "aum_cr": 16.537,
-     "ret_1y": 4.25,
-     "bench_1y": 3.81,
-     "ret_3y": 4.39,
-     "bench_3y": 6.62,
-     "benchmark": "CRISIL Composite Bond Fund Index"
-    }
-   ],
-   "counts": {
-    "social": 15
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "Something about AI investing has always bugged me. We have algorithms analysing millions of data points, tracking market movements, spotting patterns and doing all of this faster than any human possibly could. And yet, b",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xlt075/if_ai_can_pick_stocks_better_than_us_why_isnt/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Gold shouldn't had fallen: Bond Yields fell 12BPS in a single day, meaning as per calculation gold should rise by 1.7% but fell by 2.2% that day China bought highest level of gold this sept 13T which is highest in last 3",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkhhge/why_gold_fell_and_where_is_it_heading/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Q2 FY27 Key Numbers: PAT: ₹1,045 cr, up 196.5% YoY from ₹352 cr, but down 2.8% QoQ from ₹1,075 cr H1 PAT: ₹2,120 cr, with an H1 ROA of 0.99% NII: ₹6,184 cr, up 21% YoY from ₹5,113 cr Core operating profit (ex-trading gai",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xedykn/idfc_first_bank_q2_fy27_pat_crosses_1000_cr_for/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "The RBI is trying to manage rupee depreciation through forex restrictions and tighter controls on banks. But could these measures also be hurting private banks? Tighter FX derivative limits, cash reserve requirements, an",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xd48p8/is_the_rbi_shifting_the_cost_of_rupee_defense/",
-     "sentiment": "positive"
-    }
-   ],
-   "news": [],
-   "rank": 2
-  },
-  {
-   "slug": "alchemy",
-   "name": "Alchemy Capital Management",
-   "sebi_reg": "INP000000365",
-   "legal_name": "ALCHEMY CAPITAL MANAGEMENT PRIVATE LTD",
-   "as_of_month": "2026-09",
-   "overall": 9.0,
-   "params": {
-    "returns_vs_benchmark": 9.0,
-    "consistency": 9.8,
-    "complaints_sebi": 10,
-    "regulatory_record": 10,
-    "aum_client_growth": 6.5,
-    "disclosure_transparency": 10.0,
-    "sentiment": 6.5
-   },
-   "aum_cr": 8018.5,
-   "clients": 2259,
-   "aum_yoy_pct": 18.7,
-   "clients_yoy_pct": -1.5,
-   "net_flows_fy_cr": 405.84,
-   "excess_1y_pp": 16.6,
-   "excess_3y_pp": 8.93,
-   "complaints": {
-    "received_3m": 0,
-    "pending": 0,
-    "per_1000_clients_annualised": 0.0
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Alchemy Select Stock",
-     "aum_cr": 5382.89,
-     "ret_1y": 14.78,
-     "bench_1y": -2.33,
-     "ret_3y": 19.65,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Alchemy High Growth",
-     "aum_cr": 776.55,
-     "ret_1y": 13.32,
-     "bench_1y": -2.33,
-     "ret_3y": 13.32,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 Composite"
-    },
-    {
-     "name": "Alchemy Smart Alpha 250",
-     "aum_cr": 715.1,
-     "ret_1y": 12.4,
-     "bench_1y": -2.33,
-     "ret_3y": 15.8,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Alchemy Ascent",
-     "aum_cr": 213.61,
-     "ret_1y": 9.78,
-     "bench_1y": -2.33,
-     "ret_3y": 5.7,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Alchemy W.I.N Strategy",
-     "aum_cr": 124.83,
-     "ret_1y": 15.07,
-     "bench_1y": -2.33,
-     "ret_3y": null,
-     "bench_3y": null,
-     "benchmark": "BSE 500 TRI"
-    }
-   ],
-   "counts": {
-    "social": 15
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "Q2 FY27 key numbers: Total revenue: ₹1,999.5 cr, up 73.2% YoY from ₹1,154.6 cr and up 24.7% QoQ from ₹1,603.7 cr EBITDA: ₹203.1 cr, up 63.9% YoY and 15% QoQ EBITDA margin: 10.2% vs 10.7% a year ago and 11.0% in Q1 EBITDA",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xl9zi7/syrma_sgs_q2_fy27_record_2000_cr_revenue_up_73/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Gold shouldn't had fallen: Bond Yields fell 12BPS in a single day, meaning as per calculation gold should rise by 1.7% but fell by 2.2% that day China bought highest level of gold this sept 13T which is highest in last 3",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkhhge/why_gold_fell_and_where_is_it_heading/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "​ October closed with ₹22,002.84 net P&L after charges, but here's the breakdown: - ~₹8,000 from my regular strategy trades — around 3.33% on ₹2.4L capital. - ~₹12,000 from a directional bet. I'd call it good calculated ",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkd1by/october_pl_update/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "​ October closed with ₹22,002.84 net P&L after charges, but here's the breakdown: - ~₹8,000 from my regular strategy trades — around 3.33% on ₹2.4L capital. - ~₹12,000 from a directional bet. I'd call it good calculated ",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkd0mv/october_pl_update/",
-     "sentiment": "positive"
-    }
-   ],
-   "news": [],
-   "rank": 3
-  },
-  {
    "slug": "buoyant",
    "name": "Buoyant Capital",
    "sebi_reg": "INP000005000",
    "legal_name": "BUOYANT CAPITAL PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.8,
+   "as_of_month": "2026-10",
+   "overall": 8.7,
    "params": {
-    "returns_vs_benchmark": 6.8,
+    "returns_vs_benchmark": 6.2,
     "consistency": 10.0,
     "complaints_sebi": 10,
     "regulatory_record": 10,
@@ -267,13 +67,13 @@
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 13801.1,
-   "clients": 9822,
-   "aum_yoy_pct": 85.4,
-   "clients_yoy_pct": 118.3,
-   "net_flows_fy_cr": 2978.24,
-   "excess_1y_pp": 7.36,
-   "excess_3y_pp": 4.3,
+   "aum_cr": 13485.2,
+   "clients": 9977,
+   "aum_yoy_pct": 63.8,
+   "clients_yoy_pct": 104.7,
+   "net_flows_fy_cr": 3114.0,
+   "excess_1y_pp": 4.17,
+   "excess_3y_pp": 3.01,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -283,167 +83,12 @@
    "top_strategies": [
     {
      "name": "Buoyant Opportunities Pms",
-     "aum_cr": 12574.49,
-     "ret_1y": 5.03,
-     "bench_1y": -2.33,
-     "ret_3y": 13.5,
-     "bench_3y": 9.2,
+     "aum_cr": 12432.75,
+     "ret_1y": -2.98,
+     "bench_1y": -7.15,
+     "ret_3y": 12.95,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
-    }
-   ],
-   "counts": {
-    "social": 1
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "ConnectTimeout",
-     "source": "reddit",
-     "url": null,
-     "sentiment": "neutral"
-    }
-   ],
-   "news": [],
-   "rank": 4
-  },
-  {
-   "slug": "valuequest",
-   "name": "ValueQuest Investment Advisors",
-   "sebi_reg": "INP000003724",
-   "legal_name": "VALUEQUEST INVESTMENT ADVISORS PVT. LTD.",
-   "as_of_month": "2026-09",
-   "overall": 8.5,
-   "params": {
-    "returns_vs_benchmark": 8.1,
-    "consistency": 10.0,
-    "complaints_sebi": 10,
-    "regulatory_record": 10,
-    "aum_client_growth": 4.5,
-    "disclosure_transparency": 10.0,
-    "sentiment": 5.6
-   },
-   "aum_cr": 19285.3,
-   "clients": 1824,
-   "aum_yoy_pct": 4.8,
-   "clients_yoy_pct": -13.9,
-   "net_flows_fy_cr": 98.27,
-   "excess_1y_pp": 16.04,
-   "excess_3y_pp": 4.96,
-   "complaints": {
-    "received_3m": 0,
-    "pending": 0,
-    "per_1000_clients_annualised": 0.0
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Valuequest Alpha",
-     "aum_cr": 11843.09,
-     "ret_1y": 13.25,
-     "bench_1y": -2.33,
-     "ret_3y": 13.88,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Valuequest Platinum",
-     "aum_cr": 3450.78,
-     "ret_1y": 9.0,
-     "bench_1y": -2.33,
-     "ret_3y": 11.18,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Valuequest Growth",
-     "aum_cr": 2011.41,
-     "ret_1y": 26.39,
-     "bench_1y": -2.33,
-     "ret_3y": 14.18,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Valuequest Vision",
-     "aum_cr": 1121.03,
-     "ret_1y": 10.3,
-     "bench_1y": -2.33,
-     "ret_3y": 26.2,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    }
-   ],
-   "counts": {
-    "social": 10
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "https://preview.redd.it/ww2wn0am9lyh1.png?width=1298&format=png&auto=webp&s=3fd6c2d4a672e0c5cadf4e19df9043c25a00f601 https://preview.redd.it/pb58y8sp9lyh1.png?width=1178&format=png&auto=webp&s=55bb11d8ccdd6e5127ba8ce4f7c",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xjcnts/world_market_crash_incoming/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Genuinely curious about how this business works when markets are down and the fundamentals don’t look particularly encouraging. India’s growth story alone doesn’t seem enough to bring FIIs back anytime soon, especially w",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xa7def/how_are_sebi_registered_investment_advisors/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Jio vs Airtel",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x28soc/jio_vs_airtel/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "AI Watchlist: • OPTIEMUS • PARAGMILK • MOREPENLAB • CUPID • GRAPHITE • MARINE • SHANTIGOLD • RAMRAT • SUNFLAG Selected by our AI-based swing-trade screener for monitoring. It is my personal hobby AI project. I’m not a pr",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1wz9pa8/aibased_swing_trade_screener_this_weeks_stock/",
-     "sentiment": "neutral"
-    }
-   ],
-   "news": [],
-   "rank": 5
-  },
-  {
-   "slug": "sameeksha",
-   "name": "Sameeksha Capital",
-   "sebi_reg": "INP000004995",
-   "legal_name": "SAMEEKSHA CAPITAL PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.5,
-   "params": {
-    "returns_vs_benchmark": 6.9,
-    "consistency": 10.0,
-    "complaints_sebi": 10,
-    "regulatory_record": 10,
-    "aum_client_growth": 7.0,
-    "disclosure_transparency": 10.0,
-    "sentiment": 6.0
-   },
-   "aum_cr": 1406.5,
-   "clients": 655,
-   "aum_yoy_pct": 24.1,
-   "clients_yoy_pct": 0.6,
-   "net_flows_fy_cr": 81.32,
-   "excess_1y_pp": 6.06,
-   "excess_3y_pp": 5.36,
-   "complaints": {
-    "received_3m": 0,
-    "pending": 0,
-    "per_1000_clients_annualised": 0.0
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Sameeksha Ind Equity Fund",
-     "aum_cr": 1285.58,
-     "ret_1y": 3.73,
-     "bench_1y": -2.33,
-     "ret_3y": 14.56,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 Total Return Index"
     }
    ],
    "counts": {
@@ -452,31 +97,31 @@
    "confidence": "High",
    "quotes": [],
    "news": [],
-   "rank": 6
+   "rank": 2
   },
   {
-   "slug": "kotak",
-   "name": "Kotak Mahindra AMC",
-   "sebi_reg": "INP000000837",
-   "legal_name": "KOTAK MAHINDRA ASSET MANAGEMENT COMPANY LTD",
-   "as_of_month": "2026-09",
-   "overall": 8.5,
+   "slug": "alchemy",
+   "name": "Alchemy Capital Management",
+   "sebi_reg": "INP000000365",
+   "legal_name": "ALCHEMY CAPITAL MANAGEMENT PRIVATE LTD",
+   "as_of_month": "2026-10",
+   "overall": 8.6,
    "params": {
-    "returns_vs_benchmark": 7.6,
-    "consistency": 9.8,
+    "returns_vs_benchmark": 7.8,
+    "consistency": 9.4,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 4.4,
+    "aum_client_growth": 6.5,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.6
+    "sentiment": 6.0
    },
-   "aum_cr": 44834.4,
-   "clients": 1511,
-   "aum_yoy_pct": -12.7,
-   "clients_yoy_pct": -0.5,
-   "net_flows_fy_cr": -123.82,
-   "excess_1y_pp": 10.98,
-   "excess_3y_pp": 5.9,
+   "aum_cr": 7770.2,
+   "clients": 2263,
+   "aum_yoy_pct": 9.7,
+   "clients_yoy_pct": -0.0,
+   "net_flows_fy_cr": 524.54,
+   "excess_1y_pp": 10.59,
+   "excess_3y_pp": 6.99,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -485,65 +130,115 @@
    "regulatory_actions": [],
    "top_strategies": [
     {
-     "name": "Kotak India Focus Portfolio Investment Approach",
-     "aum_cr": 808.97,
-     "ret_1y": 4.28,
-     "bench_1y": -7.09,
-     "ret_3y": 12.41,
-     "bench_3y": 6.06,
-     "benchmark": "NIFTY 50 TRI"
+     "name": "Alchemy Select Stock",
+     "aum_cr": 5277.91,
+     "ret_1y": 4.16,
+     "bench_1y": -7.15,
+     "ret_3y": 18.45,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Kotak India Focus Portfolio Investment Approach Customised",
-     "aum_cr": 48.01,
-     "ret_1y": 3.43,
-     "bench_1y": -7.09,
-     "ret_3y": 4.34,
-     "bench_3y": 6.06,
-     "benchmark": "NIFTY 50 TRI"
+     "name": "Alchemy High Growth",
+     "aum_cr": 726.3,
+     "ret_1y": -0.36,
+     "bench_1y": -7.15,
+     "ret_3y": 11.93,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 Composite"
     },
     {
-     "name": "Kotak Evolv Equity Investment Approach",
-     "aum_cr": 47.74,
-     "ret_1y": -2.25,
-     "bench_1y": -7.09,
-     "ret_3y": null,
-     "bench_3y": null,
-     "benchmark": "NIFTY 50 TRI"
+     "name": "Alchemy Smart Alpha 250",
+     "aum_cr": 687.84,
+     "ret_1y": 3.15,
+     "bench_1y": -7.15,
+     "ret_3y": 15.18,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Alchemy Ascent",
+     "aum_cr": 194.01,
+     "ret_1y": -0.56,
+     "bench_1y": -7.15,
+     "ret_3y": 5.56,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Alchemy W.I.N Strategy",
+     "aum_cr": 115.53,
+     "ret_1y": 3.46,
+     "bench_1y": -7.15,
+     "ret_3y": 9.45,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     }
    ],
    "counts": {
-    "social": 6
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
+   "quotes": [],
+   "news": [],
+   "rank": 3
+  },
+  {
+   "slug": "sbi-funds",
+   "name": "SBI Funds Management",
+   "sebi_reg": "INP000000852",
+   "legal_name": "SBI FUNDS MANAGEMENT LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 8.6,
+   "params": {
+    "returns_vs_benchmark": 7.4,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 6.4,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 1309368.2,
+   "clients": 2161,
+   "aum_yoy_pct": -17.5,
+   "clients_yoy_pct": 35.2,
+   "net_flows_fy_cr": -412194.4297,
+   "excess_1y_pp": 14.8,
+   "excess_3y_pp": 2.35,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
     {
-     "text": "A new exciting IPO is about to hit market soon with good issue size.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xnf6sv/razorpay_got_sebi_nod_for_ipo_and_will_hit_market/",
-     "sentiment": "positive"
+     "name": "Sbi Aeon Alpha Portfolio",
+     "aum_cr": 813.131,
+     "ret_1y": 7.68,
+     "bench_1y": -9.45,
+     "ret_3y": 9.86,
+     "bench_3y": 7.74,
+     "benchmark": "Nifty50 TRI"
     },
     {
-     "text": "There are cautious sentiments ruling the Indian stock market today due to the rising crude oil prices along with uncertainty in the global markets, and quarterly earnings. Infosys is also in the limelight due to its revi",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xflpay/pressure_on_indian_stock_market_crude_oil_prices/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "My watchlist is blood red now damn😭🙏🏼",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xcdny2/my_watchlist_is_blood_red_now_damn/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Jio IPO witnessed record bidding in Anchor List 8100 Cr Anchor Book of Jio has received interest worth 2.5 Lakh Crore. This is 30 times. Premium hits Fresh High of 261 IPO Opens Tomorrow.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavga5/jio_ipo_is_getting_blockbuster_anchor_investors/",
-     "sentiment": "neutral"
+     "name": "Sbi Esg Portfolio (Formerly Known As Sbi Growth With Values Portfolio)",
+     "aum_cr": 621.306,
+     "ret_1y": 2.3,
+     "bench_1y": -9.45,
+     "ret_3y": 10.4,
+     "bench_3y": 7.74,
+     "benchmark": "Nifty50 TRI"
     }
    ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
    "news": [],
-   "rank": 7
+   "rank": 4
   },
   {
    "slug": "hdfc",
@@ -559,7 +254,7 @@
     "regulatory_record": 10,
     "aum_client_growth": 10.0,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.3
+    "sentiment": 6.0
    },
    "aum_cr": 686873.3,
    "clients": 245,
@@ -622,161 +317,111 @@
     }
    ],
    "counts": {
-    "social": 7
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable market dominance. We shouldn't let fund managers use our h",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "I am planning to add this stock in my portfolio did some market research also... Fundamentals of stocks look good but could it really par with HDFC AMC ?",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xmoluu/whats_experts_thought_on_this_stock/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Same as in title.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xd60ch/why_the_hell_did_j_k_bank_fell_that_sharply_were/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Jio IPO witnessed record bidding in Anchor List 8100 Cr Anchor Book of Jio has received interest worth 2.5 Lakh Crore. This is 30 times. Premium hits Fresh High of 261 IPO Opens Tomorrow.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavga5/jio_ipo_is_getting_blockbuster_anchor_investors/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
-   "rank": 8
+   "rank": 5
   },
   {
-   "slug": "carnelian",
-   "name": "Carnelian Asset Management",
-   "sebi_reg": "INP000006387",
-   "legal_name": "CARNELIAN ASSET MANAGEMENT  AND  ADVISORS PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.4,
+   "slug": "valuequest",
+   "name": "ValueQuest Investment Advisors",
+   "sebi_reg": "INP000003724",
+   "legal_name": "VALUEQUEST INVESTMENT ADVISORS PVT. LTD.",
+   "as_of_month": "2026-10",
+   "overall": 8.3,
    "params": {
-    "returns_vs_benchmark": 9.3,
-    "consistency": 10.0,
-    "complaints_sebi": 3.4,
+    "returns_vs_benchmark": 7.4,
+    "consistency": 9.2,
+    "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 10.0,
+    "aum_client_growth": 4.7,
     "disclosure_transparency": 10.0,
-    "sentiment": 5.7
+    "sentiment": 6.0
    },
-   "aum_cr": 13503.7,
-   "clients": 7619,
-   "aum_yoy_pct": 59.2,
-   "clients_yoy_pct": 68.0,
-   "net_flows_fy_cr": 2214.26,
-   "excess_1y_pp": 16.12,
-   "excess_3y_pp": 10.63,
+   "aum_cr": 18658.1,
+   "clients": 1812,
+   "aum_yoy_pct": 4.0,
+   "clients_yoy_pct": -10.8,
+   "net_flows_fy_cr": 108.68,
+   "excess_1y_pp": 12.63,
+   "excess_3y_pp": 3.6,
    "complaints": {
-    "received_3m": 5.0,
+    "received_3m": 0,
     "pending": 0,
-    "per_1000_clients_annualised": 2.63
+    "per_1000_clients_annualised": 0.0
    },
    "regulatory_actions": [],
    "top_strategies": [
     {
-     "name": "Carnelian Shift Strategy",
-     "aum_cr": 6261.03,
-     "ret_1y": 9.35,
-     "bench_1y": -2.33,
-     "ret_3y": 17.89,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 Total Return Index"
+     "name": "Valuequest Alpha",
+     "aum_cr": 11543.69,
+     "ret_1y": 5.47,
+     "bench_1y": -7.15,
+     "ret_3y": 13.5,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Carnelian Bespoke Portfolio",
-     "aum_cr": 4222.3,
-     "ret_1y": 19.97,
-     "bench_1y": -2.33,
-     "ret_3y": 22.45,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 Total Return Index"
+     "name": "Valuequest Platinum",
+     "aum_cr": 3263.53,
+     "ret_1y": 0.47,
+     "bench_1y": -7.15,
+     "ret_3y": 9.14,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Carnelian Capital Compounder Strategy",
-     "aum_cr": 2615.0,
-     "ret_1y": 14.82,
-     "bench_1y": -2.33,
-     "ret_3y": 20.3,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 Total Return Index"
+     "name": "Valuequest Growth",
+     "aum_cr": 1989.38,
+     "ret_1y": 16.07,
+     "bench_1y": -7.15,
+     "ret_3y": 14.5,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Carnelian Contra Portfolio Strategy",
-     "aum_cr": 133.11,
-     "ret_1y": 6.63,
-     "bench_1y": -2.33,
-     "ret_3y": 19.11,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 Total Return Index"
+     "name": "Valuequest Vision",
+     "aum_cr": 1057.68,
+     "ret_1y": 1.18,
+     "bench_1y": -7.15,
+     "ret_3y": 25.75,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     }
    ],
    "counts": {
-    "social": 15
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "Q2 FY27 Key Numbers: PAT: ₹1,045 cr, up 196.5% YoY from ₹352 cr, but down 2.8% QoQ from ₹1,075 cr H1 PAT: ₹2,120 cr, with an H1 ROA of 0.99% NII: ₹6,184 cr, up 21% YoY from ₹5,113 cr Core operating profit (ex-trading gai",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xedykn/idfc_first_bank_q2_fy27_pat_crosses_1000_cr_for/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "$800 mn asset manager to shift 2 funds out of GIFT on tax issues",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xbgw8r/800_mn_asset_manager_to_shift_2_funds_out_of_gift/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Back in FY21, Zomato’s revenue was just ₹1,994 Cr, and the company was losing money almost every year. Operating losses ran well above ₹2,000 Cr annually while it spent heavily to grow. Few people would have guessed what",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xbduu3/the_story_of_eternal_zomato_from_burning_cash_to/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "BlackRock, Fidelity, GIC, Norges and some of India’s biggest fund houses. Pretty interesting lineup, honestly. The mix of global investors and apna Indian institutions is what caught my attention. Makes you wonder what t",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x9yy8n/the_investor_list_in_the_jio_ipo_news_is_pretty/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
-   "rank": 9
+   "rank": 6
   },
   {
    "slug": "helios",
    "name": "Helios Capital",
    "sebi_reg": "INP000006916",
    "legal_name": "HELIOS CAPITAL ASSET MANAGEMENT (INDIA) PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.3,
+   "as_of_month": "2026-10",
+   "overall": 8.2,
    "params": {
-    "returns_vs_benchmark": 6.6,
+    "returns_vs_benchmark": 6.1,
     "consistency": 10.0,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 5.4,
+    "aum_client_growth": 5.3,
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 3378.2,
-   "clients": 973,
-   "aum_yoy_pct": -4.9,
-   "clients_yoy_pct": 13.9,
-   "net_flows_fy_cr": -30.33,
-   "excess_1y_pp": 5.28,
-   "excess_3y_pp": 4.28,
+   "aum_cr": 3314.5,
+   "clients": 989,
+   "aum_yoy_pct": -9.7,
+   "clients_yoy_pct": 15.0,
+   "net_flows_fy_cr": -18.78,
+   "excess_1y_pp": 3.04,
+   "excess_3y_pp": 3.55,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -786,12 +431,201 @@
    "top_strategies": [
     {
      "name": "Helios India Rising Portfolio",
-     "aum_cr": 1556.23,
-     "ret_1y": 2.95,
-     "bench_1y": -2.33,
-     "ret_3y": 13.48,
-     "bench_3y": 9.2,
+     "aum_cr": 1528.84,
+     "ret_1y": -4.11,
+     "bench_1y": -7.15,
+     "ret_3y": 13.49,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 7
+  },
+  {
+   "slug": "sameeksha",
+   "name": "Sameeksha Capital",
+   "sebi_reg": "INP000004995",
+   "legal_name": "SAMEEKSHA CAPITAL PRIVATE LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 8.1,
+   "params": {
+    "returns_vs_benchmark": 5.7,
+    "consistency": 10.0,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 6.1,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 1301.5,
+   "clients": 650,
+   "aum_yoy_pct": 10.5,
+   "clients_yoy_pct": -0.6,
+   "net_flows_fy_cr": 55.24,
+   "excess_1y_pp": 2.21,
+   "excess_3y_pp": 1.88,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Sameeksha Ind Equity Fund",
+     "aum_cr": 1185.23,
+     "ret_1y": -4.94,
+     "bench_1y": -7.15,
+     "ret_3y": 11.82,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 Total Return Index"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 8
+  },
+  {
+   "slug": "kotak",
+   "name": "Kotak Mahindra AMC",
+   "sebi_reg": "INP000000837",
+   "legal_name": "KOTAK MAHINDRA ASSET MANAGEMENT COMPANY LTD",
+   "as_of_month": "2026-10",
+   "overall": 8.1,
+   "params": {
+    "returns_vs_benchmark": 6.5,
+    "consistency": 9.8,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 4.1,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 43363.8,
+   "clients": 1462,
+   "aum_yoy_pct": -16.3,
+   "clients_yoy_pct": -4.2,
+   "net_flows_fy_cr": -52.39,
+   "excess_1y_pp": 5.03,
+   "excess_3y_pp": 4.0,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Kotak India Focus Portfolio Investment Approach",
+     "aum_cr": 765.61,
+     "ret_1y": -4.5,
+     "bench_1y": -9.45,
+     "ret_3y": 12.19,
+     "bench_3y": 7.74,
+     "benchmark": "NIFTY 50 TRI"
+    },
+    {
+     "name": "Kotak India Focus Portfolio Investment Approach Customised",
+     "aum_cr": 46.64,
+     "ret_1y": -3.06,
+     "bench_1y": -9.45,
+     "ret_3y": 4.43,
+     "bench_3y": 7.74,
+     "benchmark": "NIFTY 50 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 9
+  },
+  {
+   "slug": "abakkus",
+   "name": "Abakkus Investment Managers",
+   "sebi_reg": "INP000009959",
+   "legal_name": "ABAKKUS INVESTMENT MANAGERS PRIVATE LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 8.0,
+   "params": {
+    "returns_vs_benchmark": 5.9,
+    "consistency": 7.7,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 7.5,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 22426.8,
+   "clients": 12058,
+   "aum_yoy_pct": null,
+   "clients_yoy_pct": null,
+   "net_flows_fy_cr": 1138.24,
+   "excess_1y_pp": 5.17,
+   "excess_3y_pp": 1.25,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Abakkus All Cap Approach",
+     "aum_cr": 6989.31,
+     "ret_1y": -6.1,
+     "bench_1y": -7.15,
+     "ret_3y": 8.58,
+     "bench_3y": 9.94,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Emerging Opportunities Approach",
+     "aum_cr": 5568.55,
+     "ret_1y": -6.61,
+     "bench_1y": -7.15,
+     "ret_3y": 9.31,
+     "bench_3y": 9.94,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus All Cap (Fpi) Approach",
+     "aum_cr": 4744.43,
+     "ret_1y": 3.25,
+     "bench_1y": -7.15,
+     "ret_3y": 15.18,
+     "bench_3y": 9.94,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Personalised Opportunity Specific Strategy",
+     "aum_cr": 1892.18,
+     "ret_1y": 7.4,
+     "bench_1y": -7.15,
+     "ret_3y": 15.85,
+     "bench_3y": 9.94,
+     "benchmark": "BSE500TRI"
+    },
+    {
+     "name": "Abakkus Diversified Alpha Approach",
+     "aum_cr": 1323.71,
+     "ret_1y": 1.58,
+     "bench_1y": -7.15,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "BSE500TRI"
     }
    ],
    "counts": {
@@ -803,28 +637,28 @@
    "rank": 10
   },
   {
-   "slug": "abakkus",
-   "name": "Abakkus Investment Managers",
-   "sebi_reg": "INP000009959",
-   "legal_name": "ABAKKUS INVESTMENT MANAGERS PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.3,
+   "slug": "360-one",
+   "name": "360 ONE Asset Management",
+   "sebi_reg": "INP000004565",
+   "legal_name": "360 ONE ASSET MANAGEMENT LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 7.9,
    "params": {
-    "returns_vs_benchmark": 7.2,
-    "consistency": 8.7,
+    "returns_vs_benchmark": 6.4,
+    "consistency": 9.0,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 5.2,
+    "aum_client_growth": 3.1,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.5
+    "sentiment": 6.0
    },
-   "aum_cr": 22333.1,
-   "clients": 12173,
-   "aum_yoy_pct": 8.0,
-   "clients_yoy_pct": 4.3,
-   "net_flows_fy_cr": -497.53,
-   "excess_1y_pp": 11.67,
-   "excess_3y_pp": 3.12,
+   "aum_cr": 27413.8,
+   "clients": 3741,
+   "aum_yoy_pct": -14.9,
+   "clients_yoy_pct": -42.6,
+   "net_flows_fy_cr": -3679.24,
+   "excess_1y_pp": 6.35,
+   "excess_3y_pp": 2.79,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -833,498 +667,232 @@
    "regulatory_actions": [],
    "top_strategies": [
     {
-     "name": "Abakkus All Cap Approach",
-     "aum_cr": 7337.41,
-     "ret_1y": 3.06,
-     "bench_1y": -2.33,
-     "ret_3y": 8.88,
-     "bench_3y": 9.2,
+     "name": "Customised Discretionary Portfolio - Equity",
+     "aum_cr": 15639.09,
+     "ret_1y": 0.8,
+     "bench_1y": -7.15,
+     "ret_3y": 13.72,
+     "bench_3y": 9.94,
      "benchmark": "BSE500TRI"
     },
     {
-     "name": "Abakkus Emerging Opportunities Approach",
-     "aum_cr": 6102.6,
-     "ret_1y": 6.74,
-     "bench_1y": -2.33,
-     "ret_3y": 12.1,
-     "bench_3y": 9.2,
+     "name": "360 One Multicap Pms",
+     "aum_cr": 2714.83,
+     "ret_1y": -4.27,
+     "bench_1y": -7.15,
+     "ret_3y": 8.55,
+     "bench_3y": 9.94,
      "benchmark": "BSE500TRI"
     },
     {
-     "name": "Abakkus All Cap (Fpi) Approach",
-     "aum_cr": 3391.07,
-     "ret_1y": 15.12,
-     "bench_1y": -2.33,
-     "ret_3y": 15.66,
-     "bench_3y": 9.2,
+     "name": "360 One Phoenix Portfolio",
+     "aum_cr": 1524.87,
+     "ret_1y": -6.23,
+     "bench_1y": -7.15,
+     "ret_3y": 10.03,
+     "bench_3y": 9.94,
      "benchmark": "BSE500TRI"
     },
     {
-     "name": "Abakkus Personalised Opportunity Specific Strategy",
-     "aum_cr": 2050.86,
-     "ret_1y": 21.75,
-     "bench_1y": -2.33,
-     "ret_3y": 19.12,
-     "bench_3y": 9.2,
-     "benchmark": "BSE500TRI"
-    },
-    {
-     "name": "Abakkus Diversified Alpha Approach",
-     "aum_cr": 1343.09,
-     "ret_1y": 13.42,
-     "bench_1y": -2.33,
+     "name": "360 One Large Value Strategy Pms",
+     "aum_cr": 708.0,
+     "ret_1y": -11.14,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
      "benchmark": "BSE500TRI"
     }
    ],
    "counts": {
-    "social": 15
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "Something about AI investing has always bugged me. We have algorithms analysing millions of data points, tracking market movements, spotting patterns and doing all of this faster than any human possibly could. And yet, b",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xlt075/if_ai_can_pick_stocks_better_than_us_why_isnt/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Hey everyone! I've been working on an open-source project called India Trading Skills for Claude . The idea is simple: most AI trading tools and Claude skills I've come across are designed primarily for US markets. I wan",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkv0ep/i_built_18_claude_code_skills_for_the_indian/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Gold shouldn't had fallen: Bond Yields fell 12BPS in a single day, meaning as per calculation gold should rise by 1.7% but fell by 2.2% that day China bought highest level of gold this sept 13T which is highest in last 3",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkhhge/why_gold_fell_and_where_is_it_heading/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "​ I've been investing in the US market from India and want to understand how others here approach it. I'm primarily looking at quality companies with a 5–10+ year investment horizon. A few questions: Do you prefer invest",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xk177a/for_those_investing_in_us_stocks_whats_your/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
    "rank": 11
-  },
-  {
-   "slug": "nuvama",
-   "name": "Nuvama Asset Management",
-   "sebi_reg": "INP000007207",
-   "legal_name": "NUVAMA ASSET MANAGEMENT LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.2,
-   "params": {
-    "returns_vs_benchmark": 7.8,
-    "consistency": 10.0,
-    "complaints_sebi": 10,
-    "regulatory_record": 10,
-    "aum_client_growth": 1.3,
-    "disclosure_transparency": 10.0,
-    "sentiment": 5.7
-   },
-   "aum_cr": 4210.7,
-   "clients": 613,
-   "aum_yoy_pct": -23.5,
-   "clients_yoy_pct": -26.5,
-   "net_flows_fy_cr": -541.42,
-   "excess_1y_pp": 13.71,
-   "excess_3y_pp": 5.04,
-   "complaints": {
-    "received_3m": 0,
-    "pending": 0,
-    "per_1000_clients_annualised": 0.0
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Nuvama Equities Expansion Target (Next) Strategy",
-     "aum_cr": 191.62,
-     "ret_1y": 9.97,
-     "bench_1y": -2.33,
-     "ret_3y": 13.25,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Infinity Core Equity Approach",
-     "aum_cr": 149.99,
-     "ret_1y": 8.42,
-     "bench_1y": -7.09,
-     "ret_3y": 12.37,
-     "bench_3y": 6.06,
-     "benchmark": "NIFTY 50 TRI INDEX"
-    }
-   ],
-   "counts": {
-    "social": 15
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "Q2 FY27 Key Numbers: PAT: ₹1,045 cr, up 196.5% YoY from ₹352 cr, but down 2.8% QoQ from ₹1,075 cr H1 PAT: ₹2,120 cr, with an H1 ROA of 0.99% NII: ₹6,184 cr, up 21% YoY from ₹5,113 cr Core operating profit (ex-trading gai",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xedykn/idfc_first_bank_q2_fy27_pat_crosses_1000_cr_for/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "$800 mn asset manager to shift 2 funds out of GIFT on tax issues",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xbgw8r/800_mn_asset_manager_to_shift_2_funds_out_of_gift/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Back in FY21, Zomato’s revenue was just ₹1,994 Cr, and the company was losing money almost every year. Operating losses ran well above ₹2,000 Cr annually while it spent heavily to grow. Few people would have guessed what",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xbduu3/the_story_of_eternal_zomato_from_burning_cash_to/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "BlackRock, Fidelity, GIC, Norges and some of India’s biggest fund houses. Pretty interesting lineup, honestly. The mix of global investors and apna Indian institutions is what caught my attention. Makes you wonder what t",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x9yy8n/the_investor_list_in_the_jio_ipo_news_is_pretty/",
-     "sentiment": "neutral"
-    }
-   ],
-   "news": [],
-   "rank": 12
-  },
-  {
-   "slug": "axis",
-   "name": "Axis AMC",
-   "sebi_reg": "INP000003534",
-   "legal_name": "AXIS ASSET MANAGEMENT COMPANY LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 8.1,
-   "params": {
-    "returns_vs_benchmark": 7.0,
-    "consistency": 10.0,
-    "complaints_sebi": 7.3,
-    "regulatory_record": 10,
-    "aum_client_growth": 7.0,
-    "disclosure_transparency": 10.0,
-    "sentiment": 6.0
-   },
-   "aum_cr": 15297.0,
-   "clients": 3750,
-   "aum_yoy_pct": 819.9,
-   "clients_yoy_pct": 139.6,
-   "net_flows_fy_cr": -1256.81,
-   "excess_1y_pp": 10.01,
-   "excess_3y_pp": 3.27,
-   "complaints": {
-    "received_3m": 1.0,
-    "pending": 0,
-    "per_1000_clients_annualised": 1.07
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Axis Pure Contra Portfolio",
-     "aum_cr": 1372.81,
-     "ret_1y": -2.28,
-     "bench_1y": -2.33,
-     "ret_3y": 10.61,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Axis Brand Equity Portfolio",
-     "aum_cr": 748.77,
-     "ret_1y": 4.51,
-     "bench_1y": -7.09,
-     "ret_3y": 6.47,
-     "bench_3y": 6.06,
-     "benchmark": "NIFTY 50 TRI"
-    },
-    {
-     "name": "Axis Pure Growth Portfolio",
-     "aum_cr": 720.6,
-     "ret_1y": 3.82,
-     "bench_1y": -2.33,
-     "ret_3y": 10.67,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Axis Customized Portfolio",
-     "aum_cr": 610.38,
-     "ret_1y": 8.47,
-     "bench_1y": -2.33,
-     "ret_3y": 13.01,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    },
-    {
-     "name": "Axis Kaizen Portfolio",
-     "aum_cr": 527.65,
-     "ret_1y": 33.92,
-     "bench_1y": -2.33,
-     "ret_3y": 23.73,
-     "bench_3y": 9.2,
-     "benchmark": "BSE 500 TRI"
-    }
-   ],
-   "counts": {
-    "social": 1
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable market dominance. We shouldn't let fund managers use our h",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/",
-     "sentiment": "neutral"
-    }
-   ],
-   "news": [],
-   "rank": 13
   },
   {
    "slug": "icici-prudential",
    "name": "ICICI Prudential AMC",
    "sebi_reg": "INP000000373",
    "legal_name": "ICICI PRUDENTIAL ASSET MANAGEMENT COMPANY LTD.",
-   "as_of_month": "2026-09",
-   "overall": 7.6,
+   "as_of_month": "2026-10",
+   "overall": 7.8,
    "params": {
-    "returns_vs_benchmark": 6.4,
+    "returns_vs_benchmark": 6.1,
     "consistency": 10.0,
-    "complaints_sebi": 3.8,
+    "complaints_sebi": 5.9,
     "regulatory_record": 10,
-    "aum_client_growth": 7.8,
+    "aum_client_growth": 7.4,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.2
+    "sentiment": 6.0
    },
-   "aum_cr": 30144.7,
-   "clients": 30807,
-   "aum_yoy_pct": 14.7,
-   "clients_yoy_pct": 16.5,
-   "net_flows_fy_cr": 2295.47,
-   "excess_1y_pp": 4.33,
-   "excess_3y_pp": 4.06,
+   "aum_cr": 29517.7,
+   "clients": 30558,
+   "aum_yoy_pct": 7.7,
+   "clients_yoy_pct": 13.2,
+   "net_flows_fy_cr": 2379.38,
+   "excess_1y_pp": 3.16,
+   "excess_3y_pp": 3.6,
    "complaints": {
-    "received_3m": 10.0,
-    "pending": 4.0,
-    "per_1000_clients_annualised": 1.3
+    "received_3m": 8.0,
+    "pending": 1.0,
+    "per_1000_clients_annualised": 1.05
    },
    "regulatory_actions": [],
    "top_strategies": [
     {
      "name": "Icici Prudential Pms Contra Strategy",
-     "aum_cr": 13510.56,
-     "ret_1y": 0.19,
-     "bench_1y": -2.33,
-     "ret_3y": 12.26,
-     "bench_3y": 9.2,
+     "aum_cr": 13298.57,
+     "ret_1y": -4.5,
+     "bench_1y": -7.15,
+     "ret_3y": 13.29,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Icici Prudential Pms Pipe Strategy",
-     "aum_cr": 8085.82,
-     "ret_1y": 4.37,
-     "bench_1y": -2.33,
-     "ret_3y": 13.38,
-     "bench_3y": 9.2,
+     "aum_cr": 7734.26,
+     "ret_1y": -4.56,
+     "bench_1y": -7.15,
+     "ret_3y": 11.99,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Icici Prudential Pms Growth Leaders Strategy",
-     "aum_cr": 1572.22,
-     "ret_1y": 1.55,
-     "bench_1y": -2.33,
-     "ret_3y": 13.65,
-     "bench_3y": 9.2,
+     "aum_cr": 1569.16,
+     "ret_1y": -2.11,
+     "bench_1y": -7.15,
+     "ret_3y": 14.74,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Icici Prudential Pms Ace Strategy",
-     "aum_cr": 1410.74,
-     "ret_1y": 0.94,
-     "bench_1y": -2.33,
-     "ret_3y": 17.53,
-     "bench_3y": 9.2,
+     "aum_cr": 1410.78,
+     "ret_1y": -2.38,
+     "bench_1y": -7.15,
+     "ret_3y": 18.91,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Icici Prudential Pms Prime Strategy",
-     "aum_cr": 1242.09,
-     "ret_1y": 2.95,
-     "bench_1y": -2.33,
+     "aum_cr": 1249.6,
+     "ret_1y": -2.43,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
      "benchmark": "BSE 500 TRI"
     }
    ],
    "counts": {
-    "social": 14
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable market dominance. We shouldn't let fund managers use our h",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Which SIP is bogus?",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xlsws1/which_sip_is_bogus/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Same as in title.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xd60ch/why_the_hell_did_j_k_bank_fell_that_sharply_were/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Jio IPO witnessed record bidding in Anchor List 8100 Cr Anchor Book of Jio has received interest worth 2.5 Lakh Crore. This is 30 times. Premium hits Fresh High of 261 IPO Opens Tomorrow.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavga5/jio_ipo_is_getting_blockbuster_anchor_investors/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
-   "rank": 14
+   "rank": 12
   },
   {
-   "slug": "motilal-oswal",
-   "name": "Motilal Oswal AMC",
-   "sebi_reg": "INP000000670",
-   "legal_name": "MOTILAL OSWAL ASSET MANAGEMENT COMPANY LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 7.6,
+   "slug": "carnelian",
+   "name": "Carnelian Asset Management",
+   "sebi_reg": "INP000006387",
+   "legal_name": "CARNELIAN ASSET MANAGEMENT  AND  ADVISORS PRIVATE LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 7.7,
    "params": {
-    "returns_vs_benchmark": 7.4,
-    "consistency": 8.9,
-    "complaints_sebi": 5.5,
+    "returns_vs_benchmark": 8.5,
+    "consistency": 10.0,
+    "complaints_sebi": 0,
     "regulatory_record": 10,
-    "aum_client_growth": 5.0,
+    "aum_client_growth": 10.0,
     "disclosure_transparency": 10.0,
-    "sentiment": 5.5
+    "sentiment": 6.0
    },
-   "aum_cr": 14769.8,
-   "clients": 13533,
-   "aum_yoy_pct": 2.7,
-   "clients_yoy_pct": 1.1,
-   "net_flows_fy_cr": -181.45954,
-   "excess_1y_pp": 8.73,
-   "excess_3y_pp": 6.12,
+   "aum_cr": 13499.3,
+   "clients": 7995,
+   "aum_yoy_pct": 48.9,
+   "clients_yoy_pct": 68.1,
+   "net_flows_fy_cr": 2659.57,
+   "excess_1y_pp": 12.69,
+   "excess_3y_pp": 9.2,
    "complaints": {
-    "received_3m": 4.0,
-    "pending": 1.0,
-    "per_1000_clients_annualised": 1.18
+    "received_3m": 8.0,
+    "pending": 2.0,
+    "per_1000_clients_annualised": 4.0
    },
    "regulatory_actions": [],
    "top_strategies": [
     {
-     "name": "Motilal Oswal Founders Portfolio",
-     "aum_cr": 4289.04644,
-     "ret_1y": 6.08,
-     "bench_1y": -2.33,
-     "ret_3y": 17.81,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 TR"
+     "name": "Carnelian Shift Strategy",
+     "aum_cr": 6190.0,
+     "ret_1y": 3.38,
+     "bench_1y": -7.15,
+     "ret_3y": 16.43,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 Total Return Index"
     },
     {
-     "name": "Next Trillion Dollar Opportunity Strategy",
-     "aum_cr": 4200.3946,
-     "ret_1y": 3.12,
-     "bench_1y": -2.33,
-     "ret_3y": 10.1,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 TR"
+     "name": "Carnelian Bespoke Portfolio",
+     "aum_cr": 4157.0,
+     "ret_1y": 7.5,
+     "bench_1y": -7.15,
+     "ret_3y": 21.54,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 Total Return Index"
     },
     {
-     "name": "Value Migration Strategy",
-     "aum_cr": 3094.1521,
-     "ret_1y": -1.38,
-     "bench_1y": -2.33,
-     "ret_3y": 15.69,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 TR"
+     "name": "Carnelian Capital Compounder Strategy",
+     "aum_cr": 2778.67,
+     "ret_1y": 7.62,
+     "bench_1y": -7.15,
+     "ret_3y": 21.58,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 Total Return Index"
     },
     {
-     "name": "Motilal Oswal Mid To Mega Strategy",
-     "aum_cr": 2466.92458,
-     "ret_1y": 20.23,
-     "bench_1y": -2.33,
-     "ret_3y": 19.95,
-     "bench_3y": 9.2,
-     "benchmark": "S and P BSE 500 TR"
-    },
-    {
-     "name": "India Growth Strategy",
-     "aum_cr": 347.86021,
-     "ret_1y": 23.83,
-     "bench_1y": -2.33,
-     "ret_3y": null,
-     "bench_3y": null,
-     "benchmark": "S and P BSE 500 TR"
+     "name": "Carnelian Contra Portfolio Strategy",
+     "aum_cr": 133.8,
+     "ret_1y": 1.71,
+     "bench_1y": -7.15,
+     "ret_3y": 19.13,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 Total Return Index"
     }
    ],
    "counts": {
-    "social": 15
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "I was exploring opportunities for investing in US stocks across brokers in India and found that Zerodha is offering the cheapest brokerage rates, with the maximum brokerage capped at just $10 per trade. I think Zerodha w",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xjguu3/zerodha_vs_groww_vs_vested_vs_others_who_offers/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "I have attached two pics of current value and the value around 10 days back. I have been thinking if I should continue to hold this or exit. Its a long term investment that I have been sitting on for years and only reaso",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xe7b6j/exit_or_hold_a_part_of_the_gain_is_purely_due_to/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "What you guys think about MON100 etf ( motilal oswal nasdaq 100)? Why it is not giving any returns from past 5 to 6 months? Is it right time to invest in mon100?",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x9xkms/mon100/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "The Jio IPO is essentially an overpriced cash grab designed to offload massive corporate debt onto retail and institutional investors, all backed by questionable market dominance. We shouldn't let fund managers use our h",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1x8gh8m/template_stop_mutual_funds_from_backing_the_jio/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
-   "rank": 15
+   "rank": 13
   },
   {
    "slug": "aditya-birla",
    "name": "Aditya Birla Sun Life AMC",
    "sebi_reg": "INP000000597",
    "legal_name": "ADITYA BIRLA SUN LIFE AMC LIMITED",
-   "as_of_month": "2026-09",
+   "as_of_month": "2026-10",
    "overall": 7.5,
    "params": {
-    "returns_vs_benchmark": 5.9,
-    "consistency": 4.0,
+    "returns_vs_benchmark": 5.6,
+    "consistency": 4.3,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 8.6,
+    "aum_client_growth": 8.4,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.1
+    "sentiment": 6.0
    },
-   "aum_cr": 663424.5,
-   "clients": 2546,
-   "aum_yoy_pct": 2161.4,
-   "clients_yoy_pct": 4.0,
-   "net_flows_fy_cr": 601680.8764,
-   "excess_1y_pp": 3.78,
-   "excess_3y_pp": 1.91,
+   "aum_cr": 666761.8,
+   "clients": 2525,
+   "aum_yoy_pct": 2131.4,
+   "clients_yoy_pct": 1.9,
+   "net_flows_fy_cr": 601023.51363,
+   "excess_1y_pp": 2.35,
+   "excess_3y_pp": 1.19,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -1334,100 +902,81 @@
    "top_strategies": [
     {
      "name": "Select Sector Portfolio",
-     "aum_cr": 605.09122,
-     "ret_1y": 9.29,
-     "bench_1y": -2.33,
-     "ret_3y": 19.29,
-     "bench_3y": 9.2,
+     "aum_cr": 592.81135,
+     "ret_1y": 1.04,
+     "bench_1y": -7.15,
+     "ret_3y": 18.58,
+     "bench_3y": 9.94,
      "benchmark": "S and P BSE 500 TRI"
     },
     {
      "name": "India Special Opportunities Portfolio Stp",
-     "aum_cr": 446.54331,
-     "ret_1y": -2.91,
-     "bench_1y": -2.33,
-     "ret_3y": 6.7,
-     "bench_3y": 9.2,
+     "aum_cr": 430.32548,
+     "ret_1y": -7.84,
+     "bench_1y": -7.15,
+     "ret_3y": 7.24,
+     "bench_3y": 9.94,
      "benchmark": "S and P BSE 500 TRI"
     },
     {
      "name": "India Special Opportunities Portfolio",
-     "aum_cr": 359.45303,
-     "ret_1y": -2.96,
-     "bench_1y": -2.33,
-     "ret_3y": 6.97,
-     "bench_3y": 9.2,
+     "aum_cr": 354.72804,
+     "ret_1y": -7.85,
+     "bench_1y": -7.15,
+     "ret_3y": 7.56,
+     "bench_3y": 9.94,
      "benchmark": "S and P BSE 500 TRI"
     },
     {
      "name": "India Special Opportunities Portfolio Nr",
-     "aum_cr": 201.42861,
-     "ret_1y": -2.78,
-     "bench_1y": -2.33,
-     "ret_3y": 7.19,
-     "bench_3y": 9.2,
+     "aum_cr": 185.65137,
+     "ret_1y": -7.7,
+     "bench_1y": -7.15,
+     "ret_3y": 7.79,
+     "bench_3y": 9.94,
      "benchmark": "S and P BSE 500 TRI"
     },
     {
      "name": "Core Equity Portfolio",
-     "aum_cr": 153.15669,
-     "ret_1y": -4.72,
-     "bench_1y": -7.09,
-     "ret_3y": 4.66,
-     "bench_3y": 6.06,
+     "aum_cr": 146.04114,
+     "ret_1y": -9.32,
+     "bench_1y": -9.45,
+     "ret_3y": 5.02,
+     "bench_3y": 7.74,
      "benchmark": "Nifty 50 TRI"
     }
    ],
    "counts": {
-    "social": 3
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "📰 Morning market news, Sat 31 Oct 2026 🌍 Global cues ▪️ Gold slips as higher oil, US inflation data bolster Fed hike bets • Bullion was headed ‌for ⁠a weekly fall and a second consecutive monthly ⁠decline. • Traders are ",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xk0vad/stock_morning_dose/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Guys please suggest me what to do . I'm really tired of the stock market",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xck9a6/suggestions/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Jio IPO witnessed record bidding in Anchor List 8100 Cr Anchor Book of Jio has received interest worth 2.5 Lakh Crore. This is 30 times. Premium hits Fresh High of 261 IPO Opens Tomorrow.",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStockMarket/comments/1xavga5/jio_ipo_is_getting_blockbuster_anchor_investors/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
-   "rank": 16
+   "rank": 14
   },
   {
-   "slug": "unifi",
-   "name": "Unifi Capital",
-   "sebi_reg": "INP000000613",
-   "legal_name": "UNIFI CAPITAL PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 7.2,
+   "slug": "nuvama",
+   "name": "Nuvama Asset Management",
+   "sebi_reg": "INP000007207",
+   "legal_name": "NUVAMA ASSET MANAGEMENT LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 7.4,
    "params": {
-    "returns_vs_benchmark": 5.9,
-    "consistency": 6.7,
+    "returns_vs_benchmark": 6.1,
+    "consistency": 7.8,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 1.7,
+    "aum_client_growth": 1.3,
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 15863.3,
-   "clients": 7689,
-   "aum_yoy_pct": -22.8,
-   "clients_yoy_pct": -23.1,
-   "net_flows_fy_cr": -2370.98,
-   "excess_1y_pp": 7.81,
-   "excess_3y_pp": -0.72,
+   "aum_cr": 4074.3,
+   "clients": 603,
+   "aum_yoy_pct": -26.1,
+   "clients_yoy_pct": -25.4,
+   "net_flows_fy_cr": -591.23,
+   "excess_1y_pp": 5.51,
+   "excess_3y_pp": 1.7,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -1436,49 +985,190 @@
    "regulatory_actions": [],
    "top_strategies": [
     {
-     "name": "Blended- Rangoli",
-     "aum_cr": 11004.63,
-     "ret_1y": 5.32,
-     "bench_1y": -2.33,
-     "ret_3y": 8.46,
-     "bench_3y": 9.2,
-     "benchmark": "S and PBSE500TRI"
+     "name": "Nuvama Equities Expansion Target (Next) Strategy",
+     "aum_cr": 171.93,
+     "ret_1y": -5.69,
+     "bench_1y": -7.15,
+     "ret_3y": 9.77,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Bcad Breakout 20",
-     "aum_cr": 1840.66,
-     "ret_1y": 4.39,
-     "bench_1y": -2.33,
-     "ret_3y": 7.47,
-     "bench_3y": 9.2,
-     "benchmark": "S and PBSE500TRI"
+     "name": "Infinity Core Equity Approach",
+     "aum_cr": 141.74,
+     "ret_1y": 0.98,
+     "bench_1y": -9.45,
+     "ret_3y": 11.71,
+     "bench_3y": 7.74,
+     "benchmark": "NIFTY 50 TRI INDEX"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 15
+  },
+  {
+   "slug": "axis",
+   "name": "Axis AMC",
+   "sebi_reg": "INP000003534",
+   "legal_name": "AXIS ASSET MANAGEMENT COMPANY LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 7.2,
+   "params": {
+    "returns_vs_benchmark": 6.3,
+    "consistency": 7.5,
+    "complaints_sebi": 4.7,
+    "regulatory_record": 10,
+    "aum_client_growth": 6.8,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 15193.7,
+   "clients": 3785,
+   "aum_yoy_pct": 39.4,
+   "clients_yoy_pct": 153.9,
+   "net_flows_fy_cr": -1348.05,
+   "excess_1y_pp": 7.46,
+   "excess_3y_pp": 1.46,
+   "complaints": {
+    "received_3m": 2.0,
+    "pending": 0,
+    "per_1000_clients_annualised": 2.11
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Axis Pure Contra Portfolio",
+     "aum_cr": 1287.83,
+     "ret_1y": -7.54,
+     "bench_1y": -7.15,
+     "ret_3y": 10.03,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Apj",
-     "aum_cr": 1008.11,
-     "ret_1y": 8.8,
-     "bench_1y": -2.33,
+     "name": "Axis Pure Growth Portfolio",
+     "aum_cr": 713.57,
+     "ret_1y": 1.72,
+     "bench_1y": -7.15,
      "ret_3y": 11.62,
-     "bench_3y": 9.2,
-     "benchmark": "S and PBSE500TRI"
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
     },
     {
-     "name": "Bcad",
-     "aum_cr": 211.78,
-     "ret_1y": 1.88,
-     "bench_1y": -2.33,
-     "ret_3y": 6.08,
-     "bench_3y": 9.2,
-     "benchmark": "S and PBSE500TRI"
+     "name": "Axis Brand Equity Portfolio",
+     "aum_cr": 694.27,
+     "ret_1y": -5.1,
+     "bench_1y": -9.45,
+     "ret_3y": 5.05,
+     "bench_3y": 7.74,
+     "benchmark": "NIFTY 50 TRI"
     },
     {
-     "name": "Individually Managed Accounts",
-     "aum_cr": 199.22,
-     "ret_1y": 10.25,
-     "bench_1y": -2.33,
+     "name": "Axis Customized Portfolio",
+     "aum_cr": 584.65,
+     "ret_1y": 1.38,
+     "bench_1y": -7.15,
+     "ret_3y": 12.34,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
+    },
+    {
+     "name": "Axis Kaizen Portfolio",
+     "aum_cr": 501.78,
+     "ret_1y": 21.57,
+     "bench_1y": -7.15,
+     "ret_3y": 19.85,
+     "bench_3y": 9.94,
+     "benchmark": "BSE 500 TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 16
+  },
+  {
+   "slug": "motilal-oswal",
+   "name": "Motilal Oswal AMC",
+   "sebi_reg": "INP000000670",
+   "legal_name": "MOTILAL OSWAL ASSET MANAGEMENT COMPANY LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 7.0,
+   "params": {
+    "returns_vs_benchmark": 6.3,
+    "consistency": 7.0,
+    "complaints_sebi": 5.6,
+    "regulatory_record": 10,
+    "aum_client_growth": 4.6,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 14167.5,
+   "clients": 13624,
+   "aum_yoy_pct": -5.5,
+   "clients_yoy_pct": 1.0,
+   "net_flows_fy_cr": -171.8923,
+   "excess_1y_pp": 4.97,
+   "excess_3y_pp": 3.27,
+   "complaints": {
+    "received_3m": 4.0,
+    "pending": 1.0,
+    "per_1000_clients_annualised": 1.17
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Motilal Oswal Founders Portfolio",
+     "aum_cr": 4201.99275,
+     "ret_1y": -0.67,
+     "bench_1y": -7.15,
+     "ret_3y": 15.79,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Next Trillion Dollar Opportunity Strategy",
+     "aum_cr": 3897.93203,
+     "ret_1y": -6.47,
+     "bench_1y": -7.15,
+     "ret_3y": 8.21,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Value Migration Strategy",
+     "aum_cr": 2971.28033,
+     "ret_1y": -7.37,
+     "bench_1y": -7.15,
+     "ret_3y": 13.1,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "Motilal Oswal Mid To Mega Strategy",
+     "aum_cr": 2394.23849,
+     "ret_1y": 6.41,
+     "bench_1y": -7.15,
+     "ret_3y": 17.22,
+     "bench_3y": 9.94,
+     "benchmark": "S and P BSE 500 TR"
+    },
+    {
+     "name": "India Growth Strategy",
+     "aum_cr": 345.33949,
+     "ret_1y": 13.06,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
-     "benchmark": "S and PBSE500TRI"
+     "benchmark": "S and P BSE 500 TR"
     }
    ],
    "counts": {
@@ -1490,211 +1180,170 @@
    "rank": 17
   },
   {
+   "slug": "unifi",
+   "name": "Unifi Capital",
+   "sebi_reg": "INP000000613",
+   "legal_name": "UNIFI CAPITAL PRIVATE LIMITED",
+   "as_of_month": "2026-10",
+   "overall": 6.7,
+   "params": {
+    "returns_vs_benchmark": 5.4,
+    "consistency": 3.8,
+    "complaints_sebi": 10,
+    "regulatory_record": 10,
+    "aum_client_growth": 1.4,
+    "disclosure_transparency": 10.0,
+    "sentiment": 6.0
+   },
+   "aum_cr": 15130.2,
+   "clients": 7602,
+   "aum_yoy_pct": -26.7,
+   "clients_yoy_pct": -23.4,
+   "net_flows_fy_cr": -2412.3,
+   "excess_1y_pp": 5.61,
+   "excess_3y_pp": -1.81,
+   "complaints": {
+    "received_3m": 0,
+    "pending": 0,
+    "per_1000_clients_annualised": 0.0
+   },
+   "regulatory_actions": [],
+   "top_strategies": [
+    {
+     "name": "Blended- Rangoli",
+     "aum_cr": 10423.25,
+     "ret_1y": -1.39,
+     "bench_1y": -7.15,
+     "ret_3y": 8.3,
+     "bench_3y": 9.94,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Bcad Breakout 20",
+     "aum_cr": 1677.23,
+     "ret_1y": -2.5,
+     "bench_1y": -7.15,
+     "ret_3y": 6.84,
+     "bench_3y": 9.94,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Apj",
+     "aum_cr": 981.05,
+     "ret_1y": -0.82,
+     "bench_1y": -7.15,
+     "ret_3y": 9.61,
+     "bench_3y": 9.94,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Individually Managed Accounts",
+     "aum_cr": 236.88,
+     "ret_1y": -2.59,
+     "bench_1y": -7.15,
+     "ret_3y": null,
+     "bench_3y": null,
+     "benchmark": "S and PBSE500TRI"
+    },
+    {
+     "name": "Bcad",
+     "aum_cr": 199.31,
+     "ret_1y": -5.05,
+     "bench_1y": -7.15,
+     "ret_3y": 5.34,
+     "bench_3y": 9.94,
+     "benchmark": "S and PBSE500TRI"
+    }
+   ],
+   "counts": {
+    "social": 0
+   },
+   "confidence": "High",
+   "quotes": [],
+   "news": [],
+   "rank": 18
+  },
+  {
    "slug": "marcellus",
    "name": "Marcellus Investment Managers",
    "sebi_reg": "INP000006183",
    "legal_name": "MARCELLUS INVESTMENT MANAGERS PRIVATE LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 6.8,
+   "as_of_month": "2026-10",
+   "overall": 6.7,
    "params": {
-    "returns_vs_benchmark": 5.1,
-    "consistency": 3.7,
-    "complaints_sebi": 8.5,
+    "returns_vs_benchmark": 4.4,
+    "consistency": 3.0,
+    "complaints_sebi": 10,
     "regulatory_record": 10,
     "aum_client_growth": 5.0,
     "disclosure_transparency": 10.0,
-    "sentiment": 6.5
+    "sentiment": 6.0
    },
-   "aum_cr": 2136.9,
-   "clients": 1820,
-   "aum_yoy_pct": -44.9,
-   "clients_yoy_pct": -39.9,
-   "net_flows_fy_cr": -549.57,
-   "excess_1y_pp": 4.94,
-   "excess_3y_pp": -2.83,
+   "aum_cr": 2047.2,
+   "clients": 1778,
+   "aum_yoy_pct": -44.5,
+   "clients_yoy_pct": -38.1,
+   "net_flows_fy_cr": -589.78,
+   "excess_1y_pp": 2.27,
+   "excess_3y_pp": -4.5,
    "complaints": {
     "received_3m": 0,
-    "pending": 1.0,
+    "pending": 0,
     "per_1000_clients_annualised": 0.0
    },
    "regulatory_actions": [],
    "top_strategies": [
     {
      "name": "Ccp",
-     "aum_cr": 1482.44,
-     "ret_1y": -0.99,
-     "bench_1y": -7.09,
-     "ret_3y": 3.59,
-     "bench_3y": 6.06,
+     "aum_cr": 1418.29,
+     "ret_1y": -6.32,
+     "bench_1y": -9.45,
+     "ret_3y": 3.61,
+     "bench_3y": 7.74,
      "benchmark": "NIFTY 50 TRI"
     },
     {
      "name": "Mc-I",
-     "aum_cr": 152.33,
-     "ret_1y": -0.22,
-     "bench_1y": -2.33,
+     "aum_cr": 151.58,
+     "ret_1y": -4.16,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Kcp",
-     "aum_cr": 113.3,
-     "ret_1y": -2.17,
-     "bench_1y": -7.09,
-     "ret_3y": 7.01,
-     "bench_3y": 6.06,
+     "aum_cr": 106.25,
+     "ret_1y": -10.71,
+     "bench_1y": -9.45,
+     "ret_3y": 5.82,
+     "bench_3y": 7.74,
      "benchmark": "NIFTY 50 TRI"
     },
     {
      "name": "Lcp",
-     "aum_cr": 112.56,
-     "ret_1y": -1.28,
-     "bench_1y": -2.33,
-     "ret_3y": 0.91,
-     "bench_3y": 9.2,
+     "aum_cr": 103.49,
+     "ret_1y": -8.83,
+     "bench_1y": -7.15,
+     "ret_3y": -0.54,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Rgp",
-     "aum_cr": 78.71,
-     "ret_1y": -2.07,
-     "bench_1y": -2.33,
-     "ret_3y": 4.75,
-     "bench_3y": 9.2,
+     "aum_cr": 69.44,
+     "ret_1y": -9.41,
+     "bench_1y": -7.15,
+     "ret_3y": 3.91,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     }
    ],
    "counts": {
-    "social": 15
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "Something about AI investing has always bugged me. We have algorithms analysing millions of data points, tracking market movements, spotting patterns and doing all of this faster than any human possibly could. And yet, b",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xlt075/if_ai_can_pick_stocks_better_than_us_why_isnt/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Hey everyone! I've been working on an open-source project called India Trading Skills for Claude . The idea is simple: most AI trading tools and Claude skills I've come across are designed primarily for US markets. I wan",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkv0ep/i_built_18_claude_code_skills_for_the_indian/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Gold shouldn't had fallen: Bond Yields fell 12BPS in a single day, meaning as per calculation gold should rise by 1.7% but fell by 2.2% that day China bought highest level of gold this sept 13T which is highest in last 3",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkhhge/why_gold_fell_and_where_is_it_heading/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "​ I've been investing in the US market from India and want to understand how others here approach it. I'm primarily looking at quality companies with a 5–10+ year investment horizon. A few questions: Do you prefer invest",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xk177a/for_those_investing_in_us_stocks_whats_your/",
-     "sentiment": "neutral"
-    }
-   ],
-   "news": [],
-   "rank": 18
-  },
-  {
-   "slug": "360-one",
-   "name": "360 ONE Asset Management",
-   "sebi_reg": "INP000004565",
-   "legal_name": "360 ONE ASSET MANAGEMENT LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 6.6,
-   "params": {
-    "returns_vs_benchmark": 6.1,
-    "consistency": 8.8,
-    "complaints_sebi": 3.2,
-    "regulatory_record": 10,
-    "aum_client_growth": 2.1,
-    "disclosure_transparency": 10.0,
-    "sentiment": 5.8
-   },
-   "aum_cr": 24775.0,
-   "clients": 4381,
-   "aum_yoy_pct": -23.4,
-   "clients_yoy_pct": -33.4,
-   "net_flows_fy_cr": -6471.89,
-   "excess_1y_pp": 5.11,
-   "excess_3y_pp": 2.19,
-   "complaints": {
-    "received_3m": 3.0,
-    "pending": 0,
-    "per_1000_clients_annualised": 2.74
-   },
-   "regulatory_actions": [],
-   "top_strategies": [
-    {
-     "name": "Customised Discretionary Portfolio - Equity",
-     "aum_cr": 12700.83,
-     "ret_1y": 4.08,
-     "bench_1y": -2.33,
-     "ret_3y": 12.18,
-     "bench_3y": 9.2,
-     "benchmark": "BSE500TRI"
-    },
-    {
-     "name": "360 One Multicap Pms",
-     "aum_cr": 2841.06,
-     "ret_1y": 1.31,
-     "bench_1y": -2.33,
-     "ret_3y": 8.13,
-     "bench_3y": 9.2,
-     "benchmark": "BSE500TRI"
-    },
-    {
-     "name": "360 One Phoenix Portfolio",
-     "aum_cr": 1621.25,
-     "ret_1y": 1.79,
-     "bench_1y": -2.33,
-     "ret_3y": 10.93,
-     "bench_3y": 9.2,
-     "benchmark": "BSE500TRI"
-    },
-    {
-     "name": "360 One Large Value Strategy Pms",
-     "aum_cr": 703.05,
-     "ret_1y": -12.38,
-     "bench_1y": -2.33,
-     "ret_3y": null,
-     "bench_3y": null,
-     "benchmark": "BSE500TRI"
-    }
-   ],
-   "counts": {
-    "social": 15
-   },
-   "confidence": "High",
-   "quotes": [
-    {
-     "text": "Hey everyone! I've been working on an open-source project called India Trading Skills for Claude . The idea is simple: most AI trading tools and Claude skills I've come across are designed primarily for US markets. I wan",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkv0ep/i_built_18_claude_code_skills_for_the_indian/",
-     "sentiment": "negative"
-    },
-    {
-     "text": "Gold shouldn't had fallen: Bond Yields fell 12BPS in a single day, meaning as per calculation gold should rise by 1.7% but fell by 2.2% that day China bought highest level of gold this sept 13T which is highest in last 3",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xkhhge/why_gold_fell_and_where_is_it_heading/",
-     "sentiment": "positive"
-    },
-    {
-     "text": "Today I actually made a mistake. There was scope to add another lot, but I was caught up with other things and didn't make a single adjustment. I barely even looked at the market throughout the day. It's frustrating beca",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xjk1ow/iron_condor_journal_tommorow_oct_pnl_update/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "I recently did a deep-dive and valuation of TII after the sell-off in the last few months. It currently trades at 60% HoldCo discount, which is largely un-justified in my opinion. My base case sum-of-the-parts valuation ",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xi7qb3/tube_investments_of_india_tiindia_a_discounted/",
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
    "rank": 19
   },
@@ -1703,24 +1352,24 @@
    "name": "WhiteOak Capital",
    "sebi_reg": "INP000007766",
    "legal_name": "WHITEOAK CAPITAL ASSET MANAGEMENT LIMITED",
-   "as_of_month": "2026-09",
+   "as_of_month": "2026-10",
    "overall": 6.4,
    "params": {
-    "returns_vs_benchmark": 5.0,
+    "returns_vs_benchmark": 5.2,
     "consistency": 3.4,
     "complaints_sebi": 10,
     "regulatory_record": 10,
-    "aum_client_growth": 0.4,
+    "aum_client_growth": 0.2,
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 2839.3,
-   "clients": 2144,
-   "aum_yoy_pct": -35.9,
-   "clients_yoy_pct": -27.8,
-   "net_flows_fy_cr": -762.0,
-   "excess_1y_pp": 1.33,
-   "excess_3y_pp": -0.71,
+   "aum_cr": 2720.1,
+   "clients": 2096,
+   "aum_yoy_pct": -39.4,
+   "clients_yoy_pct": -28.3,
+   "net_flows_fy_cr": -869.48,
+   "excess_1y_pp": 2.15,
+   "excess_3y_pp": -0.6,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -1730,45 +1379,45 @@
    "top_strategies": [
     {
      "name": "White Oak India Pioneers Equity Portfolio",
-     "aum_cr": 2617.88,
-     "ret_1y": -1.01,
-     "bench_1y": -2.33,
-     "ret_3y": 8.46,
-     "bench_3y": 9.2,
+     "aum_cr": 2504.63,
+     "ret_1y": -5.02,
+     "bench_1y": -7.15,
+     "ret_3y": 9.3,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "White Oak India Pioneers Equity Portfolio Stp Plan",
-     "aum_cr": 56.23,
-     "ret_1y": -1.48,
-     "bench_1y": -2.33,
-     "ret_3y": 8.22,
-     "bench_3y": 9.2,
+     "aum_cr": 54.04,
+     "ret_1y": -5.55,
+     "bench_1y": -7.15,
+     "ret_3y": 9.0,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "White Oak India Digital Leaders",
-     "aum_cr": 51.15,
-     "ret_1y": 1.2,
-     "bench_1y": -2.33,
-     "ret_3y": 10.2,
-     "bench_3y": 9.2,
+     "aum_cr": 52.06,
+     "ret_1y": -2.34,
+     "bench_1y": -7.15,
+     "ret_3y": 11.86,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Whiteoak India Business Leaders Pms",
-     "aum_cr": 48.21,
-     "ret_1y": -1.25,
-     "bench_1y": -2.33,
-     "ret_3y": 8.52,
-     "bench_3y": 9.2,
+     "aum_cr": 48.27,
+     "ret_1y": -4.58,
+     "bench_1y": -7.15,
+     "ret_3y": 9.45,
+     "bench_3y": 9.94,
      "benchmark": "BSE 500 TRI"
     },
     {
      "name": "Whiteoak Capital Research Select Equity Portfolio",
-     "aum_cr": 20.97,
-     "ret_1y": -3.61,
-     "bench_1y": -2.33,
+     "aum_cr": 21.18,
+     "ret_1y": -8.54,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
      "benchmark": "BSE 500 TRI"
@@ -1787,89 +1436,82 @@
    "name": "ASK Investment Managers",
    "sebi_reg": "INP000008066",
    "legal_name": "ASK INVESTMENT MANAGERS LIMITED",
-   "as_of_month": "2026-09",
-   "overall": 5.1,
+   "as_of_month": "2026-10",
+   "overall": 5.2,
    "params": {
-    "returns_vs_benchmark": 2.8,
-    "consistency": 0.2,
-    "complaints_sebi": 5.3,
+    "returns_vs_benchmark": 2.4,
+    "consistency": 0.0,
+    "complaints_sebi": 6.9,
     "regulatory_record": 10,
     "aum_client_growth": 5.0,
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 8148.0,
-   "clients": 6323,
-   "aum_yoy_pct": -46.4,
-   "clients_yoy_pct": -36.1,
-   "net_flows_fy_cr": -3366.19107,
-   "excess_1y_pp": -6.32,
-   "excess_3y_pp": -7.02,
+   "aum_cr": 7686.3,
+   "clients": 6124,
+   "aum_yoy_pct": -50.0,
+   "clients_yoy_pct": -36.2,
+   "net_flows_fy_cr": -3629.39278,
+   "excess_1y_pp": -7.68,
+   "excess_3y_pp": -7.78,
    "complaints": {
-    "received_3m": 2.0,
+    "received_3m": 1.0,
     "pending": 1.0,
-    "per_1000_clients_annualised": 1.27
+    "per_1000_clients_annualised": 0.65
    },
    "regulatory_actions": [],
    "top_strategies": [
     {
      "name": "Ask Indian Entrepreneur Portfolio",
-     "aum_cr": 4990.32554,
-     "ret_1y": -9.52,
-     "bench_1y": -2.33,
-     "ret_3y": 1.75,
-     "bench_3y": 9.19,
+     "aum_cr": 4695.71224,
+     "ret_1y": -15.28,
+     "bench_1y": -7.15,
+     "ret_3y": 1.89,
+     "bench_3y": 9.95,
      "benchmark": "S and P BSE 500 - TRI"
     },
     {
      "name": "Ask India Select Portfolio",
-     "aum_cr": 796.79404,
-     "ret_1y": -10.46,
-     "bench_1y": -2.33,
-     "ret_3y": 1.06,
-     "bench_3y": 9.19,
+     "aum_cr": 764.80146,
+     "ret_1y": -16.63,
+     "bench_1y": -7.15,
+     "ret_3y": 1.16,
+     "bench_3y": 9.95,
      "benchmark": "S and P BSE 500 - TRI"
     },
     {
      "name": "Ask Growth Portfolio",
-     "aum_cr": 610.5384,
-     "ret_1y": -10.84,
-     "bench_1y": -2.33,
-     "ret_3y": 1.88,
-     "bench_3y": 9.19,
+     "aum_cr": 575.09918,
+     "ret_1y": -16.76,
+     "bench_1y": -7.15,
+     "ret_3y": 1.6,
+     "bench_3y": 9.95,
      "benchmark": "S and P BSE 500 - TRI"
     },
     {
      "name": "Ask Domestic Resurgence Portfolio",
-     "aum_cr": 420.11094,
-     "ret_1y": -4.58,
-     "bench_1y": -2.33,
-     "ret_3y": 3.93,
-     "bench_3y": 9.19,
+     "aum_cr": 411.59453,
+     "ret_1y": -9.35,
+     "bench_1y": -7.15,
+     "ret_3y": 4.74,
+     "bench_3y": 9.95,
      "benchmark": "S and P BSE 500 - TRI"
     },
     {
      "name": "Ask Lighthouse Portfolio",
-     "aum_cr": 399.95346,
-     "ret_1y": -4.83,
-     "bench_1y": -2.33,
+     "aum_cr": 376.1835,
+     "ret_1y": -11.22,
+     "bench_1y": -7.15,
      "ret_3y": null,
      "bench_3y": null,
      "benchmark": "S and P BSE 500 - TRI"
     }
    ],
    "counts": {
-    "social": 1
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "ConnectTimeout",
-     "source": "reddit",
-     "url": null,
-     "sentiment": "neutral"
-    }
-   ],
+   "quotes": [],
    "news": [],
    "rank": 21
   },
@@ -1878,24 +1520,24 @@
    "name": "First Global Finance",
    "sebi_reg": "INP000006697",
    "legal_name": "FIRST GLOBAL FINANCE PVT LTD",
-   "as_of_month": "2026-09",
-   "overall": 4.5,
+   "as_of_month": "2026-10",
+   "overall": 4.4,
    "params": {
-    "returns_vs_benchmark": 4.0,
+    "returns_vs_benchmark": 3.4,
     "consistency": 0.0,
     "complaints_sebi": 10,
     "regulatory_record": 2.5,
-    "aum_client_growth": 0.6,
+    "aum_client_growth": 0.5,
     "disclosure_transparency": 10.0,
     "sentiment": 6.0
    },
-   "aum_cr": 183.6,
-   "clients": 185,
-   "aum_yoy_pct": -36.7,
-   "clients_yoy_pct": -25.7,
-   "net_flows_fy_cr": -37.27,
-   "excess_1y_pp": -0.99,
-   "excess_3y_pp": -4.59,
+   "aum_cr": 166.5,
+   "clients": 180,
+   "aum_yoy_pct": -44.0,
+   "clients_yoy_pct": -27.1,
+   "net_flows_fy_cr": -46.87,
+   "excess_1y_pp": -3.06,
+   "excess_3y_pp": -6.13,
    "complaints": {
     "received_3m": 0,
     "pending": 0,
@@ -1912,44 +1554,19 @@
    "top_strategies": [
     {
      "name": "Is50",
-     "aum_cr": 159.0,
-     "ret_1y": -3.32,
-     "bench_1y": -2.33,
-     "ret_3y": 4.62,
-     "bench_3y": 9.21,
+     "aum_cr": 143.7,
+     "ret_1y": -10.21,
+     "bench_1y": -7.15,
+     "ret_3y": 3.82,
+     "bench_3y": 9.95,
      "benchmark": "BSE 500 TRI"
     }
    ],
    "counts": {
-    "social": 15
+    "social": 0
    },
    "confidence": "High",
-   "quotes": [
-    {
-     "text": "https://preview.redd.it/ww2wn0am9lyh1.png?width=1298&format=png&auto=webp&s=3fd6c2d4a672e0c5cadf4e19df9043c25a00f601 https://preview.redd.it/pb58y8sp9lyh1.png?width=1178&format=png&auto=webp&s=55bb11d8ccdd6e5127ba8ce4f7c",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xjcnts/world_market_crash_incoming/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "I wake up at 7, which sounds early until I tell you I slept at 1am. More on that at the end. The first hour is just reading. What global markets did overnight, where oil is, where the rupee is, what FIIs and DIIs did yes",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xezw77/people_think_a_research_analysts_day_is_open/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "Jio Platforms IPO creates history: First issue globally to cross 1 crore applications",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xe41b8/jio_platforms_ipo_creates_history_first_issue/",
-     "sentiment": "neutral"
-    },
-    {
-     "text": "eMudhra announced on Thursday that it's exiting its global SSL/TLS certificate business. The reason: during a key-generation step in April 2025, weak cryptographic keys got created alongside the strong ones, and those en",
-     "source": "reddit",
-     "url": "https://www.reddit.com/r/IndianStreetBets/comments/1xd9lwp/emudhra_is_quitting_its_global_ssl_business_over/",
-     "sentiment": "positive"
-    }
-   ],
+   "quotes": [],
    "news": [],
    "rank": 22
   }
